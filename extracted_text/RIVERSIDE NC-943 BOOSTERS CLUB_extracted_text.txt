@@ -1,0 +1,195 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, minimum-scale=1.0'}
+{'name': 'description', 'content': '\n\n\n\n\n\nMy name is Sam Wolff and on behalf of the Riverside Air Force Jr. R… Sam Wolff needs your support for $30 for 30 years of RHS JROTC Campaign (30 for 30)'}
+{'property': 'fb:app_id', 'content': '407682420960'}
+{'property': 'og:description', 'content': '\n\n\n\n\n\nMy name is Sam Wolff and on behalf of the Riverside Air Force Jr. R… Sam Wolff needs your support for $30 for 30 years of RHS JROTC Campaign (30 for 30)'}
+{'name': 'image', 'property': 'og:image', 'content': 'https://i.ytimg.com/vi/kZA0U6N47Zw/0.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://i.ytimg.com/vi/kZA0U6N47Zw/0.jpg'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:locale:alternate', 'content': 'en_AU'}
+{'property': 'og:locale:alternate', 'content': 'en_DK'}
+{'property': 'og:locale:alternate', 'content': 'en_FI'}
+{'property': 'og:locale:alternate', 'content': 'en_IE'}
+{'property': 'og:locale:alternate', 'content': 'en_NO'}
+{'property': 'og:locale:alternate', 'content': 'en_SE'}
+{'property': 'og:locale:alternate', 'content': 'en_CA'}
+{'property': 'og:locale:alternate', 'content': 'en_GB'}
+{'property': 'og:locale:alternate', 'content': 'nl_NL'}
+{'property': 'og:locale:alternate', 'content': 'nl_BE'}
+{'property': 'og:locale:alternate', 'content': 'fr_FR'}
+{'property': 'og:locale:alternate', 'content': 'fr_BE'}
+{'property': 'og:locale:alternate', 'content': 'fr_CA'}
+{'property': 'og:locale:alternate', 'content': 'fr_CH'}
+{'property': 'og:locale:alternate', 'content': 'fr_LU'}
+{'property': 'og:locale:alternate', 'content': 'de_DE'}
+{'property': 'og:locale:alternate', 'content': 'de_AT'}
+{'property': 'og:locale:alternate', 'content': 'de_CH'}
+{'property': 'og:locale:alternate', 'content': 'it_IT'}
+{'property': 'og:locale:alternate', 'content': 'pt_PT'}
+{'property': 'og:locale:alternate', 'content': 'pt_BR'}
+{'property': 'og:locale:alternate', 'content': 'es_ES'}
+{'property': 'og:locale:alternate', 'content': 'es_US'}
+{'property': 'og:locale:alternate', 'content': 'es_MX'}
+{'property': 'og:site_name', 'content': 'gofundme.com'}
+{'property': 'og:title', 'content': 'Donate to $30 for 30 years of RHS JROTC Campaign (30 for 30), organized by Sam Wolff'}
+{'property': 'og:type', 'content': 'gofundme:campaign'}
+{'property': 'og:url', 'content': 'https://www.gofundme.com/f/riverside-high-school-jrotc-nc943-booster-club'}
+{'name': 'nextdoor:category', 'content': 'Education'}
+{'name': 'nextdoor:organizer', 'content': 'Sam Wolff'}
+{'name': 'nextdoor:beneficiary', 'content': ''}
+{'name': 'nextdoor:beneficiary-type', 'content': 'self'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@gofundme'}
+{'name': 'twitter:image', 'content': 'https://images.gofundme.com/Fzmj3veJ_sERRO7VG6DkvWMnXzs=/720x405/https://i.ytimg.com/vi/kZA0U6N47Zw/0.jpg'}
+{'name': 'twitter:title', 'content': '$30 for 30 years of RHS JROTC Campaign (30 for 30), organized by Sam Wolff'}
+{'name': 'twitter:description', 'content': '\n\n\n\n\n\nMy name is Sam Wolff and on behalf of the Riverside Air Force Jr. R… Sam Wolff needs your support for $30 for 30 years of RHS JROTC Campaign (30 for 30)'}
+{'name': 'next-head-count', 'content': '48'}
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'globalsign-domain-verification', 'content': 'jpcnVg6kuHYyEz5op6ZzxI2E53gePoVqca7RgL0aNq'}
+{'name': 'google-site-verification', 'content': 'GIdvoXEWAacQdvns1qHKxS_am1-4tQdidcoJUFj2aOY'}
+
+Body Text:
+Fundraiser by Sam Wolff : $30 for 30 years of RHS JROTC Campaign (30 for 30)
+Search
+How it works
+How it works
+How GoFundMe works
+What is crowdfunding?
+Plan your fundraiser
+Team fundraising
+Fundraising tips
+Donate button
+Start a GoFundMe
+Search
+Sign in
+Share
+Donate
+$1,019
+raised of $2,000 goal
+•
+15
+donations
+Share
+Donate now
+Brian Bortz
+$100
+13 d
+Anonymous
+$30
+3 mos
+Victoria Doyle
+$25
+8 mos
+Brian Vickers
+$324
+8 mos
+Michael Guiracocha
+$50
+8 mos
+See all
+See top
+$30 for 30 years of RHS JROTC Campaign (30 for 30)
+Sam Wolff is organizing this fundraiser to benefit Riverside NC-943 Boosters Club.
+Learn more
+Tax deductible
+My name is Sam Wolff and on behalf of the Riverside Air Force Jr. ROTC (AFJROTC) booster club I’m raising money to
+support our cadets
+by ensuring we can maintain the learning and service opportunities that have been fundamental to the program at Riverside High School in Durham, North Carolina.
+Please join us in celebrating 30 years of excellence and dedication
+at Riverside High School’s NC-943 AFJROTC program! For three incredible decades, our cadets have epitomized honor, leadership, and service. They’ve soared to remarkable heights, instilling values that last a lifetime. We invite you to be a part of this extraordinary legacy by supporting our 30 for $30 fundraiser.
+Your generous $30 donation honors the past and propels future leaders
+on their journey to success. Help us continue to mold young minds, foster character, and promote citizenship. Together, we can ensure the next 30 years are even more remarkable than the last! Donate today and be part of our ongoing legacy of excellence.
+This year,
+we are raising $2,000
+to support our 100 cadets.
+Every dollar raised goes directly back to the cadets
+to support activities such as adopt-a-family during the holidays and the end of year trip.
+With your help we can ensure these events remain successful
+as well as expand our core programs and explore additional events.
+In general the JROTC program is a federal program, sponsored by the U.S. Armed Forces, and is offered as a course elective for each grade level in high school.
+The overall focus of JROTC programs is inspiring better citizenship through leadership, character, and educational development.
+Riverside's AFJROTC program is a cadet-run JROTC program that has been active since 1994.
+The program emphasizes the values of citizenship, civic duty, leadership, personal responsibility and self-worth.
+Upon completing three years of the program, students are afforded several opportunities that include competition for college scholarships, direct application to military academics, and the ability to enlist in the military at a higher pay grade than typical enlistees.
+The program's curriculum emphasizes aerospace science, leadership education, physical fitness, and drill. The cadets actively participate in community events and activities.
+Riverside’s AFJROTC Mission Statement and Goals
+The mission of the Riverside AFJROTC program is to develop citizens of character dedicated to serving their nation and community. The goals of the program are to instill values of citizenship, give service to the United States, develop a personal responsibility, and instill a sense of accomplishment in high school students.
+Please join me in supporting Thanks in advance for your kindness and support!
+Read more
+Donate
+Share
+Donations
+(15)
+See top
+Brian Bortz
+$100
+13 d
+Anonymous
+$30
+3 mos
+Victoria Doyle
+$25
+8 mos
+Brian Vickers
+$324
+8 mos
+Michael Guiracocha
+$50
+8 mos
+See all
+Donate
+Share
+Organizer
+Sam Wolff
+Organizer
+Durham, NC
+Riverside NC-943 Boosters Club
+Registered nonprofit
+Donations are typically 100% tax deductible in the US.
+Learn more
+Contact
+March 14th, 2023
+Education
+Report fundraiser
+Your easy, powerful, and trusted home for help
+Easy
+Donate quickly and easily
+Powerful
+Send help right to the people and causes you care about
+Trusted
+Your donation is protected by the
+GoFundMe Giving Guarantee
+Secondary menu
+Fundraise for
+Medical
+Emergency
+Memorial
+Education
+Nonprofit
+Crisis Relief
+Learn more
+How GoFundMe Works
+Why GoFundMe
+Common questions
+Success stories
+Supported countries
+Charity fundraising
+Pricing
+Resources
+Help center
+Blog
+GoFundMe Stories
+Newsroom
+Careers
+About GoFundMe and Classy
+More resources
+© 2010-
+2024
+GoFundMe
+Terms
+Privacy Notice
+Legal
+Accessibility Statement
+Your Privacy Choices

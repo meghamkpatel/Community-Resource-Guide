@@ -1,0 +1,74 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'author', 'content': 'Rock Champs'}
+{'name': 'generator', 'content': 'Starfield Technologies; Go Daddy Website Builder 8.0.0000'}
+{'property': 'og:url', 'content': 'https://rockchamps.org/'}
+{'property': 'og:site_name', 'content': 'Rock Champs'}
+{'property': 'og:title', 'content': 'Rock Champs'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'https://img1.wsimg.com/isteam/ip/c93bda57-151b-4246-885e-8f6f26eb9494/37377563_10214962464427965_4356751409870274560.jpg'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Rock Champs'}
+{'name': 'twitter:image', 'content': 'https://img1.wsimg.com/isteam/ip/c93bda57-151b-4246-885e-8f6f26eb9494/37377563_10214962464427965_4356751409870274560.jpg'}
+{'name': 'twitter:image:alt', 'content': 'Rock Champs'}
+{'name': 'theme-color', 'content': '#eae9e7'}
+
+Body Text:
+Rock Champs
+Home
+About Us
+Reidsville Tigers
+Photo Gallery
+Staff
+Contact
+More
+Home
+About Us
+Reidsville Tigers
+Photo Gallery
+Staff
+Contact
+Home
+About Us
+Reidsville Tigers
+Photo Gallery
+Staff
+Contact
+Rockingham County Champions for Education
+(RCCE)
+Rockingham County Champions for Education
+(RCCE)
+Rockingham County Champions for Education
+(RCCE)
+Rockingham County Champions for Education
+(RCCE)
+About Us
+Our staff & volunteers
+Our staff & volunteers
+Our staff & volunteers
+See FaceBook Page
+Our history
+Our staff & volunteers
+Our staff & volunteers
+2011 was the start of  Rockingham County Champions for Education work that primarily used social interactions and events to raise small-dollar scholarships to graduating seniors from the four major Rockingham County High Schools, as well as serving as a conduit for increasing professional networking with former students who have found s
+Show More
+2011 was the start of  Rockingham County Champions for Education work that primarily used social interactions and events to raise small-dollar scholarships to graduating seniors from the four major Rockingham County High Schools, as well as serving as a conduit for increasing professional networking with former students who have found success in the professional world through communication, outreach, and education.
+Approved for 501 C 3 status in
+2015
+, RCCE began a partnership with the Reidsville Area Foundation (RAF) in 2016. That partnership involved the expansion of an existing RAF program that was focused on lending support to students, teachers, and parents of potentially disadvantaged Rockingham County students in grades K-5.
+In 2019, the Reidsville Tigers Football and Cheer Program became the flagship program that promotes active living, healthy eating, and career pathway support in athletic arenas.
+Show Less
+Learn more
+Our mission
+Our staff & volunteers
+Our mission
+To engage youth and promote active living and healthy choices.
+Copyright © 2022 Rock Champs - All Rights Reserved.
+Powered by
+GoDaddy
+This website uses cookies.
+We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.
+Accept

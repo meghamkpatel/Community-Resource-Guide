@@ -1,0 +1,85 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '929886e2-7e5f-4b8e-ae98-be5592d7812e'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '212aeae3-149c-407e-a60b-873df89c59c6'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '563'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Being a co-instructor with Healing Warrior Hearts has opened the door to understanding that our hearts need healing as much if not more than our minds.'}
+{'property': 'og:title', 'content': 'JON CHRISTENSEN | Healing Warrior Hearts | Milwaukee WI'}
+{'property': 'og:description', 'content': 'Being a co-instructor with Healing Warrior Hearts has opened the door to understanding that our hearts need healing as much if not more than our minds.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/d39f67_316f06e623bf417f911f760697d30d73%7Emv2.png/v1/fit/w_2500,h_1330,al_c/d39f67_316f06e623bf417f911f760697d30d73%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.healingwarriorhearts.org/jon-christensen'}
+{'property': 'og:site_name', 'content': 'HWH'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'awhKr60X00d9jXrp3in3VRFik6GKeB5HykQo-gp6aRQ'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'JON CHRISTENSEN | Healing Warrior Hearts | Milwaukee WI'}
+{'name': 'twitter:description', 'content': 'Being a co-instructor with Healing Warrior Hearts has opened the door to understanding that our hearts need healing as much if not more than our minds.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/d39f67_316f06e623bf417f911f760697d30d73%7Emv2.png/v1/fit/w_2500,h_1330,al_c/d39f67_316f06e623bf417f911f760697d30d73%7Emv2.png'}
+
+Body Text:
+JON CHRISTENSEN | Healing Warrior Hearts | Milwaukee WI
+top of page
+REGISTRATION PORTAL
+DONATE NOW
+HOME
+Save 100 Lives Campaign
+ABOUT
+Who We Are
+Our History
+RETREATS
+HWH Retreats Overview
+Retreats for All Veterans
+Military Sexual Trauma
+LGBTQ+ Focus
+Couples - Warrior Family Heart
+Frequently Asked Questions
+Referring Professionals
+EVENTS & WORKSHOPS
+All Events & Workshops
+Reboot Recovery
+RACE Suicide Prevention Training
+Operation Grateful Giving
+HOW TO HELP
+Donate
+Volunteer
+Donor Honor List
+Donations In Honor Of
+MEDIA
+CONTACT
+More
+Use tab to navigate through the menu items.
+JON CHRISTENSEN
+“Vietnam Changed my life forever”.
+(Sgt Brandi. A Warrior’s Guide to Insanity)
+I have measured time as before Vietnam and after Vietnam. For years I have searched for something that could be added to that measurement. Looking back at my military experience and it’s aftermath of drugs, alcohol, depression, anger, and other reactions that we called Post-Vietnam syndrome and others call Post Traumatic Stress I have been blessed. If it wasn’t for Nam, I never would have gotten into the mission of helping Viet Vets come home. I’d be selling used cars or working in an office. Nothing wrong with that, but I’ve gotten to share healing with hundreds of combat and combat theatre vets and their family. Professionally, as a therapist, I’ve explored every therapeutic approach to healing trauma that has come along in my effort to find something that really works.
+What a journey it has been. I have a background in theatre, art, religion, anthropology, communication and learning. That led to two Master Degrees in Cultural Foundations of Education and Educational Psychology and a license to counsel.
+A peer support group grew into a Vietnam Veterans of America chapter when the group wanted to do more for other Vets. That led to a Vietnam memorial that recognized that the community sent us to Vietnam and needed to be part of our healing.  That led to the creation of a Veteran Center housed in the home of the Founder of Racine.  We wanted a place where Veteran Groups (VFW, American Legion) and others could hold meetings and be a place for any Veteran to feel welcome. I have also been blessed to be involved with several Veteran programs, including:
+​
+Site director and clinical director for two Homeless Vet Centers in Milwaukee and Union Grove
+The Warrior Project, involving medical students at the Medical College of Wisconsin and combat Vets from Vietnam (the Elders) and OEF/OIF (hard charging youngin’s to share experiences and learn how to talk to each other
+Blessed to be able to walk the healing path with Veterans for over 45 years as a counselor and advocate.
+Being a co-instructor with Healing Warrior Hearts has opened the door to understanding that our hearts need healing as much if not more than our minds. In my journey I recognized that my soul was damaged in Vietnam and yet the therapy approaches I learned focused on changing thoughts to help change our behavior. The heart center of the warrior wasn’t touched. HWH touches that center directly through an experiential process that is different from anything else I’ve ever experienced.
+HWH has changed my life forever.
+Up
+MAKE AN IMPACT FOR OUR VETERANS
+DONATE NOW
+The Starfish Foundation
+, a 501(c)(3) charitable organization, sponsors Healing Warrior Hearts and offers the programs
+at no cost to military veterans and their families.
+Healing Warrior Hearts
+Milwaukee, WI
+414-374-5433
+warriorheart@starfishfound.org
+CONTACT US >
+Legal
+Copyright © 2023 by Healing Warrior Hearts. All rights reserved.
+bottom of page

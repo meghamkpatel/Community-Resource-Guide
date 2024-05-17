@@ -1,0 +1,107 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'name': 'description', 'content': 'As stewards of the Park, RTF leads the Triangle in creating a thriving business environment, promoting economic development…'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Research Triangle Park'}
+{'property': 'og:title', 'content': 'The Foundation | Research Triangle Park'}
+{'property': 'og:description', 'content': 'As stewards of the Park, RTF leads the Triangle in creating a thriving business environment, promoting economic development, and facilitating strategic partnerships that benefit our region and state.'}
+{'property': 'og:url', 'content': 'https://www.rtp.org/the-foundation/'}
+{'property': 'og:image', 'content': 'https://files.rtp.org/wp-content/uploads/2021/09/20145418/IMG_8656-2-scaled.jpg'}
+{'property': 'og:image:width', 'content': '2560'}
+{'property': 'og:image:height', 'content': '1707'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@TheRTP'}
+{'name': 'twitter:title', 'content': 'The Foundation | Research Triangle Park'}
+{'name': 'twitter:description', 'content': 'As stewards of the Park, RTF leads the Triangle in creating a thriving business environment, promoting economic development, and facilitating strategic partnerships that benefit our region and state.'}
+{'name': 'twitter:image', 'content': 'https://files.rtp.org/wp-content/uploads/2021/09/20145418/IMG_8656-2-scaled.jpg'}
+{'name': 'google-site-verification', 'content': 'IidU1y9oi7KPk0_cWzjyWw-0YCPAtdGRq5Gw6C5jKhU'}
+{'name': 'msvalidate.01', 'content': '2AFB16BEC3864B1856C7FC7E79EFE55E'}
+{'name': 'msapplication-TileImage', 'content': 'https://files.rtp.org/wp-content/uploads/2019/07/12145041/cropped-rtp-triangle-600-1-270x270.png'}
+
+Body Text:
+The Foundation | Research Triangle Park
+Skip to content
+add
+Research Triangle Park
+Hub RTP
+Boxyard RTP
+Frontier RTP
+Search for:
+Submit
+menu
+What’s Happening
+Calendar
+Blog + Press
+Life in the Park
+Our Community
+Get Involved
+Shopping + Dining
+Transportation Options
+Visiting RTP
+Company Directory
+Real Estate
+About RTP
+STEM RTP Grant
+The Foundation
+Strategic Engagement
+TUCASI
+History
+Contact Us
+The Foundation
+Research Triangle Park is managed by the Research Triangle Foundation (RTF) of North Carolina.
+As stewards of the Park, RTF leads the Triangle in creating a thriving business environment, promoting economic development, and facilitating strategic partnerships that benefit our region and state. Through its commitment to fostering connections, environmental stewardship, innovation and collaboration, the Foundation invests in programs that cultivate vibrant communities within the Park.
+Mission
+Our core mission since the founding of RTP in 1959:
+Facilitate collaboration between the Triangle universities.
+Promote cooperation between universities and industry.
+Create an economic impact for residents of North Carolina.
+Read our 2022 Impact Report
+Read our 2021 Impact Report
+Read our 2020 Impact Report
+Read our 2019 Impact Report
+The Park
+Located at the geographic center of three Tier-1 research universities, RTP is the largest research park in the United States and a premier global innovation center. Its 7,000 acres house hundreds of companies, including science and technology firms, government agencies, academic institutions, startups and nonprofits.
+RTP
+Meet the Staff
+Learn more
+RTP
+Board of Directors
+Learn more
+RTP
+Foundation Employment
+Learn more
+Stay connected to Research Triangle Park
+Follow Us
+Instagram
+Twitter
+Facebook
+YouTube
+LinkedIn
+Sign up for our newsletter
+Research Triangle Park
+Hub RTP
+Boxyard RTP
+Frontier RTP
+Contact Us
+We are here to help! Get in touch today to learn more.
+Submit a
+Marketing Request
+communications@rtp.org
+Find Us
+700 Park Offices Drive, Suite 007
+Research Triangle Park, NC 27709
+Follow Us
+Instagram
+Twitter
+Facebook
+YouTube
+LinkedIn
+Press
+Privacy Policy
+Terms of Use
+Accessibility
+Sitemap
+© 2024 RTP

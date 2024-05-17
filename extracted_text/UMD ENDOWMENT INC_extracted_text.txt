@@ -1,0 +1,99 @@
+Meta Information:
+{'content': 'IE=edge', 'http-equiv': 'X-UA-Compatible'}
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, viewport-fit=cover'}
+{'name': 'generator', 'content': 'SEOmatic'}
+{'name': 'keywords', 'content': 'Investment Policy'}
+{'name': 'description', 'content': 'Investment Policy'}
+{'name': 'referrer', 'content': 'no-referrer-when-downgrade'}
+{'name': 'robots', 'content': 'all'}
+{'content': 'UnivofMaryland', 'property': 'fb:profile_id'}
+{'content': 'en_US', 'property': 'og:locale'}
+{'content': 'University of Maryland College Park Foundation', 'property': 'og:site_name'}
+{'content': 'website', 'property': 'og:type'}
+{'content': 'https://umcpf.umd.edu/resources/investment-policy', 'property': 'og:url'}
+{'content': 'Investment Policy | University of Maryland College Park Foundation', 'property': 'og:title'}
+{'content': 'Investment Policy', 'property': 'og:description'}
+{'content': 'https://micros-sites.transforms.svdcdn.com/production/images/greatercollegepark/UMD_Logo-white_1.png?w=1200&h=630&q=82&auto=format&fit=crop&dm=1665783464&s=310baa5b4b882fb6390d82618c40e47c', 'property': 'og:image'}
+{'content': '1200', 'property': 'og:image:width'}
+{'content': '630', 'property': 'og:image:height'}
+{'content': 'Investment Policy', 'property': 'og:image:alt'}
+{'content': 'https://www.instagram.com/univofmaryland/', 'property': 'og:see_also'}
+{'content': 'https://www.youtube.com/user/UMD2101', 'property': 'og:see_also'}
+{'content': 'https://www.facebook.com/UnivofMaryland', 'property': 'og:see_also'}
+{'content': 'https://twitter.com/umdresearchpark', 'property': 'og:see_also'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@umdresearchpark'}
+{'name': 'twitter:creator', 'content': '@umdresearchpark'}
+{'name': 'twitter:title', 'content': 'Investment Policy | University of Maryland College Park Foundation'}
+{'name': 'twitter:description', 'content': 'Investment Policy'}
+{'name': 'twitter:image', 'content': 'https://micros-sites.transforms.svdcdn.com/production/images/greatercollegepark/UMD_Logo-white_1.png?w=800&h=418&q=82&auto=format&fit=crop&dm=1665783464&s=62415a94ff8db41acae5065a6861cb08'}
+{'name': 'twitter:image:width', 'content': '800'}
+{'name': 'twitter:image:height', 'content': '418'}
+{'name': 'twitter:image:alt', 'content': 'Investment Policy'}
+
+Body Text:
+Investment Policy | University of Maryland College Park Foundation
+Skip Navigation
+About the Foundation
+Announcements
+Announcements
+Outstanding Service Award
+Outstanding Service Award
+Foundation Staff
+Foundation Staff
+Contact
+Click to Contact us.
+Board of Trustees
+Board of Trustees
+From the Board Chair
+Read a message from the Board Chair
+Board Directory
+Click to view the Board Directory
+Committees
+Click to view a list of Committees
+Ex Officio Trustees
+Click to view a list of Ex Officio Trustees
+Resources
+Resources
+Investment Policy
+Investment Policy
+Governance Policies
+Governance Policies
+Reports
+Reports
+Tax Information
+Tax Information
+Trustee Login
+Trustee Login
+Return to,
+Home
+Return to,
+Resources
+Investment Policy
+Investment Policy
+Investment Policy
+The UMCP Foundation pools its endowment funds with other institutions in the University System of Maryland and contracts with the
+University System of Maryland Foundation, Inc.
+(USMF) for investment services, and these services are managed by an investment committee.
+The investment objective is to generate returns sufficient to meet spending requirements while preserving the purchasing power of the endowment over time. The endowment pool is made up of several thousand individual endowment funds that support scholarship, research, faculty, academic programs, and various special initiatives.
+The USMF Investment Committee, made up of volunteers from a wide range of financial and investment backgrounds, is responsible for the oversight of the endowment portfolio. Its primary role is to establish investment objectives and set asset allocations. The endowment portfolio is highly diversified and managed by these dedicated committee members who set the policy and goals and determine the mix of investment strategies needed to preserve and enhance the endowment corpus while providing funds needed to support University programs.
+Find additional information regarding the investment of UMCP Foundation endowment funds on the
+USMF website
+.
+The information on this website is not intended as legal or tax advice.
+For such advice, please consult an attorney or tax advisor. Figures cited in any examples are for illustrative purposes only. References to tax rates are subject to change.
+Resources
+Investment Policy
+Governance Policies
+Reports
+Tax Information
+University of Maryland College Park Foundation, Inc.
+4603 Calvert Rd.
+College Park, MD
+        20740
+301.955.1265
+Tax Information
+Contact
+Alumni Association
+Give to Maryland

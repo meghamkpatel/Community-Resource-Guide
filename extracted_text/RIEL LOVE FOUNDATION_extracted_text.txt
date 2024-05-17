@@ -1,0 +1,58 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '0aa17c3a-2a78-4052-ae59-922cfda091de'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'baddb9c8-8206-4061-9084-9cdf82d8128f'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '112'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Honoring Zuriel Kieran Overby Robinson'}
+{'property': 'og:title', 'content': 'HOME | Riel Love Foundation'}
+{'property': 'og:description', 'content': 'Honoring Zuriel Kieran Overby Robinson'}
+{'property': 'og:url', 'content': 'https://www.riellovefoundation.com'}
+{'property': 'og:site_name', 'content': 'Riel Love Foundation'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | Riel Love Foundation'}
+{'name': 'twitter:description', 'content': 'Honoring Zuriel Kieran Overby Robinson'}
+
+Body Text:
+HOME | Riel Love Foundation
+top of page
+The Riel Love Foundation is federally approved as a non profit tax-exempt organization under 501(c)(3) of the Internal Revenue Code.
+Log In
+HOME
+ABOUT US
+CONTACT
+PROJECTS
+SHOP
+SCHOLARSHIPS
+GET INVOLVED
+CONTRIBUTIONS
+BUILDING FUND
+THE LIGHT AWARD
+BIBLE STUDY
+GALLERY
+More
+Use tab to navigate through the menu items.
+OUR PROMISE
+In honor of Zuriel Kieran Overby Robinson, we commit to blessing the lives of others. Whether it be through an encouraging word, a hug, a scholarship, or through meeting basic practical needs--we want to spread love the "Riel Way". Zuriel's way was the Way of Jesus Christ. We wholeheartedly follow this example.
+PROJECT DETAILS
+Empower Our Community
+DONATE
+There are so many ways to be a part of the vision! One major way to be a part of the vision is to give financially.
+GET INVOLVED
+Volunteering is not limited to passing out supplies and food. Any talent or ability can be used to serve our community. Nothing you have to offer is too small.
+OUR MISSION
+We want to honor our Lord and Savior Jesus Christ, by carrying the torch of Zuriel's legacy. Zuriel's heart was to glorify God in how he loved and how he served. He was a light to so many. Now we have the privilege of being the same.
+© 2021 Riel Love Foundation. Created by
+Brianna Tate
+​​Email us:
+zurielwaslight@gmail.com
+​Find us:
+Durham, NC 27703
+bottom of page

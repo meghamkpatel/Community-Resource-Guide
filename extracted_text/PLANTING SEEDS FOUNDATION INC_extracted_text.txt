@@ -1,0 +1,71 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'We are a 100% volunteer non-profit committed to improving the lives of families in need throughout Worcester and the Central Massachusetts area.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'HOME'}
+{'property': 'og:description', 'content': 'We are a 100% volunteer non-profit committed to improving the lives of families in need throughout Worcester and the Central Massachusetts area.'}
+{'property': 'og:url', 'content': 'https://plantingtheseed.org/'}
+{'property': 'og:site_name', 'content': 'Planting the Seed Foundation'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/pages/Planting-The-Seed-Foundation/115190072627'}
+{'property': 'article:modified_time', 'content': '2023-11-20T22:44:21+00:00'}
+{'property': 'og:image', 'content': 'https://149749544.v2.pressablecdn.com/wp-content/uploads/2022/04/PTS-HOME.jpg'}
+{'property': 'og:image:width', 'content': '1400'}
+{'property': 'og:image:height', 'content': '933'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'google-site-verification', 'content': '4tkYqzYDw1VFNAyHYE1NKKEzF5S5rSiPzXN1Bfdlmqc'}
+{'content': 'Divi v.4.16.0', 'name': 'generator'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'}
+{'name': 'msapplication-TileImage', 'content': 'https://i0.wp.com/plantingtheseed.org/wp-content/uploads/2020/12/cropped-ptys-fb-profile.png?fit=270%2C270&ssl=1'}
+
+Body Text:
+HOME | Planting the Seed Foundation
+info@plantingtheseed.org
+Facebook
+Twitter
+Instagram
+Facebook
+Twitter
+Instagram
+HOME
+Executive Board
+Events
+Contact
+Select Page
+Helping Families in Need Since 1972
+We are committed to improving the lives of families in need throughout Worcester and the Central Massachusetts area.
+DONATE
+CONTACT
+ABOUT US
+With the help of the Worcester Fire Police, and EMS departments, MA State Troopers, Worcester Fitness, and countless other organizations and individuals, the toy drive has helped families from all around Worcester share in the holiday spirit. Planting the Seed Foundation became a 501(c)3 charitable organization in 2007.
+It’s been estimated that since the drive’s inception nearly $1,000,000 has been donated in toys and gifts! That means, over time, numerous families have been able to enjoy their holiday thanks to the kind hearts of all involved.
+While some friends have passed, their legacy will continue through the Planting the Seed Foundation.  As an organization that started out small with ambitions to make big things happen, Planting the Seed hosts a variety of events throughout the year.
+We are 100% volunteer based with all funds directly supporting children and families in need.
+Making a Donation
+Make your donation simply and effectively with our Amazon Wish List account. We’ll update the list of items we are most in need of, all you do is choose an item and check out.
+Make A Donation
+Use your Facebook account to send an automatic donation to Planting the Seed Foundation. Donations can be “one-time” or set-up to be monthly deducted from your account.
+Make A Donation
+Paypal donations can be set-up to be debited automatically from either your checking account, savings account, credit card, or Paypal account. Monthly or “one-time” donations available.
+Make A Donation
+Connect
+Name
+Email Address
+Message
+Submit
+HOME
+Executive Board
+Events
+Contact
+Facebook
+Twitter
+Instagram
+©1999 -2023 Planting the Seed Foundation |
+Privacy Policy
+|
+Terms of Use
+| Designed by
+Kill the Ball Media

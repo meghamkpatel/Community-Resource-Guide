@@ -1,0 +1,434 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Global Action to End Smoking press piece "Foundation For A Smoke-Free World Names Clifford Douglas CEO As Global Voice In Smoking Cessation Work".'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Press | Foundation For A Smoke-Free World Names Clifford Douglas CEO As Global Voice In Smoking Cessation Work | Global Action to End Smoking'}
+{'property': 'og:description', 'content': 'Global Action to End Smoking press piece "Foundation For A Smoke-Free World Names Clifford Douglas CEO As Global Voice In Smoking Cessation Work".'}
+{'property': 'og:url', 'content': 'https://globalactiontoendsmoking.org/news-and-press/press/foundation-for-a-smoke-free-world-names-clifford-douglas-ceo-as-global-voice-in-smoking-cessation-work/'}
+{'property': 'og:site_name', 'content': 'Global Action to End Smoking'}
+{'property': 'article:modified_time', 'content': '2024-04-11T18:00:33+00:00'}
+{'property': 'og:image', 'content': 'https://globalactiontoendsmoking.org/wp-content/uploads/2024/03/GA_Logos_Tagline-Vertical.png'}
+{'property': 'og:image:width', 'content': '1515'}
+{'property': 'og:image:height', 'content': '843'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@smokefreefdn'}
+{'name': 'twitter:label1', 'content': 'Est. reading time'}
+{'name': 'twitter:data1', 'content': '3 minutes'}
+{'name': 'generator', 'content': 'Elementor 3.20.4; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap'}
+{'name': 'msapplication-TileImage', 'content': 'https://globalactiontoendsmoking.org/wp-content/uploads/2024/01/GA_Icon.png'}
+
+Body Text:
+Press | Foundation For A Smoke-Free World Names Clifford Douglas CEO As Global Voice In Smoking Cessation Work | Global Action to End Smoking
+Skip to content
+About
+About Us
+Meet Our Team
+Governance and Financial Statements
+Contact Us
+Programs
+Overview of Programs
+Health and Science Research
+Cessation Education
+Agricultural Transformation
+Grants
+How We Fund Grants
+Awarded Grants
+Grant Processes and Guidelines
+Requests for Proposal (RFPs)
+Research
+All Research
+Grantee Publications
+Reports
+Global Polls and Surveys
+Tobacco and Health Around the World
+News and Press
+Press Room
+From Our Executive Leadership
+Videos
+Get The Facts
+For People Who Smoke
+Get Involved
+Menu
+About
+About Us
+Meet Our Team
+Governance and Financial Statements
+Contact Us
+Programs
+Overview of Programs
+Health and Science Research
+Cessation Education
+Agricultural Transformation
+Grants
+How We Fund Grants
+Awarded Grants
+Grant Processes and Guidelines
+Requests for Proposal (RFPs)
+Research
+All Research
+Grantee Publications
+Reports
+Global Polls and Surveys
+Tobacco and Health Around the World
+News and Press
+Press Room
+From Our Executive Leadership
+Videos
+Get The Facts
+For People Who Smoke
+Get Involved
+Post Types
+All Types
+Archived Commentary
+Pages
+Awarded Grants
+Grantee Publications
+Press
+Reports
+RFPs
+Videos
+Countries
+All Countries
+Argentina
+Armenia
+Australia
+Azerbaijan
+Bangladesh
+Brazil
+Bulgaria
+Canada
+China
+Countries of Eastern Mediterranean
+Egypt
+Europe
+Former Soviet Union
+France
+Georgia
+Germany
+Global
+Greece
+Hungary
+India
+Indonesia
+Israel
+Italy
+Japan
+Kazakhstan
+Korea
+Lebanon
+Liberia
+Malawi
+Malaysia
+Maldives
+Mexico
+Moldova
+Nepal
+New Zealand
+Northern Cyprus
+Norway
+Oman
+Pakistan
+Philippines
+Poland
+Russia
+Russian Federation
+Serbia
+South Africa
+South Korea
+Sri Lanka
+Sweden
+Thailand
+Turkey
+UK
+Ukraine
+United Kingdom
+United States
+USA
+Uzbekistan
+Vietnam
+Sort Results By
+Most Recent
+Least Recent
+Get The Facts
+For People Who Smoke
+Get Involved
+Post Types
+All Types
+Archived Commentary
+Pages
+Awarded Grants
+Grantee Publications
+Press
+Reports
+RFPs
+Videos
+Countries
+All Countries
+Argentina
+Armenia
+Australia
+Azerbaijan
+Bangladesh
+Brazil
+Bulgaria
+Canada
+China
+Countries of Eastern Mediterranean
+Egypt
+Europe
+Former Soviet Union
+France
+Georgia
+Germany
+Global
+Greece
+Hungary
+India
+Indonesia
+Israel
+Italy
+Japan
+Kazakhstan
+Korea
+Lebanon
+Liberia
+Malawi
+Malaysia
+Maldives
+Mexico
+Moldova
+Nepal
+New Zealand
+Northern Cyprus
+Norway
+Oman
+Pakistan
+Philippines
+Poland
+Russia
+Russian Federation
+Serbia
+South Africa
+South Korea
+Sri Lanka
+Sweden
+Thailand
+Turkey
+UK
+Ukraine
+United Kingdom
+United States
+USA
+Uzbekistan
+Vietnam
+Sort Results By
+Most Recent
+Least Recent
+Post Types
+All Types
+Archived Commentary
+Pages
+Awarded Grants
+Grantee Publications
+Press
+Reports
+RFPs
+Videos
+Countries
+All Countries
+Argentina
+Armenia
+Australia
+Azerbaijan
+Bangladesh
+Brazil
+Bulgaria
+Canada
+China
+Countries of Eastern Mediterranean
+Egypt
+Europe
+Former Soviet Union
+France
+Georgia
+Germany
+Global
+Greece
+Hungary
+India
+Indonesia
+Israel
+Italy
+Japan
+Kazakhstan
+Korea
+Lebanon
+Liberia
+Malawi
+Malaysia
+Maldives
+Mexico
+Moldova
+Nepal
+New Zealand
+Northern Cyprus
+Norway
+Oman
+Pakistan
+Philippines
+Poland
+Russia
+Russian Federation
+Serbia
+South Africa
+South Korea
+Sri Lanka
+Sweden
+Thailand
+Turkey
+UK
+Ukraine
+United Kingdom
+United States
+USA
+Uzbekistan
+Vietnam
+Sort Results By
+Most Recent
+Least Recent
+About
+About Us
+Meet Our Team
+Governance and Financial Statements
+Contact Us
+Programs
+Overview of Programs
+Health and Science Research
+Cessation Education
+Agricultural Transformation
+Grants
+How We Fund Grants
+Awarded Grants
+Grant Processes and Guidelines
+Requests for Proposal (RFPs)
+Research
+All Research
+Grantee Publications
+Reports
+Global Polls and Surveys
+Tobacco and Health Around the World
+News and Press
+Press Room
+From Our Executive Leadership
+Videos
+Get The Facts
+For People Who Smoke
+Get Involved
+Menu
+About
+About Us
+Meet Our Team
+Governance and Financial Statements
+Contact Us
+Programs
+Overview of Programs
+Health and Science Research
+Cessation Education
+Agricultural Transformation
+Grants
+How We Fund Grants
+Awarded Grants
+Grant Processes and Guidelines
+Requests for Proposal (RFPs)
+Research
+All Research
+Grantee Publications
+Reports
+Global Polls and Surveys
+Tobacco and Health Around the World
+News and Press
+Press Room
+From Our Executive Leadership
+Videos
+Get The Facts
+For People Who Smoke
+Get Involved
+Home
+•
+News and Press
+•
+Foundation For A Smoke-Free World Names Clifford Douglas CEO As Global Voice In Smoking Cessation Work
+New York City, October 12, 2023:
+The Foundation for a Smoke-Free World has named Clifford E. Douglas as President and Chief Executive Officer. Douglas has most recently served as Director of the University of Michigan Tobacco Research Network and as Adjunct Professor in the Department of Health Management and Policy at the University of Michigan School of Public Health. Prior to that he was the American Cancer Society Vice President for Tobacco Control. Early in his career Douglas worked to eliminate smoking on airline flights and was an attorney and advisor in landmark lawsuits against tobacco manufacturers.
+Douglas has also managed a $6 million campaign to eliminate smoking on college campuses, and worked to help Americans understand the relationship between smoking and Covid-19. Douglas has served as the Assistant Director of the Coalition on Smoking and Health; he was also the Associate Director of the American Lung Association national public affairs office and has been the tobacco control advisor to the US Assistant Secretary for Health and the US Surgeon General.
+Pam Parizek, Chair of the Foundation Board of Directors said, “For decades Cliff Douglas has been a strong and influential voice in the work to eliminate smoking in America and globally. He understands both the science and societal elements of tobacco issues. His credentials are exceptional, and we are pleased he will lead our foundation effort to fund meaningful research and engage in evidence-based education efforts that help those at greatest risk stop smoking.”
+The Foundation is a nonprofit, independent grantmaking organization, dedicated to ending the illness and death caused by smoking, which remains the leading preventable cause of death around the world. Its charitable mission is to accelerate the decline in smoking and the harm it causes everywhere.
+Douglas says the Foundation is uniquely positioned to reduce smoking globally, “Our mission is to help end smoking in this generation. I have committed myself to this mission for 35 years and look forward to leading this organization in innovative and impactful efforts to accelerate reductions in smoking prevalence and improve public understanding regarding the nature and health impact of nicotine, and as the U.S. Food and Drug Administration has highlighted, the continuum of risk among different tobacco and nicotine products.    We will continue to be a strong and independent voice in helping people around the world find healthier lifestyles.”
+Parizek said, “The Foundation is about to enter a new era under the leadership of Cliff Douglas. We certainly are appreciative of those who have previously supported our work, and going forward the Foundation remains fully committed to our smoking cessation and tobacco harm reduction efforts around the world.”
+Philip Morris International recently made a final grant to the Foundation and the pledge agreement between Philip Morris and the Foundation has concluded. Parizek added, “Moving forward the Foundation will seek to collaborate with associations and institutions to accelerate our investments in life saving research projects based on the most up to date science.”
+Click
+here
+for a full Cliff Douglas biography.
+About the Foundation for a Smoke-Free World
+The Foundation for a Smoke-Free World is an independent, U.S. nonprofit 501(c)(3) grantmaking organization with the purpose of improving global health by ending smoking in this generation. Through September 2023, the Foundation received charitable gifts from PMI Global Services Inc. (“PMI”). Independent from PMI since its founding in 2017, the Foundation continues to operate in a manner that ensures its independence from any commercial entity. The Foundation seeks to collaborate with associations and institutions to accelerate our investments in life-saving research projects. For more information about the Foundation, please visit
+www.smokefreeworld.org
+.
+Contact:
+Pressoffice@smokefreeworld.org
+Foundation for a Smoke-Free World
+Additional Info
+Press Type
+Press Releases
+Page Details
+Date Added: October 12, 2023
+Last Modified: April 11, 2024
+You May Also Like
+Stay Updated
+Sign up to receive news, updates, and learn how you can take action.
+* Required Fields
+Subscribe
+About Us
+Programs
+Grants
+Research
+News and Press
+Careers
+Contact Us
+Connect with GA
+X Icon
+Linkedin-in
+Facebook-f
+Youtube
+Get The Facts
+For People Who Smoke
+Get Involved
+Accessibility Statement
+・
+Online Privacy Policy
+© 2024 Global Action to End Smoking. All Rights Reserved. (Formerly "Foundation for a Smoke-Free World")
+Skip to content
+Open toolbar
+Accessibility Tools
+Accessibility Tools
+Increase Text
+Increase Text
+Decrease Text
+Decrease Text
+Grayscale
+Grayscale
+High Contrast
+High Contrast
+Negative Contrast
+Negative Contrast
+Light Background
+Light Background
+Links Underline
+Links Underline
+Readable Font
+Readable Font
+Reset
+Reset

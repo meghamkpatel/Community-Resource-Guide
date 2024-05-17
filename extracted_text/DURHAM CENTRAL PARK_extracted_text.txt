@@ -1,0 +1,104 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'An exciting downtown Durham destination which offers recreation, leisure, year-round events, play structures, and more.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Durham Central Park'}
+{'property': 'og:description', 'content': 'An exciting downtown Durham destination which offers recreation, leisure, year-round events, play structures, and more.'}
+{'property': 'og:url', 'content': 'https://durhamcentralpark.org/'}
+{'property': 'og:site_name', 'content': 'Durham Central Park'}
+{'property': 'article:modified_time', 'content': '2022-09-19T17:44:21+00:00'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://durhamcentralpark.org'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+
+Body Text:
+Durham Central Park
+Skip to content
+Donate
+Visit
+Events
+All Events
+Food Truck Rodeo
+Story Time with Barnaby D. Troll
+PLAYlist Concert Series
+Free Yoga
+Parties for the Park
+Durham Farmers’ Market
+Durham Craft Market
+Reserve Space
+Support the Park
+Donate
+Volunteer
+Sponsor
+Blog
+About
+Park History
+Our Organization
+Partners
+FAQs
+Media
+Job Opportunities
+Contact
+Search for:
+Events at the Park
+See all events
+PLAYlist Presents: The Magic of African Rhythms
+June 7 @ 6:00 pm
+The Magic of African Rhythm take the PLAYlist stage on June 7th The exhilarating sight and sound of Djembe Fire! – men and women drumming, dancing, and singing their signature welcome to the audience. Company members regularly travel to various …
+Continued
+Find out more »
+Volunteer Opportunities
+Durham Central Park is powered by dedicated volunteers who do everything from weeding the gardens to running events. Looking for volunteer opportunities? Join our team!
+Signup
+Learn More
+Host Your Own Event
+Durham Central Park has all of the amenities that make it the perfect spot for parties, weddings and corporate events.
+More Details
+Book Your Event Now
+(photo courtesy
+David Smith Photography
+)
+Visitor Info
+Durham Central Park offers a wealth of open green spaces and hidden gems—from artistic seating to beautiful gardens, there’s plenty to explore. Get the info you need for your trip to the park
+Learn More
+Park Improvements
+We’re committed to making Durham Central Park better. We’re already working on more improvements. But we want to know what you want to see in the park.
+Learn More
+Tell Us What You Want to See
+Park Stories
+Everything in Durham Central Park…from the park itself to the pavilion to the all the benches…has a story. Get to know your park a little better by reading how it came to be.
+Read Park Stories
+Tell Us Your Park Story
+About the Park
+Durham Central Park
+is an exciting downtown destination that offers a venue for cultural activities and is part of a 24-hour, authentic, walkable neighborhood for arts, recreation, and locally-owned businesses.
+Durham Central Park, Inc.
+is a nonprofit organization that manages and maintains the five acre green space in Durham at 501 Foster Street. DCP’s sole mission is to create and sustain a unique urban park to engage the Durham community.
+Learn more
+10 Reasons to Become a Friend of Durham Central Park
+December 29, 2023
+DCP Inc. is a steward organization of the 5 acre park, but where do the funds you contribute go? While Durham Central Park has become a staple destination for visitors, residents, business owners, and event organizers in Durham and throughout …
+Continued
+Read more on our blog
+Partners
+DCP
+relies on partner organizations like
+Durham Parks and Rec
+for support.
+Learn more
+Join Our Mailing List
+Your email will not be sold.
+Email Address
+*
+Share with the Park
+Share your park experiences with us.
+Instagram
+Twitter
+Facebook
+Flickr
+Email
+© 2024 Durham Central Park.
+Contact Us

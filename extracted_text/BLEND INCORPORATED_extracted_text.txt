@@ -1,0 +1,145 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'theme-color', 'content': '#143859'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black-translucent'}
+{'name': 'facebook-domain-verification', 'content': 'q12adu1vwm0als3yu0h1f6d8ytiruq'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Dial up growth, and dial in the experience. Earn primacy by making banking easier, faster, and better.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Blend — Deposit account origination you can bank on'}
+{'property': 'og:description', 'content': 'Dial up growth, and dial in the experience. Earn primacy by making banking easier, faster, and better.'}
+{'property': 'og:url', 'content': 'https://blend.com/'}
+{'property': 'og:site_name', 'content': 'Blend'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/BlendLabs'}
+{'property': 'article:modified_time', 'content': '2024-02-26T18:14:45+00:00'}
+{'property': 'og:image', 'content': 'https://blend.com/wp-content/uploads/2019/09/Blend-OG-1200x630_5.png'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@blendlabsinc'}
+
+Body Text:
+Blend — Deposit account origination you can bank on
+Skip to content
+Blend Logo
+Products
+Mortgage Suite
+Deliver seamless digital journeys from application to close.
+Originations
+Verifications
+Lender Tools
+Close
+IMB Essentials
+Consumer Banking Suite
+Offer a unified experience across lines of business.
+Deposit Accounts
+Home Equity
+Consumer Loans
+Platform
+Overview
+Future-proof your business with a flexible platform.
+Integrations
+Customers
+Resources
+Company
+Company
+About
+Newsroom
+Investor Relations
+Careers
+Partner with us
+Request a demo
+Menu
+Deposit account origination you can bank on
+Dial up growth, and dial in the experience. Earn primacy by making banking easier, faster, and better.
+Request a demo
+Learn more
+Join the financial services firms redefining origination
+Blend enables financial services firms to power an average of more than $5 billion in financial transactions every day.
+Where good infrastructure become out-of-the-box solutions
+Mortgage Suite
+Transform the home-buying process, end-to-end digital solution
+Learn more
+Consumer Banking Suite
+Upgrade the way you do business, grow conversions across your portfolio
+Learn more
+Accelerate innovation with a platform built to evolve with you
+Create and deploy unique customer journeys with ease
+Our low-code, drag-and-drop design tools allow development of new products in record time.
+Tap into the power of our extensive ecosystem
+Leverage a vast community of technology, data, and service providers to deliver seamless customer journeys.
+Bringing better lending to life
+BOKF
++ Blend: Rapid innovation, powered by collaboration
+Read the story
+Landmark Credit Union
+and Blend build trust and loyalty in the age of digital acceleration
+Read the story
+KeyBank
+and Blend collaborate to redefine the modern mortgage experience
+Read the story
+Explore all stories
+Case study
+U.S. Bank and Blend: A shared desire to make homeownership more accessible
+Blend Logo
+Mortgage Suite
+Originations
+Verifications
+Lender Tools
+Close (old)
+IMB Essentials
+Consumer Banking Suite
+Deposit Accounts
+Home Equity
+Consumer Loans
+Platform
+Overview
+Integrations
+Resources
+Resource Library
+Partner with us
+Company
+About
+Careers
+Newsroom
+Investor Relations
+© Blend 2024
+Disclaimers
+Terms of Use
+Privacy Policy
+California Privacy
+Security
+Facebook
+Twitter
+LinkedIn
+Instagram
+Products
+Mortgage Suite
+Deliver seamless digital journeys from application to close.
+Originations
+Verifications
+Lender Tools
+Close
+IMB Essentials
+Consumer Banking Suite
+Offer a unified experience across lines of business.
+Deposit Accounts
+Home Equity
+Consumer Loans
+Platform
+Overview
+Future-proof your business with a flexible platform.
+Integrations
+Customers
+Resources
+Company
+Company
+About
+Newsroom
+Investor Relations
+Careers
+Partner with us
+Request a demo

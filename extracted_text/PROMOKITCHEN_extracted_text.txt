@@ -1,0 +1,252 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'PromoKitchen'}
+{'property': 'og:title', 'content': 'PromoKitchen'}
+{'property': 'og:url', 'content': 'https://www.promokitchen.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'PromoKitchen is an all-volunteer, 501c3 non-profit organization led by professionals in the $20 billion dollar promotional products industry. We believe that best practice sharing is a good thing for an industry that is going through rapid change. We also believe in the power of community and how th'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/561d4128e4b062b24b5fdc91/t/56d7054486db43480aa1e120/1456932165945/PromoKitchen-social.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'itemprop': 'name', 'content': 'PromoKitchen'}
+{'itemprop': 'url', 'content': 'https://www.promokitchen.org'}
+{'itemprop': 'description', 'content': 'PromoKitchen is an all-volunteer, 501c3 non-profit organization led by professionals in the $20 billion dollar promotional products industry. We believe that best practice sharing is a good thing for an industry that is going through rapid change. We also believe in the power of community and how th'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/561d4128e4b062b24b5fdc91/t/56d7054486db43480aa1e120/1456932165945/PromoKitchen-social.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/561d4128e4b062b24b5fdc91/t/56d7054486db43480aa1e120/1456932165945/PromoKitchen-social.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'PromoKitchen'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/561d4128e4b062b24b5fdc91/t/56d7054486db43480aa1e120/1456932165945/PromoKitchen-social.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.promokitchen.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'PromoKitchen is an all-volunteer, 501c3 non-profit organization led by professionals in the $20 billion dollar promotional products industry. We believe that best practice sharing is a good thing for an industry that is going through rapid change. We also believe in the power of community and how th'}
+{'name': 'description', 'content': 'PromoKitchen is an all-volunteer, 501c3 non-profit organization led by \r\nprofessionals in the $20 billion dollar promotional products industry. We \r\nbelieve that best practice sharing is a good thing for an industry that is \r\ngoing through rapid change. We also believe in the power of community and \r\nhow this industry can improve by establishing stronger connections between \r\nus all.'}
+
+Body Text:
+PromoKitchen
+PromoKitchen
+About Us
+What Is Promokitchen?
+Meet the Chefs
+Mentorship
+Blog
+Podcasts
+Videos
+Events
+Get Involved
+About Us
+/
+What Is Promokitchen?
+Meet the Chefs
+Mentorship
+/
+Blog
+/
+Podcasts
+/
+Videos
+/
+Events
+/
+Get Involved
+/
+Home
+What Is PromoKitchen?
+Get Involved
+About Us
+/
+What Is Promokitchen?
+Meet the Chefs
+Mentorship
+/
+Blog
+/
+Podcasts
+/
+Videos
+/
+Events
+/
+Get Involved
+/
+What is PromoKitchen?
+Get Involved
+Featured
+Feb 22, 2024
+The PromoKitchen Community: I Belong!
+Feb 22, 2024
+Feb 22, 2024
+Jun 6, 2023
+Embracing Every Day Mentors
+Jun 6, 2023
+Who are the people in your life that help you learn and grow each day? In this article PromoKitchen Chef, Molly Neises, shares her experience and an invite to join the PK Mentorship Program.
+Jun 6, 2023
+Mar 15, 2023
+On Women and Business - Myths & the Facts to bust them!
+Mar 15, 2023
+What is keeping you from hiring more women or advocating the hire of more women in your workplace?  I’ve consistently heard these four things from organizations and today I’m here to bust some of the myths that are hindering you and your company from having top talent in your folds:
+Mar 15, 2023
+Mar 6, 2023
+When is the Best Time to Find a Mentor?
+Mar 6, 2023
+The best time to find a mentor is before you need one. This is because finding a mentor takes time, effort, and patience, and building a strong relationship with a mentor takes even more time.
+Mar 6, 2023
+Dec 20, 2022
+Note from Jo: Have it Your Way
+Dec 20, 2022
+Dec 20, 2022
+Oct 13, 2022
+Gendered Ageism - Women and Ageism
+Oct 13, 2022
+What is gendered ageism, why women face this sort of ageism and how to combat it.
+Oct 13, 2022
+Aug 9, 2022
+Six Ways to Set Mentorship Goals
+Aug 9, 2022
+Setting goals can be an overwhelming task, but goal setting is one of the best ways to align yourself with future success. Check out our 6 ways to make sure you are on target.
+Aug 9, 2022
+Aug 1, 2022
+LOVE your Competition
+Aug 1, 2022
+Aug 1, 2022
+Jul 15, 2022
+The Power of Mentorship, Curiosity and Kindness: Remembering our Friend, Brian Jolin
+Jul 15, 2022
+On July 6, 2022 we lost a valued member of our PromoKitchen family. Brian was one of our most vocal and dedicated supporters. He was a force of nature in getting us volunteers, being a dedicated mentor and constantly pushing us to do more and to do better for our DEI work. He constantly aimed to "shine light into dark places and fight injustices."
+We're sharing a tribute to Brian from our past president Robert Fiveash who mentored Brian for years and brought him even more into the fold of PK. As anyone who has been through our mentorship program knows that you don't leave the same person. You make friendships for life.
+Brian's spirit and sense of humor will be greatly missed by our community. From his constant support, to his "I was just thinking" emails, to his famous Christmas cards, Brian's absence will be felt. So go out, make a difference, make someone feel special and make big changes in this world.
+Jul 15, 2022
+May 10, 2022
+Too Much Talk: A Modest Manifesto on DEI in the Promotional Products Industry
+May 10, 2022
+May 10, 2022
+Hot Topic: What is trending in the Industry
+Blog
+Jul 2, 2021
+From the Kitchen
+PromoKitchen Secret Recipe – Patrick Reinecker
+Jul 2, 2021
+From the Kitchen
+Jul 2, 2021
+From the Kitchen
+Jun 9, 2021
+Get A Mentor: What I Wish I Could Tell 24 Year Old Me
+Jun 9, 2021
+Jun 9, 2021
+Apr 27, 2021
+Featured
+Notes from Jo: Volunteering
+Apr 27, 2021
+Featured
+Apr 27, 2021
+Featured
+Videos
+Mar 13, 2020
+#PromoChat Deep Dive - Adapt and Pivot
+Mar 13, 2020
+Mar 13, 2020
+Mar 10, 2020
+#PromoChat Deep Dive - Disaster Preparedness
+Mar 10, 2020
+Mar 10, 2020
+Podcasts
+Aug 24, 2021
+Mergers & Acquisitions - Jamie Watson
+Aug 24, 2021
+Aug 24, 2021
+Aug 18, 2021
+A Conversation with Dale Denham, PPAI's new CEO
+Aug 18, 2021
+Aug 18, 2021
+Aug 11, 2021
+Mergers & Acquisitions - Larry Cohen
+Aug 11, 2021
+Aug 11, 2021
+Jul 27, 2021
+Mergers & Acquisitions - Bridget Smith, Zazzle
+Jul 27, 2021
+Jul 27, 2021
+Jul 1, 2021
+Women in Decoration - Kristine Shreve
+Jul 1, 2021
+Jul 1, 2021
+Jun 21, 2021
+Josh Pospisil Podcast
+Jun 21, 2021
+Jun 21, 2021
+Jun 7, 2021
+Brand Pride: How to Combat "Gay Washing" and Running a Certified LGBTQ Owned Business
+Jun 7, 2021
+Jun 7, 2021
+Jun 3, 2021
+Redwood Impact Report
+Jun 3, 2021
+Jun 3, 2021
+May 25, 2021
+T-Shirts and Social Awareness: A Conversation with Activist Timmy Zhu
+May 25, 2021
+May 25, 2021
+May 5, 2021
+Diversity in the Promotional Products Industry:  A Discussion with Hugh Lawson
+May 5, 2021
+May 5, 2021
+Members: Features from the Industry
+Blog
+Jul 15, 2022
+The Power of Mentorship, Curiosity and Kindness: Remembering our Friend, Brian Jolin
+Jul 15, 2022
+Jul 15, 2022
+Jul 23, 2021
+Notes from Jo: Shift it, Shift it real good
+Jul 23, 2021
+Jul 23, 2021
+May 13, 2021
+Notes from Jo: Flip The Script
+May 13, 2021
+May 13, 2021
+Podcast
+May 4, 2021
+Growing Up Promo: Theresa + Greg Muzzillo, PROFORMA
+May 4, 2021
+May 4, 2021
+Mar 10, 2021
+Growing up Promo - ZOOMcatalog
+Mar 10, 2021
+Mar 10, 2021
+Jan 21, 2021
+A Discussion with Juan Martinez on Innovation at Spector
+Jan 21, 2021
+Jan 21, 2021
+Jan 13, 2021
+Growing up Promo - Josh Goodelman - Liqui-Mark
+Jan 13, 2021
+Jan 13, 2021
+Dec 15, 2020
+Remembering Tee Hamilton
+Dec 15, 2020
+Dec 15, 2020
+Dec 1, 2020
+PromoKitchen OG Podcast Vol 3: Charity Gibson
+Dec 1, 2020
+Dec 1, 2020
+Nov 17, 2020
+Unicorn Leaders
+Nov 17, 2020
+Nov 17, 2020
+Nov 9, 2020
+PromoKitchen OG Podcast Vol 2: Danny Rosin
+Nov 9, 2020
+Nov 9, 2020
+Oct 15, 2020
+PromoKitchen OG Podcast Vol 1: Mark Graham and Bobby Lehew
+Oct 15, 2020
+Oct 15, 2020
+Apr 6, 2020
+PromoKitchen Podcast #163: A Conversation with Robert Williams
+Apr 6, 2020
+Apr 6, 2020
+Want even more insights into the $24 Billion promotional Products Industry?
+©2021 Promokitchen.org
+Email Address
+*
+Thank you!

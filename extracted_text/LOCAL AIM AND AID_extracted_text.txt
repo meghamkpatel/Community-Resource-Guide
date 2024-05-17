@@ -1,0 +1,194 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'Find information on Aid and Incentives for Municipalities (AIM).'}
+{'name': 'keywords', 'content': 'aid, incentives, AIM, municipalities, financial data'}
+{'http-equiv': 'content-language', 'content': 'en-US'}
+{'property': 'og:site_name', 'content': 'Office of the New York State Comptroller'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://www.osc.ny.gov/local-government/data/aid-and-incentives-municipalities-aim'}
+{'property': 'og:title', 'content': 'Aid and Incentives for Municipalities (AIM)'}
+{'property': 'og:description', 'content': 'Find information on Aid and Incentives for Municipalities (AIM).'}
+{'property': 'og:image', 'content': 'https://www.osc.ny.gov/sites/default/files/other/images/2018-09/social-media-default-card.png'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'property': 'og:image:width', 'content': '200'}
+{'property': 'og:image:height', 'content': '200'}
+{'property': 'og:image:alt', 'content': 'NYS Comptroller Thomas P. DiNapoli'}
+{'property': 'og:updated_time', 'content': 'Fri, 12/08/2023 - 10:02'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'In each State fiscal year, the Aid and Incentives for Municipalities (AIM) program provides state aid to all of New York’s cities (other than New York City), towns and villages. While AIM payments to cities are made at various times throughout the year, towns and villages receive their AIM payments annually in September.This website will be updated if there are changes to the AIM program.'}
+{'name': 'twitter:site', 'content': '@NYSComptroller'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=0.66'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+
+Body Text:
+Aid and Incentives for Municipalities (AIM) | Office of the New York State Comptroller
+Skip to main content
+It appears that your web browser does not support JavaScript, or you have temporarily disabled scripting.
+Login
+Subscribe
+Translate
+Join Our Team
+×
+Disclaimer
+This Google™ translation feature is provided for informational purposes only.
+The New York State Office of the State Comptroller's website is provided in English. However, the "Google Translate" option may help you to read it in other languages.
+Google Translate™ cannot translate all types of documents, and it may not give you an exact translation all the time. If you rely on information obtained from Google Translate™, you do so at your own risk.
+The Office of the State Comptroller does not warrant, promise, assure or guarantee the accuracy of the translations provided. The State of New York, its officers, employees, and/or agents are not liable to you, or to third parties, for damages or losses of any kind arising out of, or in connection with, the use or performance of such information. These include, but are not limited to:
+damages or losses caused by reliance upon the accuracy of any such information
+damages incurred from the viewing, distributing, or copying of such materials
+Because Google Translate™ is intellectual property owned by Google Inc., you must use Google Translate™ in accord with the Google license agreement, which includes potential liability for misuse:
+Google Terms of Service.
+Close
+Office of the NEW YORK
+STATE COMPTROLLER
+NYS Comptroller Thomas P. DiNapoli
+Toggle navigation
+Main navigation
+About
+GET
+to Know
+New York State Comptroller
+Thomas P. DiNapoli
+Read BIO
+Learn About the Comptroller's Office
+Explore Career Opportunities
+Read "2023 Year in Review" Report
+GET to Know
+New York State Comptroller
+Thomas P. DiNapoli
+Learn About the Comptroller's Office
+Explore Career Opportunities
+Read "2023 Year in Review" Report
+Unclaimed Funds
+Retirement
+New York State and Local Retirement System (NYSLRS)
+NYS Common Retirement Fund
+Local Government
+Agencies
+Vendors
+Reports
+All Reports
+Audits
+Annual Comprehensive Financial Report
+Cash Basis Reports
+New York State Budget Analysis and Financial Reporting
+New York City Economic and Fiscal Monitoring
+Open Book New York
+Newsroom
+Login
+Subscribe
+Join Our Team
+Search
+Search
+Home
+Local Government
+Local Government Data
+Aid and Incentives for Municipalities (AIM)
+Search
+Search
+Search
+Search
+Menu
+Local Government
+Audits of Local Governments
+Financial Toolkit for Local Officials
+Fiscal Monitoring
+Justice Court Fund
+Local Government Data
+Publications
+Real Property Tax Cap
+Required Reporting
+Resources for Local Officials
+Training
+Contact Us
+Aid and Incentives for Municipalities (AIM)
+In each State fiscal year, the Aid and Incentives for Municipalities (AIM) program provides state aid to all of New York’s cities (other than New York City), towns and villages.
+While AIM payments to cities are made at various times throughout the year, towns and villages receive their AIM payments annually in September.
+This website will be updated if there are changes to the AIM program.
+The 2019-20 Enacted State Budget eliminated aid for 1,325 towns and villages determined to be less reliant on AIM. At that time, the State established AIM-Related payments which continued funding for the impacted towns and villages in the amounts that they had previously received through AIM in State Fiscal Year 2018-2019. The Office of the State Comptroller (OSC) was required to withhold certain county sales tax revenues and to make AIM-Related payments, paid in December and May each year, pursuant to Chapter 59 of the Laws of 2019.
+The 2020-21 Enacted State Budget established in law a process for making AIM-Related payments to towns and villages in Erie County and Nassau County. Officials from the Erie County Fiscal Stability Authority (EFSA), the Buffalo Fiscal Stability Authority (BFSA) and the Nassau County Interim Finance Authority (NIFA) were required by Chapter 55 of the Laws of 2020 to return to OSC the amount of sales tax distribution needed to make AIM-Related payments to towns and villages in Erie County and Nassau County each May and December.
+The 2022-23 Enacted State Budget eliminated AIM-Related payments and the withholdings from county sales tax collections used to fund them.
+Beginning in July 2022, all cities (other than New York City) and 1,465 towns and villages received AIM payments from the State, pursuant to Chapter 55 of the Laws of 2022. All towns and villages that previously received AIM-Related payments now receive AIM payments, in the same amounts, beginning in September 2022 and each September thereafter. Cities, towns and villages that previously received AIM payments will continue to receive these payments in the same amount and month.
+For more information related to AIM and AIM-Related payments:
+Chapter 55 of the Laws of 2022 [pdf]
+Chapter 59 of the Laws of 2019 [pdf]
+Chapter 55 of the Laws of 2020 [pdf]
+AIM Payment Amounts and Payment Months by Municipality [xlsx]
+(last updated December 2023)
+"Aid and Incentives for Municipalities: New York State's Local Revenue Sharing Program" [pdf]
+OSC, February 2022
+Provides an overview and history of the AIM program.
+×
+Newsletter Sign-Up Confirmation
+You must have JavaScript enabled to use this form.
+Thank you for subscribing to the Comptroller's Weekly Newsletter!
+Tell us more about you to receive content related to your area or interests.
+ZIP Code
+Interests
+Agriculture
+Education
+Environment
+Gaming
+Healthcare
+Higher Education
+Housing
+Infrastructure
+Labor
+Lesbian, Gay, Bisexual & Transgender
+Local Government
+Minority & Women-Owned Business Enterprises
+NYC Budget
+Pension Fund Investment
+Pension & Retirement
+Public Corruption
+State Budget
+Transportation
+Veterans
+Update
+Leave this field blank
+Close
+You must have JavaScript enabled to use this form.
+SUBSCRIBE TO THE COMPTROLLER'S WEEKLY NEWSLETTER
+SUBSCRIBE
+Leave this field blank
+OUR OFFICE
+About Comptroller DiNapoli
+About the Comptroller's Office
+Career Opportunities
+Intergovernmental and Community Affairs
+Newsroom
+Procurement Opportunities
+TOOLS
+Fiscal Monitoring
+NYS Payroll Online
+Open Book New York
+Retirement Online
+Search for Lost Money
+Statewide Financial System
+More...
+INITIATIVES
+Comptroller's Legislative Program
+Investing in New York
+Minority- and Women-Owned Business Enterprises (MWBEs)
+HELP
+Contact Us
+Events
+Forms
+Freedom of Information Law (FOIL)
+Legal Opinions
+Report Government Fraud
+How would you rate our website?
+Site Index
+|
+Career Opportunities
+|
+Contact Us
+|
+Privacy and Links Policies
+|
+Regulations
+|
+Accessibility
+|
+FOIL

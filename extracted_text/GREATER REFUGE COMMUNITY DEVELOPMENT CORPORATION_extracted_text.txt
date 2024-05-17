@@ -1,0 +1,339 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'A new community center financed through USDA Rural Development’s Community Facilities program was the location of a ribbon-cutting ceremony in Canton, Mississippi last week.'}
+{'property': 'og:url', 'content': 'https://www.usda.gov/media/blog/2011/03/25/new-usda-funded-center-boosts-mississippi-community'}
+{'property': 'og:title', 'content': 'A New USDA-Funded Center Boosts a Mississippi Community'}
+{'property': 'og:description', 'content': 'A new community center financed through USDA Rural Development’s Community Facilities program was the location of a ribbon-cutting ceremony in Canton, Mississippi last week.'}
+{'property': 'og:image', 'content': 'https://www.usda.gov/sites/default/files/usda_blog_images/5269_5558738078_480978eb5b.jpg'}
+{'property': 'og:image:url', 'content': 'https://www.usda.gov/sites/default/files/usda_blog_images/5269_5558738078_480978eb5b.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://www.usda.gov/sites/default/files/usda_blog_images/5269_5558738078_480978eb5b.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:description', 'content': 'A new community center financed through USDA Rural Development’s Community Facilities program was the location of a ribbon-cutting ceremony in Canton, Mississippi last week.'}
+{'name': 'twitter:title', 'content': 'A New USDA-Funded Center Boosts a Mississippi Community'}
+{'name': 'twitter:url', 'content': 'https://www.usda.gov/media/blog/2011/03/25/new-usda-funded-center-boosts-mississippi-community'}
+{'name': 'twitter:image', 'content': 'https://www.usda.gov/sites/default/files/usda_blog_images/5269_5558738078_480978eb5b.jpg'}
+{'name': 'msvalidate.01', 'content': '36F1A09D7116D0E8D667792CE040A6C3'}
+{'name': 'google-site-verification', 'content': 'qUN2GJfA5CL2sBzEQEtHGaF7tScF8afQLCP2MfqO5YA'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+A New USDA-Funded Center Boosts a Mississippi Community | USDA
+Skip to main content
+An official website of the United States government
+Here’s how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+Menu
+U.S. Department of Agriculture
+Main navigation
+Home
+Topics
+Topics
+Animals
+Biotechnology
+Broadband
+Conservation
+Coronavirus
+Data
+Disaster Resource Center
+Farming
+Food and Nutrition
+Forestry
+Health and Safety
+Invasive Species
+Opioids
+Organic
+Plants
+Recreation
+Research and Science
+Rural
+Trade
+Urban Agriculture
+Our Agency
+Our Agency
+About USDA
+Agencies
+Careers
+Employee Services
+Farm Bill
+Future of Work
+Initiatives
+Staff Offices
+Priorities
+Priorities
+Equity at USDA
+Climate Solutions
+Food and Nutrition Security
+More, New, and Better Market Opportunities
+Media
+Media
+Agency News Releases
+Agency Reports
+Blog
+Digital
+Press Releases
+Radio
+Search usda.gov
+Search
+Utility navigation
+Glossary
+AskUSDA
+Recalls
+Contact Us
+Blog Archives Categories
+Animals (325)
+Biotechnology (3)
+Broadband (13)
+Climate (17)
+Conservation (1490)
+Coronavirus (22)
+Disaster (7)
+Energy (253)
+Farming (505)
+Food and Nutrition (1966)
+Forestry (1110)
+Health and Safety (407)
+Initiatives (980)
+Plants (272)
+Recreation (6)
+Research and Science (836)
+Rural (1345)
+Spanish (39)
+Technology (242)
+Trade (398)
+USDA Results (513)
+Show Blogs for
+January 2021
+December 2020
+November 2020
+October 2020
+September 2020
+August 2020
+July 2020
+June 2020
+May 2020
+April 2020
+March 2020
+February 2020
+January 2020
+December 2019
+November 2019
+October 2019
+September 2019
+August 2019
+July 2019
+June 2019
+May 2019
+April 2019
+March 2019
+February 2019
+December 2018
+November 2018
+October 2018
+September 2018
+August 2018
+July 2018
+June 2018
+May 2018
+April 2018
+March 2018
+February 2018
+January 2018
+December 2017
+November 2017
+October 2017
+September 2017
+August 2017
+July 2017
+June 2017
+May 2017
+April 2017
+March 2017
+February 2017
+January 2017
+December 2016
+November 2016
+October 2016
+September 2016
+August 2016
+July 2016
+June 2016
+May 2016
+April 2016
+March 2016
+February 2016
+January 2016
+December 2015
+November 2015
+October 2015
+September 2015
+August 2015
+July 2015
+June 2015
+May 2015
+April 2015
+March 2015
+February 2015
+January 2015
+December 2014
+November 2014
+October 2014
+September 2014
+August 2014
+July 2014
+June 2014
+May 2014
+April 2014
+March 2014
+February 2014
+January 2014
+December 2013
+November 2013
+October 2013
+September 2013
+August 2013
+July 2013
+June 2013
+May 2013
+April 2013
+March 2013
+February 2013
+January 2013
+December 2012
+November 2012
+October 2012
+September 2012
+August 2012
+July 2012
+June 2012
+May 2012
+April 2012
+March 2012
+February 2012
+January 2012
+December 2011
+November 2011
+October 2011
+September 2011
+August 2011
+July 2011
+June 2011
+May 2011
+April 2011
+March 2011
+February 2011
+January 2011
+December 2010
+November 2010
+October 2010
+September 2010
+August 2010
+July 2010
+June 2010
+May 2010
+April 2010
+March 2010
+February 2010
+January 2010
+December 2009
+November 2009
+October 2009
+September 2009
+August 2009
+July 2009
+June 2009
+May 2009
+April 2009
+March 2009
+Archive
+Blog Archives
+A New USDA-Funded Center Boosts a Mississippi Community
+Posted by Ken Stribling, Mississippi Public Information Coordinator in
+Rural
+Mar 25, 2011
+Over 100 people gathered for the ribbon-cutting ceremony of the Greater Refuge Community Center, which was financed by a USDA loan. (State Director Trina N. George, front row, third from right)
+A new community center financed through USDA Rural Development’s
+Community Facilities
+program was the location of a ribbon-cutting ceremony in Canton, Mississippi last week.
+The Greater Refuge Temple Multi-Purpose Resource Center in Canton was built in large part with a loan from USDA Rural Development. The building is a state-of-the-art structure which was planned to accommodate a wide variety of activity. The Resource Center will be the site of the Greater Refuge Temple Church’s community service activity, which includes academic tutoring; teaching Spanish language; teenage and youth counseling; day care; employment preparation; and computer training. It will also offer a place for receptions and events.
+“It is always great to cut the ribbon on a finished project – one that will soon be filled with the energy of people – as we are doing here today at this Resource Center,” said
+Rural Development
+State Director Trina George, who was in attendance at the event. “Please know that USDA Rural Development is proud to be a part of bringing this important center to this community.”
+George acknowledged the involvement of the Mississippi’s Congressional delegation, including Senators Thad Cochran and Roger Wicker and Congressman Bennie Thompson, who George said “has long had an interest in making this Center a reality.” George called the Resource Center “truly a bi-partisan effort that has now crossed two Administrations, including that of President Barack Obama, who has demonstrated a great
+commitment to rural communities
+and to uplifting those in need.”
+In addition, the Center represents the fruits of an agency effort to work closely with
+faith and community-based organizations
+. The non-denominational church has had an accomplished history of community action and service. It seeks to prepare and empower the individual, operating under the slogan: “We will not give you an excuse to fail.” Their success of the past is likely to continue in the new community center.
+For more information about available Community Facilities funding, contact any
+USDA Rural Development office
+.
+The Center is a state-of-the-art multi-purpose building that will help Greater Refuge deliver its wide array of community and individual services.
+Category/Topic:
+Rural
+Tags:
+Canton
+Community Facility Program
+Mississippi
+Rural Development
+Tina George
+Return to top
+Main navigation - Footer
+Home
+Topics
+Our Agency
+Priorities
+Media
+Footer navigation
+AskUSDA
+Pandemic Assistance
+Contact Us
+Site Map
+Policies and Links
+Our Performance
+Careers
+Report Fraud on USDA Contracts
+Inspector General
+Plain Language Writing in USDA
+Open
+FOIA
+Accessibility Statement
+Privacy Policy
+Non-Discrimination Statement
+Anti-Harassment Policy
+Information Quality
+USA.gov
+WhiteHouse.gov
+eGov
+Feedback
+No FEAR Act Data
+Office of Special Counsel
+Whistleblower Protection Coordinator
+Vulnerability Disclosure Policy
+Agency Financial Reports
+USDA CARES Partner Portal
+Sign Up for Updates
+Subscribe
+U.S. Department of Agriculture
+USDA on Twitter
+USDA on Facebook
+USDA on LinkedIn
+USDA Constant Contact
+USDA on Instagram
+USDA on Flickr
+USDA on Youtube
+USDA RSS

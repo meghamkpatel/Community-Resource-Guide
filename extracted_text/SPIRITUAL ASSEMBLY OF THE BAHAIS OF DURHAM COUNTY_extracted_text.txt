@@ -1,0 +1,90 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'b1c964b2-8d0a-483b-853e-950bc01c8f42'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '4ead29e6-ae50-4281-8f3d-09438af6856d'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '248'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "Learn about the Bahá'í Faith, as well as community building activities sponsored by the Durham Bahá'í Community of North Carolina, to which all members of the public are invited."}
+{'property': 'og:title', 'content': "Community Building | Durham Bahá'í Community | Durham North Caroli"}
+{'property': 'og:description', 'content': "Learn about the Bahá'í Faith, as well as community building activities sponsored by the Durham Bahá'í Community of North Carolina, to which all members of the public are invited."}
+{'property': 'og:url', 'content': 'https://www.durhambahai.org'}
+{'property': 'og:site_name', 'content': "Bahá'ís of Durham"}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'ZaGgH6K2pnBDU82KvMnsvsxPnjTNO64pTZj9b6Qnx3Q'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': "Community Building | Durham Bahá'í Community | Durham North Caroli"}
+{'name': 'twitter:description', 'content': "Learn about the Bahá'í Faith, as well as community building activities sponsored by the Durham Bahá'í Community of North Carolina, to which all members of the public are invited."}
+
+Body Text:
+Community Building | Durham Bahá'í Community | Durham North Caroli
+top of page
+Durham Bahá’í Community
+HOME
+COMMUNITY NEWS
+ACTIVITIES
+RACIAL UNITY
+CALENDAR
+CONTACT
+More
+Use tab to navigate through the menu items.
+ABOUT US
+Members of Durham, Durham County, and Henderson Baha'i communities at conference held May 21 and 22, 2022. We explored the inherent oneness of humanity along with a universal call to work for the betterment of the world.
+Friends, families, and neighbors from Durham and Henderson engaged in conversations about how to bring about spiritual and material well-being in our communities.
+​
+​
+CELEBRATIN
+g
+THE
+200
+TH
+ANNIVERSARY OF
+THE
+BIRTH OF THE BÁB
+​
+​
+Welcome to the Bahá'í community of Durham, North Carolina.  We invite you to explore the teachings of our faith and to join us in creating a better, more peaceful world — one heart, one family, one neighborhood at a time.  Our website provides basic information about the Bahá'í Faith, our local community, and activities at our Center and elsewhere, which are open to all.
+​
+We invite all community members, regardless of spiritual background, to join us in efforts to advance civilization forward, starting with the empowerment of our own neighborhoods through grassroots education-based community building efforts.
+OUR VISION
+Bahá'ís believe the crucial need facing humanity is to find a unifying vision of the future of society and of the nature and purpose of life. We believe that such a vision unfolds in the Writings of Bahá’u’lláh.
+​
+Learn more about the Bahá'í Faith
+.
+ESSENTIAL BAHA'I THEMES
+Oneness of God and religion
+Oneness of humanity and freedom from prejudice
+Inherent nobility of the human being
+Progressive revelation of religious truth
+Development of spiritual qualities Integration of worship and service
+Fundamental equality of the sexes, the harmony between religion and science
+Centrality of justice to all human endeavors
+Importance of education
+Dynamics of the relationships binding individuals, communities and institutions as humanity advances towards its collective maturity
+OUR BELIEFS
+"The earth is but one country and mankind its citizens."
+​
+'All peoples and nations are of one familiy."
+​
+–Bahá'u'lláh
+CONTACT INFO
+919-489-6690
+​
+5103 Revere Rd
+Durham, NC 27713
+​
+SEND US A MESSAGE
+RELATED LINKS
+Worldwide Bahá’í Community
+​
+Bahá'ís of Durham NC
+Durham Baha'i Center
+© 2023 by HARMONY. Proudly created with
+Wix.com
+Photos: Copyright © Bahá'í International Community
+bottom of page

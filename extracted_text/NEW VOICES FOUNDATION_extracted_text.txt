@@ -1,0 +1,86 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'New Voices Foundation is a ground-breaking, community-building effort designed to build a more inclusive entrepreneurial ecosystem for women of color to advance their significant contributions to our economy and society. Driven by its PACE (Purpose.Access.Capital.Expertise.) model, New Voices offers women of color entrepreneurs access to capital, leadership development, skill-building, and networking opportunities via entrepreneurial summits, accelerators, bootcamps, grants, mentoring and coaching, and more.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'New Voices Foundation - New Voices Foundation'}
+{'property': 'og:description', 'content': 'New Voices Foundation is a ground-breaking, community-building effort designed to build a more inclusive entrepreneurial ecosystem for women of color to advance their significant contributions to our economy and society. Driven by its PACE (Purpose.Access.Capital.Expertise.) model, New Voices offers women of color entrepreneurs access to capital, leadership development, skill-building, and networking opportunities via entrepreneurial summits, accelerators, bootcamps, grants, mentoring and coaching, and more.'}
+{'property': 'og:url', 'content': 'https://newvoicesfoundation.org/'}
+{'property': 'og:site_name', 'content': 'New Voices Foundation'}
+{'property': 'article:modified_time', 'content': '2024-01-12T15:00:53+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'Powered by LayerSlider 6.8.4 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'MasterSlider 3.2.14 - Responsive Touch Image Slider'}
+{'name': 'mpu-version', 'content': '1.2.1'}
+{'itemprop': 'author', 'content': 'New Voices'}
+{'itemprop': 'datePublished', 'content': 'April 16, 2020'}
+{'itemprop': 'dateModified', 'content': 'January 12, 2024'}
+{'itemprop': 'publisher', 'content': 'New Voices Foundation'}
+{'name': 'generator', 'content': 'Powered by WPBakery Page Builder - drag and drop page builder for WordPress.'}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+{'name': 'msapplication-TileImage', 'content': 'https://newvoicesfoundation.org/wp-content/uploads/2023/06/cropped-nv_art_2022-22-270x270.png'}
+{'name': 'generator', 'content': 'Jupiter 6.4.1'}
+
+Body Text:
+New Voices Foundation - New Voices Foundation
+Why New Voices ?
+Madam CJ Walker Institute
+The Family
+Join The Family
+Our Partners
+New Voices & ESSENCE
+News & Events
+Upcoming Events
+Blog & News
+Read the Newsletter
+Donate
+Impact
+Why New Voices ?
+Madam CJ Walker Institute
+The Family
+Join The Family
+Our Partners
+New Voices & ESSENCE
+News & Events
+Upcoming Events
+Blog & News
+Read the Newsletter
+Donate
+Impact
+Subscribe to our New Voices Newsletter
+Stay connected to New Voices and learn about our latest opportunities!
+Click here to subscribe now.
+WHY NEW VOICES?
+Women of color entrepreneurs are the fastest growing segment of entrepreneurs in the United States but they don’t enjoy the same access to capital and other resources as their male and female counterparts. In fact, businesses owned by African-American and Latina women receive less than one percent of all venture capital funding every year.
+READ MORE
+IMPACT
+New Voices Foundation has invested more than $2.62 million in non-dilutive capital and matched support dollars in companies owned by women of color, hosted eighteen pitch competitions for women of color entrepreneurs at
+EssenceFest
+,
+CES
+and other leading national and regional events, and provided hundreds of coaching and mentorship hours to these entrepreneurs.
+READ MORE
+DONATE
+Help us reach more women of color entrepreneurs with the capital, access, expertise, and resources they need by donating today to New Voices Foundation.
+With the support of partners, sponsors and individual donors like you, we can help close the funding and revenue gap for them.
+MAKE A DONATION
+JOIN THE FAMILY
+Become a member of the New Voices community of founders and businesses!
+COMPLETE YOUR PROFILE
+RESOURCES
+Here are some resources to help you along your entrepreneurial journey:
+New Voices Learning Lab
+Babson College COVID 19 Resource List
+KeyBank4Women®
+Target Accelerators
+SBA COVID 19 Guidance and Resources
+US Chamber of Commerce
+MEET THE NEW VOICES FAMILY
+PRIVACY POLICY
+CONTACT US
+© New Voices Foundation, LP. All Rights Reserved

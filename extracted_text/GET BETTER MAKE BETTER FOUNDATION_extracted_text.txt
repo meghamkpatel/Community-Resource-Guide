@@ -1,0 +1,132 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0'}
+{'name': 'description', 'content': 'Getting Better Foundation seeks to build trust and empathy through media literacy, scientific research and unimpeachable facts.'}
+{'name': 'robots', 'content': 'index, follow'}
+{'name': 'googlebot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'name': 'bingbot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'property': 'og:url', 'content': 'https://gettingbetterfoundation.org/'}
+{'property': 'og:site_name', 'content': 'Getting Better Foundation'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Getting Better Foundation | Trust Through Media Literacy'}
+{'property': 'og:description', 'content': 'Getting Better Foundation seeks to build trust and empathy through media literacy, scientific research and unimpeachable facts.'}
+{'property': 'og:image', 'content': 'https://e3vgtiyniq4.exactdn.com/wp-content/uploads/2022/07/trust-highway-sing-01.png?strip=all&lossy=1&ssl=1'}
+{'property': 'og:image:secure_url', 'content': 'https://e3vgtiyniq4.exactdn.com/wp-content/uploads/2022/07/trust-highway-sing-01.png?strip=all&lossy=1&ssl=1'}
+{'property': 'og:image:width', 'content': '666'}
+{'property': 'og:image:height', 'content': '400'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Getting Better Foundation | Trust Through Media Literacy'}
+{'name': 'twitter:description', 'content': 'Getting Better Foundation seeks to build trust and empathy through media literacy, scientific research and unimpeachable facts.'}
+{'name': 'twitter:image', 'content': 'https://e3vgtiyniq4.exactdn.com/wp-content/uploads/2022/07/trust-highway-sing-01.png?strip=all&lossy=1&ssl=1'}
+{'property': 'og:title', 'content': 'Home - Getting Better Foundation'}
+{'property': 'og:url', 'content': 'https://gettingbetterfoundation.org/'}
+{'property': 'og:site_name', 'content': 'Getting Better Foundation'}
+{'property': 'og:image', 'content': 'https://e3vgtiyniq4.exactdn.com/wp-content/uploads/2022/07/trust-highway-sing-01.png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home - Getting Better Foundation'}
+{'property': 'twitter:image', 'content': 'https://e3vgtiyniq4.exactdn.com/wp-content/uploads/2022/07/trust-highway-sing-01.png'}
+{'name': 'generator', 'content': 'Powered by WPBakery Page Builder - drag and drop page builder for WordPress.'}
+{'name': 'msapplication-TileImage', 'content': 'https://e3vgtiyniq4.exactdn.com/wp-content/uploads/2022/08/cropped-gbf-favicon.png?strip=all&lossy=1&resize=270%2C270&ssl=1'}
+
+Body Text:
+Getting Better Foundation | Trust Through Media Literacy
+Skip to main content
+facebook
+linkedin
+instagram
+info@gettingbetterfoundation.org
+Hit enter to search or ESC to close
+Close Search
+Menu
+Home
+Documentary
+Advisory Board
+Resources
+Blog
+About Us
+Contact Us
+Chatbot
+Trust Me
+Documentary explores how media technology is influencing society and what we can do about it.
+Play Video
+WATCH TRAILER
+RENT $6.50
+LEARN MORE
+Introducing
+Getting Better Bot
+beta
+Getting Better Bot is an AI-powered chatbot trained on fact-checked media literacy resources from around the world.
+CHAT NOW
+What is the
+issue
+?
+Our world today is safer, healthier and more positive and productive than ever before. Never in history has the per-capita involvement in crime and war been lower. Never have human beings been healthier and better educated.
+Unfortunately, the gap between reality and people’s perceptions is great. Grim views of the world around them deprive people of optimism, generate fear and create a sense of hopelessness. They stifle creativity and innovation, causing society to live and suffer under a pall of negativity. The most damaging effect has been the decline of trust. People who do not trust one another do not help one another. The lack of trust has resulted in stark societal divisions.
+The
+current
+situation…
+If you believe everything you read and hear about crime, violent conflict and poverty, you might think that the world has become a very troubled and dangerous place.
+The facts tell a different story.
+For-Profit Editorial Coverage
+Frequent Exposure to Negative News
+Lack of Media Literacy Education
+What is causing this and
+why
+?
+Editorial coverage motivated primarily or solely by profit
+Many U.S. media outlets meet high journalistic standards. Too many, however, are driven by the need or desire to capitalize on sensational news. Countless outlets give undue weight to stories about crime, conflict and poverty and under-report news of positive human behavior and progress.
+Frequency of exposure to negative news
+“Always on” mobile devices deliver content nonstop from proliferating news sources, crime-related TV shows, blogs, texts, emails and social media (Facebook, Twitter, Snapchat, etc.). As a result, more of us are increasingly exposed to negative and/or false information. Add to that the “click bait” options from “fake news” websites, and it’s easy to see that people are dealing with an unprecedented onslaught of negative, untruthful news. To put it simply: They’re getting hit from all sides, and they need the skills to sift through the rubbish to find reliable information.
+Lack of media literacy education
+Consumers, because of a widespread inability to objectively absorb and weigh news, fail to gather and disseminate truthful information about vital issues. “Alternative facts” and “fake news” are nothing new. Our nation’s freedom of the press has long given publishers, broadcasters and, more recently, writers on social media platforms and fake news sites free rein to make up scandals and conspiracies and to sensationalize their reports.
+These factors are undermining
+trust
+.
+Trust enhances
+empathy
+. Empathy encourages people to
+help
+one another.
+Caring people must learn to
+cope
+with the onslaught of information so that they can best use their
+knowledge
+for the
+common good
+.
+What are we
+doing
+about it?
+Getting Better Foundation seeks to build trust through media literacy. People who trust one another are more likely to help one another. The more people help one another, the better our world will be.
+We’re helping to create a culture of trust built on scientific research and unimpeachable facts, shared in the media and on the ground through a network of advocates who are passionate purveyors of truth.
+We will fight falsehoods with facts. We will beat negativity with positivity and replace suspicion with trust. We will work to spread truth, optimism and a sense of well-being.
+ABOUT US
+Advisor Spotlight
+In Beyond the Trauma Vortex, Gina Ross proposes a collaboration between the media, trauma researchers and helping officials in order to break the vicious cycle of trauma and violence.
+Matt Ridley’s recent book delves into the past to explain how innovation happens – and why we need it.
+“Pinker uses meticulous research to argue that we are living in the most peaceful time in human history.” – Bill Gates
+Paul J. Zak’s new book explains why and how “trust begets trust” and neuroscience proves it.
+Michael Shermer’s new book defends free speech and explores how it influences politics, science and culture.
+Offering a new and thought-provoking look at media literacy education, this powerful book by Belinha S. De Abreu brings together a range of perspectives that address the past, present, and future of media literacy, equity and justice.
+This one-of-a-kind resource by Jimmeka Anderson and Kelly Czarnecki helps readers understand the media literacy challenges and barriers faced by teens in urban communities.
+Bluma Tishgarten and Felix Goldberg were both young Polish Jews caught up in the Holocaust; Adolf Hitler’s rise to power; the rise of anti-Semitism and more. Yet they survived. This graphic novel by Frank W. Baker shares their story.
+Media Literacy in Action by Renee Hobbs brings an interdisciplinary approach to media studies that engages students with a full-color layout, engaging questions to stimulate thoughtful dialogue, contemporary media examples designed to cultivate intellectual curiosity, and much more.
+Center for Media Literacy’s President, Tessa Jolls, sets out to provide a snapshot of current media literacy practices and programs, and to give a context for media literacy education within strategic defense.
+ADVISORY BOARD
+© 2024 Getting Better Foundation. Built by
+Creative Open
+.
+Close Menu
+Home
+Documentary
+Advisory Board
+Resources
+Blog
+About Us
+Contact Us
+Chatbot
+info@gettingbetterfoundation.org
+facebook
+linkedin
+instagram

@@ -1,0 +1,89 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'The Monday Life'}
+{'property': 'og:title', 'content': 'The Monday Life'}
+{'property': 'og:url', 'content': 'http://www.themondaylife.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'The Monday Life is a 501c3 non-profit on a mission to bring the best healing environments to every hospitalized child on the planet.'}
+{'itemprop': 'name', 'content': 'The Monday Life'}
+{'itemprop': 'url', 'content': 'http://www.themondaylife.org'}
+{'itemprop': 'description', 'content': 'The Monday Life is a 501c3 non-profit on a mission to bring the best healing environments to every hospitalized child on the planet.'}
+{'name': 'twitter:title', 'content': 'The Monday Life'}
+{'name': 'twitter:url', 'content': 'http://www.themondaylife.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'The Monday Life is a 501c3 non-profit on a mission to bring the best healing environments to every hospitalized child on the planet.'}
+{'name': 'description', 'content': 'The Monday Life is a 501c3 non-profit on a mission to bring the best \r\nhealing environments to every hospitalized child on the planet.'}
+{'property': 'og:description', 'content': 'The Monday Life is a 501(c)3 non-profit on a mission to make Mondays rock by bringing the best healing environments to every hospitalized child on the planet.'}
+{'property': 'og:title', 'content': 'The Monday Life'}
+
+Body Text:
+The Monday Life
+Intro
+Intro 2
+Campaigns
+Patient Family Support
+environment
+Follow
+Home
+About
+Research
+Need Support?
+Join for Better Mondays
+The Monday Life
+Intro
+Intro 2
+Campaigns
+Patient Family Support
+environment
+Follow
+Home
+About
+Research
+Need Support?
+Join for Better Mondays
+The Monday Life is working with the Hope Portal to help families and advocates discover the best support organizations for pediatric cancer
+Discover nonprofits by diagnosis, need, & location.
+Visit the Hope Portal
+We make every Monday about helping hospitalized children feel better.
+The Monday Life is a 501(c)3 non-profit organization that is 100% volunteer-driven.
+Our community dedicates Mondays to improving the patient environments & experiences of critically-ill children.
+Learn more.
+Donate $1 on Mondays
+Mondays can mean everything
+The Monday Life partners with many organizations including Children's Hospitals and Non-profits to help fulfill our mission to help hospitalized children feel better.
+Help Provide MamaRoo Baby Swings for Hospitalized Babies
+Provide a place for babies to rest & be calmed in the hospital with a MamaRoo Baby Swing for babies at Children's Hospital of Philadelphia
+fulfilled
+Gift the book “Oh, The Places You’ll Go!”
+Gift the book “Oh, The Places You’ll Go!” by Dr. Seuss to healthy babies going home from the NICU. Signed by their clinicians at CHOP.
+fulfilled
+Give a life saving diabetes medical alert bracelet to a child
+Children with insulin dependent diabetes should be wearing these life-saving bracelets at all times. With your support, we can provide for these families at CHOP.
+fulfilled
+Want to become a Partner?
+Learn more if you are a
+Children's Hospital
+or
+Non-Profit
+support & resources for patient families.
+Insurance Help
+Financial Assistance
+support groups
+the patient environment matters.
+research shows that a patient's environment has a tremendous impact on healing. so... things like music, art, and technology can become experiences that actually help each child heal.
+Art Therapy
+Music Therapy
+Technology
+Check out all of our focus areas >
+follow us for better Mondays.
+Back To Top
+need support?
+home
+about
+donate
+privacy
+contact
+© 2021 The Monday Life   |   Your Mondays can rock.

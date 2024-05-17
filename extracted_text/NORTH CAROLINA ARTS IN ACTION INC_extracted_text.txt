@@ -1,0 +1,100 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'ca3294f2-f784-485c-af2a-b0d5f60528e6'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'd0778f36-5284-4783-886a-f18e81a9452b'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1239'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'North Carolina Arts In Action uses dance, music and performance to instill self-esteem, perseverance, and excellence in children.'}
+{'property': 'og:title', 'content': 'Live Dance and Music | North Carolina Arts In Action'}
+{'property': 'og:description', 'content': 'North Carolina Arts In Action uses dance, music and performance to instill self-esteem, perseverance, and excellence in children.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/6a19b6_d6e8e76843d9460da4895ee38331bf2d%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6a19b6_d6e8e76843d9460da4895ee38331bf2d%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.ncartsinaction.org'}
+{'property': 'og:site_name', 'content': 'NC Arts in Action'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'NCArtsinAction'}
+{'name': 'google-site-verification', 'content': '_EZ8YBjgmtrq85x2RxUG8QC6mRUEaBErIyr7P8iVFYE'}
+{'property': 'fb:admins', 'content': 'NCArtsinAction'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Live Dance and Music | North Carolina Arts In Action'}
+{'name': 'twitter:description', 'content': 'North Carolina Arts In Action uses dance, music and performance to instill self-esteem, perseverance, and excellence in children.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/6a19b6_d6e8e76843d9460da4895ee38331bf2d%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6a19b6_d6e8e76843d9460da4895ee38331bf2d%7Emv2.png'}
+
+Body Text:
+Live Dance and Music | North Carolina Arts In Action
+top of page
+HOME
+ABOUT
+BEYOND DANCE
+OUR SPONSORS
+BOARD AND STRATEGIC PLAN
+STAFF
+NATIONAL ASSOCIATE PROGRAMS
+EMPLOYMENT OPPORTUNITIES
+PROGRAMS
+IN-SCHOOL PROGRAMS
+L.E.A.P. PROGRAM
+INFORMATION FOR SCHOOLS AND TEACHERS
+IMPACT
+SUPPORT US
+CAMPAIGN FOR GROWTH
+KEEP 'EM DANCING
+SPONSOR
+DONOR ADVISED FUND
+VOLUNTEER AND IN-KIND
+LIGHTS, CAMERA, PROJECT MANAGEMENT
+VIDEOS
+ARCHIVAL VIDEOS 2018-2019
+ARCHIVAL VIDEOS 2017-2018
+JACQUES d'AMBOISE
+CONTACT US
+Mais...
+Use tab to navigate through the menu items.
+WHAT WE DO...
+Inspiring
+performance.
+Empowering
+children.
+Teaching children life skills
+through dance and music.
+To empower children in elementary schools statewide through dance and live music programs accessible to all students regardless of abilities and socio-economic status.
+Donate To Our Annual Fund
+Gala Photos
+Donate
+Thank You To The Sponsors Who Have Come Aboard with Arts in Action
+Presenting Sponsor...
+NC AIA's Campaign for Growth:
+NC AIA Executive Director Marlon Torres,
+on Placing the Arts at The Center of Children’s Lives
+NC AIA is raising funds to reach more children in Title 1 public schools in the Triangle, and you can help!
+​
+​
+​
+We are thrilled to announce that we have successfully met the Kenan matching grant, thanks to your generous support! We extend our heartfelt gratitude to each and every one of you for making this possible.
+With your continued support, we are now approximately $31,000 away from reaching our total campaign goal of $1.3 million. We are confident that, together, we can achieve this milestone by our deadline on June 30.
+​
+THANK YOU WILLIAM R. KENAN, JR. CHARITABLE TRUST
+for your belief in NC AIA and what we do for Triangle children.
+Learn More
+Donate Now
+INFORMATION FOR SCHOOLS
+North Carolina Arts in Action is a 501 (c)(3) nonprofit dedicated to bringing in-school and after-school dance programs to elementary schools in Orange, Durham and Wake counties in North Carolina. Through fiscal partnerships with individual schools, along with private and public funds, we inspire children through the arts.
+If you are interested in learning more about our programs and how we work with individual schools, please contact Artistic Director, Suzi Landis, at
+suzi.ncartsinaction.org
+or 919-619-0483.
+Children are invited to join the 2023 - 2024 NC Arts in Action LEAP Team season.
+LEAP TEAM
+919.619.0483
+info@ncartsinaction.org
+Mailing Address:
+PO Box 51277
+Durham, NC 27717
+© 2017 North Carolina Arts in Action
+bottom of page

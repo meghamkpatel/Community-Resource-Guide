@@ -1,0 +1,139 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': ''}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'f69f1eda-ad52-4d30-8301-afc845a1da15'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '6df36b33-041c-4371-b07c-53de65c8a5ab'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '5174'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Home | Aldersgate UMC'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/4c124c_d2134d90ecda475590c4ec5fbaf39d90%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4c124c_d2134d90ecda475590c4ec5fbaf39d90%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.aldersgate.net'}
+{'property': 'og:site_name', 'content': 'Aldersgate UMC'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'aldersgatealexandriava'}
+{'property': 'fb:admins', 'content': 'aldersgatealexandriava'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | Aldersgate UMC'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/4c124c_d2134d90ecda475590c4ec5fbaf39d90%7Emv2.png/v1/fit/w_2500,h_1330,al_c/4c124c_d2134d90ecda475590c4ec5fbaf39d90%7Emv2.png'}
+
+Body Text:
+Home | Aldersgate UMC
+top of page
+Online Worship + Bulletins
+Upcoming Events
+Give Now
+Welcome
+Visit Aldersgate
+Employment Opportunities
+Mission + Values
+Strategic Priorities
+Our Pastors and Staff
+Our Leadership Team
+General Conference 2024
+Worship
+Worship Online
+Mobile Check-in
+Nursery
+Worship Uploads
+Events
+Upcoming Events
+Aldersgate Calendar
+Announcement Request
+Facility Use Request
+Engage
+Engage Ministries
+Wellness Program
+Scouts
+Aldersgate Church Community Theater
+Connect
+Join Aldersgate
+Volunteer for Worship
+Music Ministries
+Support Groups
+Equip
+Children's Ministries
+Student Ministries
+Adult Groups & Classes
+Prayer Team
+Social Justice Team
+Creation Care
+Send
+Monthly Mission Focus
+Local Missions & Outreach
+National & International Missions
+United Women in Faith (UWF)
+United Methodist Men (UMM)
+Give
+Give to Aldersgate UMC
+2024 Stewardship Campaign
+Shepherd Hall Mortgage Debt Reduction
+Legacy Giving
+My Aldersgate Realm Login
+Day School
+About Us
+Day School Calendar
+Programs
+Registration
+Pay Online
+Important Links
+Contact Us
+Log In
+Welcome to Aldersgate United Methodist Church!
+"Courageously Living God's Unconditional Love"
+Our Mission
+Worship With Us
+Plan Your Visit
+Upcoming Events
+Submit Announcement Request
+Submit Facility Use Request
+Volunteer for Worship
+Send us a Prayer Request
+GENERAL CONFERENCE 2024 INFORMATION
+Join Us for Sunday Worship
+Contemporary Worship
+9:30am • Sanctuary & Livestream
+Our Contemporary Worship Service features modern/contemporary Christian music led by the Journeys Band.
+Livestream & Bulletin
+Traditional Worship
+11:00am | Sanctuary & Livestream
+Our Traditional
+Worship Service features hymns and traditional worship music from our Wesley Choir and Casavant organ.
+Livestream & Bulletin
+H
+OLY
+W
+EEK AT
+A
+LD
+ERS
+GATE
+UMC
+Holy Week • March 24th - 30th
+Palm Sunday | March 24th| 9:30am & 11am Worship
+Maundy Thursday | March 28th | 7pm Worship
+(No Nursery)
+Good Friday | March 29th | 7pm Worship
+(No Nursery)
+Livestream will be available for all services
+Easter Sunday • March 31st
+6:30am | Sunrise Service on the Front Lawn
+(No Nursery)
+9:30am | Contemporary Worship
+11:00am | Traditional Worship
+Livestream will be available for 9:30am & 11am Services
+MORE LENT & EASTER RESOURCES & INFORMATION
+VOLUNTEER FOR WORSHIP - LENT & EASTER
+1301 Collingwood Road, Alexandria, VA 22308
+office@aldersgate.net
+p:
+(703) 765 6555   f: (703) 765 5841
+© 2021 Aldersgate UMC
+Subscribe
+bottom of page

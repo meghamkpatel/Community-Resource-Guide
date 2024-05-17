@@ -1,0 +1,284 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'author', 'content': 'Little League'}
+{'http-equiv': 'cleartype', 'content': 'on'}
+{'name': 'HandheldFriendly', 'content': 'True'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'apple-mobile-web-app-title', 'content': ''}
+{'name': 'application-name', 'content': 'Little League'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Founded in 1939, Little League Baseball and Softball is the world’s largest organized youth sports program, with millions of players and more than one million adult volunteers in every U.S. state and more than 80 other countries.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Little League Baseball and Softball'}
+{'property': 'og:description', 'content': 'Founded in 1939, Little League Baseball and Softball is the world’s largest organized youth sports program, with millions of players and more than one million adult volunteers in every U.S. state and more than 80 other countries.'}
+{'property': 'og:url', 'content': 'https://www.littleleague.org/'}
+{'property': 'og:site_name', 'content': 'Little League'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/littleleague/'}
+{'property': 'article:modified_time', 'content': '2024-04-29T20:21:42+00:00'}
+{'property': 'og:image', 'content': 'https://res.cloudinary.com/little-league/image/upload/c_fill,dpr_auto,h_630,w_1200/v1591449941/one-team-one-little-league-feature-5edb99553337e.jpg'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@LittleLeague'}
+{'name': 'generator', 'content': 'WordPress 6.4.3'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://www.littleleague.org'}
+{'name': 'msapplication-TileImage', 'content': 'https://res.cloudinary.com/little-league/image/upload/v1591448117/ms-icon-144-5edb9234f02b8.png'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'theme-color', 'content': '#ffffff'}
+
+Body Text:
+Little League Baseball and Softball
+Skip to main content
+Little League
+Search
+Menu
+Quick Links
+Resources For:
+Parents
+Play Little League®
+Playing Rules
+League Finder
+Player Safety
+Menu
+Search
+Search This Site
+Search
+Privacy Policy Update:
+We’ve made changes to the
+Little League Privacy Policy
+. Please take a few minutes to review these important updates.
+Regular Season Pitching Rules
+Review pitch count breakdowns by league age and days’ rest thresholds for each division of play.
+Pitching Rules
+MLB Little League® Days to Include Minor League Opportunities Starting in 2024
+Read More
+Swing Big with these Products, Promotions, and Information from the Official Sponsors of Little League
+®
+Explore Promotions
+DON’T GET CAUGHT LOOKING, LITTLE LEAGUE
+®
+.
+THE DERBY IS HERE.
+The 2024 T-Mobile Little League® Home Run Derby is just getting started and your league can get in on the action.
+Register today to host a local competition and score a free toolkit while supplies last.
+Registratin ends 6/23.
+Register Now
+Presented By
+The Basics video series shares the fundamentals of the game, from learning how to run the bases to learning how throw a ball.
+Watch The Basics
+Girls with Game 50 (#GWG50) Celebration
+As the calendar turns to a new year for communities all around the world, the official kickoff of the Little League® Girls with Game® 50 (#GWG50) Celebration is underway as we join together to honor the incredible
+Girls with Game
+who have changed our game and look to
+inspire the next generation to step up to the plate
+. The #GWG50 celebration is proudly supported by DICK’S Sporting Goods, a long-time Little League partner that is committing to creating opportunities for girls and women in sports and will be activating for this celebration around key events and milestones this year.
+#GWG50 Spotlights
+Image of Kevin Fountain
+Kevin
+Fountain
+Kevin Fountain
+Read More
+Image of Heather Tarr
+Heather
+Tarr
+Heather Tarr
+Read More
+Image of Coco Gauff
+Coco
+Gauff
+Coco Gauff
+Read More
+Image of Melissa Shaffer
+Melissa
+Shaffer
+Melissa Shaffer
+Read More
+Image of Lisa Uber
+Lisa
+Uber
+Lisa Uber
+Read More
+Image of Becky Bassett
+Becky
+Bassett
+Becky Bassett
+Read More
+Image of Abby Wambach
+Abby
+Wambach
+Abby Wambach
+Read More
+Image of Michele Smith
+Michele
+Smith
+Michele Smith
+Read More
+Image of Hannah James
+Hannah
+James
+Hannah James
+Read More
+Image of Serena Williams
+Serena
+Williams
+Serena Williams
+Read More
+View All GWG News
+#GWG50 Celebration
+Come Join Our World Series Team!
+Little League® International is hiring temporary team positions for the Little League Baseball® World Series from August 14 through August 25, 2024. Flexible scheduling to accommodate day, evening and weekend shifts. There are many valuable players that make up our team!
+Marketing Resident
+Courtesy Shuttle Drivers
+Event Staff
+Laundry & Housekeeper
+Recreation Hall Attendant
+Retail Staff
+View All World Series Positions
+Little League® Resource Guide
+Little League® operations are ongoing throughout the year, regardless of where your league is located. To help League Administrators oversee and prioritize its schedule, the Resource Guide will help guide the activities that should be accomplished during the “
+play
+” portion of the season, and what there is to “
+prepare
+” for in the offseason. Developed in coordination with the
+Little League® Resource Guide
+,
+training courses
+have been created to provide an overview of administrative responsibilities and best practices based on the seasonality of the local league.
+Resource Guide
+The Little League Resource Guide provides resources and direction to leagues based on the seasonality of the Little League program.
+Download
+Courses
+Prepare
+Preparing for the season includes the administrative responsibilities associated with operating your local league.
+Prepare
+Course
+Play
+The eligibility of players and the education of volunteers are crucial to a safe and rewarding Little League experience.
+Play
+Course
+Resource Guide Quick Tips Videos
+Card image
+1:36
+Resource Guide Quick Tip: Tournament Play
+Card image
+1:37
+Resource Guide Quick Tip: Annual Meetings and Elections
+Card image
+2:00
+Resource Guide Quick Tip: Local League Communication and Promotions
+Card image
+2:03
+Resource Guide Quick Tip: Patches
+Card image
+2:30
+Resource Guide Quick Tip: Parent Communication and Engagement
+Card image
+1:39
+Resource Guide Quick Tip: Background Checks
+Card image
+2:03
+Resource Guide Quick Tip: Local League Sponsorship
+Card image
+2:32
+Resource Guide Quick Tip: Fundraising
+Card image
+1:44
+Resource Guide Quick Tip: Manager Selection
+Card image
+2:00
+Resource Guide Quick Tip: Interleague Play
+Card image
+1:39
+Resource Guide Quick Tip:  Rulebooks and App
+Card image
+1:41
+Resource Guide Quick Tip: Draft Methods
+Card image
+1:43
+Resource Guide Quick Tip: Registration
+Card image
+2:39
+Resource Guide Quick Tip: Volunteer Recruitment
+Card image
+2:11
+Resource Guide Quick Tip: Player Recruitment
+View All Videos
+Age Charts
+The Little League Baseball®, Little League Softball®, and Little League Challenger Division® age charts determine the league age of a player according to the year and month of their birth.
+Baseball
+2024 Baseball Age Chart
+.pdf
+Softball
+2024 Softball Age Chart
+.pdf
+Challenger
+2024 Challenger Age Chart
+.pdf
+Latest News
+Museum
+Upcoming Summer Hours and Specials at the World of Little League Museum® and Little League® Main Gift Shop
+May 14, 2024
+The World of Little League Museum® and the Little League® Main Gift Shop, located on the Main Concourse behind Howard J. Lamade Stadium, have announced their upcoming specials and hours […]
+Read more
+Softball
+Little League® Gearing Up for the Most Memorable “Summer of Softball” to Date
+May 14, 2024
+General
+Michele Marquardt Named Little League® Executive Assistant to the EVP and Chief Marketing and Business Relationship Officer
+May 13, 2024
+View All News
+Featured Videos
+Growing Females in Coaching
+Recap: CA defeats CW, 6-5
+First Athletes Unlimited Pro Game at the Little League Softball® World Series!
+Card image
+7:56
+Little League International Tournament Affidavit Tutorial
+Card image
+1:57
+#GWG50 - What Advice Do You Have For Young Female Athletes?
+Card image
+1:16
+Little League x DSG - The Basics: Gloves
+Card image
+1:35
+Little League x DSG - The Basics: Helmets
+Card image
+1:37
+Little League x DSG - The Basics: Cleats
+Card image
+1:34
+Little League x DSG - The Basics: Bats
+Card image
+1:24
+Little League x DSG - The Basics: Apparel
+Card image
+1:36
+Resource Guide Quick Tip: Tournament Play
+Card image
+1:41
+GWG50 Pep Talks: Jessica Mendoza
+Card image
+0:27
+Little League Softball® World Series Remains in Greenville Though 2027
+View All Videos
+Little League - Character, Courage, Loyalty
+Follow us on Facebook
+Follow us on Instagram
+Follow our RSS
+Follow us on X
+Follow us on YouTube
+Contact us
+Secondary Navigation
+Careers
+Contact
+DMCA
+Privacy Policy
+Trademarks
+Copyright © 2003-2024
+Little League
+.
+All Rights Reserved.

@@ -1,0 +1,30 @@
+Meta Information:
+{'property': 'og:site_name', 'content': 'Celebración Osvaldo Diaz Ministries'}
+{'property': 'og:title', 'content': 'Celebración Osvaldo Diaz Ministries'}
+{'property': 'og:description', 'content': 'Jueves: 7:30pm \u200bDomingo: 5:30pm'}
+{'property': 'og:image', 'content': 'https://www.celebracionodm.org/uploads/1/3/1/1/131152406/published/name-codm-logo.png?1583686138'}
+{'property': 'og:image', 'content': 'https://www.celebracionodm.org/uploads/1/3/1/1/131152406/imagen-1.png'}
+{'property': 'og:url', 'content': 'https://www.celebracionodm.org/'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+Celebración Osvaldo Diaz Ministries - Inicio
+Inicio
+Acerca de
+Contacto
+DAR
+​
+Bienvenido
+Gracias por visitar nuestro sitio, bendecimos su vida y familia.
+​
+Creemos que usted se encuentra aqui y ahora determinado por la mano de Dios.
+¡Haga de nuestra iglesia su hogar, le esperamos!
+¡Nos Encantaría Que Nos Visites Pronto!
+Reuniones:
+Jueves: 7:30pm
+​Domingo: 5:30pm
+Inicio
+Acerca de
+Contacto
+DAR

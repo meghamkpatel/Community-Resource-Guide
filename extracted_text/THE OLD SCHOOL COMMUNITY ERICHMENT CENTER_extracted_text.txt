@@ -1,0 +1,102 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Old School Community Center'}
+{'property': 'og:title', 'content': 'Old School Community Center Wilmington VT'}
+{'property': 'og:url', 'content': 'https://www.osccvt.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5edd4ddab8b71f40bdae2326/t/5fe8dbeb48c30047e645246d/1609096174547/24796624_128486794514801_2344080564077844234_n.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '607'}
+{'property': 'og:image:height', 'content': '607'}
+{'itemprop': 'name', 'content': 'Old School Community Center Wilmington VT'}
+{'itemprop': 'url', 'content': 'https://www.osccvt.com'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5edd4ddab8b71f40bdae2326/t/5fe8dbeb48c30047e645246d/1609096174547/24796624_128486794514801_2344080564077844234_n.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5edd4ddab8b71f40bdae2326/t/5fe8dbeb48c30047e645246d/1609096174547/24796624_128486794514801_2344080564077844234_n.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'Old School Community Center Wilmington VT'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5edd4ddab8b71f40bdae2326/t/5fe8dbeb48c30047e645246d/1609096174547/24796624_128486794514801_2344080564077844234_n.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.osccvt.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Old School Community Center Wilmington VT
+0
+Skip to Content
+Old School Community Center
+Calendar
+Support Us
+Donate
+Sponsor a Brick
+Volunteer
+Art In The Valley Application
+Projects
+Cafeteria Renovations
+Bathroom Renovations
+Heating System Upgrades
+Our Vision
+Tenants
+Open Menu
+Close Menu
+Old School Community Center
+Calendar
+Support Us
+Donate
+Sponsor a Brick
+Volunteer
+Art In The Valley Application
+Projects
+Cafeteria Renovations
+Bathroom Renovations
+Heating System Upgrades
+Our Vision
+Tenants
+Open Menu
+Close Menu
+Calendar
+Folder:
+Support Us
+Back
+Donate
+Sponsor a Brick
+Volunteer
+Art In The Valley Application
+Folder:
+Projects
+Back
+Cafeteria Renovations
+Bathroom Renovations
+Heating System Upgrades
+Our Vision
+Tenants
+Enriching the Deerfield Valley
+“To inspire enrichment, wellness, social and economic opportunities in the Deerfield Valley.”
+Old School Community Center in downtown Wilmington Vermont is an important community and economic hub for the entire valley. We offer event and class spaces, meeting rooms and a full size gymnasium.  Our facilities are used, in many cases free of charge, by a large variety of groups and organizations. We host Valley Youth Sports, senior activities, group learning collaboratives, fundraisers and much more. Our facilities are also made available as an emergency center, polling place, food distribution center and much more.
+In addition we offer reasonably priced commercial space for offices, light manufacturing, food production, counseling services and other commercial applications.
+Our Community Center is funded by our tenants, some municipalities and the generous donations of our supporters.
+Click for more information!
+Contact
+Feel free to contact us with any questions.
+Email
+megstreeter.realestate@gmail.com
+Phone
+Name
+*
+First Name
+Last Name
+Email
+*
+Message
+*
+Thank you!
+Old School Community Center
+1 School Street
+Wilmington, VT 05363
+About
+Our Vision
+Donate
+﻿
+Our Team
+Projects
+Cafeteria Renovations

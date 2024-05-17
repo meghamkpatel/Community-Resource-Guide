@@ -1,0 +1,88 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@caring_house'}
+{'name': 'twitter:title', 'content': 'Home | Caring House'}
+{'name': 'twitter:description', 'content': ''}
+{'name': 'twitter:image', 'content': 'https://e1.nmcdn.io/caringhouse/wp-content/uploads/2022/02/logo.jpg/v:1-width:1200-height:630-fit:cover/logo.jpg?signature=cd616f9f'}
+{'property': 'og:site_name', 'content': 'Caring House'}
+{'property': 'og:url', 'content': 'https://caringhouse.org/'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Home | Caring House'}
+{'property': 'og:description', 'content': ''}
+{'property': 'og:image:url', 'content': 'https://e1.nmcdn.io/caringhouse/wp-content/uploads/2022/02/logo.jpg/v:1-width:1200-height:630-fit:cover/logo.jpg?signature=cd616f9f'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'name': 'google-site-verification', 'content': '3264309634'}
+
+Body Text:
+Home | Caring House
+Skip to Main Content
+About Us
+Back
+Who We Are
+Our Team
+Stay With Us
+Back
+See Our Home
+Before You Arrive
+During Your Stay
+Get Involved
+Back
+Support Us
+Volunteer
+Provide a Meal
+Wish List
+Our Partners
+News
+Expansion Campaign
+Donate
+More than just a house –
+it’s HOME
+Stay With Us
+Support Caring House
+Make A Donation
+Get Involved
+Become A Part Of The Family
+Slide 1
+Slide 2
+Slide 3
+Sign Up For Our Newsletter
+Email Address
+Welcome Home!
+Caring House provides patients at Duke Cancer Institute with peace of mind through affordable housing, a healing environment, and a positive and supportive community.
+Learn More About Who We Are
+See Our Home
+Featured
+The Power of Oncological Massage for Cancer Patients
+Since 2017, local massage therapist Nick Ngo has been coming to Caring House weekly to provide oncological massages to our guests. As just one part of the healing guest programming we offer at Caring House, our oncological massages are an amazing opportunity for patients who are going through treatment and in need of some relaxation. Even our guests’ caregivers are able to have a moment of healing with a massage from Nick.
+Read more
+Latest News
+View All News
+The Power of Oncological Massage for Cancer Patients
+Apr 19, 2024
+Guest Story: Unexpected Light
+Mar 27, 2024
+Guest Story: Open Doors
+Mar 12, 2024
+Support Our Home
+Become a Volunteer
+Support Our Mission
+Donate to Caring House
+Caring House
+2625 Pickett Rd.
+Durham, NC 27705
+Phone
+(919) 490-5449
+Fax
+(919) 493-8044
+Sign Up For Our Newsletter
+Email Address
+twitter
+facebook
+instagram
+youtube
+Copyright © 2024 Caring House. All rights reserved.
+Nonprofit Web Design
+by NMC

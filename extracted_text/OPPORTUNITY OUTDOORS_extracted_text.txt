@@ -1,0 +1,67 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Opportunity Outdoors'}
+{'property': 'og:title', 'content': 'Opportunity Outdoors'}
+{'property': 'og:url', 'content': 'https://www.opportunityoutdoors.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/6498ef3bed61965cf5da405e/t/64d30a02b7110722cac99d36/1691552258506/OOlogo_Hat2.png?format=1500w'}
+{'property': 'og:image:width', 'content': '190'}
+{'property': 'og:image:height', 'content': '179'}
+{'itemprop': 'name', 'content': 'Opportunity Outdoors'}
+{'itemprop': 'url', 'content': 'https://www.opportunityoutdoors.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/6498ef3bed61965cf5da405e/t/64d30a02b7110722cac99d36/1691552258506/OOlogo_Hat2.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/6498ef3bed61965cf5da405e/t/64d30a02b7110722cac99d36/1691552258506/OOlogo_Hat2.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Opportunity Outdoors'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/6498ef3bed61965cf5da405e/t/64d30a02b7110722cac99d36/1691552258506/OOlogo_Hat2.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.opportunityoutdoors.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Opportunity Outdoors
+0
+Skip to Content
+Home
+Who We Are
+Events
+Updates
+Contact
+Donate
+Open Menu
+Close Menu
+Home
+Who We Are
+Events
+Updates
+Contact
+Donate
+Open Menu
+Close Menu
+Home
+Who We Are
+Events
+Updates
+Contact
+Donate
+Opportunity Outdoors
+HUNT  |  FISH | MENTOR
+DONATE NOW
+Mentorship In The Outdoors
+For ages, the hunting and angling tradition has been passed down from one generation to the next. Under the watchful eyes of family or friends, many were taught the tricks of the trade with a neighbor’s 12 gauge or grandpa’s spinning reel. Yet, there a countless others who didn’t grow up in the outdoors, but take a strong interest in the self-reliance, connection to wild places, and nourishment that it can provide.
+Opportunity Outdoors is a nonprofit that connects emerging hunters and anglers with mentors. Through in person events like hunts, scouts, and range days we help mentees increase their knowledge and gain confidence in the field.
+Inspired by the North American model of conservation we recognize the historic role of sportsmen and women in protecting our natural resources. Opportunity Outdoors aims to bring new conservationists into the fold by taking the first steps into the woods beside them.
+Who Are We?
+Opportunity Outdoors was born out of a love of the outdoors. Learn more about our mission, conservation, and how you can help.
+Learn more
+Get Involved!
+Are you ready to take the next step into the outdoors? Would you like to help mentor at one of our upcoming events?
+Contact Us
+Subscribe
+Sign up with your email address to receive our monthly newsletter. It is the best way to see all of our upcoming events!
+Email Address
+Sign Up
+Thank you!
+Supporting Partners

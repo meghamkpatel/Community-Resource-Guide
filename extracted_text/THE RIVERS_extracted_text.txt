@@ -1,0 +1,17 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+Access Denied - Error Loading Page
+Blackbaud | Custom Error 418
+This site is protected by an enhanced security system to ensure a safe browsing experience. While rare, occasionally our onMessage Shield can block legitimate traffic. You are seeing this page because an action you took violated a Security Rule.
+The most likely causes of this message are:
+You have performed an action on one of our sites that was blocked because it violated a Security Rule, but should have been allowed. This is known as a false positive. If you think it was a false positive, please contact Support through your School Administrator and report the time that it ocurred and the steps to cause the error. These are monitored closely and fixed ASAP even if not reported.
+You have performed an action on one of our sites that was blocked because it violated a Security Rule and was correctly blocked. In that case, you probably know what you did and we ask you kindly to refrain from taking those actions. All violations are logged.
+Blackbaud K-12 conducts routine maintenance during a weekly maintenance and testing window on Saturdays from 12:00AM â 6:00AM ET. If you receive this message during that window that is the likely cause.
+If you receive this message any other time please check our Corporate Status and Maintenance pages:
+https://status.blackbaud.com/
+https://maintenance.blackbaud.com/
+K-12 onMessage SHIELD
+Blackbaud K-12  ::  6 Bedford Farms Dr.  ::  2nd Fl, East Wing  ::  Bedford, NH 03110

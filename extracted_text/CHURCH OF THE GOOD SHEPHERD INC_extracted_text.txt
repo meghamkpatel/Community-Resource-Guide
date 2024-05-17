@@ -1,0 +1,136 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.goodshepherd-augusta.org/wp-content/themes/goodshepherd2019/images/ms-icon-144x144.png'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'name': 'description', 'content': 'Augusta, GA'}
+{'name': 'description', 'content': "A People of Purpose at church of the good shepherd, we desire to join with god in his redemptive mission in the world. 8:00 am • 10:00 am* • 6:00 pm * live-streamed to YouTube and Facebook and nursery is provided PUBLICATIONS The Shepherd's Fold is a weekly e-publication filled with the latest stories and events"}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.6.2'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Church of the Good Shepherd - Augusta, GA'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Church of the Good Shepherd'}
+{'property': 'og:description', 'content': "A People of Purpose at church of the good shepherd, we desire to join with god in his redemptive mission in the world. 8:00 am • 10:00 am* • 6:00 pm * live-streamed to YouTube and Facebook and nursery is provided PUBLICATIONS The Shepherd's Fold is a weekly e-publication filled with the latest stories and events"}
+{'property': 'og:url', 'content': 'https://www.goodshepherd-augusta.org/'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home - Church of the Good Shepherd'}
+{'name': 'twitter:description', 'content': "A People of Purpose at church of the good shepherd, we desire to join with god in his redemptive mission in the world. 8:00 am • 10:00 am* • 6:00 pm * live-streamed to YouTube and Facebook and nursery is provided PUBLICATIONS The Shepherd's Fold is a weekly e-publication filled with the latest stories and events"}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'google-site-verification', 'content': 'W9EdMh5Kc02MOrffFfpQItZNsDmNrAeikjGadZ6oBvo'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://www.goodshepherd-augusta.org'}
+
+Body Text:
+Home - Church of the Good Shepherd
+About
+Back
+Parish Profile
+Our Beliefs
+Our History
+Staff
+Vestry
+Tour
+School (EDS)
+Membership
+Worship
+Ministries
+Back
+Pastoral Care
+Children
+Students
+Adult
+Music
+Outreach
+Schedules
+Media
+Back
+Shepherd’s Fold
+Newsletter Archives
+Give
+Calendar
+About
+Parish Profile
+Our Beliefs
+Our History
+Staff
+Vestry
+Tour
+School (EDS)
+Membership
+Worship
+Ministries
+Pastoral Care
+Children
+Students
+Adult
+Music
+Outreach
+Schedules
+Media
+Shepherd’s Fold
+Newsletter Archives
+Give
+Calendar
+A People of Purpose
+at church of the good shepherd,  we desire to join with god in his redemptive mission in the world.
+8:00 am • 10:00 am
+* •
+6:00 pm
+* live-streamed to
+YouTube
+and
+Facebook
+and nursery is provided
+PUBLICATIONS
+The Shepherd’s Fold
+is a weekly e-publication filled with the latest stories and events at Good Shepherd.
+What's Happening?
+Events and services happen almost every day. There's something here for every age and life stage.
+Guests
+New to Good Shepherd?
+We can’t wait to meet you! Join us this Sunday for one of our worship services.
+give online
+Giving is first and foremost about our relationship with God. Our mission is to be faithful stewards of the resources God blesses us with, and trust Him to multiply them.
+Parish Profile
+Back to the Bible
+Find all of your Back to the Bible tools and resources here!
+Our Purpose
+We will
+join God in His redemptive mission in the world. We humbly and prayerfully seek His grace in this journey, which honors Jesus Christ as the center of our communal, familial and individual lives.
+We will
+offer our lives as active partners in God’s mission, remembering that we are people blessed with an amazing array of gifts and abilities to bless others.
+We will
+grow in our discipleship and our willingness to encourage others in their own discipleship of Christ.
+We will
+seek out those who are lost or left out for caring service and to hear Good News of Jesus, the Good Shepherd.
+We will
+stand on an Anglican heritage and traditions that guide and shape our common life, ministry and mission.
+We will
+sustain children and young people and their families, and those of every generation, striving together to know, love and serve our Lord Jesus.
+Our Beliefs
+Sign up for
+The Shepherd’s Fold
+, our weekly e-newsletter filled with the latest events, updates, weekly series and more.
+Name
+Please enter your name.
+Email Address
+Please enter a valid email address.
+Subscribe!
+Thanks for subscribing! Please check your email for further instructions.
+Something went wrong. Please check your entries and try again.
+About Us
+Worship
+Membership
+Beliefs
+resources
+Give
+Calendar
+Sermons
+contact
+2230 Walton Way,  Augusta, Ga. 30904
+(706) 738-3386
+Send us an email
+©2024 Church of the Good Shepherd. All Rights Reserved.

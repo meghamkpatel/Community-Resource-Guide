@@ -1,0 +1,227 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'Durham Rescue Mission / former Fuller Memorial Presbyterian, 10.02.10 The former church building on the northeast corner of N. Alston and East Main St. was erected by the Fuller Memorial Presbyterian Church in 1928.'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'property': 'latitude', 'content': '35.987529'}
+{'property': 'longitude', 'content': '-78.887404'}
+
+Body Text:
+Fuller Memorial Presbyterian / Durham Rescue Mission | Open Durham
+Skip to main content
+User account menu
+Log in
+Register
+Contribute Content
+Main navigation
+Open mobile menu
+Neighborhoods
+People & Places
+Tours
+About
+Support
+Fuller Memorial Presbyterian / Durham Rescue Mission
+35.987529, -78.887404
+1201
+East Main Street
+Durham
+NC
+Cross Street
+North Alston Avenue
+Year built
+1928
+Neighborhood
+Edgemont
+Morning Glory
+Use
+Church
+Rescue Mission
+Building Type
+Church
+Can you help?
+You don't need to know everything, but
+do you know the architect?
+Log in
+or
+register
+and you can edit this.
+Durham Rescue Mission / former Fuller Memorial Presbyterian, 10.02.10
+The former church building on the northeast corner of N. Alston and East Main St. was erected by the Fuller Memorial Presbyterian Church in 1928.
+The church began as a Sunday School mission in 1892 serving the community that arose around the
+Commonwealth Cotton Mill
+. At the turn of the century, the construction of the
+Durham Hosiery No. 1
+and the
+Golden Belt Manufacturing Company
+further increased the population around the mission.
+In 1909, the mission was organized into the Edgemont Presbyterian Church by the Orange Presbytery, and a frame building was erected on the northeast corner of N. Alston and E. Main Sts. In ~1924, this building was torn down to allow for the construction of a new masonry structure, and the congregation was renamed the Fuller Memorial Presbyterian Church in honor of TB Fuller.
+A fuzzy Bird's Eye view looking northwest, showing Fuller Memorial in the mid 1950s
+(Courtesy Herald-Sun)
+Aerial of the church and the adjacent Golden Belt / Morning Glory mill village, 1959.
+(Courtesy Durham County Library)
+In 1974, the church sold the building and moved to a new location at the corner of Pleasant Drive Extension and Mineral Springs Road; it began services at that location in 1977 and is still active.
+The building was purchased by Ernie Mills and his wife, who had founded the Durham Rescue Mission in 1974.
+Aerial of the Rescue Mission and mill village, 2010.
+The Rescue Mission has provided a steady beacon of support for homeless members of the Durham community; per a recent press release, they "provided 232,653 meals and served 1,077 different men, women and children..." during 2010. More information about the size and scope of the organization is contained in their
+last tax return filing
+and
+on their website
+.
+For the last several years, the Rescue Mission has been making big plans to expand - with what Ernie Mills recently dubbed a "God-size project" - purchasing a large number of parcels/houses in the Golden Belt / Morning Glory mill village to the north of the church and seeking donations for expansion.
+Rescue Mission-owned parcels in the Golden Belt / Morning Glory neighborhood, 2010.
+It became clearer that the Rescue Mission planned to move ahead with their plans late in 2010, when they applied to rezone the residential parcels they own. Plans submitted to the City / County Planning department with the rezoning demonstrated several worrisome elements to neighbors. The scale had grown considerably from the single multipurpose building discussed in previous years; it now stretched over portions of five city blocks, involved the demolition of 9 houses in historic district, and contemplated the closing of two streets, creating a fenced/gated facility stretching over three blocks.
+Initial Rescue Mission plans.
+I attended a meeting between concerned neighbors and the leadership of the Durham Rescue Mission, in which the neighbors made clear their opposition to the street closings, the demolition of 9 houses in the Golden Belt historic district, and the compound-like land use planning intended by the Rescue Mission. All expressed support for the Rescue Mission expanding their footprint and/or services.
+The Rescue Mission said they would consider these concerns carefully; they then promptly hired attorneys K&L Gates to represent their interests in the rezoning and submitted the following plans to the planning department:
+Rescue Mission Expansion plans, December 2010
+Phasing plan, December, 2010.
+Plan overlaid on Google satellite imagery, 2010
+The Rescue Mission's support for the widening of Alston Avenue seems a bit less befuddling now. Pedestrian flow from east to west through these blocks clearly is not a priority in these plans. I have to admit, I was disappointed by the Rescue Mission's lack of support as members of the immediate neighborhood (and beyond) tried to fend off the NCDOT widening of Alston, and felt a bit of "you reap what you sow" when an NCDOT environmental justice finding meant that the roadway would shift to the east, avoiding the demolition of
+Los Primos - the only grocery store in the area
+- by taking some of the Rescue Mission's land intended for their project.
+However, the Rescue Mission immediately began seeking support to move the roadway back through Los Primos. Then the city became fully engaged in locating an
+alternative site for a grocery store
+so that NCDOT could still demolish Los Primos - which did not come to fruition. The last deal on the table seems to preserve both the RM plans and Los Primos, by cutting the roadway extremely close to the grocery store on the west side. Your guess is as good as mine as to whether that's the last iteration.
+The Rescue Mission continues to push forward with a petition to close Morning Glory Avenue - which connects Golden Belt at East Main St. with 'Old' East Durham at N. Hyde Park - and Worth Streets, as well as a rezoning. Just yesterday, 01/19/11, it was announced that they had received $800,000 in grant funding to move forward with the first phase of their project.
+So is it still possible to come up with a solution that furthers the goals of both the neighborhood and the Rescue Mission? I think so, but it's going to require a willingness to find creative solutions, rather than steadfast adherence to a pre-determined plan.
+One of the more frustrating aspects of land use planning (and governance in general) is that - for all the data, plans, guidelines, etc. out there - decisions generally come down to an emotional appeal. It's easy in these situations to conflate the mission and the implementation; groups that broadly work to serve the community - albeit for a salary - generally work to create such conflations when they need political action. I.e., this isn't about a rezoning, it's about saving lives. Do we really care more about saving historic housing than feeding the hungry? Would we deny site plan approval and put homeless people out on the street? I've had the old "he cares about houses, not people" trotted out on me before.
+We can see the effectiveness of this kind of tactic in the street closure the city voted for on behalf of Greystone Baptist back in November 2010. Despite the fact that the closure (and demolition of mill housing in West Durham) violated the small area plan that the city/county planning department had put together with the neighborhood, the city voted for the closure because Greystone proffered that the closure would allow them to expand day care options in West Durham. So the question becomes - will you really vote against the children of Durham?
+Of course these tactics are not intellectually honest, but most businesses - private, university, 501c3, etc. - politicking for their projects aren't interested in win-wins - just wins. If the groups are non-profits, the city is allowing people to wallow in sin/homelessness/ill health/obesity/etc. If they are for-profits, the city is throwing away jobs, tax revenues, directly funded civic improvements, and corporate prestige.
+But all of that aside, this is terrible land planning - the worst of it represented by closing streets that connect the neighborhood - antithetical to the principles laid out in the HOPE VI revitalization plan for the neighborhood over 10 years ago, which sought to break down the "superblock" of Few Gardens to provide increased connectivity and integration in the neighborhood; closing two public right-of-ways and creating a fenced 'campus' over three blocks re-establishes what the community sought to reverse. Per the revitalization plan:
+"B. A Connected Neighborhood
+North East Central Durham must overcome not only its isolation from the surrounding community but also the isolation experienced by pockets within the neighborhood. To do so, the design must establish street patterns that physically connect the neighborhood internally and to adjacent areas. This involves breaking oversize blocks into a more regular street grid and aligning intersections and streets to establish a predictable pattern to the neighborhood. Reconnecting the neighborhood also requires invigorating vacant or desolate spaces that create psychological distance."
+The creation of a 'wall' on the east side of Alston Avenue (combined with the Rescue Mission's desire to close two streets - Morning Glory and Franklin, NCDOT plans to close another - Wall - as a part of the Alston widening) will compound the isolation of east-of-Alston from west-of-Alston perpetrated by the widening of Alston Avenue. Creating this kind of barrier has never portended good things for neighborhoods and communities. Although the orientation of the buildings isn't laid out here, the smart money says that, with a fence around the perimeter, they'll be oriented towards the internal parking lot.
+Not to mention that demolishing 9 of the historic mill houses in the Golden Belt-Morning Glory National Register Historic District not only destroys the historic framework and stock of the mill village, but removes incentives to homeowners to move into and revitalize those historic houses through state historic tax credits. Golden Belt is the most intact combination of original mill and mill village that remains in Durham, despite the heavy losses it has suffered over the past 25 years.
+I'll give benefit of the doubt that part of the plan is simply an inability on the part of the Rescue Mission's directors to acknowledge that the investment in the neighborhood by the Durham Housing Authority, the city (Eastway Village,) Habitat, Scientific Properties, and any number of individuals has dramatically changed this neighborhood for the better. When asked by an immediate neighbor why the Rescue Mission felt the need to fence their campus rather than integrating it with the neighborhood, Ernie Mills said, without irony, "there are a lot of bad influences out there." Just five years ago, he would have been right; but through the collective effort of many people in the community - including the Rescue Mission - the neighborhood has drastically changed for the better. Creating a growing Rescue Mission that brings in, rather than shuts out their neighbors, I would argue, is the best thing not just for the neighbors, but for the people that the Rescue Mission serves. It's the model of integration that the North-East-Central Durham revitalization plan sought, and many have worked to implement. We all benefit from creating a safe and vibrant community for one another - not from shutting ourselves inside high fences and absolving ourselves of responsibility outside those gates.
+I hope the Rescue Mission will shelve their lobbyists and attorneys and have a real give-and-take dialogue with the neighbors - where I am convinced a win-win for both 'sides' can be hammered out; it won't look like what the Rescue Mission has proposed, but it will serve the entire community better.
+If they won't go willingly (which it appears they won't,) I hope the city council has the courage to stand up to the dichotomies that the Rescue Mission/K&L Gates will propose, and insist upon a solution negotiated with the neighborhood. Because right now, the Rescue Mission seems determined to push their plans through with demolitions, fences, and street closures, and battle lines have been drawn - such that the Rescue Mission is opposing the neighborhood's desire to designate the National Register Historic District as a local historic district, and the neighbors have filed a protest petition over the Rescue Mission's rezoning.
+I wish the council members courage on this one, because people I've spoken with about rational change in these plans seem deathly afraid of publicly offending the Rescue Mission - for fear of tarnishing their own public image. But none of us, no matter how holy our calling, are above criticism; it is okay to be both for the goals and success of the Rescue Mission in serving the homeless and against their land use plans as presented; and demanding better from the latter does not diminish the former.
+Most people reading this blog know that I am Chief Operating Officer for Scientific Properties, which has invested heavily in the renovation of Golden Belt, 2-3 blocks west of the Rescue Mission; as the line in the sidebar states, Endangered Durham represents my personal opinion.
+Find this spot on a Google Map.
+35.987529,-78.887404
+Comments
+Submitted by
+Margaret (not verified)
+on Wed, 1/19/2011 - 5:25pm
+My house is just a few blocks from the mission, between Driver and Alston.
+I have always been in favor of the Rescue Mission.  Until now!  We're a neighborhood and carving out a bloated block like this is anti-neighborhood. East Durham, Golden Belt, et al. deserve to be allowed to grow and thrive without a giant compound in the middle!
+Submitted by
+A. Librarian (not verified)
+on Wed, 1/19/2011 - 5:53pm
+This is yet another reason that I do not and will not support Durham Rescue Mission. With "community help" like this, who needs enemies?
+Submitted by
+John Martin (not verified)
+on Wed, 1/19/2011 - 6:08pm
+Bravo, Gary!  This is an absolutely fantastic post that ought to be required reading for the mayor, the planning department, and every city council member.  You not only address the deficiencies with the Rescue Mission's current plans, but you address the larger issues of what needs to be done to genuinely revitalize Northeast Central Durham.
+The HOPE VI plan envisioned making Northeast Central Durham a "neighborhood of choice," attracting people who could afford to live elsewhere. Restored historic housing is one of the best ways to accomplish this goal.  Destroying historic houses in a neighborhood that already has too many vacant lots makes no sense.
+The Golden Belt Neighborhood Association is eager to have serious conversations with the Rescue Mission about how they can accomplish their goals while still preserving the best aspects of our neighborhood.  But the ball is in their court.
+Submitted by
+Natalie (not verified)
+on Wed, 1/19/2011 - 8:45pm
+You can see a plan like this in action with what happened with the building of Urban Ministries on Liberty St & Queen St.
+The library closed off S. Queen St., several blocks demolished and fenced, and an inner facing compound built and expanded upon.
+Granted, Urban Ministries is smaller and serves more people, but still.
+Submitted by
+Natalie (not verified)
+on Wed, 1/19/2011 - 9:02pm
+This is interesting
+Earnie Mills makes $107,000 a year from the Rescue Mission. His wife earns an additional $60,000 from them.
+As a comparison, Bill Kalkopf earns $118,000 at Downtown Durham Inc.
+Patrice Nelson earns $70,000 to run Urban Ministries on Liberty St.
+That 990 is really interesting. I can quite bring myself to beleive that they actually spend over $1,250 a day every day on food there.
+Submitted by
+Anonymous (not verified)
+on Wed, 1/19/2011 - 10:08pm
+Just to let you know I read and appreciate the article and maps.  Diane Catotti, City Council
+Submitted by
+Natalie (not verified)
+on Wed, 1/19/2011 - 10:36pm
+I know everyone isn't as interested in numbers, but that 990 is really enlightening.
+They spent $429,152 on fundraising in the same year that they spent $367,365 on conferences & conventions and $125,365 on professional fees...
+Also listed is a charge of $199,272for occupancy, but I thought they owned their building.
+That's over a million dollars a year and half of Urban Ministries budget.
+Submitted by
+eah919 (not verified)
+on Thu, 1/20/2011 - 1:45am
+You hit the nail on the head with the correlation between the Greystone street closure and this one.
+I was one of two people in Council Chambers that spoke up against the Greystone street closure, against probably 70-100 Church members who literally 'stood up for' the Church's plan.
+In this hostile environment, I tried to make the argument to Council that street closures are forever, and will long outlast any fake-stucco and bar-joist building the Church puts up.  I tried to get Council to think about what Durham might be like 50 or 100 years from now, and whether a superblock, and its super-sized land uses, were comparable with that vision.  Ultimately Council, with a couple notable exceptions, more or less broke their arms patting themselves on the back for 'supporting the Church's good works.'  They were more than willing to set aside good urban planning, the Ninth Street plan they themselves approved, and even the advice of the professional planners on staff to push that street closing through.
+Based on this experience, I am not hopeful that the powers-that-be will see the light on the East side of town.  I am glad you and John Martin are on the case, though.  If you need folks in chairs at a meeting, get the word out.... Mills's lawyers will....
+Eric Heidt
+Submitted by
+John Martin (not verified)
+on Thu, 1/20/2011 - 2:38am
+@Eric:  Thanks, we are going to need all the help we can get.  The Rescue Mission has hired K&L Gates.  It's all very convenient:  the Rescue Mission endorsed the electronic billboards that another K&L Gates client wanted, and now K&L Gates represents the Rescue Mission.  See the story in the Independent this week:
+http://www.indyweek.com/indyweek/how-many-ways-has-kandl-gates-touched-…
+Submitted by
+Anonymous (not verified)
+on Thu, 1/20/2011 - 5:01pm
+Sorry Rescue Mission you just lost my support.
+Submitted by
+Anonymous (not verified)
+on Sat, 1/22/2011 - 6:55pm
+We will also be watching this.  DRM has been our default local charity but it looks like our purse strings will open for other worthwhile local charities like UM and TROSA.
+Submitted by
+Raskal (not verified)
+on Wed, 1/26/2011 - 1:54am
+Call me radical, but if this really is America and not Amerika, then property owners ought be able to do with their property what they want! Don't understand all the fuss... saving people is more important than saving buildings anyway.
+Submitted by
+Gary (not verified)
+on Wed, 1/26/2011 - 4:10am
+Why not do both?
+GK
+Submitted by
+John Martin (not verified)
+on Wed, 1/26/2011 - 3:03pm
+@Raskal:  Obviously, you "don't understand all the fuss."  The Rescue Mission proposes to close two public streets, and convert them to their own private property.  They are NOT just trying to do what they want with their own property, they are attempting to appropriate public property for their own use.
+Submitted by
+Raskal (not verified)
+on Thu, 1/27/2011 - 2:04am
+Just checked the map and those streets are only a few blocks long, so probably not a big deal to close, but I hear what you're saying.
+Submitted by
+John Martin (not verified)
+on Thu, 1/27/2011 - 5:04am
+@Raskal:  "those streets are only a few blocks long, so probably not a big deal to close. . ."  Not a big deal to YOU, because you can't find them without a map.  But I live in this neighborhood, and it's big deal to me and to my neighbors.  It's not a big deal to Ernie Mills either: he lives in Orange County.
+Submitted by
+Raskal (not verified)
+on Sat, 1/29/2011 - 3:04pm
+I wonder if the bigger deal here is the fact that it's a "homeless shelter", not that a few blocks may close. If it was a new YMCA I bet the neighborhood would love it.
+Submitted by
+John Martin (not verified)
+on Sun, 1/30/2011 - 5:20pm
+@Raskal:  After demonstrating that you don't know anything about the neighborhood, you now descend to impugning the motives of people you've never met.  The Durham Rescue Mission's current plans are bad urban design, and as architect Scott Harmon said recently, those plans would be bad urban design if they were $400,000 condos.  And yes, a YMCA attempting to create a compound would also be bad urban design.  In addition, the Rescue Mission is proposing to destroy part of a National Register Historic District.  We want to preserve the district.  We want a village, not a compound.
+No one opposes the Rescue Mission's desire to expand their facilities.  The question is:  will this be done in a way that benefits the neighborhood and the historic district or will it be done at the expense of the neighborhood and the historic district?  We would love to come up with a solution that works for everyone.  Unfortunately, the leadership of the Rescue Mission seems to be taking the view that they should have whatever they want without any regard to the effect it has on anyone else.  Rev. and Mrs.  Mills would have more credibility if they lived in this neighborhood instead of Orange County, as would Rev. Tart, the Rescue Mission's COO, who lives in Black Horse Run.
+You might also have more credibility if you used your real name, instead of hiding behind an alias.
+Submitted by
+Anonymous (not verified)
+on Fri, 2/4/2011 - 12:33am
+I have lived in this neighborhood for over twenty years (without fail Ernie Mills prowls the neighborhood looking for houses for "donation")and have not seen any benefit to the community except a few handouts to the "poor".  We grimace during those times because we cannot get out of our driveways because of the congestion and have to clean up the block from waist high trash left behind.  I have seen no activity except for the men who seem to do nothing but keep the grounds clean and receive donations for the thrift shop the mission now operates on highway 55.  The Rescue Mission is a family business that serves only the interest of the Mills family and their supporters and of course the people they truck in to eat at Christmas, Easter, and Thanksgiving and to pick up garbage bags of donated clothes.
+Submitted by
+Golden Belt Ne… (not verified)
+on Sat, 2/5/2011 - 5:33am
+I also live in the neighborhood not 20 years but, I have seen what the current rescue mission properties look like with the barbed wire fences and padlocked gates so you cannot even knock on their doors. I can only imagine the 10 ft fences and gates that will surround this monster super mega block compound. All I am saying is integrate the community in the design, don't segregate it. This is not WAKE county.
+Submitted by
+Anonymous (not verified)
+on Sun, 2/6/2011 - 1:53am
+Expanding to what end?  Ernie Mills grew up in this community of "days gone by".  Mark my word, we have not get begun to realize his agenda.
+Submitted by
+Dean Walker (not verified)
+on Sun, 2/3/2013 - 12:20pm
+I realize that this thread is old but since some of those commenting on the post question the character of the leadership of the Durham Rescue Mission (DRM) I thought it would be a good thing to provide a first hand testimonial to their character and their desire for the good of the Durham community
+I am not associated with the DRM other than as a financial supporter since I moved to Durham in '84.. For the last three years, however, I have grown to know the operation of the mission in much greater detail through serving in a church environment with some of the residents and leadership of the DRM. I know that the DRM creates positive value for the Durham community by providing a long term, safe environment that builds character, faith, job-skills, and in many cases jobs for single men/women and families that would otherwise have no job, no real hope, and often no answers for their substance addictions. I also know that those who work in leadership roles at the mission are not doing so for personal gain. I have grown to appreciate the wisdom with which they run the day-to-day operations and seek to further the impact that they might have on lives in Durham.
+After reading the questions related to the finances of the mission from some of the commenters, I found and read the financial documents and found no concerns. In fact, I found that in many cases the expenses were less that I might have expected compared to the services that they provide. This was particularly the case with the food expenses considering that they feed hundreds of people per day between their men's campus and their family/women's campus. The services that they provide are very impressive and I encourage anyone that is interested to visit them and take a tour of the campuses (they provide tours regularly and will schedule tour appointments for groups). If one does this, I think one will leave knowing that the donations to the mission are being used effectively for good.
+It is not my intent to weigh in on the expansion question. I will leave that for others. It is my intent to defend the good names of good men/women and to defend the work of a great organization that Durham should be proud to call its own. I know of no other place like it in NC, or elsewhere. If there are legitimate concerns regarding the specifics of the expansion plan, the community should not let those concerns blind it from the work that is being done, And, if the community cannot support every detail of the current plan, it should nonetheless seek ways to help them reach their goals, which are of substantial benefit to the city of Durham.
+Add new comment
+Log in
+or
+register
+to post comments.
+A project from
+Main navigation
+Neighborhoods
+People & Places
+Tours
+About
+Support

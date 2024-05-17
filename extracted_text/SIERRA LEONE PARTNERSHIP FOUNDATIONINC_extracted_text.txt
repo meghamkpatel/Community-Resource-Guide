@@ -1,0 +1,264 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'We believe lasting change requires strong partnerships, which we forged with medical and academic institutions, governments, and our supporters'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:url', 'content': 'https://www.pih.org/partnerships'}
+{'property': 'og:title', 'content': 'Partnerships'}
+{'property': 'og:description', 'content': 'We believe lasting change requires strong partnerships, which we forged with medical and academic institutions, governments, and our supporters'}
+{'property': 'og:image', 'content': 'https://www.pih.org/sites/default/files/2020-09/rwanda-0916-burerahomevisit-cavila-03.jpg'}
+{'name': 'google-site-verification', 'content': '0miiGE9DypzGqgYDifl91M9J8gq9eiH93EKjf_aeeUE'}
+{'name': 'theme-color', 'content': '#F8971D'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1'}
+{'http-equiv': 'x-ua-compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'http-equiv': 'ImageToolbar', 'content': 'false'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'facebook-domain-verification', 'content': '6hli2pu87jqnhfc1zoacity1nh3oan'}
+{'name': 'google-site-verification', 'content': '-icy8A6HPBAOa46OwvSLjJBWl-9h2qAC0tO07HkgOuY'}
+
+Body Text:
+Partnerships | Partners In Health
+Skip to main content
+Injustice has a cure
+Donate
+SUBSCRIBE
+Donate Now
+Stay Connected.
+We'll keep you up to date on Partners In Health's work bringing hope and health care to some of the world's poorest, hardest-to-reach communities.
+×
+Our Work
+Our Impact
+Our Focus
+Our Sites
+Our Research
+Our COVID Response
+Our Approach
+Partnerships
+Systems Building
+Training
+Get Involved
+Organize
+Advocate
+Donate
+About Us
+Mission
+Founders
+Leadership
+Annual Report & Financials
+Contact Us
+News
+Search
+Partnerships
+We believe lasting change is achieved through strong partnerships, which we have forged with medical and academic institutions, national governments, and our generous supporters.
+Service Delivery & Academic Partners
+American Society for Clinical Pathology
+Boston Children's Hospital
+Brigham and Women's Hospital
+Center for Global Health, UCSF School of Nursing
+Community Health Impact Coalition
+Dana-Farber Cancer Institute
+Elizabeth Glaser Pediatric AIDS Foundation
+The George Washington University
+Harvard Medical School
+Harvard T.H. Chan School of Public Health
+Integrate Health
+Interactive Research and Development
+JSI Research and Training Institute, Inc.
+Last Mile Health
+Massachusetts General Hospital
+Médecins Sans Frontières International
+Muso
+Mass General Brigham
+Pathfinder International
+PIVOT
+Possible Health
+Regis College
+RESULTS & RESULTS Educational Fund
+St. Boniface Haiti Foundation
+University of Pennsylvania
+University Research Co., LLC
+Village Health Works
+Wellesley College
+University of Washington
+Yale University
+Public Sector Partners
+The Global Fund to Fight AIDS, TB and Malaria
+Grand Challenges Canada
+Inter-American Development Bank
+Unitaid
+United Nations Office for Project Services
+U.S. Agency for International Development
+U.S. Centers for Disease Control and Prevention
+U.S. Department of State, PEPFAR
+World Health Organization
+The Community of Parmelee, Rosebud Sioux Tribe
+The Government of Haiti
+The Government of Kazakhstan
+The Government of Lesotho
+The Government of Liberia
+The Government of Malawi
+The Government of Mexico
+The Government of Peru
+The Government of Rwanda
+The Government of Sierra Leone
+Navajo Nation Government
+Foundation Partners
+Bill & Melinda Gates Foundation
+Blue Cross Blue Shield of Massachusetts Foundation
+Bristol-Myers Squibb Foundation, Inc.
+Canadian Foodgrains Bank/Presbyterian World Service & Development*
+The Conrad N. Hilton Foundation
+The Crown Family
+Cummings Foundation, Inc.
+The Dahl Family & the Roald Dahl Charitable Trust Ltd
+Doris Duke Charitable Foundation
+Ford Foundation
+The Greif Packaging Charitable Trust
+John D. and Catherine T. MacArthur Foundation
+The Leona M. and Harry B. Helmsley Charitable Trust
+Lions Club International Foundation
+M•A•C AIDS Fund
+Margaret A. Cargill Philanthropies
+Open Society Foundations
+The Primate's World Relief and Development Fund*
+Ronald McDonald House Charities
+Skoll Foundation
+Starr International Foundation
+Unifor Social Justice Fund*
+Vitol Foundation
+Wagner Foundation
+W.K. Kellogg Foundation
+World Diabetes Foundation
+Corporate Partners
+Abbott Laboratories & Abbott Fund
+AbbVie Foundation
+AmerisourceBergen Foundation
+Baxter International, Inc.
+Becton, Dickinson and Company
+Boston Scientific Corporation
+Chevron Corporation
+Cummings Properties, LLC
+Deerfield Foundation
+Dimagi, Inc.
+Eko Devices, Inc.
+Eli Lilly and Company Foundation, Inc.
+EM:RAP, Inc.
+Faber Daeufer & Itrato PC
+Facebook, Inc.
+GDS Services International Ltd.
+GE Foundation
+Gilead Sciences, Inc.
+GlaxoSmithKline plc
+Google LLC
+IBM Corporation
+Johnson & Johnson, Inc.
+McMaster-Carr Supply Company
+Medtronic Philanthropy
+Merck & Company, Inc.
+Microsoft Corporation
+Novartis Social Business
+Pfizer, Inc. & The Pfizer Foundation
+Pharmaceutical Product Development, LLC
+Project 7 International, Inc.
+SAP SE
+Takeda Pharmaceutical Company Limited
+WellDyneRx, LLC
+Matching Gift Supporters
+Apple, Inc.
+Bank of America Corporation
+BNSF Railway Foundation
+Bristol-Myers Squibb Foundation, Inc.
+Eli Lilly and Company Foundation, Inc.
+General Electric Company
+GlaxoSmithKline plc
+Goldman, Sachs & Co.
+Google LLC.
+Grantham, Mayo, Van Otterloo & Co. LLC
+Johnson & Johnson, Inc.
+Liberty Mutual
+Merck & Company, Inc.
+Microsoft Corporation
+Pfizer, Inc.
+PricewaterhouseCoopers, LLP
+Shell Oil Company Foundation
+Thermo Fisher Scientific
+The Walt Disney Company
+World Bank Community Connections
+Gift in Kind, Technical Advisory, and Professional Services Partners
+American Society of Clinical Pathology
+Abbott Laboratories
+Analysis Group
+Baxter International, Inc.
+Becton, Dickinson and Company
+The Boston Foundation
+Brigham and Women's Hospital
+Bristows LLP
+Build Health International
+Covington & Burling LLP
+Dako Agilent Pathology Solutions
+Dana-Farber Cancer Institute
+Direct Relief International
+eResearch Technology, Inc.
+Faber Daeufer & Itrato PC
+ERT Human Diagnostics
+Fisher Scientific
+GlaxoSmithKline plc
+GlobalGiving
+Global Health Corps, Inc.
+Goodwin Procter LLP
+Hospital Sisters Mission Outreach
+JetBlue Airways
+Kirk Humanitarian
+Kirkland & Ellis International LLP
+Magno-Humphries Labs, Inc.
+The Max Foundation
+McKinsey & Company
+Medline Industries, Inc.
+Microsoft Corporation
+Morgan, Lewis & Bockius LLP
+PLUS 1
+Project Cure
+Ropes & Gray LLP
+Schulte Roth & Zabel LLP
+Takeda Pharmaceutical Company Limited
+TOMS Shoes, LLC
+U.S. Centers for Disease Control and Prevention
+Vitamin Angels
+Connect with us
+Stay informed about Partners In Health's work to provide high quality health care to those who need it most.
+Sign Up For Updates
+Join the movement to make health care accessible for everyone
+Donate Now
+News and Media
+NEWS
+PRESS RELEASES
+MEDIA COVERAGE
+Get in Touch
+CONTACT US
+PIH CANADA
+JOIN THE TEAM
+ETHICS REPORTING
+INFORMATION FOR SUPPLIERS
+About PIH
+FAQS
+TERMS OF USE
+COOKIE POLICY
+DONOR PRIVACY POLICY
+PRIVACY POLICY
+STATE DISCLOSURES
+Follow us on
+Partners In Health (PIH) is a 501(c)(3)
+nonprofit corporation, EIN 04-3567502
+Partners In Health, Suite 300,
+800 Boylston Street, Boston, MA. 02199
+1-857-880-5100 •
+info@pih.org
+PIH® is a registered trademark of Partners In Health.
+© 2009-2022 Partners In Health.
+All Rights Reserved.
+×
+Please send donations to:
+Partners In Health, PO Box 996, Frederick, MD 21705-9942
+Cookie Settings

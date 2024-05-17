@@ -1,0 +1,61 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Raleigh Flying Club | Learn to fly at the only Flying Club in Raleigh (Raleigh Durham International Airport)'}
+{'property': 'og:description', 'content': 'WELCOME Raleigh Flying Club hopes to make flying more accessible for Triangle-area pilots. By having a central Triangle location, reasonable […]'}
+{'property': 'og:url', 'content': 'https://www.raleighflyingclub.org/'}
+{'property': 'og:site_name', 'content': 'Raleigh Flying Club'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/Raleigh-Flying-Club-406844846383733/'}
+{'property': 'article:modified_time', 'content': '2024-02-24T21:18:16+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'bmi-version', 'content': '1.4.5'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.raleighflyingclub.org/wp-content/uploads/2024/02/favicon.png'}
+
+Body Text:
+Raleigh Flying Club | Learn to fly at the only Flying Club in Raleigh (Raleigh Durham International Airport)
+Skip to content
+Raleigh Flying Club
+RALEIGH
+FLYING CLUB
+Menu
+About
+Fleet Rates & Dues
+FAQs
+Leasebacks
+Contact
+Scheduling
+slider-slide-1
+AVIATION
+&
+LIFESTYLE
+slider-slide-1
+LEARN
+TO
+FLY!
+slider-slide-1
+LOCATION
+CENTRAL
+AT RDU
+WELCOME
+Raleigh Flying Club hopes to make flying more accessible for Triangle-area pilots. By having a central Triangle location, reasonable fees and aircraft accessibility, we encourage pilots to fly more often and make it possible for aspiring pilots to reach their goals. You can learn to fly in club airplanes then once licensed you can continue to fly the airplanes that you learned in. Or move up to other great cross country airplanes.
+BOOK YOUR INTRO FLIGHT!
+Discover what it’s like to pilot one of our airplanes with an instructor from RDU. You’ll get 60 minutes in the airplane, 30 minutes of ground instruction, and a complementary logbook. Book for yourself or as a gift! $247 complete.
+Book Intro Flight
+DUES
+We have two levels of membership available. Whether you’re a pilot in training or a seasoned pilot wanting a diverse high performance option we have a membership level to suit you.
+Read More
+EVENTS
+Please come and join us on the third Saturday of the month for Coffee & Donuts at the airport 9am to 11am!
+We offer several social events including fly-outs and quarterly gatherings.
+RALEIGH
+FLYING CLUB
+info@RaleighFlyingClub.org
+© Copyright 2024
+Facebook
+Instagram
+Scroll to Top

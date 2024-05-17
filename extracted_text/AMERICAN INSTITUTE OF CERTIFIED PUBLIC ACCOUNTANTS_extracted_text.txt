@@ -1,0 +1,25 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'name': 'theme-color', 'content': '#000000'}
+{'name': 'google-site-verification', 'content': 'GBiq6UfFcHJEWvMfI4s-UyZpATXH0a4qMwqP8hexyj0'}
+{'data-react-helmet': 'true', 'property': 'og:title', 'content': 'AICPA & CIMA'}
+{'data-react-helmet': 'true', 'property': 'og:image', 'content': 'https://images.ctfassets.net/rb9cdnjh59cm/43ZKFkefBBGDMM3VoBYWIP/b4d7a47dedb6d7232936e0c8beb6e764/Logo_1200x630.png'}
+{'data-react-helmet': 'true', 'property': 'og:description', 'content': 'AICPA® & CIMA® is the most influential body of accountants and finance experts in the world, with 689,000 members, students and engaged professionals globally. We advocate for the profession, the public interest and business sustainability.'}
+{'data-react-helmet': 'true', 'property': 'og:url', 'content': 'https://www.aicpa-cima.com'}
+{'data-react-helmet': 'true', 'property': 'og:site', 'name': 'AICPA & CIMA'}
+{'data-react-helmet': 'true', 'property': 'fb:app_id', 'content': '288416708186975'}
+{'data-react-helmet': 'true', 'property': 'og:type', 'content': 'Website'}
+{'data-react-helmet': 'true', 'property': 'og:locale', 'content': 'en_US'}
+{'data-react-helmet': 'true', 'name': 'twitter:site', 'content': '@AICPA'}
+{'data-react-helmet': 'true', 'name': 'twitter:card', 'content': 'Summary'}
+{'data-react-helmet': 'true', 'name': 'twitter:url', 'content': 'https://www.aicpa-cima.com'}
+{'data-react-helmet': 'true', 'name': 'twitter:title', 'content': 'AICPA & CIMA'}
+{'data-react-helmet': 'true', 'name': 'twitter:description', 'content': 'AICPA® & CIMA® is the most influential body of accountants and finance experts in the world, with 689,000 members, students and engaged professionals globally. We advocate for the profession, the public interest and business sustainability.'}
+{'data-react-helmet': 'true', 'name': 'twitter:image', 'content': 'https://images.ctfassets.net/rb9cdnjh59cm/7mnrnYZgfxdybtOMGVPQUS/ebecfab9684f277ad4f959a7b4d4257c/Logo_144x144_.png'}
+{'data-react-helmet': 'true', 'property': 'og:image:width', 'content': '1200'}
+{'data-react-helmet': 'true', 'property': 'og:image:height', 'content': '630'}
+
+Body Text:
+AICPA & CIMA | AICPA & CIMA
+You need to enable JavaScript to run this app.

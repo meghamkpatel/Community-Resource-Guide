@@ -1,0 +1,265 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'robots', 'content': 'index,follow,NOODP,NOYDIR'}
+{'name': 'description', 'content': 'Hamlet Protein provides the right nutrition in the first life stages of your animals. Our soy-based specialty ingredients improve health and welfare of young animals.'}
+{'property': 'og:title', 'content': 'Quality protein for young animals - Hamlet Protein, healthy animal nutrition'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://www.hamletprotein.com/'}
+{'name': 'facebook-domain-verification', 'content': 'oej3km4xx1qsm19827y2x5x6gq9avz'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'name': 'application-name', 'content': 'Novicell Frontend'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black-translucent'}
+{'name': 'apple-mobile-web-app-title', 'content': 'Novicell Frontend'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'msapplication-TileImage', 'content': '/dist/favicons/mstile-144x144.png'}
+{'name': 'msapplication-config', 'content': '/dist/favicons/browserconfig.xml'}
+
+Body Text:
+Quality protein for young animals - Hamlet Protein, healthy animal nutrition
+Swine
+Products for swine
+HP 800 Booster
+HP 300
+How to use
+HP FiberBoost
+HP Feeding Concept
+HP 270 for sows
+Swine product benefits
+Low ANF and improved FCR
+Uniform growth and reduced need for antibiotics
+Faster protein delivery for increased performance
+Feed Your Brain
+Topics
+Articles
+Swine performance and health
+Phasing out zinc oxide
+Results from 20 years’ feeding trials
+Effect on gut health - study with HP 300
+As good as animal protein at less cost - HP 800 Booster
+More weight gain after 37 days - HP 800 Booster
+Case studies
+Lifting profits: Case with HP 300
+No diarrhea and improved FCR: Case with HP 800 Booster
+New protein source improved daily weight gain
+Events
+Contact
+Sales
+Nutritionists
+Poultry
+Products for poultry
+HP AviStart
+How to use HP AviStart
+HP AviSure
+Poultry product benefits
+Low ANF and improved ROI
+Reduction in antibiotics and footpad dermatitis
+Faster protein delivery for increased performance
+Feed Your Brain
+Topics
+Articles
+Poultry performance and health
+Efficient broiler production without antibiotic growth promoters
+Growing broilers on antibiotic and ionophore free diets
+Positive impact on foot pad health
+Events
+Contact
+Sales
+Nutritionists
+Ruminants
+Products for ruminants
+HP 100 milk replacer
+HP 300 pre-starter feed
+How to use
+Ruminant product benefits
+The best alternative to dairy proteins ​
+The best choice for pre-starter feed
+Feed Your Brain
+Topics
+Articles
+Ruminant performance and health
+The protein solution for CMR
+Events
+Contact
+Sales
+Nutritionists
+Aqua
+Products for aquafeed
+HP AquaSure
+Aqua product benefits
+Improved performance, low in ANF and cost-effective
+Fecal output and environmental sustainability
+Feed Your Brain
+Topics
+Articles
+Aqua performance and health
+Costeffective solution for aquafeed
+Pet
+Products for pets
+HP 300
+Pet product benefits
+Superior nutrient consistency and decrease in gastric upset
+Improved palatability and kibble processing advantages
+Feed Your Brain
+Topics
+Articles
+Pet performance and health
+Safeguarding pet health
+Hamlet Protein
+How we deliver value
+Sustainability
+Consistent quality
+Formulating to meet customer needs
+Health through nutrition
+Creating solutions together
+About
+Careers
+Management & board
+Ownership
+Feed your brain
+Topics
+Gut health
+Anti-nutritional factors
+Protein Kinetics
+Performance
+Digestibility
+Inflammations
+Antibiotics in feed
+Outphasing ZnO
+Sustainability
+Health through nutrition
+Articles
+4 Good Reasons to Include Soy in Diet Formulation for Young Animals
+The Role of Dietary Fiber in Piglet Diets
+The 5 reasons why ESBM should be part of a nursery diet for piglets
+Reducing antibiotic use in young animals
+Better broilers from top to toe
+Outphasing zinc oxide?
+Can soy be the sustainable protein of choice?
+Be aware of anti-nutritional factors in your starter feed!
+What’s the Deal with Fiber?
+Anti-nutritional factors: the dark side of soybean meal
+"Gut health" in animals, the ubiquitous term in animal nutrition today
+The importance of keeping high CP in nursery diets using HP 300 and HP FiberBoost
+Why the incidence of wet litter is still so high in chicken flocks today
+5 reasons why advanced soy proteins make a good choice in Calf Milk Replacer formulations
+Animal protein is a risk to the intestinal health of chickens
+Soybean meal is not the only protein source that has anti-nutritional factors for young birds
+The speed of protein digestion in chicks does matter!
+Speed matters – Hamlet Protein is hydrolyzed faster than other soy-based proteins
+High speed protein digestion by Hamlet Protein; a new dimension in protein source evaluation
+Speed is everything for the best feed performance: Scientists discover the secret behind top-performing proteins
+Feedinfo Interview: What’s New in Protein Kinetics? Hamlet Protein Explains
+Improving growth and performance of weaned piglets using protein kinetics
+Protein digestion kinetics in chickens: understanding the fate of dietary proteins
+In starter feeds, high-quality soy protein makes the difference in the rumen
+Win the weaning!
+Protein kinetics: Why should nutritionists care? Better use of protein results in a reduction of N-excretion
+Videos
+What are ANF's and why do we talk about them so much?
+Why do we use pH-stat to measure protein kinetics?
+Introducing Protein Kinetics: Speed is the name of the game
+Read more articles
+Events
+Upcoming events
+World Pork Expo 2024
+EuroTier 2024
+Hamlet Protein Masterclass
+Feed Technology and Animal Nutrition Conference
+News
+Latest news and archive
+Hamlet Protein presents new data at poultry conference Cartagena
+Hamlet Protein hosts poultry seminar in Mexico
+Hamlet Protein and Danbred develop feeding manual
+Feedinfo interview: EU ban on in-feed pharmaceutical ZnO
+Hamlet Protein launches new fiber product
+Hamlet Protein participates in industry events in China
+"Predicting what's to come in 2023 is more complicated than ever". CEO Erik Visser gives his take on 2023 and looks back on 2022
+Hamlet Protein CEO Erik Visser: Delivering value, building relationships in the feed industry
+Hamlet Protein appoints operations director
+Hamlet Protein delivers keynote at nutrition conference China
+Hamlet Protein appoints commercial director
+Hamlet Protein presented the latest findings on in-vitro evaluation of protein kinetics
+Hamlet Protein appoints US sales manager
+Hamlet Protein hosts international delegation of academics
+Hamlet Protein presents at Central American technical seminar
+Hamlet Protein sponsors Mexican nutrition conference AMENA
+Contact
+Head Office
+Supply Chain
+Procurement
+Logistics
+HR
+Management
+Find your local contact
+Offices
+Sales
+Regional Directors
+Customer Service
+Search
+Quality protein for young animals
+A good start makes all the difference
+Healthy animals - healthy business
+Providing the right nutrition in the first life stage determines the overall lifetime performance of the animal. Our soy-based specialty ingredients improve health, welfare and performance of young animals. That is how we deliver a strong return on investment to producers around the world.
+Swine
+Strengthen health and performance
+More about swine
+Poultry
+Benefits that last an entire lifetime
+More about poultry
+Ruminants
+Accelerate growth and improve health
+More about ruminants
+﻿
+How we deliver value
+Creating solutions together
+Read more
+A responsible value chain
+Read more
+Consistent quality
+Read more
+Formulating to meet customer needs
+Read more
+Health through nutrition
+Read more
+How can we help?
+Get in touch with one of our experts today
+Formulating the best posssible feed for young animals takes expert knowledge about nutritional needs.
+Find your local contact
+﻿
+Dr. Jessika van Leeuwen
+Category Manager Swine
+Tel: +31 641 810 594
+Global Contact
+Get in touch
+﻿
+Nicolas Anglade
+Category Manager Ruminants
+Tel: +33 6 95 88 15 64
+Global Contact
+Get in touch
+Feed your brain
+Explore our library of videos, articles and presentations and get up to date with the different types of soy protein and their influence on young animal nutrition. Get an overview of upcoming seminars and exhibitions where you can get in touch with our experts in nutrition.
+Explore feed you brain
+﻿
+Latest news
+{{listItem.Topic}}
+{{animalSegment}}
+{{listItem.Date}}
+{{listItem.ListTitle}}
+{{listItem.ListTeaser}}
+Read more
+Show more
+Read more
+About HAMLET PROTEIN
+Providing the right nutrition in the first life stage determines the overall lifetime performance of the animal. Our soy-based specialty ingredients improve health, welfare and performance of young animals. That is how we deliver a strong return on investment to producers around the world.
+Company Info
+Extranet
+News
+Careers
+Terms of sales
+Privacy Policy
+Cookie Policy

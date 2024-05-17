@@ -1,0 +1,52 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Morgan Creek Foundation'}
+{'property': 'og:description', 'content': 'The Morgan Creek Foundation The Morgan Creek Foundation was established in 2005 with a gift from the Yusko family and […]'}
+{'property': 'og:url', 'content': 'https://www.morgancreekfoundation.org/'}
+{'property': 'og:site_name', 'content': 'Morgan Creek Foundation'}
+{'property': 'article:modified_time', 'content': '2024-04-10T05:59:56+00:00'}
+{'property': 'og:image', 'content': 'https://www.morgancreekfoundation.org/wp-content/uploads/2024/04/banner7_03-2-e1712232030422.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.morgancreekfoundation.org/wp-content/uploads/2024/04/Screenshot-2024-04-04-190313.png'}
+
+Body Text:
+Home - Morgan Creek Foundation
+Skip to content
+Morgan Creek Foundation
+Home
+Grant Guidelines
+Philanthropic History
+Contact Us
+Menu
+Home
+Grant Guidelines
+Philanthropic History
+Contact Us
+The Morgan Creek Foundation
+The Morgan Creek Foundation was established in 2005 with a gift from the Yusko family and receives a portion of the annual profits of Morgan Creek Capital Management each year. The Foundation spends a minimum of 5% of assets each year and grants are usually awarded at the end of the fiscal year (December). The Morgan Creek Foundation was established with the mission to support local community organizations that provide services with an educational focus that help individuals achieve their maximum potential. Grants are awarded for programs that focus on, but are not limited to, early childhood education, adult literacy, teen counseling and mentorship and service learning opportunities.
+Contact Information
+Morgan Creek Foundation
+301 West Barbee Chapel Road, Suite 200
+Chapel Hill, NC 27517
+Tel: 919 933-4004
+Fax: 919 933-4048
+Email:
+info@morgancreekfoundation.org
+News
+Morgan Creek Foundation featured in the Philanthropy Journal...
+Click here to read more
+Download a PDF
+Menu
+Home
+Grant Guidelines
+Philanthropic History
+Contact Us
+© 2010 by
+Morgan Creek Foundation
+Scroll to Top

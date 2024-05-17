@@ -1,0 +1,288 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'content-type', 'content': 'text/html; charset=utf-8'}
+{'name': 'keywords', 'content': 'Eno River, Unitarian Universalist, Fellowship, UU, LBGT, NC, inclusive, spiritual, Durham, North Carolina, Triangle, Chapel Hill, Raleigh, Morrisville, Roxboro'}
+{'name': 'description', 'content': 'Eno River Unitarian Universalist Fellowship is a vibrant, inclusive, spiritual community in Durham, North Carolina and close to Chapel Hill and the rest of the Triangle. We focus on making the world a better place through loving acts of social justice. No matter what your background, gender identity or preferences, religion, ethnicity, you are welcome here!'}
+{'name': 'generator', 'content': 'MYOB'}
+{'property': 'og:locale', 'content': 'en_US', 'class': ['4SEO_ogp_tag']}
+{'property': 'og:url', 'content': 'https://www.eruuf.org/', 'class': ['4SEO_ogp_tag']}
+{'property': 'og:site_name', 'content': 'ERUUF ', 'class': ['4SEO_ogp_tag']}
+{'property': 'og:type', 'content': 'article', 'class': ['4SEO_ogp_tag']}
+{'property': 'og:title', 'content': 'ERUUF  - Welcome - Spirit, Service, Justice, Love', 'class': ['4SEO_ogp_tag']}
+{'property': 'og:description', 'content': 'Eno River Unitarian Universalist Fellowship is a vibrant, inclusive, spiritual community in Durham, North Carolina and close to Chapel Hill and the rest of the Triangle. We focus on making the world a better place through loving acts of social justice. No matter what your background, gender identity or preferences, religion, ethnicity, you are welcome here!', 'class': ['4SEO_ogp_tag']}
+{'property': 'fb:app_id', 'content': '966242223397117', 'class': ['4SEO_ogp_tag']}
+{'name': 'twitter:card', 'content': 'summary', 'class': ['4SEO_tcards_tag']}
+{'name': 'twitter:url', 'content': 'https://www.eruuf.org/', 'class': ['4SEO_tcards_tag']}
+{'name': 'twitter:title', 'content': 'ERUUF  - Welcome - Spirit, Service, Justice, Love', 'class': ['4SEO_tcards_tag']}
+{'name': 'twitter:description', 'content': 'Eno River Unitarian Universalist Fellowship is a vibrant, inclusive, spiritual community in Durham, North Carolina and close to Chapel Hill and the rest of the Triangle. We focus on making the world a better place through loving acts of social justice. No matter what your background, gender identity or preferences, religion, ethnicity, you are welcome here!', 'class': ['4SEO_tcards_tag']}
+{'name': 'robots', 'content': 'max-snippet:-1, max-image-preview:large, max-video-preview:-1', 'class': ['4SEO_robots_tag']}
+
+Body Text:
+ERUUF  - Welcome - Spirit, Service, Justice, Love
+Home
+Calendar
+Upcoming Events
+This Week
+Next Week
+Past Events
+Calendar View
+Happening Now
+Rooms / Rentals
+myERUUF
+Blogs
+All Blogs
+Palms Together
+The Inner Workings
+Holding Hearts
+Give
+Help
+Search
+Home
+Calendar
+Rooms / Rentals
+Blog
+myERUUF
+Discover
+Visitors
+Unitarian Universalism
+Reimagining UU Principles
+Maps-Directions
+News
+Conversations
+An Aspirational Pluralism
+Earth Day (We are One)
+Eclipse and Interdependent Awe
+About Us
+Our Ministers
+Staff
+Our History
+2024 Pledge Drive
+Learn more
+Worship
+Upcoming Services
+Past Services and Recordings
+Music
+Jazz Vespers
+The Next Service
+Sunday
+, May 19, 2024:
+10:00 am (online and IN-PERSON)
+Who We Are and How We've Been
+Worship Leader: Rev. Jacqueline Brett
+Music:
+Eno River Singers; Kate Lewis – Pianist; Wendy Looker – Music Director
+Annual Meeting after the service.
+View Upcoming Services
+2024 Pledge Drive
+Learn more
+Connect
+Caring
+Get support from our community
+Membership Journey
+Events - Small Groups
+In Community
+Care Ministries
+Groups
+Fellowship Teams
+Affinity Groups
+Music Groups
+Faith/Focus Groups
+Covenant Groups & Chalice Circles
+Giving
+Ways To Give
+Give Now
+Volunteer
+Where, when and how
+Pledge
+The Foundation
+2024 Pledge Drive
+Learn more
+Learn
+Children/Youth/Family
+What is Religious Exploration?
+Programs
+Registration
+Events - Youth
+R.E.sources
+R.E. News
+Adults
+Finding Yourself at ERUUF
+Inquirers
+Upcoming Classes
+Class Schedule
+Spiritual Odyssey
+2024 Pledge Drive
+Learn more
+Justice
+Justice Ministry
+Events - Justice
+Stories of Justice
+Justice News
+Generosity Sunday
+Action Groups
+Alleviating Poverty
+Advancing Human Rights
+Advancing Democracy
+Caring for the Earth
+Partnering with Others
+Earth Justice Month
+Multicultural Initiatives
+Multicultural Team
+Racial Equity and Inclusion
+Groups
+2024 Pledge Drive
+Learn more
+Help
+Search
+Search
+Give now
+Home
+Calendar
+Rooms / Rentals
+Blog
+myERUUF
+Discover
+Visitors
+Unitarian Universalism
+Reimagining UU Principles
+Maps-Directions
+News
+Our Ministers
+Staff
+Our History
+Worship
+Upcoming Services
+Past Services and Recordings
+Music
+Jazz Vespers
+Sunday
+, May 19, 2024:
+10:00 am (online and IN-PERSON)
+Who We Are and How We've Been
+Worship Leader: Rev. Jacqueline Brett
+Music:
+Eno River Singers; Kate Lewis – Pianist; Wendy Looker – Music Director
+Annual Meeting after the service.
+View Upcoming Services
+Connect
+Caring
+Membership Journey
+Events - Small Groups
+In Community
+Care Ministries
+Groups
+Fellowship Teams
+Affinity Groups
+Music Groups
+Faith/Focus Groups
+Covenant Groups & Chalice Circles
+Giving
+Ways To Give
+Give Now
+Volunteer
+Pledge
+The Foundation
+Learn
+Children/Youth/Family
+What is Religious Exploration?
+Programs
+Registration
+Events - Youth
+R.E.sources
+R.E. News
+Adults
+Finding Yourself at ERUUF
+Inquirers
+Upcoming Classes
+Class Schedule
+Spiritual Odyssey
+Justice
+Justice Ministry
+Events - Justice
+Stories of Justice
+Justice News
+Generosity Sunday
+Action Groups
+Alleviating Poverty
+Advancing Human Rights
+Advancing Democracy
+Caring for the Earth
+Partnering with Others
+Earth Justice Month
+Multicultural Initiatives
+Multicultural Team
+Racial Equity and Inclusion
+Groups
+Help
+Welcome to Eno River Unitarian Universalist Fellowship (ERUUF)
+Online and In-Person
+Sunday Worship Services
+10:00 AM:
+Attend worship in person or online via ERUUF's YouTube channel or Facebook page. Look for the LIVE NOW label.
+Masks are optional for all activities at ERUUF.
+View on Youtube
+View on Facebook
+Next Service
+Sunday
+, May 19, 2024:
+10:00 am (online and IN-PERSON)
+Who We Are and How We've Been
+Worship Leader: Rev. Jacqueline Brett
+Music:
+Eno River Singers; Kate Lewis – Pianist; Wendy Looker – Music Director
+Annual Meeting after the service.
+Learn more
+View Upcoming Services
+Events
+Check with your group leader or contact for the event to see if the group is meeting virtually.
+Sunday Service 10am
+(Sun, May 19   10:00 am)
+Annual Meeting '24
+(Sun, May 19   11:30 am)
+Board of Trustees Monthly Meeting
+(Tue, May 21   7:00 pm)
+Sunday Service 10am
+(Sun, May 26   10:00 am)
+Inquirers Series (Summer Schedule)
+(Sun, May 26   11:15 am)
+Harkrader Gratitude Event
+(Sun, May 26   11:30 am)
+MSYG End of Year Party
+(Sun, May 26   11:30 am)
+View the news
+View the calendar
+Governance
+Board Overview
+Board News
+FAQs
+Board of Trustees
+Documents
+Committees
+Operations and Policies
+Coordinating Team
+Strategic Plan
+Policies
+By the Numbers
+Leadership Tool Box
+Resources
+Admin Login
+Jobs
+Library
+Leader List
+Submit to E-news
+4907 Garrett Road
+Durham
+,
+NC
+27707
+919-489-2575
+View the E-News
+Sign up
+Office Hours
+Mon - Thurs:
+10:00am-4:00pm
+Sunday: for 30 minutes
+after the service ends
+© Copyright
+Eno River Unitarian Universalist Fellowship
+2009-2022

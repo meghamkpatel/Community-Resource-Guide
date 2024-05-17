@@ -1,0 +1,53 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'PCCI - PASTORAL CARE & COUNSELING INSTITUTE'}
+{'property': 'og:title', 'content': 'PCCI - PASTORAL CARE & COUNSELING INSTITUTE'}
+{'property': 'og:url', 'content': 'http://www.pcci.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'The Pastoral Care and Counseling Institute is a nonprofit organization dedicated to providing pastoral counseling, psychotherapy, clinical training, consultation and education to the wider community, and in particular, to faith communities and their pastors. The services we offer are sensitive to in'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/53e699d6e4b05a3ac173f2a1/t/53f36b87e4b04b7b474b9475/1408461720341/pcci+logo__.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '291'}
+{'itemprop': 'name', 'content': 'PCCI - PASTORAL CARE & COUNSELING INSTITUTE'}
+{'itemprop': 'url', 'content': 'http://www.pcci.org'}
+{'itemprop': 'description', 'content': 'The Pastoral Care and Counseling Institute is a nonprofit organization dedicated to providing pastoral counseling, psychotherapy, clinical training, consultation and education to the wider community, and in particular, to faith communities and their pastors. The services we offer are sensitive to in'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/53e699d6e4b05a3ac173f2a1/t/53f36b87e4b04b7b474b9475/1408461720341/pcci+logo__.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/53e699d6e4b05a3ac173f2a1/t/53f36b87e4b04b7b474b9475/1408461720341/pcci+logo__.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'PCCI - PASTORAL CARE & COUNSELING INSTITUTE'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/53e699d6e4b05a3ac173f2a1/t/53f36b87e4b04b7b474b9475/1408461720341/pcci+logo__.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'http://www.pcci.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'The Pastoral Care and Counseling Institute is a nonprofit organization dedicated to providing pastoral counseling, psychotherapy, clinical training, consultation and education to the wider community, and in particular, to faith communities and their pastors. The services we offer are sensitive to in'}
+{'name': 'description', 'content': 'The Pastoral Care and Counseling Institute is a nonprofit organization \r\ndedicated to providing pastoral counseling, psychotherapy, clinical \r\ntraining, consultation and education to the wider community, and in \r\nparticular, to faith communities and their pastors. The services we offer \r\nare sensitive to individual, family, social and spiritual needs.'}
+
+Body Text:
+PCCI - PASTORAL CARE & COUNSELING INSTITUTE
+PASTORAL CARE & COUNSELING INSTITUTE
+Welcome
+Mission & Values
+Staff
+Services/Initiatives
+Consultation
+Insurance
+Clinical Supervision
+Contact
+Welcome
+Mission & Values
+Staff
+Services/Initiatives
+Consultation
+Insurance
+Clinical Supervision
+Contact
+Welcome
+The Institute
+The Pastoral Care and Counseling Institute is a nonprofit organization dedicated to providing spiritual support in many forms to the wider community. This includes counseling, psychotherapy, clinical training, and consultation and education in a variety of settings and under various initiatives. We have carried out this mission for over thirty-five years. The services we offer are sensitive to the diversity of individual, family, social and spiritual needs and seek to address cultural and systemic dimensions. At the center of our mission is the treatment of the whole person in service of the whole human and more than human family.
+Our staff has advanced education, training and North Carolina State Board certification in the fields of pastoral psychotherapy, counseling, marriage and family therapy and clinical supervision.
+PCCI - PASTORAL CARE & COUNSELING INSTITUTE
+PASTORAL CARE & COUNSELING INSTITUTE
+The Pastoral Care and Counseling Institute is a nonprofit organization dedicated to providing pastoral counseling, psychotherapy, clinical training, consultation and education to the wider community, and in particular, to faith communities and their pastors. We have carried out this mission for over thirty years. The services we offer are sensitive to individual, family, social and spiritual needs. At the center of our mission is the treatment of the whole person.
+PCCI PASTORAL CARE & COUNSELING INSTITUTE
+| 3325 Chapel Hill Blvd. Suite 220, Durham, NC 27707, USA

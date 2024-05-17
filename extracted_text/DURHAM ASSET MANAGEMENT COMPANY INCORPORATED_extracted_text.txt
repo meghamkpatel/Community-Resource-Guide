@@ -1,0 +1,65 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Investment Management - DUMAC Inc.'}
+{'property': 'og:description', 'content': 'DUMAC is a professionally-staffed organization of about 55 employees that works with the assistance of 130 investment advisory firms and partnerships to help meet its investment goals. DUMAC’s primary responsibility is to manage Duke University’s endowment assets.\xa0 In addition to managing Duke’s endowment, DUMAC also manages the university’s defined benefit pension plan assets, Duke University […]'}
+{'property': 'og:url', 'content': 'https://dumac.duke.edu/'}
+{'property': 'og:site_name', 'content': 'DUMAC Inc.'}
+{'property': 'article:modified_time', 'content': '2023-09-26T18:26:15+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'msapplication-TileImage', 'content': 'https://dumac.duke.edu/wp-content/uploads/sites/30/2020/11/ms-icon-310x310-1-300x300.png'}
+
+Body Text:
+Investment Management - DUMAC Inc.
+Skip to the content
+DUMAC Inc.
+Toggle the mobile menu
+Toggle the search field
+Board
+Team
+Diversity
+Responsibility
+About
+Contact
+Search
+Board
+Team
+Diversity
+Responsibility
+About
+Contact
+Investment Management
+DUMAC is a professionally-staffed organization of about 55 employees that works with the assistance of 130 investment advisory firms and partnerships to help meet its investment goals.
+DUMAC’s primary responsibility is to manage Duke University’s endowment assets.  In addition to managing Duke’s endowment, DUMAC also manages the university’s defined benefit pension plan assets, Duke University Health System’s investments, and much of the university’s working capital.  DUMAC also manages the assets of The Duke Endowment, the private charitable trust established by Duke University’s founder, James B. Duke.
+Investment Teams
+Private Investments Team
+Venture Capital
+Private Equity
+Real Estate
+Natural Resources
+Public Securities Team
+Hedged Strategies
+Global Equity
+Fixed Income
+Commodities
+Direct Investments Team
+Global Equity
+Opportunistic
+Credit
+Commodities
+Portfolio Hedges
+Duke
+DUMAC Inc.
+280 S Mangum St Suite 210
+Durham, NC 27701-3675
+(919) 668-9995
+Privacy Statement
+Powered by
+WordPress
+&
+Theme by
+Anders Norén

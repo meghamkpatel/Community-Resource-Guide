@@ -1,0 +1,253 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Officers & Board of Directors | American Civil Liberties Union'}
+{'property': 'og:url', 'content': 'https://www.aclu.org/about/officers-board-directors'}
+{'property': 'og:site_name', 'content': 'American Civil Liberties Union'}
+{'property': 'article:modified_time', 'content': '2024-04-26T16:28:27+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@aclu'}
+{'name': 'generator', 'content': 'WordPress 6.5.2'}
+
+Body Text:
+Officers & Board of Directors | American Civil Liberties Union
+Skip navigation
+About
+›
+Officers & Board of Directors
+American Civil Liberties Union Foundation, Inc. Board of Directors and ACLU, Inc. Executive Committee
+As of January 2024
+Deborah Archer
+(
+President
+)
+New York
+Michelle Brown-Yazzie
+New Mexico
+Ruth Colker
+Ohio
+Cherie Dawson-Edwards
+Kentucky
+Dax Goldstein
+(Secretary)
+California
+Donita Judge
+New Jersey
+Anil Mujumdar
+Alabama
+Robert Remar
+(
+Vice President, Treasurer
+)
+Georgia
+Shaakirrah Sanders
+(General Counsel)
+Idaho
+Connie Tcheng
+California
+Ron Tyler
+(
+General Counsel
+)
+California
+Charu Verma
+(
+Vice President
+)
+Massachusetts
+Yomi Wrong
+California
+Ex-officio: Ron Chen
+and
+Shaakirrah Sanders
+(General Counsel)
+American Civil Liberties Union, Inc. National Board of Directors
+As of January 2024
+Chelsie Acosta
+Affiliate Representative, ACLU of Utah
+Andrew Aleman
+Affiliate Representative, ACLU of Nebraska
+Li Yun Alvarado
+At-large, California
+Deborah Archer
+(
+President, Executive Committee
+)
+At-large, New York
+Coleman Bazelon
+Affiliate Representative, ACLU of Maryland
+Alice Boyer
+Affiliate Representative, ACLU of Montana
+Royce Brooks
+Affiliate Representative, ACLU of Texas
+Michelle Brown-Yazzie (Executive Committee
+)
+At-large, New Mexico
+Ron Chen
+(
+General Counsel
+)
+At-large, New Jersey
+Ruth Colker
+(
+Executive Committee
+)
+At-large, Ohio
+Cherie Dawson-Edwards
+(
+Executive Committee
+)
+Affiliate Representative, ACLU of Kentucky
+Melanie Deas
+Affiliate Representative, ACLU of Mississippi
+Darlene English
+Affiliate Representative, ACLU of Ohio
+Lia Epperson
+At-large, District of Columbia
+Nancy Fannon (Secretary)
+Affiliate Representative, ACLU of Maine
+Anne Farmer
+Affiliate Representative, ACLU of West Virginia
+Kim Ferguson
+Affiliate Representative, ACLU of Minnesota
+Tim Fox
+At-large, Colorado
+Dax Goldstein (Executive Committee
+)
+At-large, California
+Anne Gordon
+Affiliate Representative, ACLU of North Carolina
+Claudia Gordon
+Affiliate Representative, ACLU of District of Columbia
+Gavin Grimm
+At-large, California
+Ruth Mary Hall
+Affiliate Representative, ACLU of Virginia
+Greg Hasty
+Affiliate Representative, ACLU of Indiana
+Ashley Heilprin
+Affiliate Representative, ACLU of Louisiana
+Allan Hillman
+Affiliate Representative, ACLU of Connecticut
+Joan Hsiao
+Affiliate Representative, ACLU of Washington
+Marina Hsieh
+Affiliate Representative, ACLU of Northern California
+Nadia Hussain
+Affiliate Representative, ACLU of New Jersey
+Kathryn Jakabcin
+Affiliate Representative, ACLU of Delaware
+Kim Jordan
+Affiliate Representative, ACLU of Vermont
+Donita Judge (Executive Committee
+)
+At-large, New Jersey
+Alonzo Kelly
+Affiliate Representative, ACLU of Wisconsin
+Laura Kofoid
+Affiliate Representative, ACLU of Illinois
+Marilyn Lantz
+Affiliate Representative, ACLU of Iowa
+Carolyn Love
+Affiliate Representative, ACLU of Colorado
+Carolyn Mannis
+Affiliate Representative, ACLU of Rhode Island
+Lupe Marroquin
+At-large, Alaska
+Rut Martinez-Alicea
+Affiliate Representative, ACLU of Oregon
+Guadalupe Marroquin
+Affiliate Representative, ACLU of Alaska
+Ben Matthews
+Affiliate Representative, ACLU of Oklahoma
+Jim Metzger
+Affiliate Representative, ACLU of Arkansas
+Julie Morales
+Affiliate Representative, ACLU of Southern California
+Anil Mujumdar (Executive Committee
+)
+Affiliate Representative, ACLU of Alabama
+Gail Podolsky
+Affiliate Representative, ACLU of Georgia
+Lorella Praeli
+At-large, Connecticut
+Jacob Raiford
+Affiliate Representative, ACLU of Arizona
+Lisa Rasmussen
+Affiliate Representative, ACLU of Nevada
+Robert Remar (Vice President, Treasurer, Executive Committee)
+At-large, Georgia
+Amer Sajed
+Affiliate Representative, ACLU of Pennsylvania
+Shaakirrah Sanders (General Counsel, Executive Committee
+)
+Affiliate Representative, ACLU of Idaho
+Eric Schneider
+Affiliate Representative, ACLU of Hawaii
+Ivan Segura
+Affiliate Representative, ACLU of South Carolina
+Kara Simard
+Affiliate Representative, ACLU of New Hampshire
+Derrell Slaughter
+Affiliate Representative, ACLU of Michigan
+Eric Smaw
+Affiliate Representative, ACLU of Florida
+Daron Smith
+Affiliate Representative, ACLU of Missouri
+Joy Springfield
+Affiliate Representative, ACLU of Kansas
+Amber C. Stephens
+Affiliate Representative, ACLU of San Diego and Imperial Counties
+Connie Tcheng (Executive Committee
+)
+At-large, California
+Louis Thomas
+Affiliate Representative, ACLU of Pennsylvania (Philadelphia)
+Irene Tresser
+Affiliate Representative, ACLU of Alaska
+Ron Tyler (General Counsel, Executive Committee)
+At-large, California
+Gabrielle Uballez
+Affiliate Representative, ACLU of New Mexico
+Charu Verma (Vice President, Executive Committee)
+Affiliate Representative, ACLU of Massachusetts
+Sandy Vopalka
+At-large, Iowa
+Eve Wachtell
+Affiliate Representative, New York Civil Liberties Union
+Annie B. Williams
+Affiliate Representative, ACLU of Tennessee
+Jesse Wing
+At-large, Washington
+Yomi Wrong (Executive Committee
+)
+At-large, California
+Additional ACLU/F Officers (non-board members)
+Terence Dougherty
+(
+Assistant Secretary
+)
+Anthony Romero
+(
+Chief Executive Officer
+)
+Charizma Williams
+(
+Assistant Treasurer
+)
+Links to other resources about the ACLU
+History
+Defending civil liberties since 1920
+Careers
+Full-time positions and internships
+Shop
+Apparel, books, and more
+State Affiliates
+Our 54 local ACLU offices
+FAQs
+Membership and donation questions
+Contact
+Thanks for your interest in the ACLU

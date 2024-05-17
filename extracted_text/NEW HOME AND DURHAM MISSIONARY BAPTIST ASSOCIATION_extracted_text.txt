@@ -1,0 +1,51 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': ''}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '6a6ceb29-dd74-4697-b3cb-5cae8690d078'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'c76b5142-ac40-4cbd-8d8b-47d866740ea0'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '64'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Home'}
+{'property': 'og:title', 'content': 'Home'}
+{'property': 'og:description', 'content': 'Home'}
+{'property': 'og:url', 'content': 'https://www.newhomeanddurhamassociation.com'}
+{'property': 'og:site_name', 'content': 'My Vxw Site A87juv'}
+{'property': 'og:site_name', 'content': 'Home'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home'}
+{'name': 'twitter:description', 'content': 'Home'}
+
+Body Text:
+Home
+top of page
+New Home and Durham Mission​
+ary Baptist Association, Inc.
+Home
+About
+Mission Statement
+NH&D Events
+Calendar
+Church Events
+Food Pantry
+Graduation Spotlight
+More
+Churches Social Media
+New Home and Durham Bi-Laws
+Contact
+Thank you for visiting!!!
+We are very excited about the vision, direction and the plans God is allowing for our Association to expand into our new beginnings.
+We also ask that you click the link below to visit our Facebook Page to Like or Comment.
+NH&DMBA Facebook Page
+Donate with Paypal
+Donate -  Cash App
+newhomeanddurhammba@gmail.com
+New Home and Durham Missionary Baptist Association
+6611 Guess Road
+Durham, NC 27712
+bottom of page

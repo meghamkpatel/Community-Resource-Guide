@@ -1,0 +1,137 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Samaritan Health Center, Durham NC'}
+{'property': 'og:title', 'content': 'Samaritan Health Center, Durham NC'}
+{'property': 'og:url', 'content': 'https://www.samaritanhealthcenter.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/6564d44f8bc75834d73d4c44/t/6564db09b652be535fa03956/1701108489657/SHC-FINAL-color-2x10-removebg-transparent.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1118'}
+{'property': 'og:image:height', 'content': '223'}
+{'itemprop': 'name', 'content': 'Samaritan Health Center, Durham NC'}
+{'itemprop': 'url', 'content': 'https://www.samaritanhealthcenter.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/6564d44f8bc75834d73d4c44/t/6564db09b652be535fa03956/1701108489657/SHC-FINAL-color-2x10-removebg-transparent.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/6564d44f8bc75834d73d4c44/t/6564db09b652be535fa03956/1701108489657/SHC-FINAL-color-2x10-removebg-transparent.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Samaritan Health Center, Durham NC'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/6564d44f8bc75834d73d4c44/t/6564db09b652be535fa03956/1701108489657/SHC-FINAL-color-2x10-removebg-transparent.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.samaritanhealthcenter.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Samaritan Health Center, Durham NC
+0
+Skip to Content
+Become a Patient
+Welcome to Samaritan
+How It Works
+Our Services
+Apply Now
+Volunteer
+Why Volunteer?
+Volunteer FAQs
+Get Started
+About
+Our Mission
+Board of Directors
+Staff
+Employment
+Partners
+News & Events
+Join Our Mailing List
+Find Us
+English
+Donate
+Open Menu
+Close Menu
+Become a Patient
+Welcome to Samaritan
+How It Works
+Our Services
+Apply Now
+Volunteer
+Why Volunteer?
+Volunteer FAQs
+Get Started
+About
+Our Mission
+Board of Directors
+Staff
+Employment
+Partners
+News & Events
+Join Our Mailing List
+Find Us
+English
+Donate
+Open Menu
+Close Menu
+Folder:
+Become a Patient
+Back
+Welcome to Samaritan
+How It Works
+Our Services
+Apply Now
+Folder:
+Volunteer
+Back
+Why Volunteer?
+Volunteer FAQs
+Get Started
+Folder:
+About
+Back
+Our Mission
+Board of Directors
+Staff
+Employment
+Partners
+News & Events
+Join Our Mailing List
+Find Us
+English
+Back
+Donate
+Health. Dignity. Flourishing.
+Become a Patient
+Volunteer with us!
+Learn how you can help
+Make an impact.
+Learn how your financial contribution can help.
+Donate today
+16
+PHYSICIANS VOLUNTEERED
+397 HOURS OF THEIR TIME
+780
+PATIENTS SERVED
+IN 11 LANGUAGES
+$1.1M
+FREE MEDICATIONS
+PRESCRIBED
+Welcome to Samaritan Health Center
+A free and charitable clinic in Durham, North Carolina.
+At Samaritan Health Center, we envision a community where all people have what they need to flourish.
+We provide accessible, holistic healthcare that focuses on physical needs, as well as the social, emotional, and spiritual issues that affect health, regardless of ability to pay. We look forward to meeting you.
+Services
+Whether you need a check-up, treatment for a minor ailment, or ongoing care, we are here to help.
+Our services are focused on delivering compassionate care and improving the health and well-being of all individuals.
+Learn about Our Services
+Medical Care
+Vision Care
+Patient Services
+The Latest News from Samaritan
+News & Events
+Flourish 2024 Fundraiser
+Samaritan Health Center guests, patients, volunteers, staff, and Board gathered at ReCity on April 27 for the Flourish 2024 event.
+Read More →
+PO Box 51339, Durham, NC 27717
+(919) 407-8223
+PHONE
+(866) 331-8301
+FAX
+info@samaritanhealthcenter.org
+CONNECT WITH US
+Join Our Mailing List

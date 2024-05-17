@@ -1,0 +1,74 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '7fa92126-b071-4338-b4e9-14301ead8652'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'c58c8113-93a5-47de-abb5-405bd58afe92'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '628'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'The Pink Pearl Foundation strengthens communities by providing educational assistance, social services and programs to communities in Metro Orlando and the surrounding Orange County areas.'}
+{'property': 'og:title', 'content': 'Pink Pearl Foundation'}
+{'property': 'og:description', 'content': 'The Pink Pearl Foundation provides educational assistance, social services and programs to communities in Metro Orlando and the surrounding Orange County areas.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/76e17d_bae45f2c703e4b09b0ed7101bbb06121~mv2.png/v1/fill/w_2202,h_1085,al_c/76e17d_bae45f2c703e4b09b0ed7101bbb06121~mv2.png'}
+{'property': 'og:image:width', 'content': '2202'}
+{'property': 'og:image:height', 'content': '1085'}
+{'property': 'og:url', 'content': 'https://pinkpearlfoundation.com'}
+{'property': 'og:site_name', 'content': 'PinkPearlFoundation'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Pink Pearl Foundation'}
+{'name': 'twitter:description', 'content': 'The Pink Pearl Foundation provides educational assistance, social services and programs to communities in Metro Orlando and the surrounding Orange County areas.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/76e17d_bae45f2c703e4b09b0ed7101bbb06121~mv2.png/v1/fill/w_2202,h_1085,al_c/76e17d_bae45f2c703e4b09b0ed7101bbb06121~mv2.png'}
+
+Body Text:
+Pink Pearl Foundation, Incorporated
+top of page
+Purpose
+Passion
+Programs
+Blooming In June
+Scholarships
+Board of Directors
+Partnership
+Contact
+More
+Use tab to navigate through the menu items.
+DONATE
+Rooted In Service
+We make a difference and impact lives. Through our programs, we create opportunities, inspire change and transform communities.
+Youth
+Mentoring
+"Pressing Towards Outstanding" Program
+Get Details
+Blooming. Growing Serving.
+We see the value in everyone and want to be a catalyst for positive change. We are driven by the ideals to support, empower and progress communities through consistent actions.
+Go Higher
+Scholarships available
+Academics
+Get Details
+Featured Program
+Blooming in June
+Cotillion
+Learn More
+Click and Support
+Free donation to PPF!
+AmazonSmile
+Shop & Help
+Create Lasting Change
+Help us mobilize communities and bring long-term impacts through positive collaboration.
+Engage
+Engage as a partner in our community-based initiatives and programs.
+Partner With Us
+Communicate
+Communicate the passion and purpose of the Pink Pearl Foundation with your network and community.
+Be An Advocate
+Contact
+|
+Privacy Policy
+©2023 Pink Pearl Foundation
+Member Access
+bottom of page

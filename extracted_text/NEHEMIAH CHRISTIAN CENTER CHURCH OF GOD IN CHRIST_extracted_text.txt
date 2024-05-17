@@ -1,0 +1,79 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '555d5511-23db-4e17-93ce-ebdbb1ea64b3'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '95b7aa48-09a2-4b81-ad35-4b77081628e4'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '420'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Nehemiah Church COGIC is more than a congregation, we are a Community of multiple ethnicities, generations and experiences. Our vision is to meet members of our community where they are and assist them in establishing better lives, families and careers. '}
+{'property': 'og:title', 'content': 'Worship | Nehemiah Church COGIC | Durham'}
+{'property': 'og:description', 'content': 'Nehemiah Church COGIC is more than a congregation, we are a Community of multiple ethnicities, generations and experiences. Our vision is to meet members of our community where they are and assist them in establishing better lives, families and careers. '}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/21a626_58217febd8224d48a0760edfd60a0795~mv2.jpg/v1/fill/w_2500,h_1666,al_c/21a626_58217febd8224d48a0760edfd60a0795~mv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1666'}
+{'property': 'og:url', 'content': 'https://www.visitncc.com'}
+{'property': 'og:site_name', 'content': 'Nehemiah Church'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'nehemiahchristiancenter'}
+{'name': 'google-site-verification', 'content': 'yosIfMlsV0MSo7qy3NiE0WpSebh04UBzyP71MEqktUo'}
+{'property': 'fb:admins', 'content': 'nehemiahchristiancenter'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Worship | Nehemiah Church COGIC | Durham'}
+{'name': 'twitter:description', 'content': 'Nehemiah Church COGIC is more than a congregation, we are a Community of multiple ethnicities, generations and experiences. Our vision is to meet members of our community where they are and assist them in establishing better lives, families and careers. '}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/21a626_58217febd8224d48a0760edfd60a0795~mv2.jpg/v1/fill/w_2500,h_1666,al_c/21a626_58217febd8224d48a0760edfd60a0795~mv2.jpg'}
+
+Body Text:
+Worship | Nehemiah Church COGIC | Durham
+top of page
+Donate
+Home
+About Us
+We Believe
+Pastor & First Lady
+Community Involvement
+Meet the Staff
+Give
+Stream
+Events
+Contact
+NCC Back Office
+FAQ
+Privacy Policy
+More...
+Use tab to navigate through the menu items.
+Log In
+Nehemiah Church COGIC
+We are on the move for God with a vision! We are well aware of what God has called us to do; and we are committed to carrying out holistic ministry. We are a multicultural Christian community that consist of two congregations: the predominately African American Nehemiah Church and the
+predominately Latino Nehemías Espíritu de Vida.
+Enter Here
+Welcome to
+Nehemiah Church COGIC
+Please take time to peruse our website to learn more about our wonderful fellowship. Feel free to join us during any of our times of worship as we strive to make maximum kingdom impact while “Rebuilding Broken Lives through our Witness, our Worship and the Word of God.”
+Get Monthly Updates
+Sign Up!
+Thanks for submitting!
+Email
+:
+info@visitncc.com
+Phone
+: (919) 688-4203
+514 North Mangum Street, Durham, NC, USA
+Quick Links
+Welcome
+About Us
+Stream
+Events
+Contact
+Back Office
+Privacy Policy
+FAQ's
+Nehemiah Church COGIC © 2024 • Designed & Developed by
+ASI DESIGN LEGACY LLC
+•
+Privacy Policy
+bottom of page

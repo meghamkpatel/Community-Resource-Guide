@@ -1,0 +1,77 @@
+Meta Information:
+{'content': 'text/html; charset=UTF-8', 'http-equiv': 'Content-Type'}
+{'content': 'text/javascript', 'http-equiv': 'Content-Script-Type'}
+{'content': 'text/css', 'http-equiv': 'Content-Style-Type'}
+{'id': 'MetaDescription', 'name': 'DESCRIPTION', 'content': 'Hope Outreach International Ministries (HOIM) homepage'}
+{'id': 'MetaKeywords', 'name': 'KEYWORDS', 'content': 'Hope Outreach International Ministries HOIM Jesus Christ Cameroon Julius Esunge non-profit Christian evangelizing empowering equipping Buea HOTPEC Sharing the Wonderful Hope in the Gospel of Jesus Christ ,DotNetNuke,DNN'}
+{'id': 'MetaCopyright', 'name': 'COPYRIGHT', 'content': 'Copyright 2010-2016 by Hope Outreach International Ministries'}
+{'id': 'MetaGenerator', 'name': 'GENERATOR', 'content': 'DotNetNuke '}
+{'id': 'MetaAuthor', 'name': 'AUTHOR', 'content': 'Hope Outreach International Ministries'}
+{'name': 'RESOURCE-TYPE', 'content': 'DOCUMENT'}
+{'name': 'DISTRIBUTION', 'content': 'GLOBAL'}
+{'id': 'MetaRobots', 'name': 'ROBOTS', 'content': 'INDEX, FOLLOW'}
+{'name': 'REVISIT-AFTER', 'content': '1 DAYS'}
+{'name': 'RATING', 'content': 'GENERAL'}
+{'http-equiv': 'PAGE-ENTER', 'content': 'RevealTrans(Duration=0,Transition=1)'}
+
+Body Text:
+Welcome to Hope Outreach International Ministries: Sharing the Wonderful Hope in the Gospel of Jesus Christ
+Site
+Web
+Home
+About Us
+A Word from Julius
+History
+Board of Directors
+Partners
+Endorsements
+Statement of Faith
+Projects
+Buea Hope Center
+Get Involved
+Pray
+Go
+Give
+Resources
+Briefs
+Echoes of Hope
+Contact Us
+You are here:
+Home
+Register
+|
+Login
+"
+Go into
+all
+the world...
+"
+Mark 16
+:
+15
+View Verse of the Day
+How to Know
+King Jesus
+Join Our
+Prayer
+Team
+Visit Our
+Blog
+Hope Outreach International Ministries
+(HOIM) is a Christian, non-profit organization dedicated to
+Evangelizing
+the lost through gospel crusades, camps and conferences;
+Empowering
+orphans, widows and those in need through Christ-centered vocational training; and
+Equipping
+ministers of the gospel through Christian seminars and resources.
+HOIM is a 501(c)(3) non-profit organization.
+HOIM's President, Dr. Julius Esunge, featured in
+In Touch Magazine
+HOIM Hosts Evangelism Explosion Conference
+Hope Camp - Raising Champions
+Life in Cameroon: Photographer Ben Rollins Chronicles the Impact of HOIM
+Privacy Statement
+|
+Terms Of Use
+Copyright 2010-2016 by Hope Outreach International Ministries

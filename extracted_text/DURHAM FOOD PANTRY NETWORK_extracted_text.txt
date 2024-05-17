@@ -1,0 +1,124 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'author', 'content': ''}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Durham Community Food Pantry Home Page - Catholic Charities of the Diocese of Raleigh'}
+{'property': 'og:url', 'content': 'https://www.catholiccharitiesraleigh.org/dcfp/'}
+{'property': 'og:site_name', 'content': 'Catholic Charities of the Diocese of Raleigh'}
+{'property': 'article:modified_time', 'content': '2024-02-21T18:55:30+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Durham Community Food Pantry'}
+{'name': 'twitter:label2', 'content': 'Est. reading time'}
+{'name': 'twitter:data2', 'content': '3 minutes'}
+{'name': 'generator', 'content': 'WordPress 5.6'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.102.0'}
+{'name': 'generator', 'content': 'Powered by WPBakery Page Builder - drag and drop page builder for WordPress.'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.catholiccharitiesraleigh.org/wp-content/uploads/2017/03/cropped-favicon-chapel-512-270x270.png'}
+
+Body Text:
+Durham Community Food Pantry Home Page - Catholic Charities of the Diocese of Raleigh - Catholic Charities of the Diocese of Raleigh
+Subscribe
+DONATE
+Home
+Locations
+Locations Map
+Administrative Offices
+Albemarle Region
+Cape Fear Region
+Fayetteville Region (Fayetteville)
+New Bern Region
+Newton Grove Region (Clayton)
+Piedmont Region (Burlington, Durham)
+Raleigh Region
+Tar River Region
+Hispanic Centers (Burlington, Raleigh)
+Programs
+Core Programs
+Disaster Services
+Food Pantries
+Immigration Legal Services
+Regional Programs
+Adoption
+Centro La Comunidad
+Catholic Parish Outreach Food Pantry
+Centro Para Familias Hispanas
+Counseling
+Durham Community Food Pantry
+NC Catholics Volunteer
+Senior Pharmacy Program
+St. Michael’s SHARES
+Support Circle Program for Homeless Families
+Wrapped with Love Christmas Program
+Donate
+2023 Hope in Action Campaign
+Donate
+Ways to Give
+News & Events
+News
+Events
+Annual Gala
+2024 Drive Out Hunger Golf Outing
+About
+Leadership
+Mission
+Careers
+Contact Us
+Sponsors & Partner Agencies
+Human Resources
+About Us
+About the
+Durham Community Food Pantry
+Office Hours
+Address
+General Information
+Programs
+Our Programs
+Food Pantry Services
+Immigration Legal Services
+Nutrition and Wellness
+Clinical Counseling
+How to Help
+Donate
+Volunteer
+Contact Us
+Contact Us
+Meet our Staff
+Our Offices
+Albemarle Region
+(Elizabeth City)
+Cape Fear Region
+(Burgaw, Wilmington)
+Fayetteville Region
+(Fayetteville)
+New Bern Region
+(New Bern)
+Newton Grove Region
+(Fayetteville)
+Piedmont Region
+(Burlington, Durham)
+Raleigh Region
+(Cary, Raleigh)
+Tar River Region
+(Greenville)
+Hispanic Centers
+(Burlington, Raleigh)
+Our Locations
+Quick Links
+Catholic Diocese of Raleigh
+Catholic Charities USA
+Contact Us
+Careers
+Get Help
+Give Help
+Sponsors
+Terms Of Use
+Subscribe
+DONATE
+© 2024 Catholic Charities of the Diocese of Raleigh.
+Designed and Hosted by
+S&A Communications
+.

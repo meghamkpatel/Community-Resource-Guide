@@ -1,0 +1,71 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'content': 'IE=edge,chrome=1', 'http-equiv': 'X-UA-Compatible'}
+{'content': 'width=device-width, initial-scale=1.0', 'name': 'viewport'}
+{'content': 'United Campus Christian Fellowship', 'name': 'author'}
+{'name': 'robots', 'content': 'index,follow'}
+{'property': 'og:site_name', 'content': 'United Campus Christian Fellowship'}
+{'property': 'og:title', 'content': 'United Campus Christian Fellowship'}
+{'property': 'og:url', 'content': 'https://uccfmi.org/'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:description', 'content': ''}
+{'property': 'og:image', 'content': 'https://dq5pwpg1q8ru0.cloudfront.net/2022/08/05/13/02/23/0eede427-7c64-425e-a485-803b3fe532e6/KCAD.jpeg'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '389'}
+{'itemprop': 'name', 'content': 'United Campus Christian Fellowship'}
+{'name': 'csrf-param', 'content': 'authenticity_token'}
+{'name': 'csrf-token', 'content': '86H7bRxTxwUbMDK8jCVYJM+H2pYRfHiwK7Elb7WcOJ9iMcI4ld4EHGFNDzfv6TDQbdcCU+H3dk/t98e7qt09XQ=='}
+
+Body Text:
+United Campus Christian Fellowship
+Contact
+Facebook Icon
+Instagram Icon
+Twitter Icon
+Youtube Icon
+Toggle navigation
+Menu
+Home
+About
+Connect
+Events
+Opportunities
+Support
+Contact
+FOUR DENOMINATIONS, THREE CAMPUSES, ONE MINISTRY
+Welcome!
+We are so glad you're here.
+United Campus Christian Fellowship (UCCF) is a multi campus,  multi denominational campus ministry. We engage with students, faculty and staff in the greater area of Grand Rapids MI, specifically from the campuses of Grand Valley State University, Grand Rapids Community College, and Kendall College of Art and Design. Check out our opportunities to get involved in Open Table, Bible studies/small groups,  and unique service opportunities!
+Wonder what UCCF does on campuses? Click play!
+SUPPORT
+Upcoming Events!
+Ministry Partners
+Denominations working together to bring this ministry to life.
+Sign up for our Newsletter
+Subscribe to receive email updates with the latest news.
+Enter Your Email
+Subscribe
+Home
+About
+Connect
+Events
+Opportunities
+Support
+Mailing Addresss
+47 Jefferson Ave SE
+Grand Rapids, MI
+49503
+View on Google Maps
+Contact
+Email
+:
+info@uccfmi.org
+Facebook Icon
+Instagram Icon
+Twitter Icon
+Youtube Icon
+© 2024 United Campus Christian Fellowship. All Rights Reserved.
+|
+Login
+powered by
+Website Developed by Tithely

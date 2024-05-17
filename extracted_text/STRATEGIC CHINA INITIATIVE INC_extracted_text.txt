@@ -1,0 +1,438 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'keywords', 'content': ','}
+{'property': 'og:type', 'content': 'page'}
+{'property': 'og:url', 'content': 'https://www.justice.gov/archives/nsd/information-about-department-justice-s-china-initiative-and-compilation-china-related'}
+{'property': 'og:title', 'content': "Information About the Department of Justice's China Initiative and a Compilation of China-Related Prosecutions Since 2018"}
+{'property': 'og:image', 'content': 'https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg'}
+{'property': 'article:published_time', 'content': '2020-07-31T11:08:29-04:00'}
+{'property': 'article:modified_time', 'content': '2022-02-23T14:00:44-05:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': "Information About the Department of Justice's China Initiative and a Compilation of China-Related Prosecutions Since 2018"}
+{'name': 'twitter:url', 'content': 'https://www.justice.gov/archives/nsd/information-about-department-justice-s-china-initiative-and-compilation-china-related'}
+{'name': 'twitter:image', 'content': 'https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg'}
+{'name': 'Generator', 'content': 'Drupal 9 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+National Security Division |  Information About the Department of Justice's China Initiative and a Compilation of China-Related Prosecutions Since 2018
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+A locked padlock
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+DOJ Menu
+U.S. Department
+                            of Justice
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History
+Privacy Program
+Our Work
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Utilities
+Our Offices
+Find Help
+Contact Us
+Search
+Menu
+Close
+About
+About
+Employment
+FOIA
+Organization Chart
+Leadership
+Leadership
+Former Assistant Attorneys General
+News
+News
+Videos
+Statements Testimony & Reports
+Our Work
+Our Work
+Export Control and Sanctions
+Foreign Agents Registration Act (FARA)
+Foreign Intelligence Surveillance Act (FISA)
+Foreign Investment Review Section (FIRS)
+Office of Justice for Victims of Overseas Terrorism (OVT)
+Our Offices
+Find Help
+Contact Us
+Main Menu
+U.S. Department of Justice
+About
+title="About"
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History
+Privacy Program
+Our Work
+News
+title="News"
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+title="Guidance & Resources"
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Search
+Breadcrumb
+Justice.gov
+National Security Division
+Archives
+Information About the Department of Justice's China Initiative and a Compilation of China-Related Prosecutions Since 2018
+This is archived content from the U.S. Department of Justice website. The information here may be outdated and links may no longer function. Please contact
+webmaster@usdoj.gov
+if you have any questions about the archive site.
+Information About the Department of Justice's China Initiative and a Compilation of China-Related Prosecutions Since 2018
+Last Updated November 19, 2021
+Background
+About 80 percent of all economic espionage prosecutions brought by the U.S. Department of Justice (DOJ) allege conduct that would benefit the Chinese state, and there is at least some nexus to China in around 60 percent of all trade secret theft cases.
+The Department of Justice’s China Initiative reflects the strategic priority of countering Chinese national security threats and reinforces the President’s overall national security strategy. The Initiative was launched against the background of previous findings by the Administration concerning China’s practices. In March 2018, the Office of the U.S. Trade Representative announced the results of an investigation of China’s trade practices under Section 301 of the Trade Act of 1974. It concluded, among other things, that a combination of China’s practices are unreasonable, including its outbound investment policies and sponsorship of unauthorized computer intrusions, and that “[a] range of tools may be appropriate to address these serious matters.”
+In June 2018, the White House Office of Trade and Manufacturing Policy issued a report on “How China’s Economic Aggression Threatens the Technologies and Intellectual Property of the United States and the World,” documenting “the two major strategies and various acts, policies, and practices Chinese industrial policy uses in seeking to acquire the intellectual property and technologies of the world and to capture the emerging high- technology industries that will drive future economic growth.”
+In addition to identifying and prosecuting those engaged in trade secret theft, hacking, and economic espionage, the Initiative focuses on protecting our critical infrastructure against external threats through foreign direct investment and supply chain compromises, as well as combatting covert efforts to influence the American public and policymakers without proper transparency.
+The China Initiative is led by the Department’s National Security Division (NSD), which is responsible for countering nation-state threats to the United States.
+China Initiative Leadership and Steering Committee Members
+The National Security Division
+U.S. Attorney, Northern District of California
+Assistant Attorney General, Criminal Division
+Executive Assistant Director, National Security Branch, FBI
+U.S. Attorney, Northern District of Texas
+U.S. Attorney, Eastern District of New York
+U.S. Attorney
+,
+District of Massachusetts
+U.S. Attorney, Northern District of Alabama
+Components of Initiative
+The Attorney General set the following goals for the Initiative:
+Identify priority trade secret theft cases, ensure that investigations are adequately resourced, and work to bring them to fruition in a timely manner and according to the facts and applicable law;
+Develop an enforcement strategy concerning non-traditional collectors (e.g., researchers in labs, universities and the defense industrial base) that are being coopted into transferring technology contrary to U.S. interests;
+Educate colleges and universities about potential threats to academic freedom and open discourse from influence efforts on campus;
+Apply the Foreign Agents Registration Act to unregistered agents seeking to advance China’s political agenda, bringing enforcement actions when appropriate;
+Equip the nation’s U.S. Attorneys with intelligence and materials they can use to raise awareness of these threats within their Districts and support their outreach efforts;
+Implement the Foreign Investment Risk Review Modernization Act (FIRRMA) for DOJ (including by working with Treasury to develop regulations under the statute and prepare for increased workflow);
+Identify opportunities to better address supply chain threats, especially those impacting the telecommunications sector, prior to the transition to 5G networks;
+Identify Foreign Corrupt Practices Act (FCPA) cases involving Chinese companies that compete with American businesses;
+Increase efforts to improve Chinese responses to requests under the Mutual Legal Assistance Agreement (MLAA) with the United States; and
+Evaluate whether additional legislative and administrative authorities are required to protect our national assets from foreign economic aggression.
+China-Related Cases Examples
+November 5, 2021
+Jury Convicts Chinese Intelligence Officer of Espionage Crimes, Attempting to Steal Trade Secrets
+A federal jury today convicted Yanjun Xu, a Chinese national and Deputy Division Director of the Sixth Bureau of the Jiangsu Province Ministry of State Security, of conspiring to and attempting to commit economic espionage and theft of trade secrets. The defendant is the first Chinese intelligence officer to be extradited to the United States to stand trial.
+September 24, 2021
+Huawei CFO Wanzhou Meng Admits to Misleading Global Financial Institution
+The Chief Financial Officer of Huawei Technologies Co. Ltd., Wanzhou Meng, 49, of the People’s Republic of China (PRC), appeared in federal district court in Brooklyn, to enter into a deferred prosecution agreement (DPA) and was arraigned on charges of conspiracy to commit bank fraud and conspiracy to commit wire fraud, bank fraud and wire fraud.
+July 19, 2021
+Four Chinese Nationals Working with the Ministry of State Security Charged with Global Computer Intrusion Campaign Targeting Intellectual Property and Confidential Business Information, Including Infectious Disease Research
+The Department unsealed an indictment which charged four PRC nationals, three of whom were officers in the PRC’s Ministry of State Security (MSS), with participating in a wide-ranging global computer intrusion campaign targeting infectious disease research, among other things. The unsealing was followed by a global condemnation of malicious PRC cyber activities by the European Union and other countries.
+May 14, 2021
+University Researcher Sentenced to Prison for Lying on Grant Applications to Develop Scientific Expertise for China
+Following his
+November 2020 guilty plea
+, an Ohio man and rheumatology professor and researcher with strong ties to China was sentenced to 37 months in prison for making false statements to federal authorities as part of an immunology research fraud scheme. As part of his sentence, Zheng was also ordered to pay more than $3.4 million in restitution to the National Institute of Health (NIH) and approximately $413,000 to The Ohio State University.
+April 28, 2021
+Chinese National Pleads Guilty to Illegal Exports to Northwestern Polytechnical University
+A Chinese national pleaded guilty to charges in connection with causing the illegal export of $100,000 worth of U.S. origin goods to Northwestern Polytechnical University (NWPU), a Chinese military university that is heavily involved in military research. He was
+sentenced on Sept. 9
+to two years in prison.
+April 22, 2021
+Ph.D. Chemist Convicted of Conspiracy to Steal Trade Secrets, Economic Espionage, Theft of Trade Secrets and Wire Fraud
+Following her
+February 2019 indictment
+and a twelve-day trial, Dr. Xiaorong You, aka Shannon You, 59, of Lansing, Michigan, was convicted of conspiracy to commit trade secret theft, conspiracy to commit economic espionage, possession of stolen trade secrets, economic espionage, and wire fraud. She is scheduled to be sentenced in April 2022.
+April 21, 2021
+Mathematics Professor and University Researcher Indicted for Grant Fraud
+A federal grand jury in Carbondale, Ill. returned an indictment charging a mathematics professor and researcher at Southern Illinois University – Carbondale (SIUC) with two counts of wire fraud and one count of making a false statement. A status report is due to the court by March 29, 2022.
+April 20, 2021
+Hospital Researcher Sentenced to Prison for Conspiring to Steal Trade Secrets and Sell to China
+Following his
+December 2020 guilty plea
+, an Ohio man was sentenced to 33 months in prison for conspiring to steal exosome-related trade secrets concerning the research, identification and treatment of a range of pediatric medical conditions.
+April 13, 2021
+Justice Department Announces Court-Authorized Effort to Disrupt Exploitation of Microsoft Exchange Server Vulnerabilities
+The Department announced it had conducted a court-authorized operation to remove malicious web shells from hundreds of vulnerable computers in the United States running on-premises versions of MS Exchange software. These web shells had been placed on victim servers by cyber actors employed by or associated with the PRC government, which could have used the web shells to maintain and escalate persistent, unauthorized access to U.S. networks.
+March 5, 2021
+California Man Sentenced for Illegally Exporting Cesium Atomic Clocks to Hong Kong
+A California man was sentenced in federal court for illegally exporting cesium atomic clocks to Hong Kong. A U.S. District Court Judge sentenced the individual to time served and three years of supervised release.
+February 26, 2021
+Chinese Businessman Charged With Conspiring To Steal Trade Secrets
+A Chinese businessman was indicted for conspiring to steal General Electric’s (GE) trade secrets involving the company’s silicon carbide MOSFET technology worth millions of dollars.
+February 3, 2021
+Former University of Florida Researcher Indicted for Scheme to Defraud National Institutes of Health and University of Florida
+A former University of Florida (UF) professor, researcher and resident of China has been indicted for fraudulently obtaining $1.75 million in federal grant money from the National Institutes of Health (NIH). The former UF professor is accused of concealing support he received from the Chinese government and a company that he founded in China to profit from that research. Yang traveled to China in August of 2019 and has yet to return to the United States.
+February 1, 2021
+Hospital Researcher Sentenced to Prison for Conspiring to Steal Trade Secrets, Sell Them in China
+A former hospital researcher, Li Chen, was sentenced to 30 months in prison following her
+July 2020 guilty plea
+, for conspiring to steal American research concerning the identification and treatment of a range of pediatric medical conditions. The convicted received benefits from the Chinese government in exchange for trade secrets, and will forfeit approximately $1.25 million in punitive fees, 500,000 shares of stock, and $2.6 million in restitution as part of her sentence. Co-defendant and husband Yu Zhou
+pleaded guilty in December 2020
+and was sentenced in April 2021 to 33 months' imprisonment, $10,000 fine, and restitution in the amount of $2,616,087.00 to be paid jointly with co-defendant, Li Chen.
+January 29, 2021
+Chinese National Charged with Criminal Conspiracy to Export U.S. Power Amplifiers to China
+An indictment was unsealed against a 45-year-old national of the People’s Republic of China, charging the man with participating in a criminal conspiracy to violate U.S. export laws by shipping U.S. power amplifiers to China.
+January 20, 2021
+MIT Professor Indicted on Charges Relating to Grant Fraud
+A professor and researcher at Massachusetts Institute of Technology (MIT) was indicted by a federal grand jury in connection with failing to disclose contracts, appointments and awards from various entities in the People’s Republic of China (PRC) to the U.S. Department of Energy.
+December 18, 2020
+China-Based Executive At U.S. Telecommunications Company Charged With Disrupting Video Meetings Commemorating Tiananmen Square Massacre
+A telecommunications employee allegedly participated in a scheme to disrupt a series of meetings in May and June 2020 held to commemorate the Tiananmen Square massacre in the People’s Republic of China. A federal court in Brooklyn charged with conspiracy to commit interstate harassment and unlawful conspiracy to transfer a means of identification.
+October 29, 2020
+Chinese Energy Company, U.S. Oil & Gas Affiliate and Chinese National Indicted for Theft of Trade Secrets
+A federal grand jury returned an indictment alleging corporate entities conspired to steal technology from a Houston-area oil & gas manufacturer. The defendant
+remains wanted by the FBI
+for purported theft of trade secrets.
+October 28, 2020
+Taiwan Company Pleads Guilty to Trade Secret Theft in Criminal Case Involving PRC State-Owned Company
+Pursuant to a
+2018 indictment
+. United Microelectronics Corporation, Inc. (UMC), a Taiwan semiconductor foundry, pleaded guilty to criminal trade secret theft and was sentenced to pay a $60 million fine, in exchange for its agreement to cooperate with the government in the investigation and prosecution of its co-defendant, a Chinese state-owned-enterprise.
+October 28, 2020
+Eight Individuals Charged With Conspiring to Act as Illegal Agents of the People’s Republic of China
+A complaint and arrest warrants were unsealed in federal court in Brooklyn charging eight defendants with conspiring to act in the United States as illegal agents of the People’s Republic of China (PRC).   The defendants, allegedly acting at the direction and under the control of PRC government officials, conducted surveillance of and engaged in a campaign to harass, stalk, and coerce certain residents of the United States to return to the PRC as part of a global,l repatriation effort known as “Operation Fox Hunt.”
+A
+superseding indictment filed in July 2021
+added charges and another defendant.
+October 9, 2020
+Singaporean National Sentenced to 14 Months in Prison for Acting in the United States As an Illegal Agent of Chinese Intelligence
+Jun Wei Yeo, aka Dickson Yeo, was sentenced in federal court to 14 months in prison. Yeo
+pleaded guilty
+on July 24, 2020 to acting within the United States as an illegal agent of a foreign power without first notifying the Attorney General.
+September 21, 2020
+New York City Police Department Officer Charged with Acting As an Illegal Agent of the People’s Republic of China
+A criminal complaint charged Baimadajie Angwang, 33, a New York City Police Department officer and U.S. Army reservist, with acting as an illegal agent of the People’s Republic of China (PRC) as well as committing wire fraud, making false statements and obstructing an official proceeding.
+September 16, 2020
+Seven International Cyber Defendants, Including “Apt41” Actors, Charged In Connection With Computer Intrusion Campaigns Against More Than 100 Victims Globally
+In August 2019 and August 2020, a federal grand jury in Washington, D.C., returned two separate indictments charging five computer hackers, all of whom were residents and nationals of the People’s Republic of China (PRC), with computer intrusions affecting over 100 victim companies in the United States and abroad, including software development companies, computer hardware manufacturers, telecommunications providers, social media companies, video game companies, non-profit organizations, universities, think tanks, and foreign governments, as well as pro-democracy politicians and activists in Hong Kong.
+September 16, 2020
+Jacksonville Woman Pleads Guilty to Attempting to Illegally Exporting Maritime Raiding Craft and Engines to China
+Yang Yang, 34, of Jacksonville, one of
+four defendants indicted in November 2019
+, pleaded guilty to conspiring to submit false export information; to fraudulently export to China maritime raiding craft and engines; and to attempting to fraudulently export that equipment. On Sept. 15, 2020, Yang Yang was sentenced to time-served, or the equivalent of 14 months’ imprisonment. Co-defendant Ge Songtao was
+sentenced to three years
+and six months in prison in July 2021. In November 2021, co-defendant Fan Yang was
+convicted by a federal jury
+of conspiracy and lying during security clearance background investigations. Fan Yang is scheduled to be sentenced on March 16, 2022.
+September 15, 2020
+Former Employee At Los Alamos National Laboratory Sentenced To Probation For Making False Statements About Being Employed By China
+Turab Lookman, 68, of Santa Fe, New Mexico, was sentenced on Sept. 11 to five years of probation and a $75,000 fine for providing a false statement to the Department of Energy. Lookman is not allowed to leave New Mexico for the term of his probation.
+August 24, 2020
+NASA Researcher Arrested for False Statements and Wire Fraud in Relation to China’s Talents Program
+A criminal complaint has been unsealed today, charging Zhengdong Cheng, 53, of College Station, Texas, for conspiracy, making false statements and wire fraud. He was subsequently charged by indictment on Sept. 17, 2020 and is scheduled to go to trial on April 4, 2022.
+August 17, 2020
+Former CIA Officer Arrested and Charged with Espionage
+Alexander Yuk Ching Ma, 67, a former Central Intelligence Agency (CIA) officer, was arrested on Aug. 14, 2020, on a charge that he conspired with a relative of his who also was a former CIA officer to communicate classified information up to the Top-Secret level to intelligence officials of the People’s Republic of China (PRC).  The Criminal complaint containing the charge was unsealed this morning.
+August 6, 2020
+Company President and Employee Arrested in Alleged Scheme to Violate the Export Control Reform Act
+Chong Sik Yu, aka Chris Yu, and Yunseo Lee were arrested and charged with conspiring to unlawfully export dual-use electronics components, in violation of the Export Control Reform Act, and to commit wire fraud, bank fraud, and money laundering.
+July 21, 2020
+Two Chinese Hackers Working with the Ministry of State Security Charged with Global Computer Intrusion Campaign Targeting Intellectual Property and Confidential Business Information, Including COVID-19 Research
+A federal grand jury in Spokane, Washington, returned an indictment  charging two hackers, both nationals and residents of the People’s Republic of China, with hacking into the computer systems of hundreds of victim companies, governments, non-governmental organizations, and individual dissidents, clergy, and democratic and human rights activists in the United States and abroad.The defendants in some instances acted for their own personal financial gain, and in others for the benefit of the MSS or other Chinese government agencies. The defendants remain
+wanted by the FBI
+.
+June 26, 2020
+Chinese Citizen Convicted of Economic Espionage, Theft of Trade Secrets, and Conspiracy
+Hao Zhang, 41, of China, was found guilty of economic espionage, theft of trade secrets, and conspiring to commit both offenses today, announced the Department of Justice.  The ruling was handed down by the Honorable Edward J. Davila, U.S. District Judge, following a four-day bench trial. He was
+sentenced to 18 months in prison
+in September 2020.
+June 17, 2020
+Team Telecom Recommends that the FCC Deny Pacific Light Cable Network System’s Hong Kong Undersea Cable Connection to the United States
+Team Telecom recommended to the Federal Communications Commission (FCC), based on national security concerns, that the FCC partially deny the Pacific Light Cable Network (PLCN) subsea cable system application, to the extent it seeks a direct connection between the United States and Hong Kong.
+June 9, 2020
+Harvard University Professor Indicted on False Statement Charges
+The former Chair of Harvard University’s Chemistry and Chemical Biology Department was indicted on charges of making false statements to federal authorities regarding his participation in China’s Thousand Talents Program. Dr. Charles Lieber, 61, was arrested on Jan. 28, 2020 and charged by criminal complaint. A
+superseding indictment
+, returned in July 2020, further charged Lieber with tax offenses for allegedly failing to report income he received from Wuhan University of Technology (WUT).
+May 11, 2020
+University of Arkansas Professor Arrested for Wire Fraud
+Simon Saw-Teong Ang, 63, of Fayetteville, Arkansas, was arrested on Friday, May 8, 2020, on charges related to wire fraud. The complaint charges that Ang had close ties with the Chinese government and Chinese companies and failed to disclose those ties when required to do so in order to receive grant money from NASA. In July 2020, he was
+additionally charged
+via indictment with multiple counts of wire fraud and passport fraud.
+May 11, 2020
+Former Emory University Professor and Chinese “Thousand Talents” Participant Convicted and Sentenced for Filing a False Tax Return
+On May 8, 2020, Dr. Xiao-Jiang Li, 63, of Atlanta, Georgia, pleaded guilty to a criminal information charging him with filing a false tax return. Dr. Li, a former Emory University professor and Chinese Thousand Talents Program participant, worked overseas at Chinese universities and did not report any of his foreign income on his federal tax returns.
+April 9, 2020
+Executive Branch Agencies Recommend the FCC Revoke and Terminate China Telecom’s Authorizations to Provide International Telecommunications Services in the United States
+Executive Branch agencies unanimously recommended the Federal Communications Commission (FCC) revoke and terminate China Telecom (Americas) Corp.’s authorizations to provide international telecommunications services to and from the United States.  China Telecom is the U.S. subsidiary of a People’s Republic of China (PRC) state-owned telecommunications company.
+March 17, 2020
+Hayward Resident Sentenced to Four Years for Acting as an Agent of the People’s Republic of China
+Charged in September 2019
+, Xuehua (Edward) Peng, aka Edward Peng, was sentenced yesterday to 48 months in prison and ordered to pay a $30,000 fine for acting as an agent of the People’s Republic of China’s Ministry of State Security (MSS) in connection with a scheme to conduct pickups known as “dead drops” and transport Secure Digital (SD) cards from a source in the United States to the MSS operatives in China.
+March 10, 2020
+Former West Virginia University Professor Pleads Guilty to Fraud That Enabled Him to Participate in the People’s Republic of China’s “Thousand Talents Plan”
+Dr. James Patrick Lewis, of Fairview, West Virginia, admitted to a fraud charge involving West Virginia University. Lewis, 54, pleaded guilty to a one-count information charging him with “Federal Program Fraud.” In July 2017, Lewis entered a contract of employment with the People’s Republic of China through its “Global Experts 1000 Talents Plan.” These talent programs seek to lure overseas talent and foreign experts to bring their knowledge and experience to China and reward individuals for stealing proprietary information.
+February 27, 2020
+Chinese National Sentenced for Stealing Trade Secrets Worth $1 Billion
+A former associate scientist was sentenced to 24 months in federal prison in federal court for stealing proprietary information worth more than $1 billion from his employer, a U.S. petroleum company.
+February 13, 2020
+Chinese Telecommunications Conglomerate Huawei and Subsidiaries Charged in Racketeering
+Conspiracy and Conspiracy to Steal Trade Secrets
+A superseding indictment was returned in Brooklyn, New York, charging Huawei Technologies Co. Ltd., the world’s largest telecommunications equipment manufacturer, and two U.S. subsidiaries with conspiracy to violate the Racketeer Influenced and Corrupt Organizations Act (RICO). The original indictment against Huawei for financial fraud was filed in January 2019.
+February 11, 2020
+American Businessman Who Ran Houston-Based Subsidiary of Chinese Company Sentenced To
+Prison for Theft of Trade Secrets
+The head of a Houston-based company that was the subsidiary of a Chinese company that developed stolen trade secrets was sentenced to 16 months in prison and ordered to forfeit more than $330,000 in the District of Columbia.
+February 10, 2020
+Chinese Military Personnel Charged with Computer Fraud, Economic Espionage and Wire
+Fraud for Hacking into Credit Reporting Agency Equifax
+A federal grand jury in Atlanta returned an indictment charging four members of the Chinese People’s Liberation Army (PLA) with hacking into the computer systems of the credit reporting agency Equifax and stealing Americans’ personal data and Equifax’s valuable trade secrets.
+January 28, 2020
+Harvard University Professor and Two Chinese Nationals Charged in Three Separate China Related Cases
+The Department announced charges against three individuals in connection with aiding the People’s Republic of China. For more information on these individuals, see entries on
+Dr. Charles Lieber
+, Yanqing Ye and
+Zaosong Zheng
+.
+January 28, 2020
+Cancer Researcher from China Charged with Smuggling and False Statements After Being Caught at the Airport with Twenty-one Vials of Stolen Biological Research Material
+Zaosong Zheng, 30, a Chinese national, was arrested at Boston’s Logan International Airport, and charged by criminal complaint with attempting to smuggle twenty-one vials of biological research to China. Zheng was later indicted on one count of smuggling goods from the United States and one count of making false, fictitious or fraudulent statements. He
+pleaded guilty to making false statements
+in December 2020 and was
+sentenced to time served
+in January 2021.
+December 19, 2019
+Department of Justice Reaches $5.5 Million Settlement with Van Andel Research Institute to Resolve
+Allegations of Undisclosed Chinese Grants to Two Researchers
+The Department of Justice announced today that Van Andel Research Institute (VARI) has agreed to pay $5,500,000.00 to resolve allegations that it violated the False Claims Act by submitting federal grant applications and progress reports to the National Institutes of Health (NIH), in which VARI failed to disclose Chinese government grants that funded two VARI researchers. The settlement further resolves allegations that, in a December 2018 letter, VARI made certain factual representations to NIH with deliberate ignorance or reckless disregard for the truth regarding the Chinese grants.
+November 22, 2019
+Former CIA Officer Sentenced for Conspiracy to Commit Espionage
+A former Central Intelligence Agency (CIA) case officer was sentenced to 19 years in prison for conspiring to communicate, deliver and transmit national defense information to the People’s Republic of China.
+November 21, 2019
+Chinese National Who Worked at Monsanto Indicted on Economic Espionage Charges
+Haitao Xiang, 42, formerly of Chesterfield, Missouri, was indicted \by a federal grand jury on one count of conspiracy to commit economic espionage, three counts of economic espionage, one count of conspiracy to commit theft of trade secrets, and three counts of theft of trade secrets. According to the indictment, Xiang was selected to be a member of a Chinese government Talent Plan, and, within a year, quit his job, and sought to take proprietary farming software to China.
+November 14, 2019
+Two Former Executives of the China Subsidiary of a Multi-Level Marketing Company Charged for
+Scheme to Pay Foreign Bribes and Circumvent Internal Accounting Controls
+The former head of the Chinese subsidiary of a publicly traded international multi-level marketing company and the former head of the external affairs department of the Chinese subsidiary of the same company were charged for their roles in a scheme to violate the anti-bribery and the internal control provisions of the Foreign Corrupt Practices Act (FCPA).
+October 18, 2019
+Chinese National Sentenced to 40 Months in Prison for Conspiring to Illegally Export Military- and
+S
+pace-Grade Technology from the United States to China
+Tao Li, a 39-year-old Chinese national, was sentenced to 40 months in prison, followed by three years of supervised release after pleading guilty to conspiring to export military and space-grade technology to the People’s Republic of China without a license, in violation of the International Emergency Economic Powers Act (IEEPA), which makes certain unauthorized exports illegal.
+September 24, 2019
+Former Intelligence Officer Convicted of Attempted Espionage Sentenced to 10 Years in Federal Prison
+Ron Rockwell Hansen, 60, of Utah, a former Defense Intelligence Agency officer, who pleaded guilty to attempting to communicate, deliver, or transmit information involving the national defense of the United States to the People’s Republic of China, was sentenced to 10 years in federal prison.
+August 21, 2019
+University of Kansas Researcher Indicted for Fraud for Failing to Disclose Conflict of Interest with
+Chinese University
+Feng “Franklin” Tao, an associate professor at Kansas University, was indicted on federal charges for concealing the fact he was a full-time employee for Fuzhou University, in China, while doing research at KU that was funded by the U.S. government.  Jury trial continued from December 2021, with a new date to be determined.
+July 11, 2019
+Newly Unsealed Federal Indictment Charges Software Engineer with Taking Stolen Trade Secrets to
+China
+Xudong Yao, aka William Yao, a software engineer at a suburban Chicago locomotive manufacturer, was charged with nine counts of theft of trade secrets for allegedly stealing proprietary information from the company and taking it to China.
+July 9, 2019
+Former State Department Employee Sentenced for Conspiring with Chinese Agents
+Candace Marie Clairborne, a former employee of the U.S. Department of State, was sentenced to 40 months in prison, three years of supervised release, and a fine of $40,000. Clairborne was found guilty of conspiracy to defraud the United States by lying to law enforcement and background investigators, and hiding her extensive contacts with, and gifts from, agents of the People’s Republic of China, which were provided in exchange for internal documents from the U.S. State Department.
+July 2, 2019
+Electrical Engineer Convicted of Conspiring to Illegally Export to China Semiconductor Chips with
+Missile Guidance Applications
+Yi-Chi Shih, an electrical engineer, was found guilty of multiple criminal charges, including a scheme to illegally obtain integrated circuits with military applications that were later exported to China without the required export license. After a six-week trial, Shih was found guilty of conspiracy to violate the International Emergency Economic Powers Act, a federal law that makes certain unauthorized exports illegal. He was
+sentenced to over five years
+in prison in July 2021.
+May 17, 2019
+Former CIA Officer Sentenced to Prison for Espionage
+Former U.S. Intelligence officer Kevin Patrick Mallory was convicted under the Espionage Act for conspiracy to transmit national defense information to an agent of the People’s Republic of China. He was sentenced to 20 years in prison followed by five years of supervised release.
+May 9, 2019
+Member of Sophisticated China-Based Hacking Group Indicted for Series of Computer Intrusions, Including 2015 Data Breach of Health Insurer Anthem Inc. Affecting Over 78 Million People
+A federal grand jury returned an indictment  charging a Chinese national as part of an extremely sophisticated hacking group operating in China and targeting large businesses in the United States, including a computer intrusion and data breach of Indianapolis-based health insurer Anthem Inc.
+April 23, 2019
+Former GE Engineer and Chinese Businessman Charged with Economic Espionage and Theft of GE’s
+Trade Secrets
+An indictment charged Xiaoqing Zheng and Zhaoxi Zhang with economic espionage and conspiring to steal General Electric’s (GE) trade secrets relating to its turbine technology, knowing and intending that the stolen trade secrets would be used to benefit the People’s Republic of China. The 14-count indictment alleged Zheng, while employed at GE Power & Water, exploited his access by stealing multiple electronic files and transferring them to Zhang, his business partner in China. Jury trial is set to begin in March 2022.
+April 17, 2019
+Former Manager for International Airline Pleads Guilty to Acting as an Agent of the Chinese
+Government
+Ying Lin, a former manager with an international air carrier headquartered in the People’s Republic of China, pleaded guilty to acting as an agent of the PRC, without prior notification to the Attorney General. Lin transported packages from John F. Kennedy International Airport to the PRC at the orders of the Chinese military officers, in violation of Transportation Security Administration regulations. Lin was subsequently sentenced to probation in December 2019.
+January 28, 2019
+Chinese Telecommunications Device Manufacturer and its U.S. Affiliate Indicted for Theft of Trade
+Secrets, Wire Fraud, and Obstruction of Justice
+A 10-count indictment, unsealed in the Western District of Washington, charged Huawei Device Co., Ltd. and Huawei Device Co. USA with theft of trade secrets conspiracy, attempted theft of trade secrets, seven counts of wire fraud, and one count of obstruction of justice. The indictment details Huawei’s alleged efforts to steal trade secrets from T-Mobile USA and then obstruct justice when T-Mobile threatened to sue Huawei in U.S. District Court.
+December 20, 2018
+Two Chinese Hackers Associated with the Ministry of State Security Charged with Global Computer In
+trusion Campaigns Targeting Intellectual Property and Confidential Business Information
+The Southern District of New York unsealed an indictment charging Chinese nationals Zhu Hua and Zhang Shilong with conspiracy to commit computer intrusions, conspiracy to commit wire fraud, and aggravated identity theft. As alleged, the defendants, through their involvement in a hacking group associated with the Chinese Ministry of State Security, from 2006 to in or about 2018, conducted global campaigns of computer intrusions targeting, among other data, intellectual property and confidential business and technological information at managed service providers, which are companies that remotely manage the information technology infrastructure of businesses and governments around the world, including in the United States.
+Updated February 23, 2022
+National Security Division
+U.S. Department of Justice
+950 Pennsylvania Avenue NW
+Washington DC 20530
+nsd.public@usdoj.gov
+Phone: 202-514-2007
+Signup for Email Updates
+Social Media
+twitter
+About
+Archives
+FOIA
+Accessibility
+Legal Policies & Disclaimers
+Privacy
+For Employees
+Office of the Inspector General
+No FEAR Act Data
+Vulnerability Disclosure
+Español
+Vote.gov
+Have a question about Government Services?
+Contact USA.gov
+Top

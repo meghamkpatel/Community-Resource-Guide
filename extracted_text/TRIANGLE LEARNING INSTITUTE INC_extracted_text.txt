@@ -1,0 +1,403 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'RTI is a nonprofit research institute dedicated to improving the human condition. Explore our services, practice areas and more.'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'google-site-verification', 'content': '0XqCPCRC5U-y9l38uKMtVylx6KlKGnW3M6MR7ecXebo'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home Page'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home Page'}
+
+Body Text:
+RTI International | Research Institute
+Skip to Main Content
+RTI uses cookies to offer you the best experience online. By clicking “accept” on this website, you opt in and you agree to the use of cookies. If you would like to know more about how RTI uses cookies and how to manage them please view our
+Privacy Policy here
+. You can “opt out” or change your mind by visiting:
+http://optout.aboutads.info/
+. Click “accept” to agree.
+Accept
+Cookie Notice
+RTI International
+About
+Our North Star Goal
+Our History
+Office Locations
+Executive Leadership
+Corporate Governance
+Partner with Us
+Prime Contracting
+U.S. Government
+Clients and Funding Agencies
+Industry and Commercial Clients
+Foundations and Associations
+Bilateral Agencies and Multilateral Banks
+Universities and Academic Research Institutions
+Suppliers and Small Businesses
+Non-US Partner Organizations
+Small and Diverse Businesses
+Commitment to Quality
+RTI's Client Listening Program
+Ethics, Human Rights, Nondiscrimination, and Human Research Protection
+Corporate Citizenship
+Open Science Initiative
+Veteran Opportunities
+About
+Practice Areas
+Health
+Public Health and Well-Being
+Health Care Transformation
+Behavioral Health
+Health Behavior Change
+Precision Medicine
+RTI Health Solutions (RTI-HS)
+Health Equity
+Community & Workplace Health
+Public Health Economics
+Child and Adolescent Research and Evaluation Program
+Transformative Research Unit for Equity​
+Equity Capacity Building Hub
+Social and Economic Justice Research Collaborative
+Narrative Research and Community Engagement Lab
+Education and Workforce Development
+Early Childhood
+K-12 Education
+Postsecondary Education
+Career and Adult Education and Workforce Development
+Education Policy, Systems, and Governance
+Education Research Methodologies
+Education Technologies
+International Development
+Climate Solutions
+Prioritizing Locally Led Development
+Energy for Development
+Environment
+Global Food Security, Agriculture, and Nutrition
+Global Health
+International Education
+Monitoring, Evaluation, Research, Learning, and Adapting (MERLA)
+Youth and Economic Opportunity
+Water, Sanitation, and Hygiene (WASH)
+RTI Center for Global Noncommunicable Diseases
+RTI Center for Governance
+RTI Center for Thriving Children
+Climate Change
+Clean Energy Technology and Renewables
+Climate Finance
+Climate Justice and Equity
+Climate Planning, Preparedness and Resilience
+Climate Policy
+Climate Vulnerability, Adaptation, and Mitigation
+Economic Impacts of Climate Change
+Water
+Food-Energy-Water Nexus
+Water, Sanitation, and Hygiene (WASH)
+Water Quality
+Water Resources Management
+Energy Research
+Carbon Capture and Utilization
+Biomass Conversion
+Natural Gas
+Energy Efficiency
+Industrial Water
+Syngas Processing
+Environmental Sciences
+Air Quality
+RTI Center for Water Resources
+Urban Resilience
+Contaminants of Concern
+Building Resiliency in the FEW Nexus
+Climate Change Sciences and Analysis
+Environmental Policy
+Environmental Justice
+Sustainable Materials & Waste Management Solutions
+Justice Research and Policy
+Community Safety, Crime Prevention, and Victimization Response
+Courts and Corrections Research
+Justice Workforce Resilience and Standards
+Investigations and Forensic Science
+Evidence-Based Strategies to Reduce Firearm Violence
+Security Threats and Extremism
+Food Security and Agriculture
+Food Security and Food Assistance
+Nutrition, Physical Activity, & Obesity
+Food Safety
+Food Systems and Policy Analysis
+Food Loss and Waste Research
+Market Systems Strengthening
+Global Food Security, Agriculture, and Nutrition
+Climate-Smart Agriculture
+Agricultural Innovation
+Innovation Ecosystems
+Innovation Advising
+Innovation for Economic Growth
+Innovation for Emerging and Developing Economies
+Innovation for Organizations
+Research, Technology, and Innovation Policy
+Technology Acceleration
+Military Support
+Military Behavioral Health
+Military Health and Human Performance
+Military Sexual Assault, Harassment, and Domestic Violence Prevention
+Wearable Sensor Technologies
+Military Health System Transformation
+North Carolina Center for Optimizing Military Performance
+Practice Areas
+Services + Capabilities
+Training and Technical Assistance
+Surveys and Data Collection
+Survey Design
+Instrument Development
+Survey Methodologies
+Data Collection
+Establishment Surveys
+Health Registries
+Data Analysis and Reporting
+Research Operations Center
+Statistics and Data Science
+Survey Statistics
+Environmental Statistics
+Coordinating Centers for Multisite Studies
+Analysis and Design of Complex Data
+Biostatistics
+Data Science and AI
+Evaluation, Assessment and Analysis
+Evaluation Design and Execution
+Advanced Qualitative, Quantitative, and Mixed Methods
+Evaluation, Monitoring, and Assessment
+Economic Analysis
+Evaluating Communication Interventions and Campaigns
+Evidence Synthesis for Policy and Practice
+Risk Assessment and Prediction
+Program Design and Implementation
+Systems Strengthening and Scaling
+Capacity Assessment and Building
+Policy Reform Support
+Curriculum and Teacher Professional Development
+Interventions and Prevention Programs
+Implementation Science
+Digital Solutions for Social Impact
+Human-Centered Design of Digital Solutions
+Digital Product Development
+Digital Communication Campaigns
+Digital Data Analytics
+Research Technologies
+Survey Technologies
+Data Management and Decision Support Systems
+Geospatial Science, Technology, and Visualization
+ICT for Limited-Resource Settings
+Mobile Applications
+Web Applications
+Bioinformatics
+Interactive Computing
+Drug Discovery and Development
+Medicinal Chemistry
+Molecular Design and Cheminformatics
+Behavioral Pharmacology
+Drug Metabolism and Pharmacokinetics (DMPK)
+In Vitro Pharmacology, Bioassay Development, and High-Throughput Screening (HTS)
+Isotope Labeling
+Regulatory Consulting and Support for Medical Products
+Analytical Laboratory Sciences
+Bioanalytical and Toxicology Research
+Forensic Sciences
+Physicochemical Characterizations
+Non-targeted Analysis: Omics
+Proficiency Testing and Reference Materials
+Microbiology
+Analytical Chemistry and Pharmaceutics
+Engineering & Technology R&D
+Biomedical Technologies
+Decarbonization Sciences
+Environmental Exposure & Protection
+Materials & Environment
+Sustainable Energy Solutions
+Communication Science and Strategy
+Communication Evaluation
+Communication Delivery
+Communication Design
+Communication Research
+Services + Capabilities
+Impact
+Newsroom
+Insights Blog
+Events
+Publications
+RTI Press
+About the RTI Press
+Instructions for Authors
+RTI Press Collections
+Projects
+Global Reach
+Asia
+Eastern Europe and Central Asia
+RTI International India
+Africa
+Middle East and North Africa (MENA)
+Latin America and the Caribbean (LAC)
+Impact
+Experts
+Our Experts
+In-Depth With Our Experts
+Related News
+Experts In the Media
+RTI Fellow Program
+Experts
+Careers
+Get to Know Us
+Explore RTI Careers
+Students
+Veterans
+Academic Researchers
+Job Search
+Life at RTI
+Campus & Culture
+Corporate Citizenship
+Equity, Diversity, Inclusion & Belonging
+Employee Resource Groups
+Growth and Career Development
+Careers
+Global Reach
+Insights Blog
+Newsroom
+RTI Press
+Publications
+Partner With Us
+Search
+Search
+Submit Search
+Close Search Form
+Mobile Menu
+Watch Video
+Pause Video
+We are an independent nonprofit research institute dedicated to
+improving the human condition
+Learn More
+about We are an independent nonprofit research institute dedicated to
+improving the human condition
+Featured Stories
+Study reveals better mental health for cancer survivors compared to group without cancer
+Read More
+Improving the Criminal Legal Justice System with User-Centered Research
+Read More
+New report details challenges, disparities faced by teachers during COVID-19 pandemic
+Read More
+Watch Video about Anchoring Research
+Anchoring Research
+Researchers in our Discovery Sciences laboratories are developing and testing treatments for diseases like cancer, mental health conditions, and substance abuse addiction. Our researchers also study the effects of the environment on human health, particularly in underserved communities, in an effort to advance health equity.
+Read More
+about 
+            Anchoring Research
+Featured Topic
+Climate Change and Health Impacts
+Climate change is already negatively affecting the physical and behavioral health of billions across the globe. Our team is dedicated to developing and implementing environmentally just, innovative, evidence-based global strategies that help communities become more resilient and proactively adapt to climate change.
+Learn More
+about 
+            Climate Change and Health Impacts
+Our Experts
+Carol Schmitt
+Jennifer Hoponick Redmon
+By The Numbers
+0
+B
+people now live in a situation vulnerable to climate change
+>
+0
+%
+of people breathe unhealthy levels of air pollution
+Featured Insights
+View All
+about 
+            Featured Insights
+Donating Cannabis – a Promising Harm Reduction Strategy to Combat the Overdose Crisis
+Drug Discovery and Development, Health
+READDI Forethought: A 2024 Update
+International Development
+Innovation Fuels Sustainable Development Across Asia
+Education and Workforce Development
+Unlocking Learning Potential: The Power of Student Agency and Choice
+Experts Available for Interview
+Previous Slide for 
+            Experts Available for Interview
+Next Slide for 
+            Experts Available for Interview
+Plastics
+Imari Walker-Franklin, PhD, is a research chemist and microplastics expert. She can speak to the connection between microplastics and PFAS and how chemicals accumulate in people's bodies and cause harm.
+Learn More
+about Plastics
+Mosquitos
+Donal Bisanzio, DVM, PhD, is an expert in infectious diseases in humans and animals. He can comment on how climate change may result in more "mosquito days" and an increased risk of disease including vector-based and zoonotic diseases, such as dengue, chikungunya, malaria, Lyme disease, zika, and West Nile Virus.
+Learn More
+about Mosquitos
+Firearm Violence
+Duren Banks, PhD, lends her court system expertise to issues including strategies to promote transparency and trust between law enforcement and the communities they serve, particularly around officer use of force, criminal case processing, school safety, and improving school environments. She can discuss developing and adopting science-based policies to reduce firearm violence across the U.S.
+Learn More
+about Firearm Violence
+Equity and Social Justice
+Stephanie Hawkins, PhD, is an expert in using science-based solutions to drive equitable outcomes. She is available to discuss how organizations can build on their specific commitments to diversity, inclusion, and equity by applying these principles in the research enterprise.
+Learn More
+about Equity and Social Justice
+RTI Press® Publications
+View All
+RTI Press® is a global publisher of peer-reviewed, open-access books, reports, and briefs. We publish on a broad range of topics reflecting RTI’s multidisciplinary research, expertise in social and laboratory sciences, and extensive international activities.
+RTI PRESS
+The impact of police violence on communities
+Read More
+about The impact of police violence on communities
+RTI PRESS
+Trauma-informed approaches and community engagement
+Read More
+about Trauma-informed approaches and community engagement
+RTI PRESS
+Integrating noncommunicable diseases into antenatal care in Cameroon
+Read More
+about Integrating noncommunicable diseases into antenatal care in Cameroon
+What We Do
+RTI is an independent nonprofit research institute dedicated to improving the human condition. Explore the work RTI does across our diverse
+services and capabilities
+,
+focus areas
+,
+centers
+, and
+emerging issues
+by using the dropdown below.
+Filter Our Work
+Everything
+Practice Areas
+Services and Capabilities
+Emerging Issues
+Global Reach
+Centers
+Insights
+Focus Area
+RTI Center for Climate Solutions
+Focus Area
+COVID-19 Research + Response
+Focus Area
+Global Health
+Partner With Us
+U.S. Government
+Commercial
+Foundations & Associations
+Multilateral Donors
+Universities
+Suppliers
+Site
+Privacy Policy
+Security Policy
+Site Map
+Terms of Use
+Accessibility
+Contact Us
+Search the site
+Submit Search
+Contact Us
+delivering
+the promise of science
+for global good
+© 2024 RTI International. RTI International is a trade name of Research Triangle Institute. RTI and the RTI logo are U.S. registered trademarks of Research Triangle Institute.

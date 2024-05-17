@@ -1,0 +1,69 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'ff976a57-d68b-402f-ac7e-57497d5c65fd'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '24bf484b-98ed-4814-a5a7-3c9f23e58470'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '651'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'The Agape Theatre Project is a faith and community based organization created for the purpose of producing and promoting original plays from predominantly African-American playwrights in an effort to reach across social, spiritual, economic and racial boundary lines.'}
+{'property': 'og:title', 'content': 'Agape Theatre Project '}
+{'property': 'og:description', 'content': 'The Agape Theatre Project is a faith and community based organization created for the purpose of producing and promoting original plays from predominantly African-American playwrights in an effort to reach across social, spiritual, economic and racial boundary lines.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/b8b2da_071589f0c33140faad26236ecb0e7c49%7Emv2_d_3000_2400_s_4_2.png/v1/fit/w_2500,h_1330,al_c/b8b2da_071589f0c33140faad26236ecb0e7c49%7Emv2_d_3000_2400_s_4_2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.agapetheatreproject.com'}
+{'property': 'og:site_name', 'content': 'agape'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': '_zqYP4RbkkUzcaqjTa57W1JlBextN3ANY3JbOCksigM'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Agape Theatre Project '}
+{'name': 'twitter:description', 'content': 'The Agape Theatre Project is a faith and community based organization created for the purpose of producing and promoting original plays from predominantly African-American playwrights in an effort to reach across social, spiritual, economic and racial boundary lines.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/b8b2da_071589f0c33140faad26236ecb0e7c49%7Emv2_d_3000_2400_s_4_2.png/v1/fit/w_2500,h_1330,al_c/b8b2da_071589f0c33140faad26236ecb0e7c49%7Emv2_d_3000_2400_s_4_2.png'}
+
+Body Text:
+Agape Theatre Project
+top of page
+HOME
+SHOWS
+Directed by Ken Hinton
+Tell Us What You Think
+DONATE
+Fundraising Showcase
+ABOUT US
+Kenneth Hinton
+Agape Leadership
+CONTACT US
+More
+Use tab to navigate through the menu items.
+Agape THEATre PROJECT
+2024 Season Opener
+Blues for an Alabama Sky by Pearl Cleage
+BUY TICKETS TODAY
+Agape Theatre Project
+Theatre Talk Live EP #5 The Playwrights
+Play Video
+All Videos
+A NIGHT OF AWARDS SHOW PREVIEWS aND
+ENTERTAINMENT!
+RECENT GUESTS ON
+THEATRE TALK LIVE
+SCHELLE PURCELL
+wATCH THE rEPLAY ON youTUBE!
+​
+All of our shows are clean and family friendly. Bring the whole family out for a night of fun.
+SUBSCRIBE
+to our
+BLOG
+Subscribe Now
+Stay up to date with the latest shows and special events.
+CHECK US OUT on
+SOCIAL MEDIA!
+Agape Theatre Project.
+a North Carolina Show and Performance Company.
+© Copyright 2018. All Rights Reserved Agape Theatre Project | Raleigh - Durham. Website Created by Cardinal Group Marketing™
+bottom of page

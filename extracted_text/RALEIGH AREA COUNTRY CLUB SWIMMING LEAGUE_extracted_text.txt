@@ -1,0 +1,170 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'dc.title', 'content': 'Raleigh Area Country Club Swim League Championship Back at TAC | Triangle Aquatic Center'}
+{'name': 'dc.description', 'content': 'After a two-year COVID hiatus, the Raleigh Area Country Club Swim League (RACCSL) Championship returns to TAC this Sunday, July 26th. Nearly 450 area swimmers will be at TAC to swim in this three session event. The RACCSL Championship is the first of four summer league championships TAC will host…'}
+{'name': 'dc.relation', 'content': 'https://www.triangleaquatics.org/raleigh-area-country-club-swim-league-championships-back-at-tac/'}
+{'name': 'dc.source', 'content': 'https://www.triangleaquatics.org/'}
+{'name': 'dc.language', 'content': 'en_US'}
+{'name': 'description', 'content': 'After a two-year COVID hiatus, the Raleigh Area Country Club Swim League (RACCSL) Championship returns to TAC this Sunday, July 26th. Nearly 450 area swimmers will be at TAC to swim in this three session event. The RACCSL Championship is the first of four summer league championships TAC will host…'}
+{'name': 'robots', 'content': 'index, follow'}
+{'name': 'googlebot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'name': 'bingbot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'property': 'og:url', 'content': 'https://www.triangleaquatics.org/raleigh-area-country-club-swim-league-championships-back-at-tac/'}
+{'property': 'og:site_name', 'content': 'Triangle Aquatic Center'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'article:author', 'content': 'https://www.facebook.com/TriangleAquatic/'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/TriangleAquatic/'}
+{'property': 'article:section', 'content': 'Uncategorized'}
+{'property': 'og:title', 'content': 'Raleigh Area Country Club Swim League Championship Back at TAC | Triangle Aquatic Center'}
+{'property': 'og:description', 'content': 'After a two-year COVID hiatus, the Raleigh Area Country Club Swim League (RACCSL) Championship returns to TAC this Sunday, July 26th. Nearly 450 area swimmers will be at TAC to swim in this three session event. The RACCSL Championship is the first of four summer league championships TAC will host…'}
+{'property': 'og:image', 'content': 'https://www.triangleaquatics.org/wp-content/uploads/2022-RACCSL-Web.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://www.triangleaquatics.org/wp-content/uploads/2022-RACCSL-Web.jpg'}
+{'property': 'og:image:width', 'content': '1458'}
+{'property': 'og:image:height', 'content': '919'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:site', 'content': '@tac_swim'}
+{'name': 'twitter:creator', 'content': '@tac_swim'}
+{'name': 'twitter:title', 'content': 'Raleigh Area Country Club Swim League Championship Back at TAC | Triangle Aquatic Center'}
+{'name': 'twitter:description', 'content': 'After a two-year COVID hiatus, the Raleigh Area Country Club Swim League (RACCSL) Championship returns to TAC this Sunday, July 26th. Nearly 450 area swimmers will be at TAC to swim in this three session event. The RACCSL Championship is the first of four summer league championships TAC will host…'}
+{'name': 'twitter:image', 'content': 'https://www.triangleaquatics.org/wp-content/uploads/2022-RACCSL-Web-1024x645.jpg'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Elementor 3.20.1; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.triangleaquatics.org/wp-content/uploads/tac-favicon-300x300.png'}
+{'itemprop': 'position', 'content': '1'}
+{'itemprop': 'position', 'content': '2'}
+{'itemprop': 'position', 'content': '3'}
+
+Body Text:
+Raleigh Area Country Club Swim League Championship Back at TAC | Triangle Aquatic Center
+Skip to content
+About
+Contact Us
+Join Our Team
+History
+Board of Directors
+Policies & Rules
+Staff
+Disclosure Documents
+News
+Facility
+Facility Rentals
+Open Swim
+Lane Rentals
+Poolside Grill
+PT Network
+Endurance Edge
+Events
+Event Calendar and Results
+Pool Records
+Preferred Hotels
+TAC TV
+Programs
+Group Lessons
+Private Lessons
+TITANS Swim Team
+Fitness
+Certifications
+Pool Parties
+Make a Splash
+Scholarships
+How to Help
+Become a Sponsor
+Give to TAC
+Volunteer
+Menu
+About
+Contact Us
+Join Our Team
+History
+Board of Directors
+Policies & Rules
+Staff
+Disclosure Documents
+News
+Facility
+Facility Rentals
+Open Swim
+Lane Rentals
+Poolside Grill
+PT Network
+Endurance Edge
+Events
+Event Calendar and Results
+Pool Records
+Preferred Hotels
+TAC TV
+Programs
+Group Lessons
+Private Lessons
+TITANS Swim Team
+Fitness
+Certifications
+Pool Parties
+Make a Splash
+Scholarships
+How to Help
+Become a Sponsor
+Give to TAC
+Volunteer
+Search
+Search
+Close this search box.
+Phone-alt
+Contact Us
+Join Our Team
+History
+Board of Directors
+Policies & Rules
+Staff
+Instructors
+Disclosure Documents
+News
+Contact Us
+Join Our Team
+History
+Board of Directors
+Policies & Rules
+Staff
+Instructors
+Disclosure Documents
+News
+Home
+News
+Raleigh Area Country Club Swim League Championship Back at TAC
+Raleigh Area Country Club Swim League Championship Back at TAC
+After a two-year COVID hiatus, the Raleigh Area Country Club Swim League (RACCSL) Championship returns to TAC this Sunday, July 26th. Nearly 450 area swimmers will be at TAC to swim in this three session event. The RACCSL Championship is the first of four summer league championships TAC will host this 2022 summer season.
+This event is open to Spectators. No one is permitted to bring in deck chairs to the Spectator Stadium but may do so in the Atrium as long as they do not block any entrance or exit. We ask that the front and side parking lots be reserved for our TAC regular patrons and staff and ask those here for the event park in the new West Parking Lot or at the former Cary Towne Center.
+We welcome RACSSL back to the building and are excited to  host this fun summer event. Good luck to all swimmers!
+Prev
+Previous
+Next
+Next
+Facebook-f
+Twitter
+Youtube
+Instagram
+275 Convention Drive
+Cary, NC 27511
+[email protected]
+919-459-4045
+Open Swim Info
+Facebook-f
+Twitter
+Youtube
+Instagram
+Copyright © 2024 Triangle Aquatic Center - All Rights Reserved.
+Privacy Policy
+Scroll to Top
+GET IN TOUCH
+Name
+Telephone
+Program Interested In
+Interested In:
+Programs/Learn to Swim
+Certifications Classes
+Make a Donation/Volunteer
+Employment
+Other
+Submit Form Information

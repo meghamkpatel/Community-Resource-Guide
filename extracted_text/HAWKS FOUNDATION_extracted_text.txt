@@ -1,0 +1,268 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': "The Atlanta Hawks Foundation's mission is to increase access for metro Atlanta's youth to play, grow and learn life and leadership skills through basketball."}
+{'property': 'og:image', 'content': 'https://cdn.nba.com/teams/uploads/sites/1610612737/2023/01/2021_HWK_primaryicon_redwhite.png'}
+{'property': 'og:url', 'content': 'https://www.nba.com/hawks/atlanta-hawks-foundation'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Hawks Foundation'}
+{'property': 'og:description', 'content': "The Atlanta Hawks Foundation's mission is to increase access for metro Atlanta's youth to play, grow and learn life and leadership skills through basketball."}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'property': 'twitter:site', 'content': '@Hawks'}
+{'property': 'twitter:title', 'content': 'Hawks Foundation'}
+{'property': 'twitter:description', 'content': "The Atlanta Hawks Foundation's mission is to increase access for metro Atlanta's youth to play, grow and learn life and leadership skills through basketball."}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=5'}
+{'name': 'next-head-count', 'content': '19'}
+
+Body Text:
+Hawks Foundation | NBA.com
+Teams
+Atlantic
+Boston
+Brooklyn
+New York
+Philadelphia
+Toronto
+Central
+Chicago
+Cleveland
+Detroit
+Indiana
+Milwaukee
+Southeast
+Atlanta
+Charlotte
+Miami
+Orlando
+Washington
+Northwest
+Denver
+Minnesota
+Oklahoma City
+Portland
+Utah
+Pacific
+Golden State
+LA Clippers
+LA Lakers
+Phoenix
+Sacramento
+Southwest
+Dallas
+Houston
+Memphis
+New Orleans
+San Antonio
+G League
+WNBA
+BAL
+NBA 2K
+NBA Initiatives
+NBA Cares
+Jr. NBA
+NBA Foundation
+Social Justice Coalition
+NBA Store
+NBA League Pass
+NBA ID
+Atlanta Hawks
+Tickets
+Season Ticket Membership
+Stack Pack
+Flex Plan
+Single‑Game Tickets
+Group Tickets
+Premium Seating & Clubs
+Suite Rentals
+Promotions
+3D Seating Map
+Ticketmaster Tickets
+Accessibility
+‑‑MY HAWKS ACCOUNT‑‑
+Schedule
+Schedule/Results
+Tune‑In Schedule
+Add to Calendar
+TV ‑ Bally Sports
+RADIO ‑ 92.9 The Game
+Team
+Roster
+Stats
+Standings
+Hawks Videos
+Hawks Photos
+Hawks Magazine
+Emory Sports Medicine Complex
+News
+News Stories
+Hawks Insider
+Mobile App
+Hawks Videos
+Hawks Photos
+Global Partnerships
+Hawks 中国官方网站
+Connect With Us
+State Farm Arena
+Parking & Transportation
+3D Seating Map
+NBA Arena Guidelines
+Community
+In the Community
+Diversity & Inclusion
+Basketball Academy
+Hawks at Home
+Community Work
+Lady Hawks
+Donation Requests
+Jr. Hawks School Programs
+Talent Request
+Entertainment
+ATL Dancers
+ATL Stunt Team
+Harry the Hawk
+Delta Sky Squad
+ATL Boom
+404 Crew
+Hawks Shop
+Jerseys
+Men
+Women
+Youth
+Headwear
+Novelty
+Retro
+Gift Cards
+Navigation Toggle
+Navigation Toggle
+Tickets
+Season Ticket Membership
+Stack Pack
+Flex Plan
+Single‑Game Tickets
+Group Tickets
+Premium Seating & Clubs
+Suite Rentals
+Promotions
+3D Seating Map
+Ticketmaster Tickets
+Accessibility
+‑‑MY HAWKS ACCOUNT‑‑
+Schedule
+Schedule/Results
+Tune‑In Schedule
+Add to Calendar
+TV ‑ Bally Sports
+RADIO ‑ 92.9 The Game
+Team
+Roster
+Stats
+Standings
+Hawks Videos
+Hawks Photos
+Hawks Magazine
+Emory Sports Medicine Complex
+News
+News Stories
+Hawks Insider
+Mobile App
+Hawks Videos
+Hawks Photos
+Global Partnerships
+Hawks 中国官方网站
+Connect With Us
+State Farm Arena
+Parking & Transportation
+3D Seating Map
+NBA Arena Guidelines
+Community
+In the Community
+Diversity & Inclusion
+Basketball Academy
+Hawks at Home
+Community Work
+Lady Hawks
+Donation Requests
+Jr. Hawks School Programs
+Talent Request
+Entertainment
+ATL Dancers
+ATL Stunt Team
+Harry the Hawk
+Delta Sky Squad
+ATL Boom
+404 Crew
+Hawks Shop
+Jerseys
+Men
+Women
+Youth
+Headwear
+Novelty
+Retro
+Gift Cards
+Atlanta Hawks Foundation
+The Atlanta Hawks Foundation's mission is to increase access for metro Atlanta's youth to play, grow and learn life and leadership skills through basketball.
+The foundation will achieve this mission by focusing on two key areas:
+Basic Access to Courts and Play
+– The Atlanta Hawks Foundations will improve and increase the availability of basketball courts and provide scholarships to Hawks camps and clinics.
+Volunteer Coaching Development
+– Of the 6.5 million youth coaches, only 1 in 3 say they have been trained in sport skills or tactics, according to the Aspen Institute's Project Play. The Foundation will partner with trusted leaders in developing curricula to ensure Hawks clinics are delivering high-level instruction for volunteer coaches.
+Hawks Foundation Stories
+All Hawks News
+All Hawks News
+Tickets
+Season Ticket Membership
+Stack Pack
+Flex Plan
+Single‑Game Tickets
+Group Tickets
+Premium Seating & Clubs
+Suite Rentals
+Promotions
+3D Seating Map
+Accessibility
+‑‑MY HAWKS ACCOUNT‑‑
+Team
+Team Roster
+Stats
+Hawks Videos
+Hawks Photos
+Hawks Magazine
+Hawks Entertainment
+Schedule
+Schedule / Results
+Tune‑In Schedule
+TV ‑ Bally Sports
+RADIO ‑ 92.9 The Game
+About
+State Farm Arena
+Parking & Transportation
+Connect With Us
+Staff Directory
+Job Opportunities
+Partnership Inquiries
+Fan Code of Conduct
+Connect
+Copyright ©
+2024
+NBA Media Ventures, LLC. All rights reserved.
+Privacy Policy
+|
+Terms of Use
+|
+Customer Support
+|
+Accessibility and Closed Captions
+|
+Do Not Sell My Personal Information
+Cookie Policy
+|
+EEA/UK Privacy Statement
+|
+Brazil Privacy Statement
+|
+California Consumer Privacy Statement
+|
+Colorado Consumer Privacy Statement
+If you are having difficulty accessing any content on this website, please visit our
+Accessibility page.
+NBA.com is part of Warner Media, LLC’s Turner Sports & Entertainment Digital Network

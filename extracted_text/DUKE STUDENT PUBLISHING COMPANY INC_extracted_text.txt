@@ -1,0 +1,240 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'content-type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+{'name': 'description', 'content': "The Chronicle is Duke University's independent student news organization where you can find campus news, Blue Devil sports coverage, features, opinion and breaking news."}
+{'property': 'fb:app_id', 'content': '1929578997261823'}
+{'name': 'twitter:site', 'content': '@DukeChronicle'}
+{'property': 'og:url', 'content': 'https://www.dukechronicle.com/page/about-us'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:site_name', 'content': 'The Chronicle'}
+{'property': 'og:title', 'content': 'About Us - The Chronicle'}
+{'property': 'og:description', 'content': "The Chronicle is Duke University's independent student news organization where you can find campus news, Blue Devil sports coverage, features, opinion and breaking news."}
+{'property': 'og:image', 'content': 'https://ds4q8c259towh.cloudfront.net/4b71663088ecc48f7031822d99b56a77/dist/img/dtc-fb-fallback.jpg'}
+{'property': 'og:image:width', 'content': '600'}
+{'property': 'og:image:height', 'content': '600'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'msapplication-TileImage', 'content': 'https://ds4q8c259towh.cloudfront.net/4b71663088ecc48f7031822d99b56a77/dist/img/favicons/ms-icon-144x144.png'}
+{'name': 'theme-color', 'content': '#ffffff'}
+
+Body Text:
+About Us - The Chronicle
+Donate
+News
+University
+Local/National
+Health/Science
+Features
+Demands Tracker
+Sports
+Football
+Blue Zone
+Columns
+Men's Basketball
+Women's Basketball
+Opinion
+Student Voices
+Letters To The Editor
+Guest Columns
+Arts/Culture
+Campus
+Local
+Culture
+Multimedia
+Duke Graduates
+More
+Features
+Podcasts
+Photo Galleries
+Crosswords
+Donate
+Donor List
+Transparency Statement
+Send a Tip
+Newsletters
+Letters To The Editor
+Join Our Staff
+Corrections/Archives
+Advertise
+Store
+Classifieds
+Housing
+About Us
+About Us
+The media organization is entirely run by students, who are responsible for all of the content. The business and advertising operations are managed by a professional staff. In addition to The Chronicle, DSPC also operates multiple websites including nearDuke.com, a housing site.
+All board members sign a conflict of interest policy annually. The Chronicle subscribes to a full-disclosure philosophy that asks each staff member to notify their desk editor of all affiliations and involvements outside of the paper to help avoid conflicts of interest. Any questions should be directed to the current editor.
+Masthead
+Abby Spiller
+,
+Editor-in-Chief
+Ranjan Jindal
+,
+Sports Editor
+Michael Austin
+,
+Managing Editor
+Zoe Kolenovsky
+,
+News Editor
+Morgan Chu
+and
+Karen Xu
+,
+Photography Editors
+Alice Qin
+,
+Opinion Editor
+Zev van Zanten
+,
+Recess Editor
+Jothi Gupta
+and
+Zoe Spicer
+,
+Enterprise Editors
+Holly Keegan
+and
+Ishita Vaid
+,
+Senior Editors
+Andrew Bae
+and
+Michelle Brown
+,
+Editors-at-Large
+Claire Cranford
+,
+Features Managing Editor
+Kate Haver
+and
+Lucas Lin
+,
+University News Editors
+Jazper Lu
+, Centennial/Elections Editor
+Winston Qian
+,
+Health/Science Editor
+Samanyu Gangappa
+,
+Local/National News Editor
+Ana Despa
+,
+Aseel Ibrahim
+,
+Ryan Kilgallen
+,
+Ava Littman
+,
+Madera Longstreet-Lipson
+,
+Halle Vazquez
+and
+Michelle Voicu
+,
+Associate News Editors
+Sophie Levenson
+and
+Dom Fenoglio
+,
+Sports Managing Editors
+Audrey Wang
+,
+Data Editor
+Michael Austin
+,
+Zoe Kolenovsky
+and
+Abby Spiller
+,
+Diversity, Equity and Inclusion Coordinators
+Andrew Long
+,
+Recruitment/Social Chair
+Abigail Bromberger
+and
+Mia Penner
+,
+Audience Engagement Chairs
+Chrissy Murray
+,
+General Manager
+Duke Student Publishing Company Board
+Duke Student Publishing Company is governed by a 16-member board composed largely of former staff members. The board sets broad policy for the organization, oversees the professional staff and helps connect the paper with its alumni. For more information about alumni activities and news, contact General Manager Chrissy Murray at (919) 684-0372 or chrissy.murray@duke.edu.
+The current members of the DSPC board are:
+Scott McCartney
+Nicole Kyle
+Armando Gomez
+Amrith Ramkumar (vice chair)
+Beau Dure
+Georgia Parke
+Armando Gomez
+Nina Gordon (chair)
+Phil Poley
+Nathan Luzum
+Claire Ballentine
+Breanna Bradham
+Jake Satisky
+Dan Carp
+Gautam Hathi
+Matthew Griffin
+History
+The Chronicle, the student-run news organization of the Duke community, is older than Duke University itself.
+Students at Duke's predecessor, Trinity College, founded the newspaper in 1905, and the first issue published on Dec.19 featured articles about a campus debate and a speech by a Charlotte businessman. The paper was created by members of the Hesperian and Columbian literary societies but eventually moved beyond those roots.
+Thirty-one years ago, in an important step toward independence, the paper stopped taking student fees, and in 1993, The Chronicle incorporated as the Duke Student Publishing Company, breaking formal ties with Duke. The company has a contractual relationship with the university governing issues such as office space and distribution rights, but independence allows The Chronicle the freedom to cover campus news without fear of repercussions from administrators. Advertising revenue allows the newspaper to be self-sustaining.
+In 1995, The Chronicle launched its web site, which now has a monthly readership of 350,000 and serves as a resource for Duke alumni, parents and sports fans who want the latest news from Durham.
+Over the years, the milestone moments for the paper included coinage of the term "Blue Devils" for the school's sports teams, publication of the first full-color photo in 1984 and the placement of a black bar of mourning around the front page after Richard Nixon was elected president in 1968.
+In addition to its role in providing news on campus, The Chronicle has a long tradition of educating students in journalism and propelling them into careers in the field. Among the paper's alumni are prominent journalists who have worked for companies such as The New York Times, The Washington Post, Newsweek, USA TODAY, The Wall Street Journal, The Atlantic, Bloomberg, Sports Illustrated and ESPN.
+Trending
+NEWS
+|
+LOCAL NATIONAL
+Duke alumna Melinda French Gates to resign from Bill & Melinda Gates Foundation
+By
+Kate Haver
+|
+05/13/2024
+NEWS
+Duke rowing postseason preview
+By
+Anna Newberry
+|
+05/14/2024
+SPORTS
+|
+WOMEN'S SOCCER
+'The most wonderful time in women’s soccer': NC Courage and the NWSL are making the women’s game boom
+By
+Sophie Levenson
+|
+05/14/2024
+NEWS
+|
+LOCAL NATIONAL
+Here are the results from NC’s 2024 primary runoff elections
+By
+Samanyu Gangappa
+|
+05/15/2024
+FEATURE
+Revisiting Duke’s student movements demanding divestment from Israel
+By
+Lucas Lin
+|
+05/16/2024
+SPORTS
+|
+WOMEN'S LACROSSE
+Spring sport spotlight: DeSimone wraps up stellar career with Duke women's lacrosse
+By
+Mackenzie Sheehy
+|
+05/16/2024
+About
+Contact
+Archives
+Advertise
+© 2024 Duke Student Publishing Company
+Powered by
+Solutions by the State News

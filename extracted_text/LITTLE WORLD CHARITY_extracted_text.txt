@@ -1,0 +1,74 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '12a6ce96-bf43-4a3a-ae81-792814cfd0e6'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '360e1cac-22e5-44c6-9386-d7d7fc66a672'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '332'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Home | My Site'}
+{'property': 'og:url', 'content': 'https://www.littleworldcharity.org'}
+{'property': 'og:site_name', 'content': 'Little World Charity'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'LittleWorld'}
+{'property': 'fb:admins', 'content': 'LittleWorld'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | My Site'}
+
+Body Text:
+Home | My Site
+top of page
+Little WORLD Charity
+Home
+Donate
+Volunteer
+Displays
+About
+Blog
+More
+Use tab to navigate through the menu items.
+Log In
+Little WORLD Charity
+Bringing joy to tens of thousands of kids across and beyond the Triangle in 22 hospitals, special homes, libraries, and schools.
+Donate
+Site donated by Helen Chang and Bella Malick
+Volunteer
+Subscribe
+Learn
+Our Mission
+is to brighten the lives of children in hospitals, special needs homes, and libraries.  We create and deploy unique, whimsical, animated displays for kids of all ages to activate with the press of a button.  We charge no fees, are 100% volunteer and 0% overhead. We've grown to 22 locations and create 300,000 smiles a year. Won't you help us?
+Basic Beliefs
+What are the most important gifts one can give?
+Joy, inspiration.
+Who needs it?
+Children (of all ages), those dealing with illness, and our entire community.
+Where can we touch the most hearts?
+At our hospitals, libraries, special needs , and other public venues.
+Instagram
+Testimonials
+Name, Title
+Duke Children's Hospital
+"Child patients rush to the displays to press the button over and over. These whimsical worlds ease the kids’ minds as they wait to see their doctors."
+Tammy Lynn Home
+"Children (and adults) stop in their tracks to view the wonders of our Little WORLD display."
+Ronald McDonald House of Chapel Hill
+"It is such a joy to watch children press the button. Their eyes light up and smiles spread across their faces as they soak up the scene as it unfolds before them. It's always good to get lost in wonder for awhile!"
+Children's Specialty Clinics
+"Little World Charity is a pleasure to work with – from set-up to ensuring the displays are fun and eye-catching! The patients, families, and staff absolutely love finding the hidden surprises and enjoy looking at all the themes!"
+Durham Main Public Library
+"Absolutely wonderful; A magnet that draws kids to the libraries and to reading."
+Ronald McDonald House of Durham
+"The calmness and joy for the children during medical treatment is truly priceless!"
+Little World Charity
+©2022
+Contact Us
+Or
+Call (919) 215-3292
+Contact Type *
+Submit
+Thanks for submitting!
+bottom of page

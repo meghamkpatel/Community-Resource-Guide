@@ -1,0 +1,102 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'initial-scale=1, maximum-scale=1, minimum-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'apple-itunes-app', 'content': 'app-id=583385312'}
+{'name': 'facebook-domain-verification', 'content': '7f77igibxwu87s27zqudxuczhejzs9'}
+{'name': 'facebook-domain-verification', 'content': 'd2vstoq9gnhj5y6yhmcqfa59cae661'}
+{'name': 'msapplication-TileColor', 'content': '#ed2124'}
+{'name': 'msapplication-config', 'content': '/wp-content/themes/chialpha/assets/favicon/browserconfig.856704c.xml'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Chi Alpha Campus Ministries'}
+{'property': 'og:title', 'content': 'Chi Alpha Campus Ministries | Official Campus Ministry of the Assemblies of God'}
+{'property': 'og:url', 'content': 'https://chialpha.com/'}
+{'property': 'og:image', 'content': 'https://xalpha.imgix.net/wp-content/uploads/2022/09/XADay-Slides-Banner-1.png?auto=compress%2Cformat%2Cenhance&crop=faces&q=35'}
+{'property': 'og:image:width', 'content': '1920'}
+{'property': 'og:image:height', 'content': '1080'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@ChiAlphaUSA'}
+{'name': 'twitter:title', 'content': 'Chi Alpha Campus Ministries | Official Campus Ministry of the Assemblies of God'}
+{'name': 'twitter:image', 'content': 'https://xalpha.imgix.net/wp-content/uploads/2022/09/XADay-Slides-Banner-1.png?auto=compress%2Cformat%2Cenhance&crop=faces&q=35'}
+{'name': 'google-site-verification', 'content': 'dytpZBaqxDAv0d5mMgdjuepF4VRQ9y-JccF5_Rt80pg'}
+{'name': 'p:domain_verify', 'content': '2e138db5e7782f2dd695ad199ea04314'}
+{'name': 'msapplication-TileImage', 'content': 'https://xalpha.imgix.net/wp-content/uploads/2016/12/cropped-Chi-Alpha-Logo_109.png?auto=compress%2Cformat%2Cenhance&crop=faces&q=35&w=270&h=270'}
+
+Body Text:
+Chi Alpha Campus Ministries | Official Campus Ministry of the Assemblies of God
+Alumni
+Blog
+Store
+Staff
+Give
+About
+Our Story
+National Leadership
+Area Leadership
+District Leadership
+Events
+Resources
+Get Involved
+Join XA Staff
+XA Diversity
+feedONE
+Worldwide Chi Alpha
+XA Expeditions
+XA Internationals
+Group Locator
+Find a Chi Alpha Group Near You
+We disciple university students to fulfill their purpose in God's global plan.
+Our mission is to reconcile students to Christ, equipping them through Spirit-Filled communities of prayer, worship, fellowship, discipleship, and mission to transform the university, the marketplace and the world.
+Find Out More
+Recent Posts
+Growing a Student Movement: Part One
+By Dennis Gaylor in Chi Alpha Connection and Student
+Chi Alpha Chronicles
+By E. Scott Martin in Chi Alpha Connection and Student
+Visit Blog
+Featured Event
+Great Lakes SALT
+January 12 - 15, 2024
+Lombard, IL |
+Student Conference
+Come join us at SALT as we learn to lean on Christ in a broken world.
+For a detailed list of registration info, what to expect, and next steps click on the link below.
+We can’t wait to see you there!
+Great Lakes SALT
+Also, stay informed with our SALT news!
+Event Details
+View All Events
+Featured Resources
+Find Resources
+Get Your XA Gear
+Trans-Formation: A Former Transgender Responds to LGBTQ
+$16.99
+Details
+Order
+Kingdom Authority: Defined and Its Components
+$20.00
+Details
+Order
+Epic Science, Ancient Faith by Dan Guenther
+$15.31
+Details
+Order
+Chi Alpha FireBible
+Details
+Visit Store
+Find A Chi Alpha Group Near You
+Address
+Chi Alpha Campus Ministries
+1445 N. Boonville Ave
+Springfield, MO 65802
+Phone
+417-862-2781
+Follow Us
+#ChiAlpha
+© 2024 Chi Alpha Campus Ministries All rights reserved.
+Site Design by Lucent Digital
+Terms of Use
+Privacy Policy
+Found a Problem?

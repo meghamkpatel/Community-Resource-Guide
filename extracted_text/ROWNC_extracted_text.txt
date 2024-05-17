@@ -1,0 +1,78 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'RowNC Inc. 2'}
+{'property': 'og:title', 'content': 'RowNC Inc. 2'}
+{'property': 'og:url', 'content': 'https://www.rownc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/6218332ebdd77f380fc725ae/t/621833cc771a7c2c74d920f6/1645753292971/rownc_transparent.png?format=1500w'}
+{'property': 'og:image:width', 'content': '600'}
+{'property': 'og:image:height', 'content': '80'}
+{'itemprop': 'name', 'content': 'RowNC Inc. 2'}
+{'itemprop': 'url', 'content': 'https://www.rownc.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/6218332ebdd77f380fc725ae/t/621833cc771a7c2c74d920f6/1645753292971/rownc_transparent.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/6218332ebdd77f380fc725ae/t/621833cc771a7c2c74d920f6/1645753292971/rownc_transparent.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'RowNC Inc. 2'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/6218332ebdd77f380fc725ae/t/621833cc771a7c2c74d920f6/1645753292971/rownc_transparent.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.rownc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+RowNC Inc. 2
+0
+Skip to Content
+Safesport
+Donate
+Open Menu
+Close Menu
+Safesport
+Donate
+Open Menu
+Close Menu
+Safesport
+Donate
+Welcome to RowNC, Inc.
+Our Mission
+Provide education and build awareness about the amateur sport of rowing throughout North Carolina Research Triangle area.
+To Foster and develop the skills needed for the Triangle area rowers to compete and succeed in national and international amateur sports competition.
+Expand access to the sport of rowing for the Triangle's diverse population, and
+Use the sport of rowing as an economic development initiative to enhance Jordan Lake and surrounding areas as a recreational resource for the Triangle region.
+RowNC, Inc.
+RowNC, Inc. was established to support and promote the amateur sport of rowing throughout the North Carolina Research Triangle area.
+RowNC, Inc. is the parent organization for Chatham Amateur Oars Society (aka "CHaOS") .
+CHaOS was originally established in 2006 and has grown through the years to become a diverse group of master rowers that compete on the national and international stage. Whether a novice or a former rower looking to return to the sport, CHaOS caters for all those that love the sport of rowing.
+CHaOS
+A Club for all who are Addicted to Rowing
+CHaOS is a masters rowing club established in 2006 and that has steadily grown over the years. Its members range from novice rowers to those that compete at both a national and international level.
+Learn More
+DONATE
+Why donate?
+RowNC is a 501c3 charitable organization established to educate and promote the amateur sport of rowing in the Triangle Area of North Carolina.
+Donations are an important part of ensuring we can continue to grow and support our efforts within the local community.
+Please consider donating today. Thank you.
+DONATE
+FUTURE PLANS
+For more than a decade, RowNC’s CHaOS Rowing club has been rowing out of Crosswinds Marina on Jordan Lake, NC. This location has been used not just by CHaOS and Jordan Lake Rowing Club, a junior rowing program, but also by local Universities, including  University of North Carolina’s and Duke University. One of the main advantages of Jordan Lake is that it provides year round access to on the water training.
+RowNC is currently working towards establishing a more permanent location for its Master’s rowing club; a location that would also cater for all rowers in the Triangle area for both practice and competition.
+As stated in RowNC’s Mission statement, we hope to “
+Use the sport of rowing as an economic development initiative to enhance Jordan Lake and surrounding areas as a recreational resource for the Triangle region.
+” We continue to talk to all stakeholders involved in this effort in the hope of making this a reality soon.
+Contact
+Please let us know if you have any questions
+Name
+*
+First Name
+Last Name
+Email
+*
+Message
+*
+Thank you!
+RowNC, Inc.
+P.O.Box 51564
+Durham, NC 27707
+Email: : info@rownc.org
+© RowNC, CHAOS Rowing, 2021, 2022, 2023 - All Rights Reserved

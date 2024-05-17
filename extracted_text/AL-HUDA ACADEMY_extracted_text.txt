@@ -1,0 +1,81 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '475632ff-6bda-4a64-bf69-1f70f275a56f'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '9db89763-35bb-440e-b36a-f1d6c7debcf1'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '814'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Al-Huda Academy is a full-time Islamic school providing religious and academic education for preschool-6th grade, Monday-Friday.'}
+{'property': 'og:title', 'content': 'Islamic School | Al-huda Academy | Hanover Park'}
+{'property': 'og:description', 'content': 'Al-Huda Academy is a full-time Islamic school providing religious and academic education for preschool-6th grade, Monday-Friday.'}
+{'property': 'og:url', 'content': 'https://www.alhudaacademy.com'}
+{'property': 'og:site_name', 'content': 'Al Huda Academy'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Islamic School | Al-huda Academy | Hanover Park'}
+{'name': 'twitter:description', 'content': 'Al-Huda Academy is a full-time Islamic school providing religious and academic education for preschool-6th grade, Monday-Friday.'}
+
+Body Text:
+Islamic School | Al-huda Academy | Hanover Park
+top of page
+AL-HUDA ACADEMY
+Learning from divine guidance
+Home
+Parent Portal
+About Us
+Accredidation
+Board of Trustees
+Future Projects
+Handbook
+Parent Resources
+Staff
+Admissions
+Registration
+Fee Structure
+Health Form Requirement
+Uniforms
+Supply List
+Extended Leave of Absence
+Summer Camp 2023
+Calendar
+23-24 Calendar
+22-23 Calendar
+Contact Us
+Careers
+Donate
+More
+Use tab to navigate through the menu items.
+(630) 270-3130
+Home: Testimonials
+Empowering a New Generation
+Apply Here
+Announcements
+Principal Nayeela being awarded Educator of the Year award on April 2024 by Hanover Park’s Mayor Craig.
+This recognition is a testament to Principal Nayeela's unwavering dedication, hard work, and passion for education. Her commitment to providing our students with an exceptional learning experience has not only enriched their lives but has also made a significant impact on our school community.
+May her leadership continue to inspire and uplift us all.
+About Us
+Al-Huda Academy is a full time Islamic school providing religious and academic education for preschool-7th grade, Monday to Friday. The school was established in 2007 by dedicated community members.
+Learn More
+Photo Gallery
+Our student culture plays a key role in the experience at
+Al-Huda Academy. We’ve created a safe and accessible environment where students are encouraged to discuss ideas, collaborate on projects, share their work and receive feedback with pride. We give students the foundation to reach their potential and gain confidence both academically and socially.
+We need your support!
+Al-Huda Academy was established so students from all backgrounds would have a formal education that could transform their lives and positively contribute to society. Since then, we have held true to that vision because of the generosity of countless community members and businesses who share similar values. Please consider donating.
+Sponsor a child!
+Future Projects
+Contact Us
+AL-HUDA ACADEMY
+Learning from divine guidance
+Contact Us:
+(630) 270-3130
+Address:
+7455 Jensen Blvd, Hanover Park, IL 60133
+Follow us:
+© 2022 Al-Huda Academy
+501(c) (3) non-profit organization
+bottom of page

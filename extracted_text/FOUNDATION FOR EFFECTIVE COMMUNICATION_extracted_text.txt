@@ -1,0 +1,170 @@
+Meta Information:
+{'name': 'pageKey', 'content': 'd_flagship2_pulse_read'}
+{'name': 'robots', 'content': 'max-image-preview:large, noarchive'}
+{'name': 'bingbot', 'content': 'nocache'}
+{'name': 'locale', 'content': 'en_US'}
+{'id': 'config', 'data-app-version': '0.0.3586', 'data-call-tree-id': 'AAYYmlvdUYuNGWzORExSgQ==', 'data-multiproduct-name': 'article-ssr-frontend', 'data-service-name': 'article-ssr-frontend', 'data-browser-id': 'a9f289d8-c2ba-4dd7-8fda-af5a40f03f0e', 'data-enable-page-view-heartbeat-tracking': '', 'data-page-instance': 'urn:li:page:d_flagship2_pulse_read;mnpdiadfQ6iTP3LhscHQGg==', 'data-theme': 'light', 'data-disable-jsbeacon-pagekey-suffix': 'false', 'data-member-id': '0', 'data-logout-url': 'https://www.linkedin.com/uas/logout?session_full_logout=true&csrfToken=ajax%3A6485234514037099564'}
+{'name': 'description', 'content': 'The average person speaks about 16,000 words every day. Assuming that these 16,000 words are always part of a conversation, there will be an exchange of 32,000 words, just between two parties, word for word.'}
+{'property': 'og:title', 'content': 'The Foundation for Effective Communication'}
+{'property': 'og:description', 'content': 'The average person speaks about 16,000 words every day. Assuming that these 16,000 words are always part of a conversation, there will be an exchange of 32,000 words, just between two parties, word for word.'}
+{'property': 'og:image', 'content': 'https://static.licdn.com/aero-v1/sc/h/6dwv6w0gvj6q3ye8o19b99or2'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:url', 'content': 'https://www.linkedin.com/pulse/20140925113304-178771009-the-foundation-for-effective-communication'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@LinkedInEditors'}
+{'name': 'twitter:title', 'content': 'The Foundation for Effective Communication'}
+{'name': 'twitter:description', 'content': 'The average person speaks about 16,000 words every day. Assuming that these 16,000 words are always part of a conversation, there will be an exchange of 32,000 words, just between two parties, word for word.'}
+{'name': 'twitter:image', 'content': 'https://static.licdn.com/aero-v1/sc/h/6dwv6w0gvj6q3ye8o19b99or2'}
+{'name': 'appId'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Aaron Tan'}
+{'name': 'twitter:label2', 'content': 'Reading time'}
+{'name': 'twitter:data2', 'content': '2 min read'}
+{'name': 'clientSideIngraphs', 'content': '1', 'data-gauge-metric-endpoint': '/pulse/api/ingraphs/gauge', 'data-counter-metric-endpoint': '/pulse/api/ingraphs/counter'}
+
+Body Text:
+The Foundation for Effective Communication
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+Welcome back
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Skip to main content
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+The Foundation for Effective Communication
+Report this article
+Aaron Tan
+Aaron Tan
+Transforming CRE Workplace for the Future
+Published Sep 25, 2014
++ Follow
+The average person speaks about 16,000 words every day. Assuming that these 16,000 words are always part of a conversation, there will be an exchange of 32,000 words, just between two parties, word for word. Since so many words are spoken every day, how many of these are effectively communicated to the other party?
+Due to the nature of my work, I have to constantly communicate with a lot of people, and mostly in the shortest possible time. Therefore, I have to ensure that every communication opportunity is effective in order for tasks to be completed, situations understood and expectations clarified.
+I use 4 simple Cs to guide me in this, and this has proven to be the foundation for my communication skills.
+Cause
+Before I launch into any barrage of words, I always take a moment to understand the objective behind the communication. What is my cause? Am I negotiating for a bargain, in a brainstorming session, or managing expectations of a peer?
+Consult
+Understanding my Cause will then translate into a consultative approach with the other party. What am I looking to achieve and how will I do it? Is the other party clear that this is the direction that we are heading towards? If my Cause is to find out the performance of a product, we will need to consult and come to a common platform on establishing customer feedback, sales figures, retention rates, etc.
+Concise
+Draggy soap operas bore me to tears, and long emails make me tear out my hair sometimes. To communicate effectively, I like to keep my message Concise. Short, but I am still able to achieve the Clarity of purpose. Not too short or I may miss out on what I am looking for, or so long such that the other party fails to understand my point totally.
+Clarity
+Ultimately, communication is a two-way flow, and to achieve your purpose, the other party has to understand what exactly you are looking for. The use of acronyms, local jargon and industry norms will only be effective if your counterpart understands them fully. Keep your communication clear, and others will understand you better.
+Whether you are talking to a CEO about your new targets and deadlines, writing an appraisal email or relating a new product over the phone to a customer, these 4 Cs will be able to guide you to an effective communication session. In closing, I will like to share this quote from Franklin Delano Roosevelt:
+Be sincere; be brief; be seated
+.
+Photo Credit:
+r
+osalindatorres.wordpress.com
+Like
+Comment
+Copy
+LinkedIn
+Facebook
+Twitter
+Share
+1
+To view or add a comment,
+sign in
+More articles by this author
+No more previous content
+Building effective relationships
+Aug 11, 2014
+No more next content
+Sign in
+Stay updated on your professional world
+Sign in
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Explore topics
+Sales
+Marketing
+Business Administration
+HR Management
+Content Management
+Engineering
+Soft Skills
+See All
+LinkedIn
+© 2024
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+العربية (Arabic)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+English (English)
+Español (Spanish)
+Français (French)
+हिंदी (Hindi)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+日本語 (Japanese)
+한국어 (Korean)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+Language

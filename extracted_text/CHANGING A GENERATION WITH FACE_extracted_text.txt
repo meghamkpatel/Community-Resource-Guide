@@ -1,0 +1,83 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'no'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'changing a generation - Faith Assembly Christian Center'}
+{'property': 'og:description', 'content': '\xa0 \xa0 changing a generation with f.a.c.e., cdc project growth \xa0 \xa0We are Changing a Generation. For 20 years Changing a Generation’s mission has been to provide an affordable safe learning environment for families and children to learn, and a chance to reach their fullest potential. To empower families with the tools to address the […]'}
+{'property': 'og:url', 'content': 'https://www.facc-ministries.org/changing-a-generation/'}
+{'property': 'og:site_name', 'content': 'Faith Assembly Christian Center'}
+{'property': 'article:modified_time', 'content': '2019-04-30T15:07:16+00:00'}
+{'property': 'og:image', 'content': 'https://www.facc-ministries.org/hp_wordpress/wp-content/uploads/2018/10/pg-2-300x51.png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:label1', 'content': 'Est. reading time'}
+{'name': 'twitter:data1', 'content': '1 minute'}
+
+Body Text:
+changing a generation - Faith Assembly Christian Center
+MENU
+home
+about
+what we believe
+staff
+give
+tithing and offerings
+outreach ministry
+provision for the vision/ building fund
+general tithing
+changing a generation
+media
+photo gallery
+videos
+social
+bookstore
+ministries
+youth ministry
+women’s ministry
+men’s ministry
+Crisis Management
+connect
+service times
+map
+calendar
+prayer
+prayer line
+prayer requests
+education
+academy
+childcare
+ReFocUS
+gives
+tithes and offerings
+faith assembly christian center
+Honor the LORD with your wealth, with the firstfruits of all your crops; then your barns will be filled to overflowing, and your vats will brim over with new wine. -Proverbs 3:9-10
+give
+outreach ministry
+we currently serve several communities in the city of Durham including McDougald Terrace, Cornwallis, Braggtown, Famlies Moving Forward and more.
+Give generously to them and do so without a grudging heart; then because of this the Lord your God will bless you in all your work and in everything you put your hand to. – Deuteronomy 15:10
+give
+provision for the vision
+building our ministry
+And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it. -Matthew 16:18
+give
+general giving
+changing a generation with f.a.c.e., cdc
+project growth
+We are Changing a Generation. For 20 years Changing a Generation’s mission has been to provide an affordable safe learning environment for families and children to learn, and a chance to reach their fullest potential. To empower families with the tools to address the challenges designed to destroy the family. Changing a Generation provides a private Christian educational daycare for 0-5, an Academy from first grade to twelfth grade. For more details visit
+www.changingageneration.org
+Click here to partner:
+give
+Click on link below for a printable project growth partner letter:
+home
+about
+give
+media
+ministries
+connect
+prayer
+education
+ReFocUS
+Standard Site

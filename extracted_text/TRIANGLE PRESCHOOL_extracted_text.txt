@@ -1,0 +1,81 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'description', 'content': 'At Triangle Cooperative Preschool, both parents and children have the opportunity to experience the joys and challenges of the preschool years.'}
+{'name': 'robots', 'content': 'noodp,noydir'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'itemprop': 'name', 'content': 'Triangle Cooperative Preschool'}
+{'itemprop': 'url', 'content': 'https://www.trianglecoop.org/'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Triangle Cooperative Preschool'}
+{'property': 'og:url', 'content': 'https://www.trianglecoop.org/'}
+{'property': 'og:site_name', 'content': 'Triangle Cooperative Preschool'}
+{'property': 'og:image', 'content': 'https://s0.wp.com/i/blank.jpg'}
+{'property': 'og:image:alt', 'content': ''}
+{'property': 'og:locale', 'content': 'en_US'}
+
+Body Text:
+Triangle Cooperative Preschool - Ann Arbor Preschool for 3 & 4 year olds.
+Triangle Cooperative Preschool
+Inquire now for 2024-2025
+Home
+About Us
+Our School
+Our Teachers
+Curriculum
+Co-op Advantages
+Photo Gallery
+Prospective Parents
+How to Apply
+Parent’s Role
+Online Tuition Payments
+Support Triangle
+Mabel’s Labels Fundraiser
+Make a Donation
+Local Supporters
+Fundraiser Donation Form
+Ongoing Fundraising 2023-2024
+Contact
+Members
+Members
+Re-enrollment
+Visit Us & Open House
+Our Teachers
+Our teachers make Triangle a special place to begin your child's education. They care about the individual talents that each child brings to …
+Read More...
+Our School
+Our securely gated, shady outdoor play area.
+
+
+
+
+
+
+
+Triangle Cooperative Preschool is located in an open, sunny space within the First …
+Read More...
+Parent’s Role
+In addition to paying tuition for classes, the following activities are required for each family whose child attends Triangle …
+Read More...
+Classes and Curriculum
+Curriculum
+
+
+
+Triangle offers children a play-based curriculum that encourages the development of physical and social skills and …
+Read More...
+Photo Gallery
+Apply Today
+Interested in enrolling? We accept online applications.
+Apply
+Questions?
+Contact
+our membership chair if you have questions about Triangle or would like to arrange a tour.
+Contact
+Triangle Cooperative Preschool
+1432 Washtenaw Ave
+Ann Arbor, MI 48104
+(734) 221-0905
+e-mail: info@trianglecoop.org
+© 2024 ·
+Triangle Cooperative Preschool

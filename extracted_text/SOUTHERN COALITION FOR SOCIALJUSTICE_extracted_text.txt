@@ -1,0 +1,131 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'name': 'robots', 'content': 'max-snippet:-1,max-image-preview:standard,max-video-preview:-1'}
+{'name': 'description', 'content': 'Catalyzing change in communities across the South through the combination of legal advocacy, research, organizing and communications.'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Southern Coalition for Social Justice'}
+{'property': 'og:title', 'content': 'Southern Coalition for Social Justice'}
+{'property': 'og:description', 'content': 'Catalyzing change in communities across the South through the combination of legal advocacy, research, organizing and communications.'}
+{'property': 'og:url', 'content': 'https://southerncoalition.org/'}
+{'property': 'og:image', 'content': 'https://southerncoalition.org/wp-content/uploads/2024/04/shutterstock_2038542002.jpg'}
+{'property': 'og:image', 'content': 'https://southerncoalition.org/wp-content/uploads/2024/04/RERC.png'}
+{'property': 'og:image', 'content': 'https://southerncoalition.org/wp-content/uploads/2024/04/DSC00105-scaled.jpg'}
+{'property': 'og:image', 'content': 'https://southerncoalition.org/wp-content/uploads/2024/04/DSC00085-scaled.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@scsj'}
+{'name': 'twitter:title', 'content': 'Southern Coalition for Social Justice'}
+{'name': 'twitter:description', 'content': 'Catalyzing change in communities across the South through the combination of legal advocacy, research, organizing and communications.'}
+{'name': 'twitter:image', 'content': 'https://southerncoalition.org/wp-content/uploads/2024/04/shutterstock_2038542002.jpg'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.126.0'}
+{'name': 'msapplication-TileImage', 'content': 'https://southerncoalition.org/wp-content/uploads/2022/09/cropped-SCSJ-icon-sept2022-270x270.png'}
+
+Body Text:
+Southern Coalition for Social Justice
+Skip to content
+We Fight For
+Justice System Reform
+Police Accountability
+Safe Reentry
+Effective Expungement
+Youth Justice and Safe Schools
+Voting Rights
+Election Administration and Protection
+Redistricting Reform
+Voter Access
+Voting Rights Restoration
+Environmental Justice
+Our Work
+Cases
+Training & Advocacy
+Get Involved
+News
+Resources
+Donate
+About
+Our Story
+Our Team
+Board of Directors
+Careers & Internships
+Partners
+Contact
+Instagram
+Facebook
+Twitter
+YouTube
+TikTok
+Search
+Home
+Voting Rights
+Federal Court Declares North Carolina Racist Voting Law Unconstitutional
+Stay Informed
+Email
+(Required)
+Phone
+This field is for validation purposes and should be left unchanged.
+Happening Now
+Collapse
+REPORT: North Carolina’s Education System Stuck in Cycle of Racism
+Recent News
+Environmental Justice
+SCSJ Presents Environmental Tools at Sampson County Science Fair
+CLINTON (April 29, 2024) – Sampson County became a nexus for environmental activism and empowerment as researchers and advocates gathered to present their findings to community members at the Sampson County Science Fair. The event — spearheaded by Southern Coalition for Social Justice in collaboration with the Environmental Justice Community Action Network (EJCAN) — shed…
+Read More
+SCSJ Presents Environmental Tools at Sampson County Science Fair
+Communications
+SCSJ Hosts Carbon Plan Virtual Hearing Watch Party
+DURHAM, N.C. (April 24, 2024) – Southern Coalition for Social Justice hosted North Carolina residents for a panel and watch party of the North Carolina Utilities Commission’s virtual public comment hearing of the Carbon Plan and Integrated Resource Plan, or CPIRP.  The panel consisted of energy experts and community activists including Michelle Carter, clean energy campaigns…
+Read More
+SCSJ Hosts Carbon Plan Virtual Hearing Watch Party
+More News
+Fighting Together
+Voting Rights
+Voter Access
+Voting Rights Restoration
+Redistricting Reform
+Election Administration and Protection
+Justice System Reform
+Police Accountability
+Safe Reentry
+Effective Expungement
+Youth Justice and Safe Schools
+Environmental Justice
+Disaster Recovery & Resilience
+Renewable Energy
+Southern Movement Building
+Many of the voting rights success stories across the South have been the result of small but mighty organizations working tirelessly and fearlessly to make sure all voices are heard, despite efforts from politicians in many places to suppress the vote, particularly among communities of color.
+Mitchell Brown, SOLVE Network Coordinator and Senior Counsel for Voting Rights at SCSJ
+Read more >
+Our Cases
+Justice System Reform
+Move the Monument Coalition Edenton-Chowan
+Case Summary: SCSJ and Emancipate NC are representing Move the Monument Coalition Edenton-Chowan in their fight to remove a Confederate soldier statute from the town’s historic waterfront. The Coalition took root on June 19, 2021 – Juneteenth, which commemorates the final enforcement of the Emancipation Proclamation in 1865, nearly two and a half years after…
+Read More
+Move the Monument Coalition Edenton-Chowan
+More Cases
+Stay Informed
+Newsletter Signup
+"
+*
+" indicates required fields
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Follow Us
+Instagram
+Facebook
+Twitter
+YouTube
+TikTok
+Donate
+Contact Us
+Financial Reports
+Careers & Internships
+Media Inquiries
+© 2024 Southern Coalition for Social Justice
+Accessibility
+Privacy Policy
+Terms and Conditions

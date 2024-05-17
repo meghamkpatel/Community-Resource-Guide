@@ -1,0 +1,117 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Eno Valley Swim and Racquet Club is a non-profit membership-only club located in Durham, NC and offers family fun in swimming, tennis, and social activities. We offer a six lane, 25 yard outdoor pool, 1 meter and 3 meter diving facilities, six lighted tennis courts, pickleball, beach pit volleyball court, a clubhouse, and the best'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.3.4.1 '}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Eno Valley Swim & Racquet Club -'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Home - Eno Valley Swim & Racquet Club'}
+{'property': 'og:description', 'content': 'Eno Valley Swim and Racquet Club is a non-profit membership-only club located in Durham, NC and offers family fun in swimming, tennis, and social activities. We offer a six lane, 25 yard outdoor pool, 1 meter and 3 meter diving facilities, six lighted tennis courts, pickleball, beach pit volleyball court, a clubhouse, and the best'}
+{'property': 'og:url', 'content': 'https://www.enoorcas.com/'}
+{'property': 'article:published_time', 'content': '2021-08-14T00:05:18+00:00'}
+{'property': 'article:modified_time', 'content': '2024-05-14T15:13:23+00:00'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Home - Eno Valley Swim & Racquet Club'}
+{'name': 'twitter:description', 'content': 'Eno Valley Swim and Racquet Club is a non-profit membership-only club located in Durham, NC and offers family fun in swimming, tennis, and social activities. We offer a six lane, 25 yard outdoor pool, 1 meter and 3 meter diving facilities, six lighted tennis courts, pickleball, beach pit volleyball court, a clubhouse, and the best'}
+{'name': 'description', 'content': 'Eno Valley Swim and Racquet Club is a non-profit membership-only club located in Durham, NC and offers family fun in swimming, tennis, and social...'}
+{'name': 'robots', 'content': 'index,follow'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home, Eno Valley Swim & Racquet Club'}
+{'property': 'og:description', 'content': 'Eno Valley Swim and Racquet Club is a non-profit membership-only club located in Durham, NC and offers family fun in swimming, tennis, and social...'}
+{'property': 'og:url', 'content': 'https://www.enoorcas.com/'}
+{'property': 'og:site_name', 'content': 'Eno Valley Swim & Racquet Club'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.enoorcas.com/wp-content/uploads/2021/08/cropped-cropped-Cute-Orca-32x32-1-270x270.png'}
+
+Body Text:
+Home - Eno Valley Swim & Racquet Club
+Eno Valley Swim & Racquet Club
+Call To Action
+Welcome to the Best Club in Durham!
+LEARN MORE
+Toggle navigation
+Home
+About Us
+Membership Information
+Swim Team
+Swim Lessons
+Tennis
+Board of Directors
+Contact Us
+Login
+Facebook
+Phone Number
+Eno Valley Swim and Racquet Club is a non-profit membership-only club located in Durham, NC and offers family fun in swimming, tennis, and social activities. We offer a six lane, 25 yard outdoor pool, 1 meter and 3 meter diving facilities, six lighted tennis courts, pickleball, beach pit volleyball court, a clubhouse, and the best swim team in Durham. Enjoy the pool with your family, play some tennis or volleyball. We host many family events throughout the summer for even more fun!
+Access to the tennis courts and pickleball is available to active, paid members year-round.
+Upcoming Pool Events:
+May 18 (Sat) – Opening day 10-8:30
+May 19 (Sun) – 1:00-7:30
+May 24 (Fri) – Hot Dogs and Swimming!
+4:30-8:30
+May 25 (Sat) – 10:00-8:30
+May 26 (Sun) – 1:00-8:30
+May 27 (Monday – Memorial Day) – 11:00-7:30
+June 1 (Sat) – 10:00-8:30
+June 2 (Sun) – 1:00-7:30
+June 7 (Fri) – 12:00-8:00
+June 8 (Sat) – Swim Meet (Pool schedule – 12:00-8:30)
+Pool on Normal Operating Schedule
+June 12 (Wed) – Swim Meet (pool closes 4:30)
+June 26 (Wed) – Swim Meet (pool closes 4:30)
+July 4 (Thurs) – CLAY DAY
+Aug 26 (Mon) – Pool closed on weekdays
+Aug 31 (Sat) – 10:00-7:30
+Sep 1 (Sun) – 1:00-7:30
+Sep 2 (Mon) – 11:00-7:30
+Sep 7 (Sat) – 10:00-7:30
+Sep 8 (Sun) – 1:00-6:30 Closing Day
+Reminder – Mondays are the days that the lifeguards and shack workers super clean the pool, so it is closed until 1:00
+Please
+contact us
+with any questions!
+Membership
+Member Splash
+2024 Membership Application
+Pool Rules
+Waiver and Release Forms
+Babysitter Form
+READ MORE
+Swim Team
+Oosasasa!  We have an awesome swim team!  This is the perfect place for your child to make friends, have fun, become a better swimmer, gain self confidence, and learn valuable lessons in teamwork!
+Sign up for SwimTeam reminders.
+READ MORE
+Tennis
+Six lighted tennis courts are available to membership year-round.
+Tennis clinics are offered to youth and adults.
+Also: Pickleball!
+READ MORE
+About Us
+Eno Valley Swim & Racquet Club is the perfect place for you and your family to have summer fun!
+Eno Valley Swim and Racquet Club is a non-profit, membership-only club located in Durham, NC. We offer a six lane, 25 yard outdoor pool, 1 meter and 3 meter diving boards, six lighted tennis courts, pickleball, beach volleyball court, clubhouse, and the best swim team in Durham.
+MORE ABOUT US
+CONTACT
+ADDRESS
+635 Rippling Stream Road Durham, NC 27704
+MAILING
+P.O. Box 62033
+Durham, N.C. 27715
+EMAIL
+[email protected]
+PHONE
+919-477-9042 (in season only)
+SEASON HOURS
+Normal Operating Hours
+Sunday-Monday: 1:00-8:30
+Tuesday-Saturday: 10:00-8:30
+NO GUESTS ALLOWED ON HOLIDAYS
+Orca logo by Bethany Porter.  Used with permission.
+Contact Info
+© 2022 Eno Valley Swim & Racquet Club | 635 Rippling Stream Rd, Durham, NC, 27712 | 919-477-9042 |
+[email protected]
+Powered By
+DreamHost
+Special Thanks

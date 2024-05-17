@@ -1,0 +1,96 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Aglow Mid Atlantic Region'}
+{'property': 'og:description', 'content': 'Aglow Mid-Atlantic Region Welcomes You The Aglow Mid-Atlantic Region serves the areas of Delmarva, District of Columbia, Maryland, North Carolina, Virginia, and West Virginia Gwen Campbell, Mid-Atlantic Regional Director We…'}
+{'property': 'og:url', 'content': 'https://aglownet.org/midatlanticregion/'}
+{'property': 'og:site_name', 'content': 'Aglow Mid Atlantic Region'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/aglowmidatlanticregion'}
+{'property': 'article:modified_time', 'content': '2023-10-07T19:35:31+00:00'}
+{'property': 'og:image', 'content': 'https://aglownet.org/midatlanticregion/wp-content/uploads/sites/41/2023/03/Gwen-Campbell-web.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'http-equiv': 'x-dns-prefetch-control', 'content': 'on'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://aglownet.org/midatlanticregion'}
+{'name': 'msapplication-TileImage', 'content': 'https://aglownet.org/midatlanticregion/wp-content/uploads/sites/41/2023/02/cropped-cropped-A-favicon-270x270.png'}
+
+Body Text:
+Home - Aglow Mid Atlantic Region
+Skip to content
+Mid-Atlantic Region
+Mid-Atlantic Region
+Home
+About Aglow
+Identity Statement, Vision, Mission, & Goal
+Aglow Core Values
+Aglow History
+About Us
+Regional Director
+Area Team Contacts
+Regional Support
+State Prayer Coordinators
+Lighthouses
+Delmarva Peninsula
+District of Columbia
+Maryland
+Pasadena Community Aglow
+North Carolina
+Virginia
+Arlington Community Lighthouse
+Herndon Community Lighthouse
+South Hill Aglow Community Lighthouse
+West Virginia
+Events
+Regional
+State and Local
+2024 Conference
+Prayer Calendar
+Outreaches
+Anti-Human Trafficking
+Emergency Preparedness
+Evangelism
+Islam Mandate
+Israel Mandate
+Native Americans
+Post-Abortion Healing
+Donate
+Global Partnership
+Contact Us
+Aglow Mid-Atlantic Region Welcomes You
+The Aglow Mid-Atlantic Region serves the areas of
+Delmarva, District of Columbia, Maryland, North Carolina, Virginia, and West Virginia
+Gwen Campbell, Mid-Atlantic Regional Director
+We will
+know the Word of God. We will pray with unwavering faith.
+We will
+walk in favor and full provision.
+We will
+be obedient warriors in the army of God.
+We will
+prevail, for the weapons of our warfare are not carnal, but mighty in God to the pulling down of strongholds.
+We will
+break through barriers, go where we are not wanted, enter through new gates, build bridges of relationship and unity until we see His Kingdom come and His will done on Earth as it is in Heaven.
+Anti-Human Trafficking
+Aglow International has a global Anti-Human Trafficking ministry reaching out to over 170 nations. Within the United States, Aglow is divided into regions. The Mid-Atlantic Region is composed of: Washington, D.C. and the states of Maryland, Delaware, Virginia, West Virginia and North Carolina.
+Read More
+Lighthouses
+Local groups have long been the heart and soul of the ministry. These Kingdom Communities, called Lighthouses are formed within neighborhoods and workplaces throughout the nations. Our groups have a heart for people and find ways to bring the radiant love of God to their community, neighborhoods, and workplaces.
+State Lighthouses
+Have questions about Aglow?
+Contact Us
+Get In Touch!
+Mid-Atlantic Region Email
+Mid-Atlantic Region Facebook
+Additional Resources
+Aglow International Events
+Jane Speaks
+The Aglow Store
+Privacy policy
+About Us
+Aglow is a dynamic, global Kingdom movement made up of women and men with a single purpose: to see God's will be done on earth as it is in Heaven.
+Find out more...
+© 2023 Aglow International. All Rights Reserved.

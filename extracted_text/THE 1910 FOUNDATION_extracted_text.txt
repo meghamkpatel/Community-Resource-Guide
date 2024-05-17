@@ -1,0 +1,58 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '1af006b1-94a8-4f87-81a4-8ddae2a98b4b'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'fd46bec4-fc1c-4684-91d6-f2b4acda0fc9'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '21'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Official Foundation of the Sigma Epsilon Chapter of Tau Epsilon Phi Fraternity. The 1910 Foundation'}
+{'property': 'og:title', 'content': 'The 1910 Foundation | Educational Scholarships'}
+{'property': 'og:description', 'content': 'Official Foundation of the Sigma Epsilon Chapter of Tau Epsilon Phi Fraternity. The 1910 Foundation'}
+{'property': 'og:url', 'content': 'https://www.the1910foundation.net'}
+{'property': 'og:site_name', 'content': 'The 1910 Foundation'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'yP6aqR0X-EuWo1sgPWnMAVs0FehFKEiZq58vIg4lfCM'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'The 1910 Foundation | Educational Scholarships'}
+{'name': 'twitter:description', 'content': 'Official Foundation of the Sigma Epsilon Chapter of Tau Epsilon Phi Fraternity. The 1910 Foundation'}
+
+Body Text:
+The 1910 Foundation | Educational Scholarships
+top of page
+Home
+Welcome
+About
+Project
+News List
+Get a Quote
+Instagram
+Contact
+More
+Use tab to navigate through the menu items.
+THE 1910 FOUNDATION WELCOMES YOU
+WHO WE ARE
+As the official Sigma Epsilon Chapter foundation of Tau Epsilon Phi Fraternity, we provide educational scholarships to the chapter's undergraduates as well as educational programing. As a 501C(3), EIN: 87-3554905, donations are tax deductible (check with your tax professional).
+WAYS WE HELP
+The Focus of Our Efforts
+Scholarship Awards
+1910 provides the opportunity for undergraduate chapter members to qualify for merit-based scholarships.
+Allowing Alumni To Give Back
+1910 is the vehicle that allows the alumni from the chapter to help the undergraduates financially in the spirit of being Bridgebuilders.
+Educational Programing
+The foundation provides funding for
+
+books and presentations in cooperation
+
+with TEP Foundation.
+CONTACT US
+6 Breslin Trail, Durham NC 27712
+the1910foundation@aol.com
+9196315298
+jbowlingpins@aol.com
+©2023 by The 1910 Foundation. Proudly created with Wix.com
+bottom of page

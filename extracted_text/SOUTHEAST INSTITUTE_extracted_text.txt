@@ -1,0 +1,116 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Southeast Institute for Group and Family Therapy offers psychotherapy services and continuing education workshops for mental health professionals. Play Therapy, Couples Retreat, Personal Growth Workshops, Redecision Therapy, Energy Psychotherapy'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Psychotherapy, Couples Therapy and Continuing Education Workshops'}
+{'property': 'og:description', 'content': 'Southeast Institute for Group and Family Therapy offers psychotherapy services and continuing education workshops for mental health professionals. Play Therapy, Couples Retreat, Personal Growth Workshops, Redecision Therapy, Energy Psychotherapy'}
+{'property': 'og:url', 'content': 'https://www.seinstitute.com/'}
+{'property': 'og:site_name', 'content': 'Southeast Institute'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/SoutheastInstitute'}
+{'property': 'article:modified_time', 'content': '2024-05-03T14:29:40+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@SEInstitute659'}
+{'name': 'msvalidate.01', 'content': '6AD4D1FBD308069EA1D52D1CB2894891'}
+{'name': 'google-site-verification', 'content': 'UA-121945437-1'}
+{'name': 'yandex-verification', 'content': '7c96280c6c753d0f'}
+{'content': 'JGJ Consulting v.1.0.0', 'name': 'generator'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'WooCommerce 8.2.0'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'}
+
+Body Text:
+Psychotherapy, Couples Therapy and Continuing Education Workshops
+Home
+NEW 2023-2024 Course Guide
+Contact Us
+Donate
+Join Our Email List
+0 Items
+Psychotherapy Services
+Training and Certification
+Postgraduate Training Program
+Continuing Education Program
+Certified Redecision Therapist
+TA Practitioner Certification
+Personality Focused Treatment (PFT) Certification
+Energy Psychotherapy and Certification
+Scholarship
+Workshops
+Continuing Education Workshops
+Personal Growth Workshops
+Directory
+Certified Instructors in Personality Focused Treatment
+Certified Redecision Therapists
+Certified Practitioners in Trauma Resolution Energy Therapy
+About
+About Us
+Our Team
+Join Our Email List
+Directions
+Testimonials
+Accommodations
+List of Hotels
+Refund & Cancellation Policy
+JPAQ
+Store
+Select Page
+Couples Weekend
+This is a powerful weekend experience for couples, designed
+to assist them in making desired changes, both in themselves and
+their relationship.
+Register Here
+TRET Level 1
+Advance your TRET skills for
+treating trauma with Level I.
+Register Here
+Personality Focused Treatment
+This workshop uses theory, presentations, and demonstrations to teach mental health professionals how to work effectively with each adaptation
+Register Here
+2023 - 2024 Course Calendar
+View  Here
+Announcing an Exciting New Book by Vann Joines
+Insight Out: The 6 Personality Types That Hold the Key to Success in Your Life and Relationships: Joines PH D
+“Few books give readers so much ability to understand themselves and those they love. This book is a relationship treasure. Be sure to read it and share it with your inner circle. A deeper understanding will emerge.”
+—Ellyn Bader, Ph.D. Co-Founder and Co-Director of The Couples Institute and Co-Creator of the Developmental Model of Couples Therapy.
+Purchase Here
+Welcome to Southeast Institute!
+We offer
+continuing education training and certification
+for mental health professionals and
+psychotherapy services
+for individuals, couples, and families.
+Psychotherapy Services
+Learn about our direct clinical services in individual therapy, group therapy, couples therapy and family therapy.
+Learn More
+Training & Certification
+Learn more about our Post Graduate Training program, Transactional Analysis Certification and more for mental health professionals.
+Learn More
+Continuing Education
+Register for any of our upcoming onsite continuing education workshops for mental health professionals and earn CEUs.
+Learn More
+Personal Growth Workshops
+Want to identify your strengths, build a fulfilling relationship, or understand yourself and others better? Sign up for one of workshops.
+Learn More
+Join Our Email List
+Get the latest workshops, events and news from our team.
+Join Now
+Latest From the Blog
+Wondering How to Change Yourself? Use Contracts
+by
+Emily Keller
+By Emily Keller, Ph.D., LPC, RPT. People make self-enhancing decisions that stick every single day. If that were not true, then it would be unwise for me to work throughout the year. Rather, I would only meet with clients on the first day of the year, or month, or week. If you are ready to change yourself, and you are wondering how to make a plan...
+read more
+Facebook
+X
+RSS
+Designed by
+Elegant Themes
+| Powered by
+WordPress
+Join Our Email List
+Receive a $50 coupon code towards any workshop when you join our email list. You'll also get the latest news, workshops, and updates delivered to your inbox.
+Join Now!
+Your request has been received. Please check your inbox for your coupon code.

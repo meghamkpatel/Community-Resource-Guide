@@ -1,0 +1,40 @@
+Meta Information:
+{'property': 'og:site_name', 'content': 'Sidewalk Opera'}
+{'property': 'og:title', 'content': 'Sidewalk Opera'}
+{'property': 'og:description', 'content': 'Sidewalk Opera'}
+{'property': 'og:image', 'content': 'https://www.sidewalkopera.com/uploads/4/9/2/9/49290223/paper-line_1_orig.jpg'}
+{'property': 'og:url', 'content': 'https://www.sidewalkopera.com/'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0;'}
+
+Body Text:
+Sidewalk Opera - Home
+Home
+Media
+The Sidewalk Opera Fund
+Contact
+Scheduled Events
+Blog
+Sidewalk Opera
+Sidewalk Opera brings classical music directly to your community.
+No black ties necessary.
+At Sidewalk Opera, we are not just passionate about music. We are passionate about community, too.
+We believe that music has a unique and invaluable power to touch lives. Because of this, we hope to increase the accessibility of music by bringing it directly to doorsteps and sidewalks in local communities.
+No concert tickets. No fees. Just music. That's our mission.
+Based in Durham, NC, we travel to local businesses, schools, and other locations within surrounding communities, and we share the music we truly enjoy. We hope you enjoy it, too.
+If you wish to chip in at any of our performances, a percentage of our proceeds goes toward providing music lessons and instruments for low-income families via the Sidewalk Opera Fund.
+We hope to see you on the sidewalk soon!
+Holiday Event!
+Sidewalk Opera is proud to team with Brain Mugs & Brew, a Durham-based 501(c)3 organization, through the end of 2021. All coffee and mug sales go toward the Sidewalk Opera Fund, which provides musical instruments for lower-income families. Follow the link below!
+brainmugsbrew.com/
+The Sidewalk Opera Fund
+View Upcoming Events
+Get social with us:
+Proudly powered by
+Weebly
+Home
+Media
+The Sidewalk Opera Fund
+Contact
+Scheduled Events
+Blog

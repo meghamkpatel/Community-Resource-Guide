@@ -1,0 +1,59 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '9dbcaac9-3336-4ec2-8c8f-4a4f275aad06'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '78b496f9-44b6-4fbf-810a-45f12071f4b3'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '573'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'REPAC | Repac'}
+{'property': 'og:url', 'content': 'https://www.repac-riverside.org/repac'}
+{'property': 'og:site_name', 'content': 'Repac'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'REPAC | Repac'}
+
+Body Text:
+REPAC | Repac
+top of page
+Home
+Engineering Program
+Details for Freshman
+Four Year Course Recommendations
+Engineering Course Descriptions
+Engineering FAQ
+Student Activities
+REPAC FAQ
+Events Calendar
+REPAC
+REPAC Officers
+Meetings and Minutes
+Fundraising
+College and Career Readiness
+Support
+More
+Use tab to navigate through the menu items.
+REPAC History and Mission
+The Riverside Engineering Parent Action Council (REPAC) was originally formed in February 2008, for the purpose of supporting and advocating for the accreditation of Project Lead the Way at Riverside High School. Once accreditation was achieved, REPAC evolved into a group of parents acting to support the engineering faculty and to provide extracurricular activities, community service opportunities and social events for the students to enhance their engineering experience.
+​
+In July of 2016, REPAC registered as a North Carolina non-profit corporation and was approved as a 501(c)3 in September of the same year.
+​
+All engineering parents are members of REPAC. Parents are encouraged to participate as volunteers. The executive board is elected in May and will recruit parents to lead and support various committees and associated activities. A brief description of our various committees and chair responsibilities can be found below. If you are interested in volunteering as an executive board member, committee chair or volunteer, please contact the REPAC president to obtain more detailed information about the duties involved. A calendar of events can be found at the end of this handbook. Volunteers do not need engineering experience, only the desire to make our children’s high school experience the best it can be.
+​
+​
+REPAC Documents
+​
+REPAC Bylaws
+​
+RHS Engineering Pathway Handbook
+​
+What REPAC Does
+Volunteer Appreciation Award,
+presented to REPAC at the Science Olympiad
+on February 29, 2020.
+Questions or comments?  Please Contact Us!
+bottom of page

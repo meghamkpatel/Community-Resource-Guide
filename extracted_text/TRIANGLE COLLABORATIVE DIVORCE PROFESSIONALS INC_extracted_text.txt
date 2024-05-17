@@ -1,0 +1,170 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'name': 'service', 'content': 'web-next'}
+{'name': 'X-Location', 'content': 'east'}
+{'name': 'X-Build-Version', 'content': '762b662ae8cbd3f21224d35957c194747874f17a'}
+{'name': 'description', 'content': "We're a group of friendly, compassionate divorce professionals hosting a monthly online workshop on how to manage the emotional, financial, and legal aspects of separation and divorce. You can join us in person or on one of our live streams. We also welcome divorce professionals to participate in ou"}
+{'property': 'fb:app_id', 'content': '2403839689'}
+{'property': 'og:site_name', 'content': 'Meetup'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Triangle Collaborative Divorce Professionals | Meetup'}
+{'property': 'og:description', 'content': "We're a group of friendly, compassionate divorce professionals hosting a monthly online workshop on how to manage the emotional, financial, and legal aspects of separation and divorce. You can join us in person or on one of our live streams. We also welcome divorce professionals to participate in ou"}
+{'property': 'og:url', 'content': 'https://www.meetup.com/triangle-collaborative-divorce-professionals/'}
+{'property': 'og:image', 'content': 'https://secure.meetupstatic.com/photos/event/1/9/e/a/600_509646634.jpeg'}
+{'property': 'al:android:app_name', 'content': 'Meetup'}
+{'property': 'al:android:package', 'content': 'com.meetup'}
+{'property': 'al:ios:app_store_id', 'content': '375990038'}
+{'property': 'al:ios:app_name', 'content': 'Meetup'}
+{'property': 'al:web:should_fallback', 'content': 'true'}
+{'property': 'al:android:url', 'content': 'meetup://'}
+{'property': 'al:ios:url', 'content': 'meetup://'}
+{'property': 'al:web:url', 'content': 'https://www.meetup.com/'}
+{'property': 'twitter:card', 'content': 'summary_large_image'}
+{'property': 'twitter:site', 'content': '@meetup'}
+{'property': 'twitter:image', 'content': 'https://secure.meetupstatic.com/photos/event/1/9/e/a/600_509646634.jpeg'}
+{'property': 'twitter:description', 'content': "We're a group of friendly, compassionate divorce professionals hosting a monthly online workshop on how to manage the emotional, financial, and legal aspects of separation and divorce. You can join us in person or on one of our live streams. We also welcome divorce professionals to participate in ou"}
+{'property': 'twitter:app:id:iphone', 'content': '375990038'}
+{'property': 'twitter:app:name:iphone', 'content': 'Meetup'}
+{'property': 'twitter:app:id:ipad', 'content': '375990038'}
+{'property': 'twitter:app:name:ipad', 'content': 'Meetup'}
+{'property': 'twitter:app:id:googleplay', 'content': 'com.meetup'}
+{'property': 'twitter:app:name:googleplay', 'content': 'Meetup'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large'}
+{'property': 'geo.position', 'content': '35.77;-78.64'}
+{'property': 'geo.placename', 'content': 'Raleigh, NC'}
+{'property': 'geo.region', 'content': 'us'}
+{'name': 'next-head-count', 'content': '62'}
+{'name': 'next_csrf', 'content': 'edc235e1-ac84-49ca-b67e-0701cef89c7f'}
+
+Body Text:
+Triangle Collaborative Divorce Professionals | Meetup
+Skip to content
+Triangle Collaborative Divorce Professionals
+Raleigh, NC
+273 members
+·
+Public group
+Organized by
+Sean Vitrano
+Share
+:
+Join this group
+About
+Events
+Members
+Photos
+Discussions
+More
+Join this group
+What we’re about
+We're a group of friendly, compassionate divorce professionals hosting a monthly online workshop on how to manage the emotional, financial, and legal aspects of separation and divorce. You can join us in person or on one of our live streams. We also welcome divorce professionals to participate in our training and networking events.
+Upcoming events (3)
+See all
+Sat, May 25, 2024, 1:00 PM UTC
+divorcingRIGHT: Your Divorce Questions Answered
+Link visible for attendees
+Are you thinking about separation or divorce? Not sure where to start? Join us for a
+free, online, interactive workshop
+with legal, financial, and mental health professionals experienced in guiding you through all aspects of divorce in North Carolina.
+During the workshop, you will:
+Learn how to manage the strong emotions you may be experiencing as the result of your decision to separate.
+Discuss how to design a parenting plan that protects your children from the negative impact of divorce.
+Identify the information you need to gather and organize to be able to make sound financial decisions.
+Understand the crucial differences between negotiating through attorneys, mediation, the collaborative law process, and litigation.
+Explore how a supportive team can make the process go more smoothly.
+Our presenters will answer all of your questions. Get the information you need to make informed choices for yourself, your family, and your future.
+9 attendees
++
+4
+Attend
+Sat, Jun 22, 2024, 1:00 PM UTC
+divorcingRIGHT: Your Divorce Questions Answered
+Link visible for attendees
+Are you thinking about separation or divorce? Not sure where to start? Join us for a
+free, online, interactive workshop
+with legal, financial, and mental health professionals experienced in guiding you through all aspects of divorce in North Carolina.
+During the workshop, you will:
+Learn how to manage the strong emotions you may be experiencing as the result of your decision to separate.
+Discuss how to design a parenting plan that protects your children from the negative impact of divorce.
+Identify the information you need to gather and organize to be able to make sound financial decisions.
+Understand the crucial differences between negotiating through attorneys, mediation, the collaborative law process, and litigation.
+Explore how a supportive team can make the process go more smoothly.
+Our presenters will answer all of your questions. Get the information you need to make informed choices for yourself, your family, and your future.
+2 attendees
+Attend
+Sat, Jul 27, 2024, 1:00 PM UTC
+divorcingRIGHT: Your Divorce Questions Answered
+Link visible for attendees
+Are you thinking about separation or divorce? Not sure where to start? Join us for a
+free, online, interactive workshop
+with legal, financial, and mental health professionals experienced in guiding you through all aspects of divorce in North Carolina.
+During the workshop, you will:
+Learn how to manage the strong emotions you may be experiencing as the result of your decision to separate.
+Discuss how to design a parenting plan that protects your children from the negative impact of divorce.
+Identify the information you need to gather and organize to be able to make sound financial decisions.
+Understand the crucial differences between negotiating through attorneys, mediation, the collaborative law process, and litigation.
+Explore how a supportive team can make the process go more smoothly.
+Our presenters will answer all of your questions. Get the information you need to make informed choices for yourself, your family, and your future.
+2 attendees
+Attend
+Past events (15)
+See all
+Sat, Apr 27, 2024, 1:00 PM UTC
+divorcingRIGHT: Your Divorce Questions Answered
+This event has passed
+J
+JD
+16 attendees
++
+11
+Organizer
+Sean Vitrano
+Message
+Members (273)
+See all
+SF
+HR
+D
+DH
+DW
+Group links
+Related topics
+Divorce Support
+Newly Divorced
+Marital Separation Support
+Financial Education
+Emotional Healing
+Divorced Parents
+Divorced
+Create your own Meetup group.
+Get Started
+Start a new group
+Your Account
+Sign up
+Log in
+Help
+Become an Affiliate
+Discover
+Groups
+Calendar
+Topics
+Cities
+Online Events
+Local Guides
+Make Friends
+Meetup
+About
+Blog
+Meetup Pro
+Careers
+Apps
+Podcast
+Follow us
+©
+2024 Meetup
+Terms of Service
+Privacy Policy
+Cookie Policy
+Help

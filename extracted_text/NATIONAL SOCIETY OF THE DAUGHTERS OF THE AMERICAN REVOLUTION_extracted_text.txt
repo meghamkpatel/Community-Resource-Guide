@@ -1,0 +1,761 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'The Daughters of the American Revolution is an organization with a deeply rich history while also being truly relevant in today’s world. More than 930,000 women have joined the organization since it was founded close to 125 years ago.'}
+{'property': 'og:site_name', 'content': 'Daughters of the American Revolution'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://www.dar.org/home-front-page'}
+{'property': 'og:title', 'content': 'Daughters of the American Revolution'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:site', 'content': '@TodaysDAR'}
+{'name': 'twitter:title', 'content': 'Daughters of the American Revolution'}
+{'name': 'twitter:site:id', 'content': '@TodaysDAR'}
+{'name': 'twitter:creator', 'content': '@TodaysDAR'}
+{'name': 'twitter:creator:id', 'content': '@TodaysDAR'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org); Commerce 2'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'msapplication-TileImage', 'content': '/themes/custom/dar2022/images/icons/favicon/ms-icon-144x144.png'}
+{'name': 'theme-color', 'content': '#ffffff'}
+
+Body Text:
+Daughters of the American Revolution
+Skip to main content
+Utility Menu
+JOIN
+Members
+GRS
+GIVE
+Members
+GENEALOGY
+BLOG
+Shop
+Cart
+Facebook
+Twitter
+YouTube
+Search
+Search
+National Society
+The National Society Daughters of the American Revolution
+About DAR
+Who We Are
+DAR’s Continuing Commitment to Equality
+What We Do
+National Headquarters
+DAR Publications
+DAR History
+DAR's 125th Anniversary
+Did you know?
+DAR Videos
+Become a Member
+What is DAR
+Who Are DAR Members
+Member Interests
+Volunteer Projects
+Why Join
+How to Join
+Chapter Locator
+Membership Interest Form
+Million Members Celebration
+Media Center
+Marian Anderson
+Historic Preservation
+Preservation Efforts
+Historic Sites and Properties
+Honoring Our Patriots
+American Spirit Magazine
+Inside This Issue
+Subscribe
+Awards
+Writers and Contributors
+Media and Advertising
+Our Patriots DAR Podcast
+Genealogy
+Start With What You Know
+Speak With Relatives
+Start Looking Online
+Specialty Research
+Visit Libraries, Archives and Courthouses
+Work With A DAR Chapter
+Genealogical Research (GRS)
+Suggested Reading
+GRS for Educators
+Genie Clips
+Visitor Information
+Plan your Visit
+Hours of Operation
+Directions & Parking
+Calendar
+Education
+Education Resources
+Essay Contests
+Youth Programs
+DAR Schools
+DAR Manual for Citizenship
+Constitution Week
+Flag Code
+Medals
+DAR Good Citizens
+Resources for Teachers
+Education Grant Program
+Scholarships
+General Information
+Merit Scholarship
+Children and Step Children of DAR Members
+History, Economics, Government and Political Science
+Medical & Nursing
+Elementary and Secondary Teacher Education
+Specific Scholarships
+American Indians
+Scholarship FAQs
+Patriotism
+Military Support & Service for Veterans
+Public Outreach
+Patriotic Awards
+DAR Historic Preservation Grants
+DAR Historic Preservation Grants Poster
+Recipients and Photos
+Entertaining at DAR
+The Venue
+Booking Process
+Event Rates
+FAQs
+Photography and Filming
+Schedule a Tour
+Career Opportunities
+Job Openings
+Internships
+Equal Employment Opportunity Statement
+Employee Benefits
+Service to America
+America 250
+Celebrate 125!
+Margaret Cochran Corbin
+Who Is Margaret Cochran Corbin?
+Margaret Corbin Video
+Molly Pitcher Folklore
+1926 DAR Efforts
+Discovery at West Point
+Margaret Corbin’s Legacy Lives On
+Margaret Corbin Rededication Ceremony
+DAR 2018 Search Efforts
+Resources and Further Reading
+Constitution Hall
+Member Resources
+Schedule
+Tickets
+Seating Map
+Directions
+Visitor Services
+History
+Photos
+Technical Information
+Bookings
+FAQ - Constitution Hall
+Upcoming Events
+Homayoun Shajarian and Anoushiravan Rohani
+June 1, 2024
+- 8:30 PM
+REIK
+June 2, 2024
+- 8:00 PM
+Good Mythical Tour with Rhett & Link
+June 8, 2024
+- 7:30 PM
+See All Events
+Museum
+DAR Museum
+Programs & Events
+Girl Scouts
+Tours
+Calendar of Events
+Collections
+Featured Objects
+Online Quilt Index
+Search the Collection
+Exhibitions
+Current Exhibition
+Upcoming Exhibition
+Past Exhibitions
+Period Room Tours
+Online Exhibitions
+Resources
+Contact Us
+Videos
+Teacher Resources
+Portable Education Program
+Online Exhibits
+Games
+Support
+Volunteer
+Docent Website
+Correspondent Docent Website
+Museum Shop
+Donate
+Wish List
+Museum Shop Trunk Show
+Visit
+FAQ
+Calendar of Events
+Tours
+Family Activity: Sampler Bookmarks
+May 18, 2024
+UnFinished Objects (UFO) Craft Circle
+May 18, 2024
+Crystal Bowl Sound Bath
+June 1, 2024
+See All Museum Events
+Library
+DAR Library
+About the Library
+History
+Mission Statement & Collection Development Policy
+Planning Your Visit
+Donation Info
+FAQ - Library
+Collections
+DAR Lineage Resources
+Digital Resources
+Print Resources
+DAR Special Collections
+DAR Library Catalog
+Research Guides
+How-To Guides
+Pathfinders
+Collection Finding Aids
+DAR Publications
+Forgotten Patriots
+E Pluribus Unum Educational Initiative
+Researching British-Occupied Areas
+Services
+Search Services
+Family History Library Affiliate
+Group Visits
+Programming
+Online Library Lectures
+Online Research
+Genealogical Research System (GRS)
+Ancestor Search
+Member Search
+Descendants Search
+GRC Search
+Rev War
+Resources
+Library Catalog
+Archives
+DAR Americana Collection and NSDAR Archives
+Collections
+History of the Collections
+Americana Collection
+NSDAR Archives
+Online Exhibitions
+Resources
+DAR History
+Searching the DAR Americana Collection and NSDAR Archives
+DAR Applications and Genealogy
+DAR Magazine
+Contact a DAR Chapter
+FAQ – Archives and History
+Visit Us
+Support
+Donations
+Wish List
+Learn how DAR members selflessly and tirelessly dedicated themselves to the war relief effort of World War I
+More
+Giving
+Giving to the DAR
+Support a Special Initiative
+Guardian Trust Endowment
+President General's Project
+General Fund/Area of Greatest Need
+Special Gift Opportunities
+The Daughters Tribute
+Wish List
+Download My Donor History
+Donor Information At A Glance
+Ways to Give
+Matching Gifts
+Planned Giving
+Sustaining Supporter
+Current Campaign
+Recognition Societies
+1890 Annual Giving Circle
+The Founders Club
+The Heritage Club
+Donor Recognition
+Donation Pins
+President General's Project Donor Wall
+Virtual Donor Recognition
+Wall of Honor
+Daughters Tribute Recognition Wall
+Special Recognition Opportunities
+Gift Acceptance
+Membership Challenge
+President General's Benefactor
+What Our Founders Built, We Must Preserve
+Learn More
+Search
+One in a Million
+More than one million women have found purpose and passion in DAR membership. Explore their stories.
+Meet Some Of Our Million Members
+Today's DAR
+DAR is your mother, your daughter, your grandmother, your friend, your colleague … DAR is you!
+Learn more about DAR membership
+What We Do
+DAR is a women’s service organization dedicated to promoting historic preservation, education, patriotism and honoring the patriots of the Revolutionary War.
+See more of the work of the organization
+Volunteers in Action
+DAR members provide millions of hours of community service each year around the world.
+Discover DAR’s Impact
+Visit Us
+DAR National Headquarters in Washington, D.C., offers to the public a genealogical library, decorative arts museum, historic document collection and concert hall.
+Explore the DAR building
+Previous
+Next
+E Pluribus Unum
+Read profiles of underrepresented Revolutionary War Patriots
+10 Million Names
+DAR is a founding collaborating institution
+American Revolution Experience
+How would you choose?
+PBS Documentary
+DAR shares an enduring bond with Marian Anderson
+America250
+DAR is a National Partner with America250!
+Committed to Equality
+DAR reaffirms its guiding principles
+Guardian Trust Campaign
+Help preserve our DAR building
+Watch DAR Videos
+Learn more about DAR history
+Museum of the American Revolution
+Learn about our partnership
+Guinness World Records
+We Set a Record in Patriotism!!
+Today’s DAR Members
+Meet women who represent DAR’s membership
+Upcoming Events
+Educational programs held at DAR Headquarters
+DAR Day of Service
+View member volunteering photos
+USA 250 Planning Begins
+DAR participates in national anniversary Commission meeting
+Where’s Margaret?
+New mystery of Revolutionary War heroine
+DNA and Genealogy
+DAR begins accepting DNA evidence
+Online Exhibitions
+Explore documents of the Signers of the Constitution
+Today's Daughters
+Read profiles of fascinating DAR members
+National Treasures
+Explore featured objects from the DAR Museum
+Previous
+Next
+Research Your Family History
+Are you just starting out on your journey to discover your family roots…or are you one document away from solving a mystery of one of your ancestors? Wherever you are in your genealogical process, DAR is here to help. The DAR
+Genealogical Research System (GRS)
+includes free online databases containing information on Revolutionary patriot ancestors, descendants of those patriots, as well as the vast array of genealogical resources from the DAR Library.
+Map your Family Tree
+Find out who you're related to
+Honor your Ancestors
+Preserve your history forever
+Free Access to our Records
+No membership needed
+Become a Member - Share a Bond
+DAR members come from a variety of backgrounds and interests, but all share a common bond of having an ancestor who helped contribute to securing the independence of the United States of America. Any woman 18 years or older, regardless of race, religion or ethnic background, who can prove lineal descent from a patriot of the American Revolution is eligible to join.
+Daughters
+are vibrant, active women who are passionate about community service, preserving history, educating children, as well as honoring and supporting those who serve our nation.
+Learn More About the Membership Process
+Fill Out the Membership Interest Form
+Today’s Daughters
+The Four Founders
+Mary S. Lockwood
+Ellen Walworth
+Mary Desha
+Eugenia Washington
+The DAR Story
+The Daughters of the American Revolution is an organization with a deeply rich history while also being truly relevant in today’s world. More than 1,000,000 women have joined the organization since it was founded over 125 years ago. They became members to honor their heritage as well as make a difference in their communities across the country and the world. Learn more about the amazing history of the DAR and what members are doing today to continue that legacy.
+DAR History
+Work of the Organization
+National Headquarters Building
+What's
+Your
+DAR Story?
+Daughters touch lives every day and make lasting impressions on their community. With 190,000 members, our stories are written on hearts globally.
+Tell us your DAR story
+"A DAR scholarship helped me go to college."
+"My chapter refurbished a historic landmark in our town."
+Scholarship Opportunities
+Featured Museum Objects
+Grants for Non-Profits
+Event Spaces
+American Spirit Magazine
+Genealogical Research Guides
+DAR Volunteer Service
+Headquarters History
+Find Your Ancestor
+Support of Military
+DAR Merchandise
+Virtual Building Tour
+Museum Educational Programs
+Search Historic Sites
+Signers of the Declaration
+Famous DAR Members
+Online Genealogical Databases
+Find a DAR Chapter
+Previous
+Next
+The Latest from the Today's DAR Blog
+Montana State Visit
+May 14, 2024
+Split by the dramatic peaks of the Rocky Mountains in the west and the expansiveness of the Great Plains in the east, Montana beckons with its untamed beauty and boundless possibilities. The state’s beauty and vastness certainly underscores its nickname as the “Big Sky Country.” My pleasure was to visit the Montana State Society for their 130th state conference, where I spent time in both Montana’s largest city, Billings, and Pompeys Pillar National Monument on the banks of the Yellowstone River. I would like to thank Fay Danielsen for providing my transportation and my Page, Lindsey Taylor...
+Read More
+Footer
+National Society
+Constitution Hall
+Museum
+Library
+Archives
+Giving
+Sitemap
+Contact
+Calendar
+Visitors
+Members
+Join
+Research
+Donate
+© 1890 - 2024, National Society Daughters of the American Revolution (NSDAR) | All Rights Reserved.
+1776 D Street NW
+Washington, D.C. 20006
+Contact Us
+Archives mega Menu Title
+DAR Americana Collection and NSDAR Archives
+Committees
+Member Resources
+Forms & Publications
+Genealogy
+Giving to the DAR
+What Our Founders Built, We Must Preserve
+Learn More
+Upcoming Events
+Homayoun Shajarian and Anoushiravan Rohani
+June 1, 2024
+- 8:30 PM
+REIK
+June 2, 2024
+- 8:00 PM
+Good Mythical Tour with Rhett & Link
+June 8, 2024
+- 7:30 PM
+See All Events
+Honoring Marian Anderson
+Learn more about the relationship between Marian Anderson and the DAR.
+Learn more
+Library Mega Menu Title
+DAR Library
+Main menu
+National Society
+About DAR
+Who We Are
+DAR’s Continuing Commitment to Equality
+What We Do
+National Headquarters
+DAR Publications
+DAR History
+DAR's 125th Anniversary
+Did you know?
+DAR Videos
+Become a Member
+What is DAR
+Who Are DAR Members
+Member Interests
+Volunteer Projects
+Why Join
+How to Join
+Chapter Locator
+Membership Interest Form
+Million Members Celebration
+Become a Member
+"I'm One in a Million" Testimonials
+Get to Know Today's Daughters
+Learn Where DAR Began
+Million Members Blog Posts
+Million Members Celebration Videos
+Media Center
+Marian Anderson
+DAR Marian Anderson Statement
+Anderson's Performances at DAR Constitution Hall
+Resources
+Marian Anderson Legacy Fund
+Marian Anderson Museum and DAR
+Marian Anderson Gown at DAR
+80th Anniversary Commemoration
+75th Anniversary of the Marian Anderson Mural in the Department of the Interior
+75th Anniversary Commemorative Events
+70th Anniversary Tribute Concert
+Commemorative Stamp Ceremony
+Historic Preservation
+Preservation Efforts
+Historic Sites and Properties
+Honoring Our Patriots
+American Spirit Magazine
+Inside This Issue
+Subscribe
+Awards
+Writers and Contributors
+Media and Advertising
+Our Patriots DAR Podcast
+Genealogy
+Start With What You Know
+Speak With Relatives
+Start Looking Online
+Specialty Research
+Visit Libraries, Archives and Courthouses
+Work With A DAR Chapter
+Genealogical Research (GRS)
+Suggested Reading
+GRS for Educators
+Genie Clips
+Visitor Information
+Plan your Visit
+Hours of Operation
+Directions & Parking
+Calendar
+Education
+Education Resources
+Essay Contests
+Youth Programs
+DAR Schools
+DAR Manual for Citizenship
+Constitution Week
+Flag Code
+Medals
+DAR Good Citizens
+Resources for Teachers
+Education Grant Program
+Scholarships
+General Information
+Merit Scholarship
+Children and Step Children of DAR Members
+History, Economics, Government and Political Science
+Medical & Nursing
+Elementary and Secondary Teacher Education
+Specific Scholarships
+American Indians
+Scholarship FAQs
+Patriotism
+Military Support & Service for Veterans
+Public Outreach
+Patriotic Awards
+DAR Historic Preservation Grants
+DAR Historic Preservation Grants Poster
+Recipients and Photos
+Entertaining at DAR
+The Venue
+Booking Process
+Event Rates
+FAQs
+Photography and Filming
+Schedule a Tour
+Career Opportunities
+Job Openings
+Internships
+Equal Employment Opportunity Statement
+Employee Benefits
+Service to America
+America 250
+The United States Semiquincentennial Commission
+America250 Foundation Partner
+DAR Membership
+DAR Initiatives
+First Gift to the Nation
+America 250 Videos
+DAR Pathway of the Patriots
+Honoring Our Patriots
+Celebrate 125!
+Videos
+Slideshows
+Magazine Features
+Daughters Tribute
+National DAR Day of Service
+Today's DAR Blog
+Guardian Trust Campaign
+Commemorative Products
+Margaret Cochran Corbin
+Who Is Margaret Cochran Corbin?
+Margaret Corbin Video
+Molly Pitcher Folklore
+1926 DAR Efforts
+Discovery at West Point
+Margaret Corbin’s Legacy Lives On
+Margaret Corbin Rededication Ceremony
+DAR 2018 Search Efforts
+Resources and Further Reading
+Constitution Hall
+Schedule
+Tickets
+Seating Map
+Directions
+Visitor Services
+History
+Photos
+Technical Information
+Bookings
+FAQ - Constitution Hall
+Museum
+Programs & Events
+Girl Scouts
+Tours
+Calendar of Events
+Collections
+Featured Objects
+Online Quilt Index
+Search the Collection
+Exhibitions
+Current Exhibition
+Upcoming Exhibition
+Past Exhibitions
+Period Room Tours
+Online Exhibitions
+Resources
+Contact Us
+Videos
+Teacher Resources
+Portable Education Program
+Online Exhibits
+Games
+Support
+Volunteer
+Docent Website
+Correspondent Docent Website
+Museum Shop
+Donate
+Wish List
+Museum Shop Trunk Show
+Visit
+FAQ
+Calendar of Events
+Tours
+Library
+About the Library
+History
+Mission Statement & Collection Development Policy
+Planning Your Visit
+Donation Info
+FAQ - Library
+Collections
+DAR Lineage Resources
+Digital Resources
+Print Resources
+DAR Special Collections
+DAR Library Catalog
+Research Guides
+How-To Guides
+Pathfinders
+Collection Finding Aids
+DAR Publications
+Forgotten Patriots
+E Pluribus Unum Educational Initiative
+Researching British-Occupied Areas
+Services
+Search Services
+Family History Library Affiliate
+Group Visits
+Programming
+Online Library Lectures
+Online Research
+Genealogical Research System (GRS)
+Ancestor Search
+Member Search
+Descendants Search
+GRC Search
+Rev War
+Resources
+Library Catalog
+Archives
+Collections
+History of the Collections
+Americana Collection
+NSDAR Archives
+Online Exhibitions
+Resources
+DAR History
+Searching the DAR Americana Collection and NSDAR Archives
+DAR Applications and Genealogy
+DAR Magazine
+Contact a DAR Chapter
+FAQ – Archives and History
+Visit Us
+Support
+Donations
+Wish List
+Giving
+Support a Special Initiative
+Guardian Trust Endowment
+President General's Project
+General Fund/Area of Greatest Need
+Special Gift Opportunities
+The Daughters Tribute
+Wish List
+Download My Donor History
+Donor Information At A Glance
+Ways to Give
+Matching Gifts
+Planned Giving
+Sustaining Supporter
+Current Campaign
+Recognition Societies
+1890 Annual Giving Circle
+The Founders Club
+The Heritage Club
+Donor Recognition
+Donation Pins
+President General's Project Donor Wall
+Virtual Donor Recognition
+Wall of Honor
+Daughters Tribute Recognition Wall
+Special Recognition Opportunities
+Gift Acceptance
+Membership Challenge
+President General's Benefactor
+Member Resources Mega Menu Title
+Member Resources
+Museum Mega Menu Title
+DAR Museum
+Museum Mega Menu Title
+DAR Museum
+The National Society Daughters of the American Revolution
+Shopping Cart
+0 items
+Your shopping cart is empty.
+View Cart
+Shopping
+Upcoming Events
+Homayoun Shajarian and Anoushiravan Rohani
+Sat, 06/01/2024 - 12:00
+- 8:30 PM
+REIK
+Sun, 06/02/2024 - 12:00
+- 8:00 PM
+Good Mythical Tour with Rhett & Link
+Sat, 06/08/2024 - 12:00
+- 7:30 PM
+Family Activity: Sampler Bookmarks
+May 18, 2024
+UnFinished Objects (UFO) Craft Circle
+May 18, 2024
+Crystal Bowl Sound Bath
+June 1, 2024
+See All Museum Events
+Women of Resilience
+DAR members selflessly dedicated themselves to the war relief effort of World War I
+Learn more
+Learn how DAR members selflessly and tirelessly dedicated themselves to the war relief effort of World War I
+More
+Find special initiative opportunities for every interest and every budget!
+Learn More

@@ -1,0 +1,590 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Energy Efficiency & Sustainability Experts - A global network that to promotes energy efficiency and fosters action for sustainable development.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Energy Efficiency & Sustainability Experts | AEE®'}
+{'property': 'og:description', 'content': 'Energy Efficiency & Sustainability Experts - A global network that to promotes energy efficiency and fosters action for sustainable development.'}
+{'property': 'og:url', 'content': 'https://www.aeecenter.org/'}
+{'property': 'og:site_name', 'content': 'AEE Center'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/AssociationofEnergyEngineers/'}
+{'property': 'article:modified_time', 'content': '2024-05-10T17:32:25+00:00'}
+{'property': 'og:image', 'content': 'https://www.aeecenter.org/wp-content/uploads/2021/10/01-_0028_Members-Join-072.png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@aee'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://www.aeecenter.org'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.aeecenter.org/wp-content/uploads/2021/11/cropped-aee-favicon-270x270.png'}
+{'name': 'facebook-domain-verification', 'content': 'rh7g8c3lxadguihgnsvf1emkbke2zp'}
+
+Body Text:
+Energy Efficiency & Sustainability Experts | AEE®
+Skip to content
+AEE on Facebook
+AEE on LinkedIn
+Contact
+Log In
+Membership
+Membership
+Member Benefits
+Corporate Membership
+Join Today
+Renew
+Resources
+Member Webinars
+Efficiency Magazine
+Full of Energy Podcast
+Magazine Subscriptions
+Affinity Programs
+AEE Reports
+News Submission for AEE’s Website
+Chapters
+Chapters
+Find a Chapter
+Chapter Resources
+Chapter & Industry Events
+Divisions
+AEE Divisions
+Community
+AEE Technical Summits
+Mentorship Program
+AEE Communities
+Hall of Fame
+AEE Fellows
+Member Stories
+Students & Young Professionals
+Journals
+Alternative Energy and Distributed Generation
+Energy Management
+Strategic Energy & Environmental Planning
+Books
+AEE Bookstore
+AEE Digital Library
+Awards
+Awards Overview
+Categories
+How to Participate
+Award Winners
+Career Hub
+Overview
+Log In
+Certifications
+Get Certified
+Which Certification is Right For You?
+Get Certified
+The Value of Certification
+Why Invest in Yourself?
+Why Select AEE?
+Accredited & Recognized
+Preparation
+How to Prepare
+Certification Exams
+Remote Proctoring
+AEE Bookstore & eLibrary
+Already Certified
+I’m Certified. Where Next?
+AEE Certified Professionals Directory
+Maintain Your Certification
+Renewal Process
+Certification FAQs
+Energy Management
+Certified Energy Manager – CEM
+®
+Business Energy Professional – BEP
+®
+Energy Efficiency Practitioner – EEP™
+Certified Industrial Energy Professional – CIEP™
+Certified Measurement & Verification Professional – CMVP
+®
+Certified Lighting Efficiency Professional – CLEP™
+50001 Certified Professional – 50001 CP
+Certified Practitioner in Energy Management Systems – 50001 CP EnMS
+SEP Performance Verifier – SEP PV
+ISO 50001 Lead Auditor – ISO 50001 LA
+Energy Service & Commissioning
+Certified Energy Auditor – CEA
+®
+Certified Building Commissioning Professional – CBCP
+®
+Certified Building Commissioning Firm – CBCF
+™
+Certified Performance Contracting & Funding – PCF™
+Sustainable Development
+Certified Water Efficiency Professional – CWEP™
+Certified Renewable Energy Professional – REP™
+Certified Sustainable Development Professional – CSDP
+®
+Carbon Auditing Professional – CAP™
+Certified Green Building Engineer – GBE™
+Certified GeoExchange Designer Program – CGD™
+Utility Services
+Certified Demand Side Manager – CDSM™
+Distributed Generation Certified Professional – DGCP™
+Certified Energy Procurement Professional – CEP
+®
+Legacy Certifications
+Renewal Only - BESA
+Renewal Only - CIAQP
+Renewal Only - CPQ
+Renewal Only - EBCP
+Renewal Only - REA
+Events
+Upcoming Events
+AEE East Energy Conference & Expo
+AEE West Energy Conference & Expo
+AEE World Energy Conference & Expo
+Past Events
+Events History
+Sponsors
+Exhibitors
+Event Proceedings
+AEE Energy Events
+Events Overview
+In-Person Events
+Attendees
+Stars of Energy
+Conference Speakers
+Exhibitors & Sponsors
+The Value of Investing
+Sponsor Info
+Exhibitor Info
+Media Sponsors
+Media Kit
+Training
+Program Information
+Why Select AEE
+How to Attend Training
+Training Programs
+Continuing Educational Credits
+Private Training
+Program Types
+Certification Training Programs
+Certificate Training Programs
+Professional Development Training Programs
+Available Formats
+In-Person Training
+Virtual Training
+On-Demand Training
+Online Training
+Find Training
+Find a Scheduled Program
+Training Partners
+US Education Website
+US AEE Training FAQs
+About AEE
+People of AEE
+AEE Staff
+AEE Board of Directors
+Regional & Project Leadership
+Past Presidents
+Energy Managers Hall of Fame
+AEE Fellows
+Member Stories
+Discover AEE
+Membership
+Certifications
+Training
+Events
+Awards
+Capacity Building
+Trade Missions
+Communities
+AEE Foundation
+About Us
+Our History
+Who We Are
+What We Do
+What Our Members Do
+Worldwide Regions
+Who Supports Us
+Corporate Members
+Life Corporate Members
+Contact Us
+JOIN AEE
+Login
+Energy Efficiency & Sustainability Experts
+A network of over 17,000 members and 32,000 certified individuals, in over 105 countries.
+Join Us
+Get Certified
+The Hub for Energy Professionals Worldwide.
+Joining AEE connects you with a worldwide community, offering access to globally recognized certifications, cutting-edge training, and engaging events. Whether you aim to advance your career, expand your professional network, or contribute to climate goals, AEE is with you every step of the way. Become a member of our network, and help shape the future of energy.
+We are Local. We are Global. We are AEE.
+Membership
+Access a wide array of member benefits and amplify your impact in the energy sector.
+Learn More
+Certification
+Earn globally recognized and accredited certifications that build trust, and open doors in the energy industry.
+Find Your Path
+Training
+Advance your career with our wide variety of expert-led training programs, available worldwide.
+Explore Offerings
+Events
+Join energy leaders to learn about the latest energy-saving strategies, services, and technologies.
+View Events
+Join A Community Focused on Making a Big Impact
+Being part of the energy community is crucial for professional growth and impact. AEE offers unparalleled networking opportunities, connecting you with peers and experts worldwide. Forge meaningful connections, collaborate on solutions, and be at the forefront of energy innovation. Join us, and be part of something bigger.
+Invest in Your Future
+Stand Out with AEE Certifications
+Unlock new opportunities and demonstrate your expertise with AEE certifications. Our globally recognized credentials validate your skills and knowledge in energy management, renewable energy, and sustainability. Whether you're advancing your career or seeking new challenges, AEE certifications set you apart in the competitive energy industry. Join the ranks of over 32,000 certified professionals worldwide and take your career to new heights with AEE.
+Which Certification is Right For You?
+Empower Your Journey with AEE Education
+We're here to help energy professionals like you grow. Get expert insights through member webinars, stay updated with our technical journals, explore our many training programs, and don't miss the educational sessions at our conferences. With AEE, you have the tools to elevate your career and unlock your full potential in the energy sector.
+Webinars
+Training
+Journals
+Events
+Creating a Clean & Sustainable Future
+AEE takes corporate social responsibility seriously. We received the
+Energy Star certification
+for six consecutive years, AEE's headquarters in Atlanta, GA are carbon-neutral, and we support our staff in developing energy-efficient and sustainable practices at home.
+We strive to lead by example, knowing that our members are dedicated to the same cause. We also support the
+United Nations Sustainable Development Goals
+, ensuring that we contribute meaningfully to a more sustainable future.
+AEE supports the Sustainable Development Goals
+The Latest News from AEE
+A Wrap on Spain’s iENER24 Energy Engineering Conference
+Read More
+→
+AEE West Highlights: Strategies for a Clean Energy Future
+Read More
+→
+AEE’s Inaugural Technical Summit in London: A Convergence of Energy Excellence
+Read More
+→
+Living Green: Simple Steps to Infuse Sustainability in Your Daily Routine
+Read More
+→
+Embracing Sustainability
+Read More
+→
+Earth Day and the Power of Energy Efficiency
+Read More
+→
+Why You Should Publish Your Article in an AEE Journal
+Read More
+→
+Elevating Energy Efficiency in the UK
+Read More
+→
+Lighting the Way to Energy Efficiency
+Read More
+→
+AEE Updates the Certified Energy Manager Body of Knowledge to Include Climate Change and Decarbonization Topics
+Read More
+→
+A Gender-Just Energy Transition
+Read More
+→
+How to Become the Expert in M&V at Your Company
+Read More
+→
+5 Reasons to Become a Certified Energy Auditor (CEA)
+Read More
+→
+Implementing 50001 CP
+Read More
+→
+Navigating Real-World M&V Energy Challenges
+Read More
+→
+My Vacuum Robot Story– a CBCP’s Excursion
+Read More
+→
+US Department of Energy Announces a Nearly $16 Million Investment in Two New Marine Projects
+Read More
+→
+Empowering Energy Managers for a Sustainable Future: Updates to the CEM Training Program
+Read More
+→
+Hydrogen Insights: Investing in the Clean Energy Future
+Read More
+→
+A Landmark Achievement in Energy Efficiency and Sustainability in Pakistan
+Read More
+→
+Benefits & Advantages of Becoming a Certified Building Commissioning Firm (CBCF)
+Read More
+→
+Advancing the Maldives’ Renewable Energy Agenda
+Read More
+→
+Cultivating Tomorrow: AEE’s Vision for 2024
+Read More
+→
+2024 Letter from the President
+Read More
+→
+AEE Announces the 2024 Board of Directors
+Read More
+→
+COP 28 Wrap-Up
+Read More
+→
+AEE Headquarters Achieves Carbon Neutrality, Leads by Example in the Energy Sector
+Read More
+→
+AEE Launches New Mentorship Program
+Read More
+→
+2023 AEE World Wrap-Up
+Read More
+→
+AEE Releases the Jobs and Market Trends Report 2023
+Read More
+→
+AEE Attends Semana de la Energía, in Montevideo, Uruguay
+Read More
+→
+Decarbonization and Electrification Panel at AEE World
+Read More
+→
+The Case for Industrial Energy Efficiency – Energy Efficiency Movement
+Read More
+→
+What Does it Really Mean to be Net Zero?
+Read More
+→
+AEE’s Nordic Trade Mission: Bridging Global Energy Expertise and Sustainability Practices
+Read More
+→
+Clean Data for a Clean Planet: EMPEQ’s Pioneering Technology
+Read More
+→
+Why Companies Are Racing to Embrace Net Zero Goals
+Read More
+→
+Energy Management Systems
+Read More
+→
+Top 5 Reasons to Become ISO Certified
+Read More
+→
+Expand Your Knowledge: Attend Training at AEE World
+Read More
+→
+Certifications Recognized by the Department of Veterans Affairs
+Read More
+→
+World Energy Innovations takes the Energy Industry to New Heights
+Read More
+→
+AEE’s CDSM Program Expanded Globally
+Read More
+→
+Become a Renewable Energy Professional (REP) – A Globalized Certification
+Read More
+→
+CEA On-Demand is Now Available
+Read More
+→
+Energy Audits: Working with Industrial Customers
+Read More
+→
+The Best of Times | Energy Management
+Read More
+→
+Announcing the 2023 AEE Student Chapter Award Winners
+Read More
+→
+Announcing the 2023 AEE Chapter Award Winners
+Read More
+→
+Announcing the 2023 Energy Managers Hall of Fame Inductee
+Read More
+→
+2023 CEM Update for Existing Certified Energy Managers
+Read More
+→
+Engaging Employees in Energy Management
+Read More
+→
+Announcing the 2023 AEE Regional Award Winners
+Read More
+→
+Announcing AEE’s 2023 International Award Winners
+Read More
+→
+The Importance of M&V in Energy Efficiency
+Read More
+→
+Raising the Professional Standards in the M&V Field in Sri Lanka
+Read More
+→
+AEE Lebanon Launches TESSA Capacity Building Project
+Read More
+→
+Certification News: USAID CEA Project in Mongolia
+Read More
+→
+45 Governments Rally Behind IEA’s Call to Double Global Energy Efficiency by 2030
+Read More
+→
+80 Million in Funding Available for Small and Medium Manufacturers Increasing Energy Efficiency
+Read More
+→
+Tapping Into Industrial Energy
+Read More
+→
+The Future of Clean Energy
+Read More
+→
+Transition in the Workforce
+Read More
+→
+Conclusions from the AEE Bolivia Forum 2022
+Read More
+→
+Is There Too Much Data?
+Read More
+→
+A Letter from the 2023 President of the Board
+Read More
+→
+Chapter News: AEE HTU Hosts Energy Day
+Read More
+→
+Chapter News: AEE German Jordanian University Chapter Hosts Koplenz Universität
+Read More
+→
+Chapter News: WAEE Hosts 9th Annual Conference
+Read More
+→
+Chapter News: Slovak University Hosts Indoor Climate of Buildings Conference
+Read More
+→
+An Overview of COP 27
+Read More
+→
+2021-2022 Energy Jobs and Market Trends Report
+Read More
+→
+Planes, Fleets, and Automobiles
+Read More
+→
+AEE Participates in COP27
+Read More
+→
+Inflation Reduction Act
+Read More
+→
+Announcing the 2022 Energy Managers Hall of Fame Inductees
+Read More
+→
+Congratulations to AEE’s 2022 International Award Winners!
+Read More
+→
+Announcing the 2022 AEE Regional Award Winners
+Read More
+→
+Announcing the 2022 AEE Student Chapter Award Winners
+Read More
+→
+Announcing the 2022 AEE Chapter Award Winners
+Read More
+→
+Lead Your Life and Energy Career Testimonial:Thomas Briede, CEM
+Read More
+→
+Bonus Episode: Juneteenth- A Discussion on Diversity, Equity, and Inclusion
+Read More
+→
+Transitioning to Decarbonization
+Read More
+→
+Nominations & Elections Slate of AEE Officers for 2023
+Read More
+→
+emPOWERment￼
+Read More
+→
+AEE Oral History Project with PCI
+Read More
+→
+Congratulations to the 2021 Chapter Recognition Award Winners!
+Read More
+→
+AEE Inducts 7 New Fellows for 2021
+Read More
+→
+Congratulations to the 2021 Student Chapter Recognition Award Winners!
+Read More
+→
+SEP 50001 and Energy Management Professional Credentialing Transitions to the Association of Energy Engineers
+Read More
+→
+2021 April Member Webinar | Alice Corovessi
+Read More
+→
+New AEE Ebook Subscription Service Launched.
+Read More
+→
+Congratulations to AEE’s 2021 Regional Award Winners!
+Read More
+→
+2021 May Member Webinar | Peter Flippen
+Read More
+→
+Corporate Member: Center for Energy and Environment
+Read More
+→
+Barry Benator – 2021 Hall of Fame Inductee
+Read More
+→
+Lori Moen – 2021 Hall of Fame Inductee
+Read More
+→
+Congratulations to AEE’s 2021 International Award Winners!
+Read More
+→
+Celebrating Two New Student Chapters in Jordan
+Read More
+→
+New International AEE Member Webinar (Presented in Arabic) | Samer Zawaydeh
+Read More
+→
+Explore AEE News
+MEMBERSHIP
+Member Benefits
+Join
+Renew
+Find a Chapter
+Corporate Membership
+AEE Communities
+Divisions
+CERTIFICATION
+Certifications
+Exams
+Renewals
+FAQ
+AEE Certified Professionals Directory
+EVENTS
+AEE World Energy Conference
+AEE East Energy Conference & Expo
+AEE West Energy Conference & Expo
+TRAINING
+Why AEE Training
+Search for Training
+Training Partners
+Training Programs
+FAQ
+3168 Mercer University Dr
+Atlanta GA, 30341
+Stay Up to Date with the Latest AEE News by Subscribing to our
+Mailing List
+LinkedIn
+Facebook
+YouTube
+Mail List
+Copyright 2024 Association of Energy Engineers |
+Privacy Policy
+English
+Spanish
+French
+Chinese
+Arabic
+English
+Search for:
+Search Button

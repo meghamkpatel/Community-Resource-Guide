@@ -1,0 +1,37 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+The Bauman Foundation | The Bauman Foundation
+Skip to main content
+The Bauman Foundation
+Toggle navigation
+Main navigation
+About Us
+About the Foundation
+Lionel Bauman, Founder
+Employment Opportunities
+Contact
+The Bauman Foundation
+Advancing Advocacy
+All Americans deserve to have a say in the policies that affect them; we support them in their struggle to amplify their voice and be heard by policymakers.
+Amplifying Impact
+We believe that civic engagement and advocacy can build power, making our democracy stronger and more vibrant.
+Promoting Open and Transparent Government
+We believe that democracy works best when the government is accountable to the people it serves. To ensure this accountability, the government must be open and honest about its work.
+Strengthening Democracy
+We believe in the principles of the constitution that guarantee that all eligible voters should be able to participate in free and fair elections.
+Previous
+Next
+Search
+Search
+Search
+The Bauman Foundation
+2040 S Street NW
+Washington, DC 20009
+Phone: (202) 328-2040
+Fax: (202) 328-2003

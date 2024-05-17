@@ -1,0 +1,63 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '4d1511bf-353f-45ba-b955-27c42923513a'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'f036dd07-3eb8-43fa-a7c8-5da45fd1a1e1'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '210'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Triangle International Christian Fellowship pentecostal church serving in Durham, Morrisville, Cary, Raleigh, Apex area. Encouraging others to follow Bible teachings for life changing journey.'}
+{'name': 'robots', 'content': 'max-image-preview:standard, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:title', 'content': 'Triangle International Christian Fellowship | Church | Durham | NC'}
+{'property': 'og:description', 'content': 'Triangle International Christian Fellowship pentecostal church serving in Durham, Morrisville, Cary, Raleigh, Apex area. Encouraging others to follow Bible teachings for life changing journey.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/f1926b_196f83852f83465580157f1ee50d225f%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/f1926b_196f83852f83465580157f1ee50d225f%7Emv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.ticfellowship.org'}
+{'property': 'og:site_name', 'content': 'TICF Christ ChurchTriangle International Christian Fellowship | Church | Durham | NC Triangle International Christian Fellowship pentecostal church serving in Durham, Morrisville, Cary, Raleigh, Apex area. Encouraging others to follow Bible teachings for life changing journey.'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'Indian, Malayalam, Tamil'}
+{'name': 'twitter:title', 'content': 'Triangle International Christian Fellowship | Church | Durham | NC'}
+{'name': 'twitter:description', 'content': 'Triangle International Christian Fellowship pentecostal church serving in Durham, Morrisville, Cary, Raleigh, Apex area. Encouraging others to follow Bible teachings for life changing journey.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/f1926b_196f83852f83465580157f1ee50d225f%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/f1926b_196f83852f83465580157f1ee50d225f%7Emv2.jpg'}
+{'name': 'twitter:card', 'content': 'summary'}
+
+Body Text:
+Triangle International Christian Fellowship | Church | Durham | NC
+top of page
+We Preach Christ the Crucified
+Home
+About
+We Believe
+Events
+Calendar
+Ministries
+Contact
+More
+Use tab to navigate through the menu items.
+Triangle International
+Christian Fellowship Church
+“Come, let us sing for joy to the Lord;
+let us shout aloud to the Rock of our salvation” Psalm 95:1
+WELCOME TO
+TICF
+Join us for SUNDAY WORSHIP SERVICE @10:30 am
+ABOUT OUR CHURCH
+Triangle International Church is a Bible believing, Independent, Pentecostal Church. Our church is committed to proclaiming the truth of Jesus Christ through His Word - the Bible. The truth of Scripture is relevant for today’s world, and we are living in a day when people face challenges and sometimes seemingly insurmountable difficulties. We believe that God’s Word has the answer to every circumstance that we encounter. Here at Triangle International Christian Fellowship, we strive to present the principles contained in Scripture so we may better understand God‘s character, His purposes, and His will for our lives with the help of the Holy Spirit. We are located Triangle area, North Carolina.
+Servant of God: Michael K Christy Sam
+Regular Schedule of Services
+Worship Service          |   Sunday @ 10:30am
+Sunday School             |   Sunday @ 9:30am
+Intercessory Prayer  |   Saturday @ 10:30am
+Bible Study                    |   Friday @ 7:00pm
+Address & Contact
+4121 Lumley Rd
+Durham, NC 27703
+919-260-9172
+ticfellowship@outlook.com
+©2024 by Triangle International Christian Fellowship
+bottom of page

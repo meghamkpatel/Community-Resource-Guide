@@ -1,0 +1,91 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '9f24d96a-614a-4f43-914e-eb28865a6960'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '0d537f99-ac43-4604-8f84-6935dd4b1e9d'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '572'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Trish Harleston Ministries\nHelping to connect you to your destiny and to become the best version of you! \nAuthor, Preacher, Spiritual Counselor, Host for Women Conferences\nLiquidated Ladies Events'}
+{'property': 'og:title', 'content': 'Trish Harleston | Trish Harleston Ministries | Durham'}
+{'property': 'og:description', 'content': 'Trish Harleston Ministries\nHelping to connect you to your destiny and to become the best version of you! \nAuthor, Preacher, Spiritual Counselor, Host for Women Conferences\nLiquidated Ladies Events'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/a6be6e_1a9a8620485949aabdacf3170b9235db%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a6be6e_1a9a8620485949aabdacf3170b9235db%7Emv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.trishharleston.com'}
+{'property': 'og:site_name', 'content': 'trish-harleston'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'trishharlestonministries'}
+{'name': 'google-site-verification', 'content': 'bVcqqV57KZsIui1pZz1QaJgmoLGH0cyByZJsrSlHEkU'}
+{'property': 'fb:admins', 'content': 'trishharlestonministries'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Trish Harleston | Trish Harleston Ministries | Durham'}
+{'name': 'twitter:description', 'content': 'Trish Harleston Ministries\nHelping to connect you to your destiny and to become the best version of you! \nAuthor, Preacher, Spiritual Counselor, Host for Women Conferences\nLiquidated Ladies Events'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/a6be6e_1a9a8620485949aabdacf3170b9235db%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/a6be6e_1a9a8620485949aabdacf3170b9235db%7Emv2.jpg'}
+
+Body Text:
+Trish Harleston | Trish Harleston Ministries | Durham
+top of page
+Home
+THM Events
+Photo Gallery
+Trish TV - Sermons
+Blog
+News & Events
+2020 U-TURN Conference
+2018 Women's Conference
+June 28 Fundraiser
+Shop
+Sow a Seed
+Contact
+Contact
+For Booking
+Gift Card
+More
+Use tab to navigate through the menu items.
+Log In
+1/3
+​FOLLOW ME﻿
+Meet Trish Harleston
+About Trish
+Our mission is to help others develop a love for the Word of God,
+a heart for the people of God, a passion for the work of God,
+and a humble spirit while growing in the grace of God.
+Subscribe to Our YouTube Channel
+All Videos
+Play Video
+Play Video
+06:10
+This Season Will Change
+Five Minutes of Fire - Trish Harleston
+Play Video
+Play Video
+05:34
+Catch Your Thoughts
+Trish Harleston - Five Minutes of Fire
+Play Video
+Play Video
+05:28
+Tell Your Story
+Trish Harleston- Five Minutes of Fire
+Play Video
+Play Video
+06:11
+Open Your Mouth
+Trish Harleston - 5 Minutes of Fire
+Play Video
+Play Video
+05:11
+Commitment and Consistency Will Guarantee Change
+Five Minutes of Fire- Trish Harleston
+Play Video
+Play Video
+06:21
+It Will All Add Up
+Five Minutes of Fire - Trish Harleston
+© 2020 Trish Harleston Ministries, LLC.
+bottom of page

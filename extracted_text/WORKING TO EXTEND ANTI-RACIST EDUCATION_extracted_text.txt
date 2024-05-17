@@ -1,0 +1,145 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'we are'}
+{'property': 'og:title', 'content': 'we are'}
+{'property': 'og:url', 'content': 'https://www.weare-nc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5d91542350273f4035e449cf/t/5d9156a9ad47465d17bb4758/1569805994973/weare_stackedlogo.png?format=1500w'}
+{'property': 'og:image:width', 'content': '289'}
+{'property': 'og:image:height', 'content': '217'}
+{'itemprop': 'name', 'content': 'we are'}
+{'itemprop': 'url', 'content': 'https://www.weare-nc.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5d91542350273f4035e449cf/t/5d9156a9ad47465d17bb4758/1569805994973/weare_stackedlogo.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5d91542350273f4035e449cf/t/5d9156a9ad47465d17bb4758/1569805994973/weare_stackedlogo.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'we are'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5d91542350273f4035e449cf/t/5d9156a9ad47465d17bb4758/1569805994973/weare_stackedlogo.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.weare-nc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+we are
+Cart
+0
+Sign In
+My Account
+About Us
+Community
+Sponsorship
+Consultancy
+Programs/Events
+we are Educators
+Spotlight
+Store
+Blog
+Resources
+Grants
+CONTACT US
+SUPPORT
+Back
+Our Mission
+Our Staff
+Back
+Our Board
+Back
+Our Contributors & Partners
+Sponsorship/Donations
+Back
+Let's Talk Racism Conference
+we are Summer Camp
+Pop-Up Workshops
+Student Spotlight
+Calendar
+Back
+Educator Spotlight
+Student Spotlight
+Back
+we are Engaged Families
+Media Archives
+Back
+Educator Grants
+Student Grants
+Sign In
+My Account
+Cart
+0
+About Us
+Our Mission
+Our Staff
+Community
+Our Board
+Sponsorship
+Our Contributors & Partners
+Sponsorship/Donations
+Consultancy
+Programs/Events
+Let's Talk Racism Conference
+we are Summer Camp
+Pop-Up Workshops
+Student Spotlight
+Calendar
+we are Educators
+Spotlight
+Educator Spotlight
+Student Spotlight
+Store
+Blog
+Resources
+we are Engaged Families
+Media Archives
+Grants
+Educator Grants
+Student Grants
+working to extend anti-racist education
+CONTACT US
+SUPPORT
+Scroll
+we are
+working to extend anti-racist education
+Learn More →
+In the Media
+Spectrum News - Durham, NC
+An anti-racism summer camp run by the Durham nonprofit "We Are" has a mission to dismantle systemic racism through education and training.
+Learn More
+#LetOutChildrenLearn
+We’ve created a landing page to track our mobilizing efforts with  community members and organizations who are standing for truth-telling and democracy in education.
+Learn More
+Dear White Parents Short Film
+An intimate view of  family discussions focused on parents helping their children understand racism and sharing their own stories about how they first became aware of racism.
+View the Film
+Additional Resources
+WRAL - Raleigh, NC
+'I'm an activist, Mommy': Durham anti-racist summer camp educates children on racial identities.
+Learn more
+Our Mission
+we are
+collaborates with children, families and educators to dismantle systemic racism in schools and beyond.
+Featured
+Dec 12, 2022
+A “Mixed” Experience With We Are
+Dec 12, 2022
+Dec 12, 2022
+Nov 28, 2022
+PRESS RELEASE: Claiming Space for Queer Students of Color
+Nov 28, 2022
+Nov 28, 2022
+OUR GOAL
+Eliminate race as a predictable factor in educational outcomes.
+About Us →
+Become a Volunteer
+Become a Sponsor
+Make an Investment
+Our Contributors & Partners
+Intro
+In the Media
+Blog + Calendar
+Our Goal
+Home Footer CTA
+Contributors & Partner
+we are
+600 East Umstead Street
+Durham, NC  27701
+Contact Us

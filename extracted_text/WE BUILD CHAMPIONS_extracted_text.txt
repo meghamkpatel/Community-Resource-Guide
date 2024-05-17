@@ -1,0 +1,59 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '41db4c1e-6457-4ddd-a93a-c2ff1e7a2a30'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '0534391d-276e-4cfd-9479-c684de18f897'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '181'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'We Build Champions offers personal, group, and sports specific training. Specialize in Weight loss, Toning, Building, Conditioning, Diet Plans. 1st Session Free.'}
+{'property': 'og:title', 'content': 'We Build Champions | Redondo Beach | Personal Trainer'}
+{'property': 'og:description', 'content': 'We Build Champions offers personal, group, and sports specific training. Specialize in Weight loss, Toning, Building, Conditioning, Diet Plans. 1st Session Free.'}
+{'property': 'og:url', 'content': 'https://www.wbcwebuildchampions.com'}
+{'property': 'og:site_name', 'content': 'wbcwebuildchampions'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'BHKdL8weqJkSZL8CR8y7XDee4pZ18pZDU2ZQ3EzPqrg'}
+{'name': 'keywords', 'content': 'group training, gym, personal trainer, sports, sports specific training, trainer, training'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'We Build Champions | Redondo Beach | Personal Trainer'}
+{'name': 'twitter:description', 'content': 'We Build Champions offers personal, group, and sports specific training. Specialize in Weight loss, Toning, Building, Conditioning, Diet Plans. 1st Session Free.'}
+
+Body Text:
+We Build Champions | Redondo Beach | Personal Trainer
+top of page
+WBC
+we build champions
+Schedule a Free Fitness Evaluation Today
+Let's Do This!
+1/5
+Are you ready to work?
+It takes more than mere sweat to achieve your goals. Let Coach Mitchell create a workout plan for you that’s tailored to your body now — and moves you forward to where you want to go.  Specific training programs take the guesswork out of exercise, so you can achieve more with the time you have.
+HOME
+ABOUT COACH MITCHELL
+SERVICES
+PERSONAL TRAINING
+GROUP TRAINING
+SPORTS SPECIFIC TRAINING
+WEIGHT LOSS PROGRAM
+EVENTS
+WEIGHT LOSS SUPPLEMENTS
+YOGA
+NUTRITION
+NUTRITIONAL SUPPLEMENTS
+STORE
+GALLERY
+TESTIMONIALS
+CONTACT
+More
+Use tab to navigate through the menu items.
+Weight Loss
+Training Services
+Partnerships
+PERSONAL TRAINING - GROUP TRAINING - SPORTS SPECIFIC TRAINING - NUTRITIONAL ADVICE - WEIGHT LOSS - MUSCLE TONE - CORE STRENGTH - CARDIO FITNESS
+Call Coach Mitchell today at 310-293-5624 or email
+gofastcoach@gmail.com
+bottom of page

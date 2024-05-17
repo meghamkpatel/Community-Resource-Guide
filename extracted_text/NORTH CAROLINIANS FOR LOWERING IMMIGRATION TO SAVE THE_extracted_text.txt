@@ -1,0 +1,575 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+
+Body Text:
+Questions and Answers about Medicaid Expansion | NC Medicaid
+Skip to main content
+An official website of the State of North Carolina
+An official website of NC
+How you know
+State Government websites value user privacy. To learn more,
+view our full privacy policy
+.
+Secure websites use HTTPS certificates. A lock icon or https:// means you’ve safely connected to the official website.
+Utility Menu
+ABOUT US
+NC.GOV
+NCDHHS
+SERVICES
+Main menu
+About NC Medicaid
+About NC Medicaid
+Division of Health Benefits Fellowship Programs
+Eligibility
+How To Apply
+Copays
+North Carolina Expands Medicaid
+Beneficiaries
+Find a Doctor
+Providers
+Providers
+Medicaid Bulletin
+Reports
+Reports
+NC Medicaid Enrollment Reports
+Medicaid Expansion Dashboard
+Meetings & Notices
+Counties
+Utility Menu
+ABOUT US
+NC.GOV
+NCDHHS
+SERVICES
+Search
+Home
+About NC Medicaid
+North Carolina Expands Medicaid
+Questions and Answers about Medicaid Expansion
+Questions and Answers about Medicaid Expansion
+North Carolina is providing health care coverage to more people through Medicaid.
+Last updated: April 11, 2024
+Versión en español
+Quick Facts about North Carolina’s Medicaid Expansion
+North Carolina expanded who can get Medicaid starting December 1, 2023.
+Adults ages 19 through 64 earning up to 138% of the federal poverty line (e.g., singles earning about $1,730/month or families of three earning about $2,970/month) may be eligible.
+The best way to apply is online through
+ePASS
+or
+HealthCare.gov
+; you can also apply in-person, by phone or mailed applications. The processing time for applications can be up to 45 days. Applications submitted online may be processed faster.
+The coverage is comprehensive, including services like primary care, hospital stays, maternity care, vision and hearing, dental/oral health care and more.
+Medicaid pays for doctor visits, yearly check-ups, emergency care, mental health and more – at little or no cost to you.
+Current beneficiaries with full Medicaid coverage will not see any changes.
+General Info: An overview of NC Medicaid expansion, including a toolkit with materials to share
+Printable Versions
+Questions and answers about NC Medicaid expansion (PDF)
+Immigration status and eligibility for NC Medicaid expansion (PDF)
+Complete toolkit of NC Medicaid expansion materials
+General Questions
+Did North Carolina expand access to Medicaid?
+What health services will North Carolina cover?
+Who will be able to get health coverage through NC Medicaid?
+How many people are enrolling in Medicaid because of expansion?
+How can I apply for Medicaid?
+Do parents have to meet additional requirements to get NC Medicaid?
+How long will it take to find out if I am eligible for Medicaid once I apply?
+When does my Medicaid health coverage begin?
+What information do I need to apply?
+What documents can be used if DSS asks for more information?
+Who can I contact with questions about Medicaid expansion, eligibility, or my plan?
+Tab/Accordion Items
+Did North Carolina expand access to Medicaid?
+Yes. More North Carolinians can now get health care coverage through Medicaid. Starting Dec. 1, 2023, NC Medicaid covers people ages 19 through 64 years with higher incomes. Many North Carolinians who did not qualify for health coverage through NC Medicaid prior to Dec. 1, 2023 may now qualify.
+What health services will North Carolina cover?
+Health coverage through Medicaid is comprehensive. Because these services are covered by NC Medicaid, they are provided at no cost or low cost to you. Services include, but are not limited to:
+Primary care so you can go to a doctor for a check-up or when you are not feeling well
+Hospital services when you need to stay overnight (inpatient) or when you can go home the same day (outpatient)
+Maternity and postpartum care if you are pregnant and after giving birth
+Vision and hearing services
+Prescription drug benefits
+Behavioral health
+Preventive and wellness services
+Dental and oral health services
+Medical-related devices and other therapies
+Who will be able to get health coverage through NC Medicaid?
+Most people can get health care coverage through NC Medicaid if they meet the criteria below. If you were eligible before, you still are. Eligibility criteria:
+You live in North Carolina
+Age 19 through 64
+You are a citizen (some non-U.S. citizens can get health coverage through NC Medicaid)
+If your household income fits within the chart below:
+Household Size
+Monthly Income before Taxes
+Single Adults
+$1,732/month or less
+Family of 2
+$2,351/month or less
+Family of 3
+$2,970/month or less
+Family of 4
+$3,588/month or less
+Family of 5
+$4,207/month or less
+Family of 6
+$4,286/month or less
+How many people are enrolling in Medicaid because of expansion?
+The NC Medicaid Expansion Dashboard, updated monthly, tracks how many people are enrolled in NC Medicaid as a result of Medicaid expansion. View and filter by health plan, demographics, or county.
+View the dashboard
+How can I apply for Medicaid?
+You can apply online through
+ePASS –
+a secure, self-service website at
+ePASS.nc.gov
+. You can also apply online by completing a general health insurance application on
+HealthCare.gov.
+When you apply online, you can avoid having to go in person to your local Department of Social Services (DSS) office. If your application is complete, it may be processed faster.
+If you cannot apply online, you can apply in person at your local DSS office, by calling your local DSS office or by mailing, emailing or faxing in a paper application available at
+medicaid.nc.gov/print-application
+. To find your local DSS office, go to
+ncdhhs.gov/localDSS
+.
+More information on how to apply
+Do parents have to meet additional requirements to get NC Medicaid?
+Parents who do not meet eligibility requirements for coverage as a Parent/Caretaker can still qualify under the expanded rules if they are aged 19 through 64 and meet other eligibility requirements. All children in the home under 21 years of age must have
+health insurance that meets the Affordable Care Act requirements
+. That health insurance could be Medicaid or private health coverage.
+How long will it take to find out if I am eligible for Medicaid once I apply?
+It may take up to 45 days after you apply. Incomplete applications may take longer. If your application is incomplete or we need more information, you will hear from your local DSS office requesting additional information. You may be contacted by mail, phone, email and/or text message, so it is important to make sure your contact information is up to date and complete so your caseworker can reach you.
+You will receive a letter in the mail that will tell you if you are approved or denied.
+Authorized Representatives
+will receive the same communication.
+When does my Medicaid health coverage begin?
+The date coverage begins depends on when you apply for Medicaid. Here is an example of a situation people may have:
+You apply for Medicaid in January 2024 (or later) but have medical bills you need to pay from services you received in December 2023. When you apply for Medicaid, make sure you answer the questions that ask about medical bills from prior months. You can request that your Medicaid coverage be retroactive for up to three months before the month you applied. So, if you apply in March and you are eligible, Medicaid can pay bills for covered services from December, January and February. Remember, coverage under expansion can only go back to December 2023.
+What information do I need to apply?
+It takes time to complete the application. Here is some of the information you will be asked to provide for each person applying:
+Full legal name
+Date of birth
+Social Security number (or immigration documents)
+North Carolina residency
+Income information (from paystubs, W-2 forms, tax returns or business records)
+North Carolina uses external resources to verify the information you provide. If more information is needed, you will receive a letter in the mail from your local DSS.
+What documents can be used if DSS asks for more information?
+North Carolina Residency
+· A photo ID with your NC address listed, or
+· A utility bill, or
+· A lease or mortgage agreement, or
+· Vehicle registration, or
+· Documentation of employment, or
+· If you do not have any documentation, you can check a box in ePASS labeled “NC Residency Declaration.”
+Income
+· If you’re
+Employed
+- pay stubs, employer verification or your most recent tax return to show proof of your income.
+· If you’re
+Self-Employed
+- your most recent tax return or copies of your business records. If you don’t have that, you can fill out a
+Verification Form for Self-Employment Income and Expenses
+form.
+Date of Birth
+· A photo ID with your date of birth listed, or
+· Birth certificate.
+Social Security Number
+· A copy of your Social Security card, or
+· Another official document containing your name and Social Security number, or
+· A military ID card.
+Citizenship
+· Birth Certificate, or
+· Passport.
+Immigration Status
+· A copy of your VISA/immigration card.
+Who can I contact with questions about Medicaid expansion, eligibility, or my plan?
+For questions about:
+NC Medicaid expansion, including who is eligible, benefits, enrollment and more:
+Questions and answers about Medicaid expansion
+If you are eligible for NC Medicaid:
+Check our
+eligibility guidelines
+or contact
+your local Department of Social Services (DSS) office
+.
+Standard Plan benefits or how to change your primary care provider (PCP):
+Call your Standard Plan:
+WellCare: 1-866-799-5318 (TTY: 711)
+UnitedHealthcare Community Plan: 1-800-349-1855 (TTY: 711)
+HealthyBlue: 1-844-594-5070 (TTY: 711)
+AmeriHealth Caritas: 1-855-375-8811 (TTY: 1-866-209-6421)
+Carolina Complete Health: 1-833-552-3876 (TTY: 711 or 1-800-735-2962)
+How to change your PCP if you are in NC Medicaid Direct:
+Call the NC Medicaid Contact Center at 1-888-245-0179.
+Your Local Management Entity/Managed Care Organization (LME/MCO) or Tailored Care Management (TCM):
+Call your LME/MCO:
+Alliance Health: 1-800-510-9132 (TTY: 711 or 1-800-735-2962)
+Partners Health Management: 1-888-235-4673 (TTY: 1-800-735-2962)
+Trillium Health Resources: 1-877-685-2415 (TTY: 711)
+Vaya Health: 1-800-962-9003 (TTY: 711)
+If you are a federally recognized tribal member or an IHS-eligible beneficiary with questions on Eastern Band of Cherokee Indians (EBCI) Tribal Option:
+Call the EBCI Tribal Option.
+EBCI Tribal Option: 1-800-260-9992 (TTY: 711)
+Y
+our health care options or changing your health plan:
+visit
+ncmedicaidplans.gov
+, use the NC Medicaid Managed Care mobile app, or call 1-833-870-5500 (TTY: 711 or
+RelayNC.com
+)
+If you need help with resources or help you understand your rights and responsibilities:
+Call the
+NC Medicaid Ombudsman
+at 1-877-201-3750.
+For all other questions,
+check the
+NC Medicaid Beneficiary Portal
+or call the NC Medicaid Contact Center at 1-888-245-0179.
+Coverage and Costs
+If I already have Medicaid coverage will my benefits change?
+Under the new rules, how much will people pay in monthly premiums and copays?
+What are the differences between Medicaid expansion coverage and getting coverage through Standard Plan, Tailored Plan, Tribal Option or Medicaid Direct? Does anything change under these new rules?
+Can I have Medicare and receive Medicaid expansion?
+Are there other insurance options if I still do not qualify for Medicaid under the new rules?
+Will anyone be automatically enrolled in Medicaid under the new rules?
+What is limited Family Planning Medicaid and who is eligible?
+If I currently receive Family Planning benefits and am now enrolled in full coverage through NC Medicaid, what happens?
+Why won’t everyone with Family Planning Program benefits be automatically enrolled in full coverage through NC Medicaid?
+Tab/Accordion Items
+If I already have Medicaid coverage will my benefits change?
+If you currently have full Medicaid coverage, nothing will change for you. When it is time to get ready for the renewal process, you should:
+Update your contact information. Make sure your local DSS has your current mailing address, phone number, email or other contact information. This way, DSS will be able to contact you about your Medicaid coverage.
+You can update your address and other information for Medicaid online without having to call or visit your local DSS. ePASS is North Carolina’s secure self-service website where people with Medicaid can create an enhanced account that allows you to apply for various benefits, view case details, renew Medicaid and update your contact information. More information on creating an enhanced ePASS account is available on the
+NC Medicaid beneficiary portal
+.
+Check your mail. Local DSS will mail you a letter about your coverage. This letter will let you know if you need to complete a renewal form or provide additional information to see if you still qualify for Medicaid.
+Complete the renewal form or Request for Information (if you get one). If you receive a renewal form, fill out the form and return it to your local DSS right away to help avoid a gap in your Medicaid coverage.
+Under the new rules, how much will people pay in monthly premiums and copays?
+You do not have to pay any monthly premiums. Medicaid pays the cost for most health care services.
+The highest copay is $4
+and that is only required for some services.
+What are the differences between Medicaid expansion coverage and getting coverage through Standard Plan, Tailored Plan, Tribal Option or Medicaid Direct? Does anything change under these new rules?
+Everyone who qualifies under the new rules will get their health coverage through a Standard Plan, Medicaid Direct, Tribal Option or through Tailored Plans in the future, depending upon their individual needs, just like other Medicaid beneficiaries.
+Can I have Medicare and receive Medicaid expansion?
+No. Some people who have Medicare coverage may be eligible for other existing Medicaid programs. For example, people who are disabled and are age 64 and under may be eligible for Medicaid through disability coverage.
+Are there other insurance options if I still do not qualify for Medicaid under the new rules?
+Yes. You may qualify for subsidized health coverage offered on
+HealthCare.gov
+. Contact a North Carolina
+health insurance navigator
+for enrollment assistance.
+Community health centers
+also provide low-cost care through a sliding scale based on one’s income and insurance status.
+Will anyone be automatically enrolled in Medicaid under the new rules?
+Yes, people already enrolled in Medicaid’s limited Family Planning Program who are eligible have been automatically moved to full Medicaid expansion benefits. Those who are eligible for full Medicaid benefits will:
+Get a letter from your
+https://www.ncdhhs.gov/localDSS
+letting you know you now have full Medicaid coverage.
+Be assigned a health plan. If you want to change your health plan, you have 90 days to pick a new one.
+Receive a packet from your health plan in the mail. It will include a new Medicaid ID card. Your ID card also has the name of your primary care doctor. You can change the doctor that was assigned to you by contacting your health plan.
+Need to cancel your plan if you have health coverage through
+HealthCare.gov
+. You can do that by logging into your
+HealthCare.gov
+account or calling 1-800-318-2596. Do not cancel your plan until you receive information from your new health plan through Medicaid.
+Not everyone with limited Family Planning Program benefits was automatically enrolled in full coverage through Medicaid. Some people may have income that exceeds the Medicaid eligibility levels. If your income has recently changed and you think you may be eligible, update your information in ePASS (
+ePASS.nc.gov
+) or by contacting your local DSS. Also, please use ePASS or contact your local DSS office to make sure your contact information is up to date so you do not miss important information about your benefits.
+What is limited Family Planning Medicaid and who is eligible?
+Family Planning Medicaid provides reproductive health care at no cost to people with incomes up to 195% of the federal poverty line – that’s about $2,448 a month for a single person. It covers almost all methods of birth control, testing and treatment for sexually transmitted infections, preventive services and more.
+If I currently receive Family Planning benefits and am now enrolled in full coverage through NC Medicaid, what happens?
+You will get a letter from your local DSS letting you know you now have full Medicaid coverage. These initial letters have already gone out. You will then be assigned a health plan. If you want to change your health plan, you have 90 days to pick a new one. Your health plan will send you a packet in the mail. It will include a new Medicaid ID card. Your ID card also has the name of your primary care doctor. You can change your doctor through your health plan. Medicaid will pay for doctor visits, yearly check-ups, emergency care, mental health services and more – at little or no cost to you.
+Why won’t everyone with Family Planning Program benefits be automatically enrolled in full coverage through NC Medicaid?
+Some people may have income that exceeds the Medicaid eligibility levels. If your income has recently changed and you think you may be eligible, update your information in ePASS (
+ePASS.nc.gov
+) or by contacting your
+local Department of Social Services (DSS)
+. Also, please use ePASS or contact your local DSS office to make sure your contact information is up to date so that you do not miss important information about your benefits.
+Immigration Status and Eligibility for Medicaid Expansion
+Are non-U.S. citizens eligible for health care coverage through NC Medicaid?
+Can my information be shared for immigration enforcement?
+Is applying or receiving Medicaid considered public charge?
+Are undocumented immigrants eligible for Medicaid?
+What are emergency Medicaid services and who is eligible?
+Are undocumented pregnant women eligible for Medicaid?
+Who is eligible for Medicaid in a mixed immigration status household?
+What information do undocumented parents have to provide if they have children who are eligible for Medicaid?
+How can undocumented parents apply for Medicaid on behalf of their adult children (ages 18 and older) with disabilities?
+Can people with Temporary Protected Status (TPS) apply for Medicaid?
+Can Deferred Action for Childhood Arrivals (DACA) recipients get Medicaid?
+Are farmworkers with an H-2A visa eligible for Medicaid?
+Are nonimmigrant visa holders (including student, tourist, work, U visas and many more) eligible for Medicaid?
+Can pregnant women who don't have a qualified immigration status get Family Planning coverage in NC?
+Tab/Accordion Items
+Are non-U.S. citizens eligible for health care coverage through NC Medicaid?
+Some non-U.S. citizens can get health coverage through Medicaid. To be eligible you must live in North Carolina and be a non-citizen with qualified immigration status. Many people in this category must wait five years before they can apply for Medicaid, although there are some exceptions, as explained below.
+Qualified immigration status includes:
+Lawful Permanent Residents (LPR/Green Card Holder)
+Asylees
+Refugees
+Cuban/Haitian entrants
+Paroled into the U.S. for at least one year
+Conditional entrant granted before 1980
+Battered non-citizens, spouses, children or parents (“Battered” means someone who has experienced abuse from a family member.)
+Victims of trafficking and their spouse, child, sibling or parent or individuals with a pending application for a victim of trafficking visa
+Granted withholding of deportation (a specific situation similar to asylum)
+Non-citizen members of a federally recognized Indian tribe or American Indian born in Canada
+Citizens of the Marshall Islands, Micronesia and Palau who are living in one of the U.S. states or territories (referred to as Compact of Free Association or COFA migrants)
+Some of the non-U.S citizens on the list above do NOT have to wait 5 years to be eligible for Medicaid. Those who do not have to wait five years for Medicaid eligibility include pregnant women, children under the age of 19, asylees, refugees, victims of trafficking, Cuban-Haitian Entrants and people who now have LPR status and who were previously asylees, refugees, victims of trafficking or Cuban-Haitian entrants. Also, all non-citizens from the list above who are connected to the military such as veterans, active-duty military (and their spouses and children) do not have to wait five years for Medicaid eligibility. All other non-citizens in the list above must wait five years from the time of receiving their qualified immigration status to be eligible for Medicaid.
+If none of the qualified immigration statuses listed above apply to you:
+If you are not a U.S. citizen or part of these immigration categories, but you would otherwise qualify for NC Medicaid, you may still apply to get emergency coverage that includes:
+Payment for the costs of childbirth.
+Get coverage for medical costs during labor and delivery. You can apply up to three months after birth.
+Payment for emergency services.
+Get coverage for the medical costs of treating an emergency, like a heart attack, stroke or serious accident. You can apply up to three months after the emergency.
+To get this emergency coverage, apply for NC Medicaid as normal—
+but you do not need to show documentation or answer questions about your immigration status.
+Can my information be shared for immigration enforcement?
+Medicaid does
+not
+report any information to law enforcement or Immigration and Customs Enforcement (ICE)
+.
+Your information will be kept private and confidential. This includes information for your family members with different immigration statuses. Your information
+cannot
+be used for immigration enforcement purposes.
+You only need to provide immigration status or Social Security numbers for family members who are applying for coverage.
+For instance, a parent who is not an eligible immigrant could apply on behalf of a child who is eligible. The parent would not need to provide their own immigration status.
+For more information on health insurance eligibility for immigrants,
+read this brochure from the NC Justice Center.
+Is applying or receiving Medicaid considered public charge?
+No. Applying for or receiving Medicaid does not make someone a “public charge”. It will not affect your immigration status or your immigration application. Only three benefits are considered negatively if you are submitting an immigration application: Supplementary Security Income (SSI), Temporary Assistance for Needy Families (TANF) and Medicaid
+only
+if used for long-term hospitalization or nursing home care. All other benefit and health programs are safe to use and have no impact on any immigration application you file. For more information on public charge, read this
+informational flyer from the NC Justice Center
+.
+Are undocumented immigrants eligible for Medicaid?
+Undocumented immigrants are eligible for emergency Medicaid. However, undocumented immigrants are not eligible to enroll in federally funded health coverage including full Medicaid, CHIP or Medicare, or to purchase coverage through the Federal Marketplace. Undocumented immigrants are only potentially eligible for emergency Medicaid or labor and delivery services.
+What are emergency Medicaid services and who is eligible?
+Everyone is potentially eligible for emergency Medicaid as long as they meet the income and North Carolina state residence eligibility requirements (provide proof they live in North Carolina, such as photo ID with your address, a utility bill, a lease or documentation of employment). Undocumented non-U.S. citizens who do not qualify for full health coverage under Medicaid may be able to get coverage for emergency medical services. North Carolina has a state emergency medical review contractor who determines if the incident is a medical emergency and determines the dates that Medicaid could cover. The coverage is limited to certain dates, beginning with the date the medical emergency occurs and ending with the date the medical emergency is stabilized. For example, when someone is in a car accident and taken to the emergency room or women who give birth and do not have insurance.
+Are undocumented pregnant women eligible for Medicaid?
+Undocumented, non-U.S citizen pregnant women may be eligible for emergency services covering labor and delivery if they meet the income and state residence eligibility requirements. However, they are not eligible to receive full Medicaid benefits.
+Who is eligible for Medicaid in a mixed immigration status household?
+All applicants must meet state residence and income requirements. Parents can apply for themselves and/or their children.
+Parents who do not have a valid immigration status are eligible for emergency services only.
+Their children may be eligible for full Medicaid if they have a qualified immigration status. This is true even if their parents do not have qualified immigration status.
+If only one family member is applying for insurance or assistance, only the applicant(s) must provide immigration status information or their social security number. Other family members who are not applying do not have to provide immigration information.
+What information do undocumented parents have to provide if they have children who are eligible for Medicaid?
+Parents who apply for their eligible children need to give the names of all members in their household, their mailing address, any verification of any income and proof of state residency from the parent(s) to determine the child’s eligibility along with a signed application. Parents do not need to give immigration information or a social security number for themselves if they are not applying for Medicaid for themselves. Medicaid does not report any information to law enforcement or ICE.
+How can undocumented parents apply for Medicaid on behalf of their adult children (ages 18 and older) with disabilities?
+To apply for an adult child 18 and older, a parent must be designated as an Authorized Representative. An Authorized Representative is an individual who is legally authorized or designated in writing by the person applying to act on their behalf. Only an Authorized Representative can complete a Medicaid application for someone else. Additionally, your local Department of Social Services (DSS) must complete a medical evaluation and request medical records to be reviewed by Disability Determination Services (DDS). If you need help, you can contact your local DSS office so they can guide you through the application process. The Authorized Representative does not have to be a parent. An adult with disabilities may designate anyone as their Authorized Representative.
+Can people with Temporary Protected Status (TPS) apply for Medicaid?
+No, people with TPS cannot apply for full health coverage through Medicaid. However, they may be eligible for emergency Medicaid as long as they meet the income and North Carolina state residence eligibility requirements. Pregnant women and children under 19 with TPS are eligible to apply for Medicaid if they meet all other eligibility requirements and are not subject to the five-year wait period. People with TPS can apply for coverage and help paying for insurance under the Health Care Marketplace (ACA).
+Can Deferred Action for Childhood Arrivals (DACA) recipients get Medicaid?
+No. Under rules issued by the Centers for Medicare and Medicaid Services (CMS), people with
+Deferred Action for Childhood Arrivals
+status are not considered lawfully present for purposes of health coverage eligibility. People with DACA are eligible for emergency Medicaid services when needed.
+Are farmworkers with an H-2A visa eligible for Medicaid?
+Farmworkers with a lawfully present status are potentially eligible if they are a pregnant woman or child under age 19. All other individuals are eligible to receive emergency Medicaid services. People with an H-2A visa can apply for coverage and help paying for insurance under the Health Care Marketplace (ACA).
+Are nonimmigrant visa holders (including student, tourist, work, U visas and many more) eligible for Medicaid?
+They are potentially eligible and exempt from the five-year bar if they are a pregnant woman or child under age 19. Non-pregnant adults who are 19 and older are only eligible for emergency Medicaid services. People applying only for emergency services are not required to provide documentation of immigration status. People with non-immigrant visas who are residents of North Carolina can apply for coverage and help paying for insurance under the Health Care Marketplace (ACA).
+Can pregnant women who don't have a qualified immigration status get Family Planning coverage in NC?
+No. They would only potentially qualify for emergency services Medicaid.
+Expansion Benefits
+How is North Carolina providing health coverage for more people through NC Medicaid?
+Why is expanding Medicaid good for my community?
+Will North Carolinians who already have insurance benefit from expansion?
+Will expansion help improve access to mental health services or substance abuse treatment?
+How can workers without health insurance benefit from these new rules from expanding access to Medicaid?
+Tab/Accordion Items
+How is North Carolina providing health coverage for more people through NC Medicaid?
+Federal law allows states to expand who can get health coverage through Medicaid, known as Medicaid expansion. Since 2014, 40 states and Washington, DC have expanded Medicaid.
+Why is expanding Medicaid good for my community?
+Research shows that expanding Medicaid coverage increases access to health care, improves health outcomes, creates jobs and strengthens the economy. It means that people with low incomes can work, earn more and keep themselves healthy. Expansion is also good for the state. Other states that have expanded Medicaid have increased state revenues, created jobs and saved state funding. It has also helped prevent rural hospitals from closing. Most people who qualify for Medicaid under these new rules are working adults in important service industries across the state. Keeping them healthy keeps them on the job.
+Will North Carolinians who already have insurance benefit from expansion?
+Everyone benefits when more people have access to affordable health care and can live healthier lives. Taxpayers will also benefit because federal funds will help the state cover more people, keep our health systems strong and reduce the cost of care.
+Will expansion help improve access to mental health services or substance abuse treatment?
+Yes. In states that have expanded Medicaid, suicide rates decreased and access to substance use disorder treatment increased. About two million North Carolinians will experience a mental illness and substance use disorder. In 2019, more than 55% of people who needed treatment did not receive it because of cost. Untreated mental illness can lead to homelessness, involvement in the justice system and trauma to children.
+How can workers without health insurance benefit from these new rules from expanding access to Medicaid?
+Many hard-working people can finally afford to take care of their health while providing for their families. Most of those who don’t have insurance are working people with low incomes in important service industries and small businesses. By raising income limits so more people are eligible for Medicaid, more people can work without losing their health care coverage. Medicaid expansion also helps more people with disabilities enter the workforce because without it, many people with disabilities must live in poverty to maintain their Medicaid eligibility. Medicaid expansion can build a healthier workforce for businesses like child care, restaurants and the service industry by helping more employees have access to affordable health insurance.
+ePASS and Medicaid Application
+What is ePASS?
+What is an enhanced ePASS account?
+What will I need to create an enhanced account?
+Where can I get help if I don’t speak English or need help communicating?
+What is NCID and why do I need it?
+What is a Business NCID?
+I am a parent applying for my child, do I need to create an NCID for them?
+Where do I get help with an NCID account?
+Do I need to answer all of the questions in ePASS?
+Do I have to complete the application in one sitting?
+What if I do not have a physical address, mailing address or email address?
+Do I have to provide my Social Security Number (SSN)?
+Who do I need to list on my application?
+How should I enter first/last names for me or others who use a hyphenated first/last name?
+What is an "Authorized Representative?"
+Do I have to be an “Authorized Representative” to help someone with their Medicaid application?
+What does an Authorized Representative need to do to help someone apply?
+Can I apply for Medicaid through HealthCare.gov?
+Tab/Accordion Items
+What is ePASS?
+ePASS is a website where people in North Carolina can apply for services like Medicaid. To apply for Medicaid online, visit
+ePASS.nc.gov
+to start an application. Read our
+fact sheet
+to learn more about ePASS. You can also apply for Medicaid by completing a general health insurance application on
+HealthCare.gov
+.
+What is an enhanced ePASS account?
+An enhanced ePASS account allows you to do more online so you don’t have to call or go in person to a local Department of Social Services. With an enhanced ePASS account, you can:
+See applications you may have submitted
+Report changes (like a change in address or income)
+Complete recertification paperwork (if needed)
+Upload documents for your application
+View notices or messages from your caseworker
+View office contact details
+Appeal a Medical Assistance decision
+Information can also be submitted directly to the local DSS via in-person delivery, US mail, fax, or telephone. Email may also be an option at some DSS offices.
+You can watch
+this video
+to learn how to set up an enhanced ePASS account. More information is also available at
+medicaid.nc.gov/media/12236/
+.
+What will I need to create an enhanced account?
+You will need to provide the following information:
+Name
+Date of birth
+Biological gender
+Address
+Social Security Number
+You must be 18 or older to create an enhanced account. You can create an enhanced ePASS account anytime.
+If you don’t have a Social Security Number or a credit history, you need to work directly with your local Department of Social Services to create an enhanced ePASS account. You won’t be able to create it online.
+Authorized Representatives cannot create an enhanced account.
+Where can I get help if I don’t speak English or need help communicating?
+ePASS is currently only available in English and Spanish. However, all local DSS offices can connect you to a language line to provide help in other languages. Free language assistance and/or other aids and services are available upon request. To receive free interpreter services, call
+866-719-0141
+or ask at your local DSS. After the recorded message, you will reach an operator who can provide you with an interpreter. If you have a disability and need communication assistance, call
+866-719-0141 or TTY: 711
+.
+To view ePASS in Spanish:
+Go to
+epass.nc.gov
+Click "Espanol" near the upper lefthand corner
+What is NCID and why do I need it?
+NCID stands for NC Identity Management. Having an NCID account helps protect your personal information. Anyone using ePASS to apply for Medicaid will need to create a NCID. You will be asked to create an account the first time you use ePASS. Instructions for creating an NCID account are online at
+https://info.ncdhhs.gov/dhsr/es/pdf/how-to-create-NCIDAccount.pdf
+.
+What is a Business NCID?
+A Business NCID Account is used by a person or organization who is authorized to apply on behalf of more than one applicant or household at the same time. Qualified Medical Provider staff are not allowed to act as an Authorized Representative for a Medicaid applicant.
+I am a parent applying for my child, do I need to create an NCID for them?
+As a parent or guardian, you may use your NCID and ePASS account to apply for your child. Even if you are not applying for yourself, list yourself on the application as the parent.
+Where do I get help with an NCID account?
+If you need to reset your password or unlock your account:
+Go to
+ncid.nc.gov
+.
+Choose the link under the NCID login that you need:
+Forgot Password
+Unlock Account
+Enter your username and follow the directions.
+If you need help, call the North Carolina Department of Information Technology Service Desk at 800-722-3946.
+Do I need to answer all of the questions in ePASS?
+No, but you should try to answer as many questions as you can. If the application is incomplete, it may take longer to process. DSS will reach out to you if they do not have what is needed to complete your application, so be sure to respond to mail or phone calls.
+Do I have to complete the application in one sitting?
+No. The application saves automatically. You can also save your application by clicking on “Save & Exit.” When you come back to the application, it will take you to the section that you last finished.
+The application date will be the date you submit the signed application. This is important because you can request that your Medicaid coverage be
+retroactive
+for up to three months from the application date. So, if you apply in March and you are eligible, Medicaid can pay bills for covered services from December, January and February. Remember, coverage under expansion can only go back to December 2023.
+What if I do not have a physical address, mailing address or email address?
+Physical Address:
+You do not need a physical address to apply for Medicaid. However, you must confirm you are physically in North Carolina and plan to live here. You do not need to plan to stay permanently and do not need to have a fixed address.
+Mailing address:
+If you do not have a mailing address, enter an address where you can pick up mail or enter the address of your local DSS office. Find a DSS office near you at
+ncdhhs.gov/localdss
+.
+Email address:
+You must have an email address to make an NCID and use ePASS. If you don’t have an email address, you may apply at your local DSS office, by phone or by paper application.
+Do I have to provide my Social Security Number (SSN)?
+No. You can apply without providing your SSN. If you have one and do not include it on your application, your local DSS will call you to ask for it. Including your SSN on your application will avoid delays in processing.
+If you have applied for a SSN, you can provide documents that show you have applied.
+Who do I need to list on my application?
+On the “Getting Started” page, you will be asked to list household information. Make sure you include:
+You
+Your spouse (if you are legally married)
+Your children or anyone under the age of 21 in your home that you take care of and claim on your taxes
+Anyone else you claim on your tax return (dependents)
+How should I enter first/last names for me or others who use a hyphenated first/last name?
+Do not use spaces or hyphens when entering names. For example, "Smith-Jones" should be entered as "SmithJones."
+What is an "Authorized Representative?"
+An Authorized Representative is an individual who is legally authorized or designated in writing by the person applying to act on their behalf. Only an Authorized Representative can complete a Medicaid application for someone else.
+Do I have to be an “Authorized Representative” to help someone with their Medicaid application?
+No. While you must be an Authorized Representative to complete a Medicaid application for someone else, anyone can give help with the application process. For example, anyone can help someone with using a computer, understanding how to create an NCID, or show someone how to navigate ePASS. People giving help in this manner should not collect any personal identifiable information.
+What does an Authorized Representative need to do to help someone apply?
+If you are an Authorized Representative, you will need to create an NCID. You will use the NCID to complete the application for the person you represent and to check the status of their application. If you are applying for one person/family, you can create an individual NCID for yourself. If you are applying for multiple people/families, you will need to create a Business NCID.
+If you are applying on behalf of someone else, you need to provide one of the following items:
+a Designation of Authorized Representative form
+a voice signature designation (your local Department of Social Services can assist with this)
+a copy of a Power of Attorney
+Guidelines for applying on behalf of someone else can be found here:
+epass.nc.gov/nfLearnMore
+.
+Can I apply for Medicaid through HealthCare.gov?
+Yes. North Carolina uses
+ePASS
+or the Federally Facilitated Marketplace on
+HealthCare.gov
+to determine eligibility for NC Medicaid in addition to other health care coverage options. You can go to
+HealthCare.gov
+to complete a general health insurance application. If you meet all eligibility criteria, you will be directly enrolled in NC Medicaid. If you do not meet eligibility criteria, you will be provided other health care coverage options through the marketplace.
+Health Care Marketplace Plans
+If I currently have a Marketplace plan or apply for a plan through HealthCare.gov, how will I know if I’m newly eligible for Medicaid?
+Should I keep my Marketplace coverage if I qualify for Medicaid?
+Will I have to pay back my premium tax credits if I am eligible for Medicaid under the new criteria?
+How do I cancel my Marketplace plan?
+Tab/Accordion Items
+If I currently have a Marketplace plan or apply for a plan through HealthCare.gov, how will I know if I’m newly eligible for Medicaid?
+To find out if you qualify for Medicaid:
+Visit
+HealthCare.gov
+and update your Marketplace application or create a new one.
+After you submit your application, review your updated “Eligibility Results” to find out if you qualify for Medicaid. If the Marketplace determines that you might qualify:
+The Marketplace will send your information securely to the NC Department of Health and Human Services (NCDHHS).
+NCDHHS will share your information with your local Department of Social Services (DSS).
+Your local DSS will determine if:
+Your application is complete and you are eligible for full Medicaid.
+Your application is complete and you are not eligible for full Medicaid.
+Your application is incomplete and they need to contact you for more information
+You will get a letter or a phone call from your local DSS letting you know the status of your application.
+Watch for a letter in the mail.
+If you currently have a Marketplace health plan and you might now qualify for Medicaid, you will get a letter from the Health Insurance Marketplace. The letter will tell you to visit HealthCare.gov and update your application to find out if you qualify for Medicaid coverage. But remember, you do not need to wait to receive a letter. You can update your Marketplace application any time.
+Apply
+for NC Medicaid directly with the state
+. You can apply for Medicaid any time. Be alert for scams. For example, it is not possible to “pre-qualify” for Medicaid. Visit
+Medicaid.nc.gov
+to learn more.
+Should I keep my Marketplace coverage if I qualify for Medicaid?
+If you qualify for full Medicaid, you will not be able to get financial help with the cost of your Marketplace plan. Therefore, you probably will not want to keep your Marketplace coverage because it will cost more than coverage through NC Medicaid. To avoid paying the full cost of your Marketplace plan premium and covered services, you should cancel your Marketplace coverage as soon as you find out you qualify for Medicaid.
+Will I have to pay back my premium tax credits if I am eligible for Medicaid under the new criteria?
+Once you are enrolled in full Medicaid coverage, the federal government may stop paying for part of your Marketplace plan premium (called advance payments of the premium tax credit), and you will have to cover the full cost. You don’t have to pay back premium tax credits for the months you had both Medicaid and Marketplace insurance.
+How do I cancel my Marketplace plan?
+To cancel your Marketplace plan, contact the Marketplace Call Center at 1-800-318-2596 (TTY: 1-855-889-4325) or visit HealthCare.gov. For more information about when and how to cancel your Marketplace plan, visit
+https://www.healthcare.gov/medicaid-chip/cancelling-marketplace-plan/
+.
+Contact Information
+NC Medicaid, Division of Health Benefits
+2501 Mail Service Center
+Raleigh
+,
+NC
+27699-2501
+NC Medicaid Contact Center
+Phone: 888-245-0179
+Monday-Friday 8 a.m. to 5 p.m.
+Closed on State holidays.
+Visit
+RelayNC
+for information about TTY services.
+More
+Follow Us
+Network Menu
+nc.gov
+Website Feedback
+Accessibility
+Disclaimer & Terms of Use
+Privacy Policy
+Open Budget
+Hosted on Digital Commons

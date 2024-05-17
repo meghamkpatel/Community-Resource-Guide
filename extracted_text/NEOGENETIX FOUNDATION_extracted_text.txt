@@ -1,0 +1,23 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'generator', 'content': 'WordPress 3.9.40'}
+
+Body Text:
+neogenetix
+neogenetix
+Search for:
+Skip to content
+Home
+Board Members
+Contact Information
+Our Approach
+About NeoGenetix Foundation
+News
+3/3/2016:  We received our first donation (unsolicited) in memory of William L. Hirsch, Sr., M.D.
+Proudly  powered by
+WordPress
+|
+Theme: Radiate by
+ThemeGrill
+.

@@ -1,0 +1,72 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '29d0e22f-569f-4d27-a6a9-e88512042d96'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'ce645335-0761-48d8-849f-2d47be0595df'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '2'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Lyrical Vision Scholars | Lyrical Vision'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/4c2809_b35e1c030ed4492a8927b7f9d13680f6%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/4c2809_b35e1c030ed4492a8927b7f9d13680f6%7Emv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.lyricalvision.tech/lyrical-vision-scholars'}
+{'property': 'og:site_name', 'content': 'Lyrical Vision'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Lyrical Vision Scholars | Lyrical Vision'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/4c2809_b35e1c030ed4492a8927b7f9d13680f6%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/4c2809_b35e1c030ed4492a8927b7f9d13680f6%7Emv2.jpg'}
+
+Body Text:
+Lyrical Vision Scholars | Lyrical Vision
+top of page
+Donate
+Home
+About Us
+The Culture
+Lyrical Vision Scholars
+Support Us
+Contact
+More...
+Use tab to navigate through the menu items.
+Lyrical Vision Scholars
+Coding Fun with Makey Makey
+OUR MISSION
+The mission of the Lyrical Vision Scholars initiative is to provide a community network that elevates culturally diverse students, propelling them to become innovators, leaders, and economic drivers in STEM
+fields.
+Support Us
+OUR VISION
+We create partnerships with local and global educators, corporations, organizations and community leaders who aim to ignite a passion for STEM learning among culturally diverse youth. This actualization presents Lyrical Vision Scholars to the world as confident, critical thinkers, prepared for a variety of post graduation opportunities.
+It takes a village to raise a child.
+-
+African Proverb
+Support Us
+OUR SCHOLARS
+Ariana
+I am a senior at the North Carolina School of Science and Math who aspires to major in Neuroscience. I enjoy all the different aspects and languages of coding and look forward to using these skills throughout my career path. Teaching students through the Lyrical Vision Scholars program has been an exciting and wonderful experience. The students I have worked with have learned a myriad of analytical skills and processes. Watching them progress and use the information they acquired in class to code their own project is simply fascinating.
+Sahmad
+Hello! My name is Sahmad and I am currently a high school senior at the North Carolina School of Science and Mathematics. Volunteering as a Lyrical Vision Scholar has been one of the best experiences I've had the pleasure of having. I remember being shown the power of code in middle school. Seeing the importance and impact of it truly lit up my world. It was such a privilege to have the opportunity to give back to my community by teaching children in an area that I'm passionate about. Even as a highschool student with experience in coding, I'm not ashamed to say that I also learned a thing or two from the kids as well. In the future I hope to be a computer engineer and continue to give back to my community in a big way!
+Tanya
+Even in attending a school known for its prestige in STEM, I keep alive my passion for the arts whether it's through art club president, visual art courses, or independent projects. I use art as my facet to give back to my school and community, creating different flyers, logos, and graphics for anyone in the community that needs it. Designing the Lyrical Vision Scholars logo challenged me to capture the essence of the organization while staying away from a convoluted, messy composition by taking a more abstract path on depicting people and the fields they represent.
+​
+...from the 2021 Podcast Squad
+Greetings everyone, I’m
+Johna
+. My favorite memory about being a Lyrical Vision Scholar is joining the podcast squad. I’m one of the first members. When joining the squad I was able to meet and work alongside very intelligent and talented young individuals from around the state. I’m a researcher and a moderator on the podcast. The subjects that I would like to mentor younger students in would be Math, English or Reading, and Oratory. Additionally, I would like to aid students who struggle with technology and virtual learning. I would like to work with grades K-6.  I welcome the opportunity to serve as a Lyrical Vision Scholar.
+Hey, I'm
+Robert
+, a founding member of the LVS Podcast Squad.  Miss B. held 2 interests meetings to start the podcast. I enjoyed hearing from podcaster Kian Brown,
+The Brand Elevator
+. He gave me some great advice about how to open up more and some interviewing tips. That was helpful for my preparation as an occasional host.
+Hey, I'm
+Miller
+! I love doing math, and find it entertaining, and challenging. Although, this is only because of my dad showing me all of the interesting things it can be used for! I'd love to use my opportunity as a Lyrical Vision Scholar to share that excitement with younger kids to get them excited and help prepare them for hard courses in the future!
+Hi, I’m
+Jacqueline
+. My favorite memory is every time that our podcast team gets excited about a discussion and everyone is just adding ideas. I love the conversation and how well our group gets along. I volunteered to take on the leadership role as the recording secretary for the group and I am also a co-host. I enjoy talking to adults because they help inform me about life, so I would like to be able to talk and answer questions from young high school students ages 14-16 as a Lyrical Vision Scholar.
+Copyright 2021 Lyrical Vision Inc.
+bottom of page

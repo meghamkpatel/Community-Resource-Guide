@@ -1,0 +1,101 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=Edge'}
+{'name': 'csrf-param', 'content': 'authenticity_token'}
+{'name': 'csrf-token', 'content': 'r7O9H2VyHlWfp0I2ffyjp4v9fGgMCc5vXPuoNu+ZjJe8mWHOClfVtevRXNkm5KIL2xc3A9XuNAEk4+EaqrZvfw=='}
+{'name': 'church_name', 'content': 'Grace Lutheran Church & School'}
+{'name': 'host', 'content': '360unite.com'}
+{'name': 'tenant', 'content': 'growingwithgrace'}
+{'name': 'theme', 'content': 'earthtones'}
+{'name': 'members_url', 'content': 'https://growingwithgrace.church360.app/'}
+{'name': 'church_management_system', 'content': 'Church 360˚ Members'}
+{'name': 'env', 'content': 'production'}
+{'name': 'document_id', 'content': '63634'}
+{'name': 'document_type', 'content': 'Page'}
+{'name': 'description', 'content': ''}
+{'name': 'google_api_key', 'content': 'AIzaSyDVXBe8Xj254XW0zFcG8cG0jqUReM9ZV-o'}
+{'name': 'google_static_maps_key', 'content': 'AIzaSyAte_dyfyUaQThRVPDMebcXc0oOf7op-Hg'}
+{'name': 'ga', 'content': 'US-154804100-1'}
+{'name': 'is_mobile', 'content': '0'}
+{'name': 'tenant_styles', 'content': '[{"model":"Heading1","view":"h1","title":"Heading 1","classes":"-unite-style-149351","type":"block"},{"model":"Heading2","view":"h2","title":"Heading 2","classes":"-unite-style-149352","type":"block"},{"model":"Heading3","view":"h3","title":"Heading 3","classes":"-unite-style-149353","type":"block"},{"model":"Heading4","view":"h4","title":"Heading 4","classes":"-unite-style-149354","type":"block"},{"model":"Heading5","view":"h5","title":"Heading 5","classes":"-unite-style-149355","type":"block"},{"model":"Heading6","view":"h6","title":"Heading 6","classes":"-unite-style-149356","type":"block"},{"model":"paragraph","view":"p","title":"Normal","classes":"-unite-style-149350","type":"block"},{"model":"Button","view":"div","title":"Button","classes":"-unite-style-103012","type":"block"}]'}
+{'name': 'font_load', 'content': '0'}
+
+Body Text:
+Home - Grace Lutheran Church & School
+Sign in
+Grace Lutheran Church & School
+1200 Charles St
+La Plata, MD  20646
+(301) 932-0963
+church@growingwithgrace.org
+Home
+Together at Grace
+Grace Lutheran School
+About Us
+Our Program
+Grades Offered
+Extended Care
+Hot Lunch
+Tuition and Financial Aid
+Enrollment
+FACTS - Parents Web
+Grace Lutheran School Staff
+GLS Scholarship Info
+Summer Camp 2024
+VBS 2024
+About Us
+What We Believe
+Worship Times
+Our Staff
+Contact Us
+Bible Studies
+Music
+Food and Compassion Ministries
+Prison and Recovery Ministry
+Stephen Ministries
+LWML
+GLC&S Logo Apparel
+Youth Ministry
+GRUVE
+GRUVE Fundraisers
+Confirmation
+Sunday School
+Summer Trips
+LCMS Youth Gathering
+Youth Forms
+Facility Rentals
+Facility Rentals
+Facility Use Forms
+×
+×
+×
+Love God ~ Grow Together ~ Serve the World
+Welcome to Grace Lutheran Church & School - a congregation made up of people of all ages from all walks of life, brought together through our shared commitment to and love for our Lord and Savior Jesus Christ. We worship an amazing God and we desire to glorify His name and share His love in everything we do.
+Grace Lutheran Church began 1961, as a small congregation in the heart of La Plata. In 1967, we moved to our current location and continue to remain an active and engaged member of our community. If you are seeking a church home, we invite you to ours.
+Grace Lutheran Preschool began in 1974. Today, Grace Lutheran School offers a comprehensive accredited academic program for our more than 250 students, age 2 through 8th grade.
+Pages
+Send us a Message
+What information should we know?
+Priority
+Low
+Normal
+High
+Urgent
+Send
+Or call us at
+(800) 346-6120
+Back
+!todo: Keyboard shortcuts go here
+Back
+Send us a Message
+Back
+Send us a Message
+Home
+Together at Grace
+Summer Camp 2024
+VBS 2024
+CONTACT INFO
+Grace Lutheran Church & School
+1200 Charles St
+La Plata, MD  20646
+© 2024 Grace Lutheran Church & School

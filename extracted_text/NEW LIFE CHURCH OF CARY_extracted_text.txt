@@ -1,0 +1,127 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'New Life Church'}
+{'property': 'og:title', 'content': 'New Life Church'}
+{'property': 'og:url', 'content': 'https://www.newlifenc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/648b19dd33b0880afbd524ff/t/66392a8fbe902208d5b88ed1/1715022479657/Primary+-+Light+Background.png?format=1500w'}
+{'property': 'og:image:width', 'content': '653'}
+{'property': 'og:image:height', 'content': '296'}
+{'itemprop': 'name', 'content': 'New Life Church'}
+{'itemprop': 'url', 'content': 'https://www.newlifenc.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/648b19dd33b0880afbd524ff/t/66392a8fbe902208d5b88ed1/1715022479657/Primary+-+Light+Background.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/648b19dd33b0880afbd524ff/t/66392a8fbe902208d5b88ed1/1715022479657/Primary+-+Light+Background.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'New Life Church'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/648b19dd33b0880afbd524ff/t/66392a8fbe902208d5b88ed1/1715022479657/Primary+-+Light+Background.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.newlifenc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+New Life Church
+0
+Skip to Content
+HOME
+ABOUT
+About
+Vision
+Leadership
+Beliefs
+Our Community, Our Missions
+LIVE
+NEXT STEPS
+MEDIA
+DREAM TEAM
+GIVE
+NEXTGEN
+Pre-School
+Kids
+Youth
+JOIN US SUNDAY
+Open Menu
+Close Menu
+HOME
+ABOUT
+About
+Vision
+Leadership
+Beliefs
+Our Community, Our Missions
+LIVE
+NEXT STEPS
+MEDIA
+DREAM TEAM
+GIVE
+NEXTGEN
+Pre-School
+Kids
+Youth
+JOIN US SUNDAY
+Open Menu
+Close Menu
+HOME
+Folder:
+ABOUT
+Back
+About
+Vision
+Leadership
+Beliefs
+Our Community, Our Missions
+LIVE
+NEXT STEPS
+MEDIA
+DREAM TEAM
+GIVE
+Folder:
+NEXTGEN
+Back
+Pre-School
+Kids
+Youth
+JOIN US SUNDAY
+OUR MISSION
+BUILDING PEOPLE FOR LIFE BY HELPING THEM KNOW GOD, FIND FREEDOM, DISCOVER PURPOSE, AND MAKE A DIFFERENCE.
+OUR PASSION
+Pre-School
+In preschool, children start to engage more with their church experience, so we help them interact and build their faith through stories, crafts, and songs that give them Biblical truths. They also start to form relationships with other kids and their teachers.
+Elementary
+Every weekend, your children, first through fifth grade, come to an NLC Kids service where they experience dynamic worship and Biblical teaching. Most of their time is spent in their Small Group to give them the benefit of a consistent Group Leader and interaction with kids their age. Together, they learn about the Bible and how to have a relationship with God, memorize Scripture, and have fun developing friendships with each other.
+Youth
+NLC youth is a vibrant and inclusive community that fosters spiritual growth and meaningful connections among young people. With engaging motion nights, the ministry provides a dynamic space for teenagers to explore and deepen their faith while building lasting friendships. Our youth ministry empowers the next generation to live out their faith in a relevant and impactful way.
+OUR PASTORS
+Matt is a second generation Pastor who served for six years in children’s ministry at New Life Church. He and his wife Jennifer have been married since 2004 and have two beautiful daughters. Together, they love doing life with people right where they are. Matt and Jen promote a community of growth and unity free of judging or shame. Their mission is to help people find and live out their purpose to the maximum.
+OUR COMMUNITY
+WE LOVE TO SERVE OUR LOCAL COMMUNITY. OUR OUTREACH MINISTRY IS SO DIVERSE AND INCLUDES MANY DIFFERENT SERVING OPPORTUNITIES, SUCH AS WITH LOVE FROM JESUS, FIRST RESPONDERS, BACKPACK DRIVES, SCHOOL SUPPLIES GIVEAWAY, AND OPERATION CHRISTMAS CHILD
+LEARN MORE
+GIVE
+TAKE ACTION
+OUR MISSIONS
+AS A CHURCH WE SUPPORT 12 BIBLE SCHOOLS, 4 ORPHANAGES, 14 ELEMENTARY SCHOOLS, CROATIA, ARC, OCC, AND WITH LOVE FROM JESUS.
+TEXT “EXP” TO 84321 TO HELP US BUILD
+LEARN MORE
+GIVE
+TAKE ACTION
+Next Steps
+Join Us Sunday
+Contact Us
+Growth Track
+Small Groups
+Services:
+Sundays 10am in-person & online
+Address:
+10260 Chapel Hill Rd
+Morrisville, NC 27560
+Phone:
+919-467-3456
+Know God
+Find Freedom
+Discover Purpose
+Make A Difference
+©2024
+ALL RIGHTS
+RESERVED
+NEW LIFE CHURCH

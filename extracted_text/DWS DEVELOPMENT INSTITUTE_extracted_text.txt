@@ -1,0 +1,231 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'description', 'content': 'original ideas | made clear           '}
+{'name': 'culture', 'content': 'en-us'}
+{'name': 'language', 'content': 'en'}
+{'property': 'og:title', 'content': 'DWS Research Institute'}
+{'property': 'og:description', 'content': 'original ideas | made clear           '}
+{'property': 'og:url', 'content': 'https://www.dws.com/en-us/insights/dws-research-institute/'}
+{'property': 'og:image', 'content': 'https://www.dws.com/globalassets/_-insights/miscellaneous/gettyimages-1168313662_dws_grading-reseach.institute.png?v=613846249&width=1200&height=628'}
+{'name': 'twitter:title', 'content': 'DWS Research Institute'}
+{'name': 'twitter:description', 'content': 'original ideas | made clear           '}
+{'name': 'twitter:url', 'content': 'https://www.dws.com/en-us/insights/dws-research-institute/'}
+{'name': 'twitter:image', 'content': 'https://www.dws.com/globalassets/_-insights/miscellaneous/gettyimages-1168313662_dws_grading-reseach.institute.png?v=613846249&width=1200&height=628'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'Keyoti_Search_Location_Category', 'content': 'en-US'}
+
+Body Text:
+DWS Research Institute
+Home
+»
+Insights
+»
+DWS Research Institute
+Share this page
+Dividends and Inflation – Let’s Get Real...
+Read more
+The DWS Research Institute produces valuable insights in order to help our clients. It is powered by experts from across DWS as well as academia, industry and think tanks.
+10-May-24
+ESG
+Why companies are waking up to nature’s value
+By:  Michael Lewis,  Steffen Kutscher,  Otar Sarishvili,  Dr. Yannik Bofinger,  Annekathrin Mueller-Lohmann
+Whitepaper #2: How nature affects the bottom line
+ESG
+02-May-24
+DWS Research Institute
+Yes, Virginia, there are Active ETFs…
+By:  Robert Bush
+So, is it fair to say that ETFs are typically thought of as passive for good reason?
+Americas
+30-Apr-24
+DWS Research Institute
+Convexity and prepayment risk
+By:  Jason Chen,  James Kole
+How the price and yield relationship is impacted for issuer callable bonds
+Bonds
+22-Apr-24
+DWS Research Institute
+Global Natural Resources
+By:  Jason Chen,  Maria Milina,  Robert Bush
+02-Apr-24
+DWS Research Institute
+Dividends and Inflation – Let’s Get Real...
+By:  Robert Bush,  Jay Joshi,  Alicia Ansorg
+In this paper, the first of a series of four, we will look at the relationship between dividends and inflation over the last twenty years
+19-Mar-24
+Allocation
+DWS Long View - 2024
+By:  Jason Chen,  Christian Scherrmann,  Dirk Schlüter
+The return outlook for the next decade
+Allocation, Multi Asset, Artificial Intelligence, Global, Inflation
+15-Feb-24
+DWS Research Institute
+A Bit of Bitcoin: Considerations  for an Allocation
+By:  Robert Bush,  Angelina Kostyrina,  Steve Kurz,  David Knowlton, CFA
+​A short examination of how investors should think about Bitcoin. Which investment and asset class framework to use for thinking about them, and whether they deserve a place in a diversified portfolio.
+Digitalization
+13-Feb-24
+DWS Research Institute
+U.S. High Yield for Insurance Companies
+By:  Jason Chen
+Evaluating the high yield landscape for insurance investors
+12-Feb-24
+DWS Research Institute
+High Yield Bonds for Allocators
+By:  Jason Chen
+Evaluating the use of high yield within an investment portfolio
+Multi Asset, Fixed Income
+07-Feb-24
+DWS Research Institute
+The DWS Macro Metric Part II – Investment Grade
+By:  Johannes Müller,  Robert Bush
+Finance and psychology go hand in hand.
+Macro
+02-Jan-24
+DWS Research Institute
+Flipping the Crypto Script
+By:  Björn Jesch,  Thomas Schuessler,  Steve Kurz,  Chris Rhine
+An interview with four senior leaders from DWS and Galaxy.
+Digitalization
+11-Dec-23
+ESG
+Nature-focused regulations start to get serious
+By:  Michael Lewis,  Steffen Kutscher,  Otar Sarishvili,  Dr. Yannik Bofinger
+Whitepaper #1: Catching-up to climate
+ESG
+27-Nov-23
+Multi Asset
+Long View Q3: Japanese reflation
+By:  Jason Chen,  Katrin Loehken,  Dirk Schlüter
+Japanese market has generated renewed confidence among investors with the potential to escape the deflationary trap of the past three decades.
+Multi Asset
+10-Nov-23
+Thematics
+Mr. Market Goes to Washington
+By:  Maria Milina,  Robert Bush,  Jason Chen
+Once considered separate domains, economic and national security have seen growing convergence in recent years.
+Thematics, Americas, Globalization, Technology
+25-Oct-23
+DWS Research Institute
+Thematic Investing: Skating to the Economic Puck
+By:  Robert Bush,  Jason Chen,  Maria Milina
+“I skate to where the puck is going to be, not where it has been” - Wayne Gretzky, Professional Ice Hockey Player, and Coach
+Thematics
+18-Oct-23
+Real Estate
+Decoding Carbon in Real Estate:  Strategic implications of taking a whole  lifecycle approach
+By:  Siena Golan,  Murray Birt,  Aleksandra (Sasha) Njagulj
+In the race to reach ‘net zero’ carbon emissions, much effort has been directed towards reducing the carbon produced in  operating buildings
+Real Estate
+18-Oct-23
+Infrastructure
+Transforming European Energy: Alternative Fuels
+By:  Richard Marshall
+DWS’s major report on European Transformation concluded that a deep transformation is needed to maintain Europe’s sustainable prosperity.
+Infrastructure, Energy
+27-Sep-23
+Multi Asset
+The Global Market Portfolio
+By:  Peter Warken,  Angelina Kostyrina,  Timo Schanz,  Jason Chen
+The 2023 Update
+Multi Asset
+12-Sep-23
+ESG
+Navigating the climate index jungle
+By:  Michael Lewis,  Lukas Ahnert
+Climate benchmarks and their personalities
+ESG
+17-Aug-23
+Multi Asset
+Long View Q2: Inverted yield curves
+By:  Jason Chen,  Dirk Schlüter
+Fixed income returns in inverted yield curve environments
+Multi Asset
+28-Jul-23
+ESG
+ESG in Strategic Asset Allocation: The 2023 Update
+By:  Matthias Schuckardt,  Gunnar Friede,  Peter Warken,  Marco Kleweken,  Jason Chen
+ESG
+26-Jul-23
+DWS Research Institute
+Investing in semiconductors
+By:  Jason Chen,  Maria Milina,  Robert Bush
+26-Jul-23
+DWS Research Institute
+Cybersecurity: The virtual threat is real
+By:  Jason Chen,  Maria Milina,  Robert Bush
+26-Jul-23
+DWS Research Institute
+Opportunities within U.S. green infrastructure
+By:  Maria Milina,  Jason Chen,  Robert Bush
+06-Jul-23
+Artificial Intelligence
+Artificial Intelligence
+By:  Jason Chen,  Maria Milina
+Opportunities for investors
+Technology, Autonomous driving, Big Data, Information Technology
+23-May-23
+ESG
+Dialing up climate finance in emerging markets
+By:  Michael Lewis
+From the billions to trillions
+ESG
+31-Mar-23
+DWS Research Institute
+The Role of REITs in Real Estate Allocations
+By:  Geoffrey Shaver, CFA,  Annie Del Giudice,  Jason Chen,  Grace Qiu Tiantian, Ph.D.,  Harry Huang Peng, CAIA, FRM
+Alternatives, Real Estate
+23-Mar-23
+Allocation
+DWS Long View - 2023
+By:  Jason Chen,  Francesco Curto,  Dirk Schlüter
+In this edition of the Long View, we examine the risks around monetary policy tightening measures.
+Allocation, Multi Asset
+09-Mar-23
+ESG
+Transforming transportation
+By:  Michael Lewis,  Maria Milina,  Richard Marshall
+Policies to electrify European roads
+Macro, ESG, Alternatives
+15-Dec-22
+European Transformation
+A Framework for European Transformation
+By:  Francesco Curto,  Johannes Müller,  Murray Birt,  Peter Doralt
+Macro, Alternatives
+23-Nov-22
+ESG
+ESG Special – Inequality
+By:  Martin Moryson
+Inequality – An Investors’ Perspective.
+Macro
+15-Nov-22
+Allocation
+Long View Q3: The discount rate
+By:  Francesco Curto,  Jason Chen
+The importance of interest rates and inflation on equity fair value
+Allocation, Multi Asset, Interest rates
+04-Aug-22
+Macro
+Long View Q2: The risk of the ‘new normal’
+By:  Francesco Curto,  Jason Chen
+Implications on the global macroeconomy and financial markets.
+Allocation, Macro
+28-Jul-22
+Multi Asset
+The Global Market Portfolio
+By:  Peter Warken,  Angelina Kostyrina
+Setting a new standard for the post 60/40 regime
+Multi Asset
+16-May-22
+Macro
+Long View Q1: The impact of country risks
+By:  Francesco Curto,  Jason Chen
+Within this report, we present the DWS long-term capital market assumptions as of the end of March 2022 for major asset classes.
+Allocation, Macro
+06-Apr-22
+ESG
+ESG in Strategic Asset Allocation: The 2022 update
+By:  Gunnar Friede,  Peter Warken,  Jennifer Braun,  Dirk Schlüter,  Jason Chen
+ESG
+CIO View

@@ -1,0 +1,87 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Overcomers Counseling Center Inc.'}
+{'property': 'og:title', 'content': 'Overcomers Counseling Center Inc.'}
+{'property': 'og:url', 'content': 'http://www.overcomerscounseling.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Take the next steps towards   A BETTER YOU TODAY!    Learn More    24/7 Emotional Support'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5526b523e4b0e8b0be3cafcd/t/5e8fe4240efe3f01fb118cc2/1586488361037/OCC_LOGO_extended%2Bwhite.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '322'}
+{'itemprop': 'name', 'content': 'Overcomers Counseling Center Inc.'}
+{'itemprop': 'url', 'content': 'http://www.overcomerscounseling.org'}
+{'itemprop': 'description', 'content': 'Take the next steps towards   A BETTER YOU TODAY!    Learn More    24/7 Emotional Support'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5526b523e4b0e8b0be3cafcd/t/5e8fe4240efe3f01fb118cc2/1586488361037/OCC_LOGO_extended%2Bwhite.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5526b523e4b0e8b0be3cafcd/t/5e8fe4240efe3f01fb118cc2/1586488361037/OCC_LOGO_extended%2Bwhite.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Overcomers Counseling Center Inc.'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5526b523e4b0e8b0be3cafcd/t/5e8fe4240efe3f01fb118cc2/1586488361037/OCC_LOGO_extended%2Bwhite.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'http://www.overcomerscounseling.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'Take the next steps towards   A BETTER YOU TODAY!    Learn More    24/7 Emotional Support'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Overcomers Counseling Center Inc.
+Home
+About
+Why Choose Us
+Meet our Clinical Director
+Our Clinicians
+Sessions
+Group Sessions
+Resources
+Crisis & 24/7 Emotional Support
+Blog
+Partner
+Take Action
+Home
+About
+Why Choose Us
+Meet our Clinical Director
+Our Clinicians
+Sessions
+Group Sessions
+Resources
+Crisis & 24/7 Emotional Support
+Blog
+Partner
+Take Action
+Take the next steps towards
+A BETTER YOU TODAY!
+Learn More
+24/7 Emotional Support
+Invest in your relationship with your mind.
+Are you suffering from Depression, Anxiety, Family Conflict, Drug Abuse, Marital or Career Issues?
+What if there was a place where you and/or your loved one could go to be heard; share your concerns in a nurturing, confidential environment? Where you can learn how to communicate better, cultivate relationships, and maintain healthy, productive lifestyles?
+Find out how →
+Overcomers counseling center is the place for you
+OCC offers outpatient therapy and group counseling sessions to a diverse set of clients, encompassing a wide range of mental health needs. We utilize the most qualified and experienced mental health professionals to offer the best possible treatment to our clients.
+Find out how →
+Crisis and 24/7 Emotional Support
+Hope4NC Helpline (
+855-587-3463
+) - Mental health resource to support North Carolinians throughout the COVID-19 crisis. (24/7)
+Crisis Text Line - Text
+HOME
+to
+741741
+to connect with a crisis counselor (24/7)
+SAMHSA Disaster Distress Helpline/Linea de Ayuda (800-985-5990) or text
+TalkWithUs
+or
+Hablanos
+to
+66746
+for support via text.
+National Suicide Prevention Lifeline (800-273-8255)
+If you or a loved one is experiencing a medical emergency, please call 911.
+Durham residents may call
+(919)-561-5609
+to connect to Triangle Springs.
+Back to Top
+Crisis and 24/7 Emotional Support
+Overcomers Counseling Center Inc., 2410 Presidential Drive Ste. 105, Durham, NC, 27703, United States
+“Be anxious for nothing”

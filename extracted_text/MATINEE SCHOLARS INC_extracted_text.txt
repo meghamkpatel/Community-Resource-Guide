@@ -1,0 +1,291 @@
+Meta Information:
+{'content': 'width=device-width, initial-scale=1', 'name': 'viewport'}
+{'content': 'text/html; charset=utf-8', 'http-equiv': 'content-type'}
+{'content': 'IE=edge', 'http-equiv': 'X-UA-Compatible'}
+{'content': '1700166641169', 'http-equiv': 'last-modified'}
+{'content': 'all', 'name': 'robots'}
+{'content': '37.39124460905782', 'property': 'og:latitude'}
+{'content': '-94.70230400562286', 'property': 'og:longitude'}
+{'content': 'website', 'property': 'og:type'}
+{'content': '1701 South Broadway', 'property': 'og:street-address'}
+{'content': 'Pittsburg', 'property': 'og:locality'}
+{'content': 'Kansas', 'property': 'og:region'}
+{'content': '66762', 'property': 'og:postal-code'}
+{'content': 'USA', 'property': 'og:country-name'}
+{'content': '8008547488', 'property': 'og:phone_number'}
+{'content': 'Pittstate', 'property': 'og:site_name'}
+{'content': 'Non-Institutional Scholarship Sources', 'property': 'og:title'}
+{'content': 'Non-Institutional Scholarship Sources', 'property': 'og:description'}
+
+Body Text:
+Non-Institutional Scholarship Sources | Pittsburg State University
+Skip to main content
+Student Financial Assistance
+Start typing & press "Enter" or "ESC" to close
+GUS Portal
+Find People
+About
+The President's Office
+Employment
+Accreditation
+Academics
+Academic Programs
+Student Success Programs
+Office of the Registrar
+Life at Pitt State
+Athletics
+Campus Activities
+Campus Recreation
+Housing
+Apply
+Admissions
+Student Financial Assistance
+Scholarships and Financial Assistance
+Cashiers and Student Accounts
+Info For
+Current Students
+Prospective Students
+Faculty and Staff
+Alumni
+Military and Veterans
+Home
+Student Financial Assistance
+Non-Institutional Scholarship Sources
+Non-Institutional Scholarship Sources
+Find new scholarships that fit you best!
+Kansas Residents
+State of Kansas Scholarships
+Undergraduate scholarships include the following; Kansas Ethnic Minority Scholarship, Kansas Teacher Service Scholarship, Kansas Nursing Service Scholarship, Kansas State Scholarship, Career Technical Workforce Grant, Kansas ROTC Service Scholarship, Kansas National Guard Educational Assistance, and Kansas Military Service Scholarship.
+Kansas Investments Developing Scholars (K.I.D.S.)
+Kansas Investments Developing Scholars (K.I.D.S.) is a matching grant program administered by the Kansas State Treasurer's Office. The state of Kansas will match up to $600 for each student for whom eligible account owners open a Kansas Learning Quest 529 Education Savings Program account.
+College of Business Majors
+The Future Entrepreneurs of America Scholarship
+This scholarship is awarded to a student who is innovative & forward-thinking with a passion for business or entrepreneurship.
+HTR Scholarship
+Hartford Technology Rentals is offering two $1,000 scholarships that are available to students studying in the IT or related fields.
+Colonial Ghosts
+Open to any student currently enrolled in an accredited college with a declared major in Marketing.
+National Founder's Undergraduate Business Student Scholarship
+Brown, PC in now accepting applications for the firm's Founder's Scholarship, a $500 stipend which will be awarded to a US undergraduate business student with a demonstrated interest in entrepreneurship.
+The Shorr Packaging Scholarship
+The scholarship is offered to business students only. To be eligible, students must be enrolled in an undergraduate program at a two or four-year college or university in the U.S. and have a cumulative 3.0 GPA.
+Government Finance Officers Association Scholarship
+The Government Finance Officers Association of the United States and Canada, which serves government finance professionals throughout those countries, is pleased to announce that several scholarships are available to undergraduate and graduate students preparing for a career in state and local government business majors (i.e. finance, economics, business administration, accounting, etc.).
+Toptal STEM Scholarships for Women
+Toptal supports aspiring female computer scientists, developers, and software engineers to achieve their goals. Applicants must be female and 13 years or older.
+LionsDeal Scholarship
+LionsDeal.com is offering a bi-annual scholarship to any student who is a legal resident of the U.S. or Canada, and is a current student in an accredited U.S. or Canadian college or university. They are looking for students pursuing a career in the food service and hospitality industry, including, but not limited to, marketing, nutrition and business management.
+ComputerScience.org
+ComputerScience.org has curated a list of computer science scholarships, as well as an extensive scholarship database, to help grow the next generation of developers, engineers and network administrators.
+The Texas SEO Company Scholarship Program
+To apply, you must be an enrolled student or intending to enroll at an accredited college, university or community college, you must be at least 17 years of age, and you must have a minimum 2.5 GPA. You must provide an article that is about search/internet marketing. Topics include search engine optimization, pay per click advertising, mobile advertising, mobile app advertising, digital marketing or internet marketing. If there is a topic not listed, that will be accepting for review as well.
+BrainBuxa Scholarship
+BrainBuxa is offering a scholarship for students interested in pursuing their career in management. To be eligible, you must be enrolled in an accredited 4-year university or college within the U.S., graduating high school seniors with a 3.5 GPA or above are also eligible to apply; must be pursuing or intending to pursue your bachelor's degree which can be in the fields of management or in another technical discipline with an interest in the field of management.
+College of Arts and Sciences Majors
+Public Health Scholarships
+It’s possible to offset some of the costs of earning a public health degree by tapping into a variety of available public health scholarships. Application processes and award amounts vary from program to program, but students may apply for multiple scholarship simultaneously.
+Kansas Hospital Education and Research Foundation Scholarship
+Encouraging excellence is the focus of the Kansas Hospital Education and Research Foundation's annual Hospital Employee Scholarship. Any individual who is currently enrolled or planning to enroll in the an accredited Kansas school for health care is invited to apply. Preference will be given to current hospital employees.
+Annual Senior Care Scholarship
+A Place for Mom is proud to offer our their annual $1,000 scholarship to university students interested in the fields of aging and gerontology.
+Nursing.org
+Nursing.org is offering scholarships for RN to BSN students, men in nursing, along with offering a searchable nursing scholarship database. Applicants must be 18 years of age or older when submitting application, be actively enrolled in an accredited nursing program, have a minimum 3.5 GPA, and must submit a 500-1000 word essay.
+Mercy Auxiliary Scholarship
+The Mercy Auxiliary is offering scholarships in the health care field through the USD #446 Educational Foundation Fund to Independence High School graduates who will be a junior or senior at a Kansas Board of Regents institution, or approved private college or university within the state of Kansas. The student must be a U.S. citizen enrolled in a full-time undergraduate health care field with a 3.0 GPA.
+The Reeves Law Group Scholarship
+For 2016 The Reeves Law Group is awarding a $3,000 scholarship to a deserving law student who authors a winning essay in our fourth annual Scholarship Essay Contest.
+Terry L. McKanna Scholarship Fund
+The Kansas Section of American Water Works Association (KsAWWA) has established a scholarship fund for qualified students enrolled in an accredited college or university in the State of Kansas. Qualifying curriculum for scholarship applicants shall include courses related to civil or environmental engineering or environmental science with emphasis on career fields associated with the Waterworks Industry. The applicant must be a citizen of the US and may be an undergraduate or graduate student.
+Theater Masks Scholarship
+The Theater Mask Scholarship is awarded twice each year to individuals who are enrolled (or planning to enroll) to study in an art or drama related field. Must live in the U.S. or Canada.
+Animal Compassion Undergraduate Scholarship
+Open to students currently enrolled and in good standing at a WASC accredited undergraduate program in the U.S.; current overall GPA of 3.0 or above; plans to pursue graduate studies in veterinary medicine; proven history of animal advocacy; and ability to demonstrate financial need.
+Influence Print Award for Design Excellence
+Influence Print's annual visual communication design scholarship is offered for students majoring or interested in design and applied arts or graphic design with strong academic records and outstanding creative abilities. Applicants must be a U.S. citizen or permanent legal resident of the U.S. Undergraduates must have a minimum 2.5 GPA, while graduates must have a minimum 3.0 GPA.
+The Mary Blake Single Parent Nursing Scholarship
+Applicants must be U.S. citizens, a single parent, enrolled or accepted for enrollment in an accredited school of nursing, and minimum cumulative 2.7 GPA or minimum 28 ACT or minimum 1250 SAT scores.
+College of Education Majors
+Disability Care Center Scholarships
+The Disability Care Center is offering scholarship opportunities for American college students who are either disabled or seeking a degree in special education. All applicants who apply for one of the scholarship programs must be enrolled full-time (12 credit hours) in a U.S. college institution, must have a minimum 2.5 GPA from their most recent transcript (high school or college), and must have one letter of recommendation from a creditable source.
+Mastercam
+Veterans who are currently enrolled as students pursuing either an undergraduate or graduate degree as a Technology and Engineering teacher are encouraged to apply. All applicants must be enrolled in a nationally accredited institution of higher education, must be currently or previously enrolled in the Armed Forces, and have a minimum 3.0 GPA.
+College of Technology Majors
+Shear Comfort Scholarship
+Education is very important to Shear Comfort, so they are giving away a $1500 scholarship to a student of our choosing enrolled either in an engineering program related to the development of vehicles, Automotive Technology, or a similar program related to the automotive industry at an accredited college or university in Canada or in the United States.
+National Association of Women in Construction
+Each year NAWIC is pleased to award over $25,000 to worthy recipients in construction related programs.  Award amounts range from $500- $2,500.
+LogoMix.com
+LogoMix.com is offering a scholarship for a student that is enrolled in a full-time college or university, ideally focusing on Graphic Design.
+Heavy Construction Association Industry Advancement Fund Scholarships
+The Heavy Constructors Association Industry Advancement Fund (HCA-IAF) Scholarship is directed toward individuals pursuing degrees in civil engineering, construction management, business administration, computer science, management information systems, mathematics or any other technical field. The prerequisite is that the student demonstrates a commitment toward a career in construction.
+MVP Visuals Scholarship
+MVP Visuals is offering a scholarship for students majoring in Graphic Arts & Designs or Applied arts. This is open to high school seniors and current undergraduate students attending a U.S. university.
+Influence Print Award for Design Excellence
+Influence Print's annual visual communication design scholarship is offered for students majoring or interested in design and applied arts or graphic design with strong academic records and outstanding creative abilities. Applicants must be a U.S. citizen or permanent legal resident of the U.S. Undergraduates must have a minimum 2.5 GPA, while graduates must have a minimum 3.0 GPA.
+Graduate Scholarships
+Rotary International Scholarships
+Rotary District 5690, composed of Rotary Clubs in southern Kansas and the panhandle of Oklahoma offers graduate-level scholarships for study abroad. Students whose home is located in the geographic area are eligible to compete for these scholarships.
+Kosciuszko Foundation Tuition Scholarship
+U.S. citizens and permanent residents of Polish descent who are beginning or continuing their graduate studies and who have a minimum GPA of 3.0 are eligible to apply. Applicants must be full-time.
+Military Scholarships
+The Marine Corps Scholarship Foundation
+The scholarships from the foundation are for children of Marine and Navy Corpsmen who are pursuing a post secondary education at an accredited school.
+OnlineSchools.org
+OnlineSchools.org provides a list of funding opportunities for service members, veterans, and their family members.
+Medals of America Scholarship
+To be eligible, you must be a U.S. citizen (or permanent resident), enrolled (or enrolling) as a full-time student in an accredited college/university within the U.S. for completion of undergraduate degree in Political Science, History, or equivalent, and you must be a current active duty member or their dependent, or any veteran or their direct descendant (children, grandchildren, etc.).
+Mastercam
+Veterans who are currently enrolled as students pursuing either an undergraduate or graduate degree as a Technology and Engineering teacher are encouraged to apply. All applicants must be enrolled in a nationally accredited institution of higher education, must be currently or previously enrolled in the Armed Forces, and have a minimum 3.0 GPA.
+Diversity/Minority Scholarships
+OnlineSchools.org
+OnlineSchools.org has a comprehensive list of scholarship opportunities exclusively reserved for African-Americans, Hispanics, women, and other specific minority groups, as well as more generalized awards that are made available to applicants belonging to any underrepresented demographic.
+BestColleges.com
+BestColleges.com created a holistic financial aid guide specifically for Hispanic and Latino students. This guide provides context for how students can best take advantage of available resources while offering a comprehensive listing of 40+ scholarship and grant opportunities
+socialcirclecards Scholarship
+Available to female students currently enrolled or entering college or graduate school of any level. Must be a U.S. citizen or legal resident.
+Student-Athlete Scholarships
+None available at this time
+Go check out PSU's
+Student Athlete Information
+page about how to be eligible for scholarships and more!
+Students with Disabilities
+KC Blind All-Stars Foundation Gwendolyne Hawley Trust Scholarship Award
+The Gwendolyne Hawley Trust Scholarship Award Program is designed to assist deserving post-secondary students who are blind or visually impaired with their education.
+OnlineSchools.org
+OnlineSchools.org has a listing of numerous scholarship options for students with disabilities that range from national financial aid opportunities to local opportunities within the U.S. and Canada.
+Silver Cross Scholarship
+Silver Cross is offering a scholarship to a full-time college or university student who uses mobility equipment such as a power wheelchair, manual wheelchair or mobility scooter. Students must be enrolled at a recognized American or Canadian college or university in a 3-or 4-year undergraduate program.
+Financial Aid for College Students with Disabilities
+LearnHowToBecome.org has developed a guide with a list of scholarships for students with disabilities. This list covers award amounts, qualifications and application deadlines.
+Students with Special Circumstance
+SeniorHomes Caregiver Scholarship
+SeniorHomes.com is offering two $1,000 scholarships for caregivers who are actively enrolled in a U.S. college or university.
+ZHL Auto Accident Scholarship
+Zaner Harden Law is offering their ZHL Auto Accident Scholarship specifically for family members of people who have been injured in an accident and who are seeking a higher education. To be eligible to apply, students must have a high school or college GPA of 3.0, must have been affected by a car accident, either personally or through a blood-relative, special consideration will be given to students pursuing a law-related area of student, though it is not a requirement.
+The Mary Blake Single Parent Nursing Scholarship
+Applicants must be U.S. citizens, a single parent, enrolled or accepted for enrollment in an accredited school of nursing, and minimum cumulative 2.7 GPA or minimum 28 ACT or minimum 1250 SAT scores.
+The Ulman Cancer Fund for Young Adults
+The Ulman Cancer Fund for Young Adults is committed to helping young adults continue their education after being affected by cancer through their own diagnosis or the diagnosis of a loved one. Many scholarships offered by UCF share similar applicant criteria. Applicants need only submit one application, which will be considered for any and all scholarships for which the student applies and is eligible. Applicants must have been between the ages of 15 and 39 during their own diagnosis/treatment or during the diagnosis/treatment of their parent or sibling.
+Miscellaneous Scholarship
+SallieMae Scholarship Search
+Scholarship search with access to 3 million scholarships offering up to $18 billion.
+eduCBA College Scholarship
+eduCBA is offering a scholarship for students that are currently enrolled in college or planning to enroll in college.
+Reservation Counter College Scholarship
+Reservation Counter is offering a scholarship program for US students enrolled in colleges, universities, and private institutions.
+National Merit Scholarship
+Must be a National Merit/Achievement finalist; must declare PSU as your first choice with the National Merit Scholarship Corporation; must be a US Citizen or permanent resident; and must enroll at PSU the first semester after high school.
+ScholarshipExperts.com Scholarships
+Must be a legal resident of the US or the District of Columbia; must be currently enrolled or will enroll in an accredited post-secondary institution of higher education; and must submit an online essay over a pre-determined topic.
+After College Succurro Scholarship
+Students that are currently enrolled in an accredited program working toward a degree with a 2.5 GPA.
+School Soup Scholarships
+SchoolSoup.com is a free online scholarship resource for private and college/university specific scholarships available to assist students in obtaining a higher education.
+Student Scholarships.Org
+Student Scholarships.Org has been providing scholarships information to students since 2003.
+Giva Scholarship
+Giva's Corporate Student Scholarship and Worldwide Community Ambassador Award is for anyone attending a college or university worldwide. This scholarship grant is aimed at assisting undergraduate or graduate students further their education as well as expand their social responsibility and community service footprint in the world. There is no specific course of study or major required.
+Greater Kansas City Community Foundation Scholarships
+The Greater Kansas City Community Foundation offers multiple scholarship opportunities for students to apply to be eligible to receive scholarships. Click the link to be taken to the list of scholarships available.
+Scholar Launch
+Scholar Launch connects private businesses offering scholarships with universities eager to inform their students of available scholarship opportunities.
+Griswold Home Care Scholarship
+Griswold Home Care offers a $1,000 bi-annual scholarship to a qualified student pursuing a bachelor's, associate's, graduate, or professional degree at an accredited college or university.
+Paradigm Malibu $1000 College Scholarship
+Paradigm Malibu is offering an annual scholarship. Any student currently enrolled in any accredited college is eligible to enter.
+OutsideScholarships.org
+OutsideScholarships is an organization created to give college-bound students an easily accessible database of known outside scholarships.
+Thumbtack School-To-Skills Scholarship
+The scholarship will be awarded to a individual who is learning a new trade that they can turn into a business, learning fundamental business skills such as marketing and accounting, or deepening their knowledge and capabilities to improve public policy and foster an environment that better serves small business owners and independent professionals. To apply, you must be a legal resident of one of the 50 states or the District of Columbia, be enrolled or plan to enroll in a full-time undergraduate, graduate or vocational program at an accredited career college, technical school or two or four-year college or university in the U.S.
+PayScale Scholarship
+PayScale Scholarship is a scholarship aimed at helping female students obtain college degrees in a STEM subject.
+B. Davis Scholarship
+This scholarship is available to all high school juniors and seniors as well as all students currently registered in any post secondary institution.
+Global English Editing
+Global English Editing awards scholarships to students in the United States who intend to make a positive contribution to the country’s future. You must be currently enrolled at an accredited university in the United States, and must be a citizen of the United States, or have a valid green card. International students studying in the United States are eligible, but they will have to demonstrate their intention to stay in the country after graduation and see through their change-making agenda.
+California New York Express
+Applicant must have designed or implemented a creative project that makes a difference in the lives of others. This may be a product, a website, a blog, an event, and must be the applicant's own original concept.
+WallStreetMojo Scholarship
+Entrants must be either a college-bound high school senior or a student currently enrolled in an accredited university. Essays will be judged on creativity, thoroughness, clarity of objective and plot.
+BrokeScholar Scholarship
+BrokeScholar offers bi-annual scholarships for students that have been officially accepted to or currently enrolled in a US college or university, has an minimum undergraduate cumulative 2.5 GPA, and is in any field of study.
+Enhanced Insurance Scholarship
+Enhanced Insurance is offering a scholarship for every 250 essays submitted. The program is open to any citizen and/or resident of the US, the District of Columbia and its territories and possessions who is a high school senior or current undergraduate student who will be enrolled in a 2 or 4 year public or private college or university located in the US and/or the District of Columbia full-time for an academic school year.
+Get Ahead Scholarship
+EZstorit.com is offering an annual scholarship to students that are enrolled full-time as undergraduates or graduates at an accredited college or university and have demonstrated successful completion of the previous year's study by maintaining at least a 2.75 cumulative GPA.
+Well-Being Secrets Scholarship
+Annual Well-Being Secrets Scholarship to one extremely passionate student. To apply, you must be an undergraduate or graduate student at an accredited US university or college in any field of study.
+Central Kansas Community Foundation
+2016 Scholarship Cycle is now open! For complete scholarship information for each of the regional affiliates, be sure to click on the respective Foundation's link within.
+Matinee Multilingual Scholarship
+Matinee Multilingual is offering an annual scholarship to a high school senior, high school graduate, college/university student or graduate student in the US, Canada and the United Kingdom that has been accepted to a college and enrolled in courses full-time.
+Future of Assisted Living Scholarship
+The annual scholarship award is for three students enrolled in an associate's degree, bachelor's degree or graduate level program at an accredited 2-year college or 4-year university.
+StudySoup Future Innovator Scholarship Program
+Any individual at least 16 years old who meets one of the following criteria is eligible to apply: Currently attending high school (or equivalent) and will be attending an accredited university or college in the next academic year; Currently attending an accredited university or college (undergraduate and graduate students are both eligible).
+CourseHorse Learner's Scholarship
+Rolling $1,000 scholarship awarded biannually to students who demonstrate a passion for learning. Applicants must meet the following conditions: 25 years of age (or younger), currently enrolled in a college or university within the U.S. or its territories, OR currently a high school senior planning to enroll, a citizen of the U.S.
+Mixbook Scholarship
+Applicants must be enrolled, or will be enrolled, in a full-time college or university program, and must submit an essay.
+Student Loan Scholarship
+Richard West Law Office is offering a bi-annual Student Loan Scholarship to a student that meets the following criteria: recipient that is financing their entire school education with student loans and scholarships, recipient is a U.S. or Canadian citizen currently attending an accredited college or university within the U.S. or Canada, recipient has a minimum 3.3 GPA and has completed as least one semester of classes at an accredited school.
+Community National Bank Scholarship
+The Independence USD 446 Educational Foundation and the Trust Department of Community National Bank are offering two $500 scholarships to persons entering their junior or senior year of college. Persons applying for this scholarship must be: a graduate of Independence KS High School, entering their junior or senior year (completed a minimum of 60 semester hours) of college, and enrolled in a KS Board of Regents institution or an approved private college or university in the state of KS. The application deadline will be June 1st of each year.
+Ghostek Scholarship
+This scholarship is open to undergraduate and graduate students of accredited U.S. universities or colleges. Deadline is December 1st.
+Quit Smoking Community Scholarship
+This scholarship is open to students 18 years or older, enrolled full-time in a U.S. institution for graduate or undergraduate program (U.S. territories are excluded), and are an American citizen or lawful permanent resident, currently living in the U.S.
+Enhanced Insurance Scholarship
+Enhanced Insurance will award on $2,500 award for each 250 essays submitted.
+Billings & Barrett First in Family Scholarship
+This scholarship is open to any student presently enrolled in an accredited community college, undergraduate, or graduate program in the U.S. This includes incoming first-year students who are either high school graduates or in possession of a GED. Scholarship candidates must be the first member of their family to attend college. All eligible candidates must be in good academic standing, maintaining a cumulative 3.0 GPA.
+Just Porter Backpack College Scholarship
+This scholarship is open to incoming undergraduate or graduate students, that meet the following criteria: must be a U.S. citizen, be attending an accredited college or university at the time of award, and must have a minimum 2.5 GPA.
+Whitley Law Firm Distracted Driving Prevention Scholarship
+The Whitley Law Firm Distracted Driving Prevention Scholarship is open to any current undergraduate, graduate, or law school student, as well as any incoming freshman students. All applicants must be in good academic standing, with a minimum cumulative GPA of 3.0.
+Zumper Apartments Scholarship
+Any legal U.S. resident in high school or college who will be attending an accredited university or college is eligible to apply.
+Citizens Bank Scholarship
+All students who will be attending an accredited University.
+Balanced Man Scholarship
+Applicants must be incoming freshman males that have a 2.7 high school GPA or higher, demonstrate leadership skills, and commit to their health and well being, membership in greek organization is not a requirement.
+Students
+Tuition
+Office of the Registrar
+Academic advising
+First Year Experience
+Transcripts
+Academics
+Gorilla Dual Credit Program
+Schools and Programs
+Honors College
+Online degrees and programs
+Graduate School
+University Catalog
+Resources
+Report a Concern
+Gorilla Geeks Help Desk
+Study Abroad
+Jobs at Pittsburg State University
+Calendar
+University Marketing & Communication
+Faculty and Staff
+Directory
+Provost and Vice President for Academic Affairs
+Business, Finance, and Facilities
+Human Resource Services
+Information Technology
+Campus
+Campus Map
+Bus Maps
+Student Center
+Leonard H. Axe Library
+The Writing Center
+Ticket Office
+620-231-7000,
+1-800-854-PITT (7488)
+1701 South Broadway Street, Pittsburg KS, 66762
+© 2023 All Rights Reserved | Code of Student’s Rights and Responsibilities, University Police, Safety/Emergency Procedures
+
+            Pittsburg State University prohibits discrimination on the basis of race, color, religion, sex, national origin, sexual orientation, age, marital or parental status, ancestry, genetic information, gender identity, gender expression, military or veteran status, or disabilities. The following person has been designated to address inquiries regarding the nondiscrimination policies: Director of Institutional Equity/Title IX Coordinator, 212 Russ Hall, 1701 S. Broadway, Pittsburg, KS 66762-7528, equity@pittstate.edu
+Request page edit

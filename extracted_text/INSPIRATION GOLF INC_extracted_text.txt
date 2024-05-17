@@ -1,0 +1,114 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Inspiration Golf'}
+{'property': 'og:title', 'content': 'Inspiration Golf'}
+{'property': 'og:url', 'content': 'https://www.inspirationgolf.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Inspiration Golf Clinic is an adaptive golf clinic in Raleigh, NC motivating individuals with disabilities or challenges as a result of stroke, spinal injury, TBI, neurologic condition, amputation, etc. to learn and play golf. We hope to provide an environment where people can develop good health ha'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/591fa7ffb8a79b0fd49f7fea/t/5a73c8124192029240229bec/1517537309143/IGC+Hero+fb.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '696'}
+{'itemprop': 'name', 'content': 'Inspiration Golf'}
+{'itemprop': 'url', 'content': 'https://www.inspirationgolf.com'}
+{'itemprop': 'description', 'content': 'Inspiration Golf Clinic is an adaptive golf clinic in Raleigh, NC motivating individuals with disabilities or challenges as a result of stroke, spinal injury, TBI, neurologic condition, amputation, etc. to learn and play golf. We hope to provide an environment where people can develop good health ha'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/591fa7ffb8a79b0fd49f7fea/t/5a73c8124192029240229bec/1517537309143/IGC+Hero+fb.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/591fa7ffb8a79b0fd49f7fea/t/5a73c8124192029240229bec/1517537309143/IGC+Hero+fb.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'Inspiration Golf'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/591fa7ffb8a79b0fd49f7fea/t/5a73c8124192029240229bec/1517537309143/IGC+Hero+fb.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.inspirationgolf.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'Inspiration Golf Clinic is an adaptive golf clinic in Raleigh, NC motivating individuals with disabilities or challenges as a result of stroke, spinal injury, TBI, neurologic condition, amputation, etc. to learn and play golf. We hope to provide an environment where people can develop good health ha'}
+{'name': 'description', 'content': 'Inspiration Golf Clinic is an adaptive golf clinic in Raleigh, NC \r\nmotivating individuals with disabilities or challenges as a result of \r\nstroke, spinal injury, TBI, neurologic condition, amputation, etc. to learn \r\nand play golf. We hope to provide an environment where people can develop \r\ngood health habits, social community skills, and increase personal \r\nindependence while enjoying the game of golf.'}
+
+Body Text:
+Inspiration Golf
+Home
+Golf & Volunteer Sign Up
+Event Calendar
+Event Sign Up
+Gallery
+About
+Play.Live.Inspired blog
+Our Team & Contact Info
+Resources
+Golf Resources & Information
+2023 Adaptive Golf Tournaments
+Prayer Requests & Encouragement
+Sponsorship
+Our Sponsors
+Sponsorship Levels
+Become a Sponsor
+Donate | Shop
+Donate / Give
+Shop Apparel
+Menu
+Street Address
+City, State, Zip
+Phone Number
+Play. Live. Inspired
+Your Custom Text Here
+Home
+Golf & Volunteer Sign Up
+Event Calendar
+Event Sign Up
+Gallery
+About
+Play.Live.Inspired blog
+Our Team & Contact Info
+Resources
+Golf Resources & Information
+2023 Adaptive Golf Tournaments
+Prayer Requests & Encouragement
+Sponsorship
+Our Sponsors
+Sponsorship Levels
+Become a Sponsor
+Donate | Shop
+Donate / Give
+Shop Apparel
+“Building health, community, and personal independence for people with disabilities through the sport of golf.”
+“
+Inspiration Golf’s Mission
+is to promote health, social community skills, and personal independence through the sport of golf. We specialize in adaptive golf as a way to grow the game and encourage return to community.”
+Adaptive Golf Clinics are held monthly from April - November (Click the ‘Golf & Volunteer Sign Up’ tab for more information)
+Upcoming Adaptive Golf Events
+Featured
+May
+18
+May 18, 2024
+Inspiration Golf Clinic - May 2024
+May 18, 2024
+May 18, 2024
+May
+28
+May 28, 2024
+Drive Shack Event with Inspiration Golf-  05/28/24
+May 28, 2024
+May 28, 2024
+Jun
+11
+Jun 11, 2024
+Drive Shack Event with Inspiration Golf-  06/11/24
+Jun 11, 2024
+Jun 11, 2024
+Golf Course Partners
+Follow us and Join the community!
+Group Page
+Channel
+Instagram
+Tweets
+Tumblr
+Become a Monthly Sponsor
+PT/OT CEUs and Volunteer Service Hour Confirmation available!
+PT/OT CEUs and Volunteer Service Hour Confirmation available!
+Our Partners
+Member of the United States Adaptive Golf Alliance
+36 member organizations across the United States.
+Provides adaptive golf to 18,000+ individuals of which 23% are wounded veterans.
+© 2020  •  Inspiration Golf, Inc. is a 501(c)(3) Non-Profit  •
+Privacy Policy
+•
+Follow us on Social Media

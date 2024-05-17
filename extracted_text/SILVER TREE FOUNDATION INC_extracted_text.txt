@@ -1,0 +1,142 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress 6.0.3'}
+{'name': 'description', 'content': 'The Silver Tree Foundation empowers youth who are underserved by equipping them with job-related skills and expanding their horizons through new training opportunities. It is our desire to spark a revival that allows each life touched to not only dream, but attain a brilliant future -- in their  ...'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://silvertreefoundation.org/'}
+{'property': 'og:title', 'content': 'Silver Tree Foundation | Empowering Underserved Youth'}
+{'property': 'og:description', 'content': 'The Silver Tree Foundation empowers youth who are underserved by equipping them with job-related skills and expanding their horizons through new training opportunities. It is our desire to spark a revival that allows each life touched to not only dream, but attain a brilliant future -- in their ...'}
+{'property': 'og:image', 'content': 'https://silvertreefoundation.org/wp-content/uploads/2020/11/stsfoundsquare.png'}
+{'property': 'og:image:width', 'content': '300'}
+{'property': 'og:image:height', 'content': '300'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Silver Tree Foundation | Empowering Underserved Youth'}
+{'name': 'twitter:description', 'content': 'The Silver Tree Foundation empowers youth who are underserved by equipping them with job-related skills and expanding their horizons through new training opportunities. It is our desire to spark a revival that allows each life touched to not only dream, but attain a brilliant future -- in their ...'}
+{'name': 'twitter:image', 'content': 'https://silvertreefoundation.org/wp-content/uploads/2020/11/stsfoundsquare.png'}
+{'name': 'generator', 'content': 'Elementor 3.12.1; features: a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 6.2.23 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+{'name': 'msapplication-TileImage', 'content': 'https://silvertreefoundation.org/wp-content/uploads/2020/11/cropped-stsfoundsquare-270x270.png'}
+
+Body Text:
+Silver Tree Foundation | Empowering Underserved Youth
+Twitter
+Linkedin-in
+Youtube
+(919) 294-6316
+info@silvertreefoundation.org
+Home
+About
+Board of Directors
+Vision, Mission & Values
+Application Process
+Impact
+Contact
+Search for:
+Search for:
+Home
+About
+Board of Directors
+Vision, Mission & Values
+Application Process
+Impact
+Contact
+Empowering
+Youth Who Are
+Underserved
+// Our Mission is
+LEARN MORE
+The Silver Tree Foundation empowers youth who are underserved by equipping them with job-related skills and expanding their horizons through new training opportunities. It is our desire to spark a revival that allows each life touched to not only dream, but attain a brilliant future — in their lives, community and the world.
+The Silver Tree
+Foundation
+The Silver Tree Foundation awards grants for projects and programs in alignment with our mission and values – across the nation and around the globe. We review grant applications twice/year with awards ranging from $10,000-$100,000.
+Powered by:
+LEANR MORE ABOUT US
+Criteria includes:
+Alignment
+Alignment with goals and spirit of mission statement
+Impact
+Underserved youth 11-24 years old
+Aims
+The program is aimed at supporting underserved youth
+Experiences
+Job, vocational and career training, related experiences
+// why choose us
+We are particularly interested in supporting organizations that have sustainable individual, community or organizational impact, address the needs of differently-abled youth (however, this doesn’t have to be a sole focus) and include technology-related solutions.
+01
+Product Design
+Our product design service lets you prototype, test and validate your ideas.
+LEARN MORE
+02
+Development
+Our product design service lets you prototype, test and validate your ideas.
+LEARN MORE
+03
+Data Analytics
+Our product design service lets you prototype, test and validate your ideas.
+LEARN MORE
+04
+Cyber Security
+Our product design service lets you prototype, test and validate your ideas.
+LEARN MORE
++
+Countries Worldwide
+To succeed, every software solution must be deeply integrated into the existing tech environment..
+k
+Happy Customers
+To succeed, every software solution must be deeply integrated into the existing tech environment..
+// our service
+We Offer a Wide
+Variety of IT Services
+all sevices
+Web Development
+We carry more than just good coding skills. Our experience makes us stand out from other web development.
+QA & Testing
+Turn to our experts to perform comprehensive, multi-stage testing and auditing of your software.
+Mobile Development
+Create complex enterprise software, ensure reliable software integration, modernise your legacy system.
+IT Counsultancy
+Trust our top minds to eliminate workflow pain points, implement new tech, and consolidate app portfolios.
+UI/UX Design
+Build the product you need on time with an experienced team that uses a clear and effective design process.
+Dedicated Team
+Over the past decade, our customers succeeded by leveraging Intellectsoft’s process of building, motivating.
+UI/UX Design
+Build the product you need on time with an experienced team that uses a clear and effective design process.
+Dedicated Team
+Build the product you need on time with an experienced team that uses a clear and effective design process.
+// We Carry more Than Just Good Coding Skills
+Let's Build Your Website!
+contact us
+// latest case studies
+Introduce Our Projects
+Software development outsourcing is just a tool to achieve business goals. But there is no way to get worthwhile results without cooperation and trust between a client company.
+join our mission
+We are particularly interested in supporting programs and projects that:
+have sustainable individual, community or organizational impact
+address the needs of differently-abled youth (however, this doesn’t have to be a sole focus)
+include technology-related solutions
+LEARN MORE ABOUT CRITERIA & APPLICATIONS
+// our clients
+We are Trusted
+15+ Countries Worldwide
+Moonkle LTD,
+Client of Company
+"Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Patience. Infinite patience. No shortcuts. Even if the client is being careless. The best part...always solving problems with great original ideas!."
+SoftTech,
+Manager of Company
+"Patience. Infinite patience. No shortcuts. Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Even if the client is being careless. The best part...always solving problems with great original ideas!."
+Moonkle LTD,
+Client of Company
+"Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Patience. Infinite patience. No shortcuts. Even if the client is being careless. The best part...always solving problems with great original ideas!."
+SoftTech,
+Manager of Company
+"Patience. Infinite patience. No shortcuts. Very well thought out and articulate communication. Clear milestones, deadlines and fast work. Even if the client is being careless. The best part...always solving problems with great original ideas!."
+Donate to the Silver Tree Foundation
+Interested in partnering with the Silver Tree Foundation to support our mission and spark a revival?
+CONTACT US
+Raleigh, NC 27617
+info@silvertreefoundation.org
+(919) 294-6316
+Copyright © 2022 Silver Tree Services. All Rights Reserved.

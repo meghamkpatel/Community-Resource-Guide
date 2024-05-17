@@ -1,0 +1,322 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Durham Community Land Trustees'}
+{'property': 'og:description', 'content': 'DCLT Develops, Manages, and Advocates for Permanently Affordable Housing in Durham. OUR MISSION Durham Community Land Trustees (DCLT) is a community land trust that builds strong communities by developing, managing,…'}
+{'property': 'og:url', 'content': 'https://dclt.org/'}
+{'property': 'og:site_name', 'content': 'Durham Community Land Trustees'}
+{'property': 'article:modified_time', 'content': '2024-05-02T15:42:59+00:00'}
+{'property': 'og:image', 'content': 'https://dclt.org/wp-content/uploads/2023/11/dclt-annual-report-mockup-2048x1365.png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'et-api-version', 'content': 'v1'}
+{'name': 'et-api-origin', 'content': 'https://dclt.org'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://dclt.org'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://215', 'content': 'CLT PLUS ONE'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-07-26'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacycreativeco/'}
+{'itemprop': 'name', 'content': 'legacycreativeco'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/cltplusone_pic.001-960x550-1.jpg'}
+{'itemprop': 'width', 'content': '960'}
+{'itemprop': 'height', 'content': '550'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://214', 'content': 'ALMA STREET COMMONS'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-07-26'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacycreativeco/'}
+{'itemprop': 'name', 'content': 'legacycreativeco'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/04/Thumbail-for-alma-street-commons.png'}
+{'itemprop': 'width', 'content': '900'}
+{'itemprop': 'height', 'content': '340'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://12739', 'content': 'April Newsletter 2024'}
+{'itemprop': 'datePublished', 'content': '2024-04-30'}
+{'itemprop': 'dateModified', 'content': '2024-04-30'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/adair-tompkins/'}
+{'itemprop': 'name', 'content': 'Adair Tompkins'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '1'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://12717', 'content': 'March Newsletter 2024'}
+{'itemprop': 'datePublished', 'content': '2024-03-31'}
+{'itemprop': 'dateModified', 'content': '2024-04-02'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/adair-tompkins/'}
+{'itemprop': 'name', 'content': 'Adair Tompkins'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://12684', 'content': 'November Newsletter 2023'}
+{'itemprop': 'datePublished', 'content': '2023-11-17'}
+{'itemprop': 'dateModified', 'content': '2023-11-17'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/adair-tompkins/'}
+{'itemprop': 'name', 'content': 'Adair Tompkins'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/11/1.jpg'}
+{'itemprop': 'width', 'content': '1080'}
+{'itemprop': 'height', 'content': '1080'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://231', 'content': 'Solarize North Carolina'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/solarize-north-carolina.png'}
+{'itemprop': 'width', 'content': '329'}
+{'itemprop': 'height', 'content': '90'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://230', 'content': 'Self-Help'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/self-help.png'}
+{'itemprop': 'width', 'content': '500'}
+{'itemprop': 'height', 'content': '142'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://229', 'content': 'Reinvestment Partners'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/reinvestment-partners.png'}
+{'itemprop': 'width', 'content': '294'}
+{'itemprop': 'height', 'content': '70'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://228', 'content': 'Peach Durham'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/peach-durham.png'}
+{'itemprop': 'width', 'content': '512'}
+{'itemprop': 'height', 'content': '291'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://227', 'content': 'NC Warn'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/nc-warn.png'}
+{'itemprop': 'width', 'content': '500'}
+{'itemprop': 'height', 'content': '185'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://226', 'content': 'NeighborWorks America'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/neighbor-works.png'}
+{'itemprop': 'width', 'content': '200'}
+{'itemprop': 'height', 'content': '86'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://225', 'content': 'Housing for New Hope'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/housing-for-new-hope.png'}
+{'itemprop': 'width', 'content': '706'}
+{'itemprop': 'height', 'content': '262'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://224', 'content': 'Habitat for Humanity'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/habitat-for-humanity.png'}
+{'itemprop': 'width', 'content': '2243'}
+{'itemprop': 'height', 'content': '480'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://223', 'content': 'Families Moving Forward'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/families-moving-forward.png'}
+{'itemprop': 'width', 'content': '173'}
+{'itemprop': 'height', 'content': '163'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://222', 'content': 'Duke University’s Office of Durham & Community Affairs'}
+{'itemprop': 'datePublished', 'content': '2023-05-09'}
+{'itemprop': 'dateModified', 'content': '2023-05-10'}
+{'itemprop': 'name', 'content': 'Durham Community Land Trustees'}
+{'itemprop': 'url', 'content': 'https://dclt.org/author/legacy-support/'}
+{'itemprop': 'name', 'content': 'Legacy Support'}
+{'itemprop': 'url', 'content': 'https://dclt.org/wp-content/uploads/2023/05/duke-office-of-community-affairs.png'}
+{'itemprop': 'width', 'content': '1504'}
+{'itemprop': 'height', 'content': '242'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+
+Body Text:
+Home - Durham Community Land Trustees
+Skip to content
+919.490.0063
+Join Our Newsletter
+Find A Home
+Join Rental Waitlist
+Join Homeowner Waitlist
+Homeownership
+Where We Own
+Central Durham
+West End
+East Durham
+Southside & Hayti
+Resident Resources
+Work Order Request
+Make A Payment
+About DCLT
+Staff
+Careers & Bids
+Why A Community Land Trust?
+Ways To Support
+History
+Who We Serve
+DONATE
+919.490.0063
+Donate
+×
+Find A Home
+Rent A Home
+Homeownership
+Home Application
+Where We Own
+West End
+Central Durham
+Southside & Hayti
+East Durham
+Resident Resources
+Community Partnerships
+Work Order Request
+Make A Payment
+About DCLT
+Staff
+Careers & Bids
+Why A Community Land Trust?
+History
+Who We Serve
+Why A Community Land Trust?
+Donate
+DCLT Develops, Manages, and Advocates for Permanently Affordable Housing in Durham.
+Community Land Trusts
+Current
+Projects
+Homeownership
+& Rentals
+Rental Payments
+OUR MISSION
+Durham Community Land Trustees (DCLT) is a community land trust that builds strong communities by developing, managing, and advocating for permanent affordable housing. DCLT offers residents with low and moderate incomes a stable foundation for achieving economic security in Durham, NC.
+To us, no single issue is greater than affordable and workforce housing.
+Learn More
+2022 DCLT Annual Report
+This has been another great year of innovation and expansion for DCLT. You will read about our new projects and accomplishments over the past year elsewhere in this report, so I want here to thank the many, many people who made it happen. Read more in this year's annual report.
+Download Annual Report
+Email us
+for past annual reports
+FEATURED PROJECTS
+CLT PLUS ONE
+By
+legacycreativeco
+|
+May 9, 2023
+A backyard solution for Affordable Housing: ADU Pilot Project of Durham Community Land Trustees Durham Community Land Trustees (DCLT) aims...
+Read More
+about CLT PLUS ONE
+ALMA STREET COMMONS
+By
+legacycreativeco
+|
+May 9, 2023
+Going Green: East Durham Project Selected for National Pilot Program  Living Building Challenge Accepts Alma Street Commons into 2020-2023 Cohort....
+Read More
+about ALMA STREET COMMONS
+DCLT NEWS & EVENTS
+Sorry, we couldn't find any posts. Please try a different search.
+VIEW ALL EVENTS
+April Newsletter 2024
+April 30, 2024
+March Newsletter 2024
+March 31, 2024
+November Newsletter 2023
+November 17, 2023
+1
+2
+3
+…
+8
+Next »
+VIEW PAST NEWSLETTERS
+Thank You To Our Partners
+Thanks to partnerships from the following corporations that have sustained DCLT over the years. To become a financial supporter of DCLT, click the button below.
+Ways To Support
+Stay Up To Date With DCLT
+Please enter a valid email address.
+Subscribe!
+Something went wrong. Please check your entries and try again.
+We respect your privacy.
+Get In Touch
+919-490-0063
+1208 W. Chapel Hill St.
+Durham, NC 27701
+info@dclt.org
+Quick Links
+Rental Payments
+Find A Home
+Where We Own
+Careers
+Accessibility
+Durham Community Land Trustees
+is a chartered member of NeighborWorks America.
+© 2024 Durham Community Land Trustees. All Rights Reserved.
+Scroll To Top
+Skip to content
+Open toolbar
+Accessibility
+Accessibility
+Increase Text
+Increase Text
+Decrease Text
+Decrease Text
+Grayscale
+Grayscale
+High Contrast
+High Contrast
+Negative Contrast
+Negative Contrast
+Light Background
+Light Background
+Links Underline
+Links Underline
+Readable Font
+Readable Font
+Reset
+Reset

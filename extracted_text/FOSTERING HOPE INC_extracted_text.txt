@@ -1,0 +1,58 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'ca55b41a-e8ee-42c4-90fd-fa4d19d409b0'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '04e09c1e-c8a4-4f44-9745-a63d2dc5f4d6'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '207'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | hope'}
+{'property': 'og:url', 'content': 'https://www.fosteringhopeinc.com'}
+{'property': 'og:site_name', 'content': 'hope'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | hope'}
+
+Body Text:
+HOME | hope
+top of page
+HOME
+ABOUT US
+CONTACT
+GET INVOLVED
+PROJECTS
+DONATE
+RESALE STORE
+More
+Use tab to navigate through the menu items.
+Railroad Set
+Girl in Classroom
+Playing in a Tunnel
+Railroad Set
+1/10
+﻿SUPPORT THE CHILDREN
+OUR MISSION
+Our mission at Fostering Hope is to provide basic necessities for children in crisis situations.
+We understand that often times children in crisis situations have nothing more than the clothes they are wearing. These children may be in the process of starting over in a brand new environment. Our Children's Resource Center is stocked with clothes, personal hygiene items, school supplies, toys, and books to help aid these children during this difficult transition.
+Taking on a child in need can be an overwhelming
+challenge. We aim to support resource families and help relieve some of the burden they assume when they welcome a child into their home and hearts.
+During a child's initial visit they are provided a bag of clothing and other needed items.  As long as the child is in protective custody, they are permitted to come back quarterly to receive additional items.  At no time is there any cost to the resource families or the other agencies for items received. Fostering Hope relies solely on local contributions, both financial and in-kind, to keep our facility open and operating.
+DONATE
+Click above for more information about donating.
+GET INVOLVED
+Click above for more information on getting involved.
+ABOUT US
+Click above for more information about who we are.
+© 2017 Fostering Hope Proudly created with
+Wix.com
+​Find us:
+308 Elm Street, Conway, SC 29526
+​​Call us:
+843-488-3593
+Connect with us
+on Social Media
+bottom of page

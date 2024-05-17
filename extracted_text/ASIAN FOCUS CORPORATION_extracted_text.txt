@@ -1,0 +1,65 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '0431025c-6b6d-4d76-9d1e-70a4fb0b459a'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '6cc362c8-c15d-401d-9350-67f5abdfddbf'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1281'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | Asian Focus NC'}
+{'property': 'og:url', 'content': 'https://www.asianfocusnc.org'}
+{'property': 'og:site_name', 'content': 'Asian Focus NC'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'afncusa'}
+{'property': 'fb:admins', 'content': 'afncusa'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | Asian Focus NC'}
+
+Body Text:
+HOME | Asian Focus NC
+top of page
+DONATE
+HOME
+EVENTS/PROGRAMS
+MEDIA
+COVID-19
+PROJECT UNITY
+CARE LETTERS
+SMALL BUSINESS AID
+COMMUNITY AID RESOURCE
+PARTNERS
+DONATE
+EVENTS
+TESTING
+ASIA FEST
+REGISTRATION
+SPONSORS
+FREE MEDICAL COUNSELING
+GALLERY
+PERFORMANCE
+RACE TEAMS
+VENDORS
+ABOUT US
+LEADERSHIP TEAM
+IN THE NEWS
+CONTACT US
+More
+Use tab to navigate through the menu items.
+​
+Misson and Values
+​
+Asian Focus is a non-profit (501c3) organization formed to promote, sponsor and support programs to help Asian Americans and immigrants of all generations.​
+​
+​
+We strive to help individuals and their families address the daily cultural and linguistic challenges to better acclimate into American society.
+​
+We foster synergy and encourage participation from agencies and skilled professionals; promoting education, diversity and cultural exchange services for all underserved groups towards the betterment of tomorrow.
+​
+​
+Past Events
+© 2024 Asian Focus NC | AsianFocusNC.org. All Rights Reserved.
+bottom of page

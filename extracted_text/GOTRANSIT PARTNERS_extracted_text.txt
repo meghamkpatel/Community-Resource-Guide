@@ -1,0 +1,371 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': '\xa0'}
+{'name': 'Generator', 'content': 'Drupal 9 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+GoTransit Partners | GoTriangle
+Skip to main content
+Service Alerts
+Maps & Schedules
+Maps & Schedules
+Maps & Schedules
+GoTriangle System Map
+Trip Planner
+Service Alerts
+Service Changes
+GoLive
+Hours
+Durham Connect
+Saved Routes & Trips
+Your saved routes & trips will appear here.
+Getting Around
+Bus
+Overview
+How to Ride the Bus
+Park-and-Ride
+Conduct Policy
+Hours
+FAQs
+RDU Shuttle
+Access Transit
+Overview
+Apply for Access
+No-Show and Visitors Policy
+Access Resources
+Biking & Walking
+Overview
+Bike Rules
+Bike On Bus
+Maps, Clubs & Helpful Links
+Walking
+Rideshare
+Overview
+Vanpool FAQ
+Join a Vanpool
+Carpool
+Commuter Resources
+Overview
+Adverse Weather
+Commute Cost Calculator
+Share the Ride NC
+Planning
+Overview
+Service Changes
+Surveys
+Fares & Passes
+Fares & Passes
+Fares & Passes
+Umo
+GoPass
+Employer Services
+Overview
+Overview
+Awards & Recognition
+For Employers
+Residential
+Developers & Property Managers
+TDM News
+Services & Programs
+Overview
+Individualized Assistance
+GoPass
+GoPerks
+Hybrid Work Solutions
+Emergency Ride Home
+My Location
+Overview
+Durham County
+Research Triangle Park
+Orange County
+Wake County
+Universities
+Careers
+Careers
+Career Opportunities
+Internships
+Projects
+Projects
+Wake County Transit Plan
+Durham County Transit Plan
+Orange County Transit Plan
+RTP Connect
+RTC Study
+Bus Stop Improvements
+Commuter Rail
+Raleigh Union Station Bus (RUS Bus)
+Durham-Orange Light Rail (Discontinued)
+News
+News
+GoTransit Partners
+Plan your trip
+(919) 485-RIDE(7433)
+About
+About Us
+Our Team
+Board Members
+Branding
+Hours
+Publications
+Transit Partners
+Chapel Hill Transit
+GoCary
+GoDurham
+GoRaleigh
+Connect
+Customer Feedback
+Careers
+Contact Us
+Employment Verification
+Lost & Found
+Media Requests
+Procurement
+GoTriangle Access
+Access
+Access Customer Feedback
+ADA Complaint Form English
+ADA Complaint Form Spanish
+Access Resources
+Apply for Access
+Resources
+Title VI
+Title VI Complaint | English
+Title VI Complaint | Espanol
+DBE
+EEO
+Vehicle Rental Taxes
+Developer Resources
+Apps
+University Partners
+Duke
+NCSU
+UNC
+Wake Tech
+© 2024 GoTriangle
+Privacy Policy
+Terms of Use
+Alert Signup
+Pick Your Routes
+100
+Raleigh-Airport-RTC
+105
+Raleigh-RTC
+300
+RTC-Cary-Raleigh
+301
+Cary-Raleigh
+305
+Lake Pine-Cary-Raleigh
+310
+RTC-Wake Tech RTP
+311
+Apex-RTC
+400
+Durham-Chapel Hill
+405
+Durham-Chapel Hill-Carrboro
+700
+Durham-RTC
+800
+Chapel Hill-Southpoint-RTC
+800S
+Southpoint-Chapel Hill
+805
+Chapel Hill-Woodcroft-RTC
+CRX
+Chapel Hill-Raleigh Express
+DRX
+Durham-Raleigh Express
+FRX
+Fuquay-Varina - Raleigh Express (operated by GoRaleigh)
+HC
+Hillsborough Circulator (Orange Public Transportation)
+NRX
+North Raleigh Express
+OCH
+Orange - Chapel Hill Connector - 420 Midday (Orange Public Transportation)
+ODX
+Orange-Durham Express
+RDU
+Airport Shuttle
+WRX
+Wake Forest-Raleigh Express (operated by GoRaleigh)
+ZWX
+Zebulon-Wendell-Raleigh Express (operated by GoRaleigh)
+1
+Northgate-North Pointe-Croasdaile Crossings-Willowdale
+10
+South Square - New Hope Commons
+10A
+South Square - New Hope Commons
+10B
+South Square - Pickett Rd
+11
+Duke & VA - Hillsborough Rd
+11B
+W. Main St – Duke/VA – Constitution Dr
+12
+NCCU - Hwy 54 & 55
+12B
+E. Main St – NCCU – Durham Station
+14
+Hwy 54 & 55 - Southpoint
+15
+TW Alexander - Brier Creek
+1A
+Northgate-North Pointe-Loehmanns
+1B
+Northgate - Guess Road - Willowdale
+2
+East Durham-Angier Ave
+20
+Woodcroft - South Square - Duke & VA Limited
+23
+The Village - East Durham Link
+2A
+East Durham-Angier Ave
+2B
+East Durham-The Village
+3
+The Village - Glenview Station
+3B
+The Village-Highway 98-Southern High School
+3C
+The Village - Highway 98 - Rummel Street
+3T
+3Tripper The Village - Glenview Station
+4
+North Roxboro - North Duke Crossing
+5
+Fayetteville St-NCCU-Southpoint
+5K
+Fayetteville St – NCCU – MLK Pkwy
+6
+Duke & VA Hospitals-American Village
+6B
+Duke & VA Hospitals-Sparger Rd
+7
+Forest Hills-Weaver Street-MLK Jr Pkwy
+8
+Lawson Street - NCCU - Durham Tech
+9
+Dearborn Drive - Durham Regional - Foxfire - Riverview
+9A
+Dearborn Drive - Durham Regional - Riverside HS
+9B
+Dearborn Drive - Ben Franklin Boulevard - Northern HS
+NHS
+Northern High School Tripper
+1
+Capital Blvd
+10
+Longview
+11
+Avent Ferry
+11L
+Buck Jones Connector
+12
+Method
+13
+Chavis Heights
+15
+WakeMed
+15L
+Trawick Connector
+16
+Oberlin
+17
+Rock Quarry
+18
+Worthdale
+18
+Poole-Barwell
+18S
+Poole
+19
+MLK/Sunnybrook
+2
+Falls of Neuse
+20-A
+Garner
+21
+Caraleigh
+22
+State Street
+23L
+Millbrook Connector
+24L
+North Crosstown Connector
+25L
+Triangle Town Link
+26
+Edwards Mill
+27
+Blue Ridge
+3
+Glascock
+33
+Kinigthdale
+36
+Creedmoor
+4
+Rex Hospital
+401X
+Rolesville
+40X
+Wake Tech Express
+5
+Biltmore Hills
+55X
+Poole Road Express
+6
+Crabtree
+7
+South Saunders
+70X
+Brier Creek Express
+7L
+Carolina Pines Connector
+8
+Six Forks
+901
+Hillsborough Street Shuttle
+FRX
+Fuquay-Varina - Raleigh Express
+R-Line
+Free Downtown Circulator
+WFL-A
+Wake Forest Loop (Clockwise)
+WFL-B
+Wake Forest Loop (Counterclockwise)
+1
+Crossroads
+3
+Harrison
+4
+High House
+5
+Kildaire Farm
+6
+Buck Jones
+7
+Weston
+8
+Cary Parkway
+ACX
+Apex - Cary Express
+GA1
+GoApex Route 1
+Get Service Alerts for these Routes
+Add More Routes
+Emailed Alerts
+First Name
+Last Name
+Email
+reCAPTCHA
+Cancel
+Next
+Leave this field blank

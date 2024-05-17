@@ -1,0 +1,111 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Family Preschool'}
+{'property': 'og:title', 'content': 'Family Preschool: A Cooperative Preschool in Durham'}
+{'property': 'og:url', 'content': 'https://www.familypreschool.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Family Preschool is a co-op half-day preschool for children ages 1-4. We are a non-sectarian, non0profit school encouraging growth in children for over 40 years in Durham, North Carolina.'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/52cd9b14e4b08ddc00d4924a/t/5a450fa6c830257df7ea7c42/1514475435680/fpslogo.png?format=1500w'}
+{'property': 'og:image:width', 'content': '750'}
+{'property': 'og:image:height', 'content': '312'}
+{'itemprop': 'name', 'content': 'Family Preschool: A Cooperative Preschool in Durham'}
+{'itemprop': 'url', 'content': 'https://www.familypreschool.org'}
+{'itemprop': 'description', 'content': 'Family Preschool is a co-op half-day preschool for children ages 1-4. We are a non-sectarian, non0profit school encouraging growth in children for over 40 years in Durham, North Carolina.'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/52cd9b14e4b08ddc00d4924a/t/5a450fa6c830257df7ea7c42/1514475435680/fpslogo.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/52cd9b14e4b08ddc00d4924a/t/5a450fa6c830257df7ea7c42/1514475435680/fpslogo.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Family Preschool: A Cooperative Preschool in Durham'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/52cd9b14e4b08ddc00d4924a/t/5a450fa6c830257df7ea7c42/1514475435680/fpslogo.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.familypreschool.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'Family Preschool is a co-op half-day preschool for children ages 1-4. We are a non-sectarian, non0profit school encouraging growth in children for over 40 years in Durham, North Carolina.'}
+{'name': 'description', 'content': 'Family Preschool is a co-op half-day preschool for children ages 1-4. We \r\nare a non-sectarian, non0profit school encouraging growth in children for \r\nover 40 years in Durham, North Carolina.'}
+{'name': 'google-site-verification', 'content': 'Ez6k1IA3eilE_ZfreVZLJh29tLC2TzoSe1-uj3C37t4'}
+{'name': 'p:domain_verify', 'content': 'c2f1a0cfa5bdd13e8d71f2ccda8d96f0'}
+
+Body Text:
+Family Preschool: A Cooperative Preschool in Durham
+Home
+About
+Goals & Philosophy
+Answers to FAQs
+Our Staff
+History
+Allergen Policy
+What is a Co-Op?
+Environment
+Curriculum
+Curriculum
+1-Year Old Program
+2-Year Old Program
+3 and 4-Year Old Program
+Transitional Kindergarten
+Lunch Bunch
+Admissions
+Enrollment Process & Dates
+Tuition, Fees & Scholarships
+Contact
+Employment Opportunities
+Current Families
+Parent Portal
+Illness Policy
+Home
+About
+Goals & Philosophy
+Answers to FAQs
+Our Staff
+History
+Allergen Policy
+What is a Co-Op?
+Environment
+Curriculum
+Curriculum
+1-Year Old Program
+2-Year Old Program
+3 and 4-Year Old Program
+Transitional Kindergarten
+Lunch Bunch
+Admissions
+Enrollment Process & Dates
+Tuition, Fees & Scholarships
+Contact
+Employment Opportunities
+Current Families
+Parent Portal
+Illness Policy
+Parents and Children Learning Together
+Family Preschool is a cooperative, play-based preschool that has served the Triangle  community for over 50 years. With our cooperative preschool model, parents experience their child’s early years of development through direct engagement in the classroom. Our experienced teachers provide a nurturing environment for children to learn, play, and grow alongside their parents and loved ones in a half-day setting.
+enrollment is now open!
+Registration for new families for the 2024-25 school year is now live.
+enroll now!
+our approach
+Children learn best through creative interaction with the world around them. Our play-based/Project Approach curriculum embraces this.
+Learn More →
+Why a Co-op?
+Family Preschool is a true village for the 21st century, connecting participating families and forging lasting friendships and support networks.
+Learn More →
+our Teachers
+Experienced, dedicated and caring, our teachers make Family Preschool exceptional.
+Meet The Teachers →
+One of the only preschools in the area using the Project Approach Model!
+Learn about our 3 & 4-Year old program
+
+“Choosing Family Preschool is one of the best decisions we’ve made as parents. Our son loves FPS because of his friends, amazing teachers and the best playground in town. We love it because our son is thriving and the parent run co-op model allows us to really get to know the teachers and families, and trust that our son is in the best hands. Helping in the classroom and seeing our son play and interact with his friends is the best part of my month and something I will miss tremendously when our time at family preschool is done.”
+
+— Devin P.
+Donate to our Scholarship Fund
+allergen-friendly
+No matter the allergen, we ensure that each classroom is safe for all students. For example, if one child is gluten free, then all snacks in that classroom are gluten free.
+Learn more
+An Inclusive Community
+Family Preschool is an inclusive community that operates without discrimination based on race, color, ethnicity, national origin, religion, age, disability, gender, or sexual orientation.
+PCPI Member
+Family Preschool is a member of the Parent Cooperative Preschool International and abides by their best practices and classroom standards.
+Back to Top
+Family Preschool, 4907 Garrett Road, Durham, NC 27707, USA
+(919) 402-1500
+director@familypreschool.org
+Powered by
+Squarespace

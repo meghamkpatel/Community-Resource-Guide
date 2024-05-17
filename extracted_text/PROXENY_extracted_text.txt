@@ -1,0 +1,304 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'ResourceLoaderDynamicStyles', 'content': ''}
+{'name': 'generator', 'content': 'MediaWiki 1.43.0-wmf.5'}
+{'name': 'referrer', 'content': 'origin'}
+{'name': 'referrer', 'content': 'origin-when-cross-origin'}
+{'name': 'robots', 'content': 'max-image-preview:standard'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'property': 'og:image', 'content': 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Straton_King_of_Sidon_inscription_Acropolis_of_Athens.jpg'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '1581'}
+{'property': 'og:image', 'content': 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Straton_King_of_Sidon_inscription_Acropolis_of_Athens.jpg'}
+{'property': 'og:image:width', 'content': '800'}
+{'property': 'og:image:height', 'content': '1054'}
+{'property': 'og:image:width', 'content': '640'}
+{'property': 'og:image:height', 'content': '843'}
+{'name': 'viewport', 'content': 'width=1000'}
+{'property': 'og:title', 'content': 'Proxeny - Wikipedia'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'mw:PageProp/toc'}
+
+Body Text:
+Proxeny - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account
+Log in
+Pages for logged out editors
+learn more
+Contributions
+Talk
+Contents
+move to sidebar
+hide
+(Top)
+1
+See also
+2
+References
+3
+Bibliography
+4
+External links
+Toggle the table of contents
+Proxeny
+15 languages
+Azərbaycanca
+Català
+Čeština
+Deutsch
+Español
+Français
+Bahasa Indonesia
+Italiano
+Nederlands
+Polski
+Русский
+Slovenčina
+Српски / srpski
+Suomi
+Українська
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Voluntary diplomatic position in classical Greece
+"Proxenus" redirects here. For the genus of moths, see
+Proxenus
+(moth)
+.
+Inscription in honor of
+Straton, King of Sidon
+, giving him the title of
+proxenos
+: "Also Straton the king of Sidon shall be proxenos of the People of Athens, both himself and his descendants".
+[1]
+Acropolis of Athens
+. This indicates that relations of proxeny existed not only among Greek cities but also with non-Greeks (Phoenicians in this case).
+Proxeny
+or
+proxenia
+(
+Greek
+:
+προξενία
+) in
+ancient Greece
+was an arrangement whereby a citizen (chosen by the city) hosted foreign ambassadors at his own expense, in return for honorary titles from the state. The citizen was called
+proxenos
+(
+πρόξενος
+; plural:
+proxenoi
+or
+proxeni
+, "instead of a foreigner") or
+proxeinos
+(
+πρόξεινος
+). The proxeny
+decrees
+, which amount to
+letters patent
+and
+resolutions of appreciation
+were issued by one state to a citizen of another for service as
+proxenos
+, a kind of
+honorary consul
+looking after the interests of the other state's citizens. A common phrase is
+euergetes
+(benefactor) and
+proxenos
+(
+πρόξεινος τε ειη και ευεργέτης
+).
+A proxenos would use whatever influence he had in his own city to promote policies of friendship or alliance with the city he voluntarily represented. For example,
+Cimon
+was
+Sparta
+'s proxenos at
+Athens
+and during his period of prominence in Athenian politics, previous to the outbreak of the
+First Peloponnesian War
+, he strongly advocated a policy of cooperation between the two states. Cimon was known to be so fond of Sparta that he named one of his sons
+Lacedaemonius
+(as Sparta was known as
+Lacedaemon
+in antiquity).
+[2]
+[3]
+Being another city's proxenos did not preclude taking part in war against that city, should it break out – since the proxenos' ultimate loyalty was to his own city. However, a proxenos would naturally try his best to prevent such a war and to resolve the differences that were threatening to cause it. And once peace negotiations were on the way, a proxenos' contacts and goodwill in the enemy city could be profitably used by his city.
+The position of proxenos for a particular city was often hereditary in a particular family.
+A 2024 study in the
+Journal of Economic History
+linked the presence of proxeny arrangements to increases in trade flows.
+[4]
+See also
+[
+edit
+]
+Hospitium
+Xenia
+References
+[
+edit
+]
+^
+IGII2 141 Honours for Straton king of Sidon
+.
+^
+The History of the Peloponnesian War
+by
+Thucydides
+, Donald Lateiner,
+Richard Crawley
+, page 33.
+ISBN
+0-486-43762-0
+^
+Who's Who in the Greek World
+by John Hazel, page 56.
+ISBN
+0-415-12497-2
+^
+Creanza, Pier Paolo (2024).
+"Institutions, Trade, and Growth: The Ancient Greek Case of Proxenia"
+.
+The Journal of Economic History
+.
+doi
+:
+10.1017/S0022050723000505
+.
+ISSN
+0022-0507
+.
+Bibliography
+[
+edit
+]
+Monceaux, P.,
+Les Proxénies Grecques
+(Paris, 1885).
+Walbank, M.,
+Athenian Proxenies of the Fifth Century B.C.
+(Toronto, 1978).
+Marek, C.,
+Die Proxenie
+(Frankfurt am Main, 1984) (Europäische Hochschulschriften: Reihe 3, Geschichte und ihre Hilfswissenschaften, 213).
+Gerolymatos, A.,
+Espionage and Treason: A Study of the Proxeny in Political and Military Intelligence Gathering in Classical Greece
+(Amsterdam, 1986).
+Knoepfler, D.,
+Décrets Érétrians de Proxénie et de Citoyenneté
+(Lausanne, 2001) (Eretria Fouilles et Researches, 11).
+Gastaldi, Enrica Culasso,
+Le prossenie ateniesi del IV secolo a.C.: gli onorati asiatici
+(Alessandria: Edizioni dell'Orso, 2004) (Fonti e studi di storia antica, 10).
+Encyclopædia Britannica
+External links
+[
+edit
+]
+Look up
+proxeny
+in Wiktionary, the free dictionary.
+Media related to
+Proxenoi
+at Wikimedia Commons
+Authority control databases
+: National
+Israel
+United States
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Proxeny&oldid=1195795797
+"
+Categories
+:
+Proxenoi
+Ancient Greek ambassadors
+Ancient Greek titles
+Ancient Greek law
+Diplomacy
+Hidden categories:
+Articles with short description
+Short description matches Wikidata
+Articles containing Ancient Greek (to 1453)-language text
+Commons category link is on Wikidata
+Articles with J9U identifiers
+Articles with LCCN identifiers
+This page was last edited on 15 January 2024, at 08:17
+(UTC)
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike License 4.0
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

@@ -1,0 +1,113 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'The Pen Bay Waldo Healthcare Foundation provides support Pen Bay Medical Center, Waldo County General Hospital and other Coastal Healthcare Alliance affiliates.'}
+{'property': 'og:title', 'content': 'Pen Bay Waldo Healthcare Foundation'}
+{'property': 'og:image', 'content': 'https://assets.mainehealth.io/s3fs-public/imported_images/Open-Graph-Image-MHC-MaineHealth-Logo.jpg'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'msapplication-TileColor', 'content': '#a90533'}
+{'name': 'msapplication-config', 'content': '/themes/custom/mainehealth/images/favicon/browserconfig.xml'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+
+Body Text:
+Pen Bay Waldo Healthcare Foundation | MaineHealth
+Skip to main content
+Open Search
+Close
+Search by name, service, location or specialty
+Common Searches
+Neurology Specialists
+Pediatricians
+Labs
+Menu
+MyChart
+Billing
+Giving
+Careers
+Primary Navigation
+Locations
+Services
+Providers
+Patients & Visitors
+Healthy Communities
+MyChart
+Billing
+Giving
+Careers
+Pen Bay Medical Center
+In This Section
+Pen Bay Medical Center
+Ways to Give
+Pen Bay Waldo Healthcare Foundation
+Annual Campaign
+Campaign for Coastal Health
+Gratitude Newsletter
+Healing Power of Art
+Make a Gift
+Meet the Team
+Recognize a Caregiver
+Volunteer
+Your Stories
+In This Section
+Pen Bay Medical Center
+Ways to Give
+Pen Bay Waldo Healthcare Foundation
+Annual Campaign
+Campaign for Coastal Health
+Gratitude Newsletter
+Healing Power of Art
+Make a Gift
+Meet the Team
+Recognize a Caregiver
+Volunteer
+Your Stories
+Pen Bay Waldo Healthcare Foundation
+Make a Gift
+Support our hospitals, patients, programs and care team with a charitable gift.
+Give Now
+Annual Campaign
+The
+Annual Campaign
+supports important health care programs and services.
+Support the Campaign
+Giving Together
+Help create the Healing Garden at WCGH and revitalize the Courtyard Gardens at PBMC!”
+Learn More
+Your Stories
+“I think this is the best way to have the largest impact on every individual life in our community.”
+Read More
+Recognize a Caregiver
+Recognize a care team member for the quality care they provide.
+Give Thanks
+Meet the Team
+Meet the Pen Bay Waldo Healthcare Foundation team.
+Contact Us
+Email Us
+Donate Now
+Working together so our communities are the healthiest in America.
+Twitter
+Facebook
+YouTube
+Instagram
+LinkedIn
+Secondary
+About MaineHealth
+Care and Services
+Careers
+Contact
+Education & Research
+Employees
+Healthcare Professionals
+Healthy Communities
+MaineHealth Innovation
+Patients & Visitors
+Vendors
+Price Transparency
+Privacy Policy
+Notice of Nondiscrimination
+Sitemap
+©2024
+          MaineHealth. All Rights Reserved.

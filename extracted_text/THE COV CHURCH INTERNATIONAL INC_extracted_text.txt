@@ -1,0 +1,86 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'e7f679a1-3b65-4df7-b933-ebbc02862537'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '0b46c0a2-ba6d-4023-b0bc-742ca597fee2'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '312'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | covenantchurchintl'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/a2e599_0e2c4f7e43e742d6a29d4fcd96c662b2%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a2e599_0e2c4f7e43e742d6a29d4fcd96c662b2%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.covenantchurchintl.org'}
+{'property': 'og:site_name', 'content': 'covenantchurchintl'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'COVENANTCHURCHINTL'}
+{'property': 'fb:admins', 'content': 'COVENANTCHURCHINTL'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | covenantchurchintl'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/a2e599_0e2c4f7e43e742d6a29d4fcd96c662b2%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a2e599_0e2c4f7e43e742d6a29d4fcd96c662b2%7Emv2.png'}
+
+Body Text:
+HOME | covenantchurchintl
+top of page
+2024
+The Year of
+RESTORATION
+COVENANT CHURCH INTERNATIONAL
+DR. P. RONALD WILDER & FIRST LADY ANGELA WILDER
+HOME
+FIRST FRUITS 2024
+ABOUT US
+MINISTRIES
+MEET DR. WILDER
+FIRST LADY WILDER
+SERVICES
+ONLINE GIVING
+MORE
+CONTACT
+PRAYER REQUEST
+VISITOR CARD
+More
+Use tab to navigate through the menu items.
+JOIN OUR LIVE STREAM
+WORSHIP EXPERIENCE
+NEXT EVENTS
+Join Us Every Sunday
+at 10:00 A.M.
+Covenant Church International
+5407 Old Springville Road
+Pinson, AL 35126
+SCRIPTURE
+“So then faith cometh by hearing, and hearing by the word of God.”
+(Romans 10:17 KJV)
+NEED TO MAKE YOUR FIRST FRUITS PLEDGE | CLICK HERE
+WELCOMING YOU WITH OPEN ARMS
+Thanks for visiting our website and allowing us to share with you the ministry of Covenant Church International. In developing this site it was our desire to provide you with a user-friendly site that gives you pertinent information regarding who we are and what God is doing here at Covenant Church International. We have a slogan at Covenant Church International that says when you visit us you will “Hear The Radical And Experience The Change.”
+It is our desire that for you that process will begin as you visit this site and come full circle when you visit our church and experience a live worship celebration with us. From the moment you pull into the parking lot, you’ll be made to feel at home. Our amazing greeter’s team will be poised and ready to give you direction and answer any questions you may have. As you enter the worship center, our ushers will welcome you and direct you to your seat.
+The unique thing about our services is that we are committed to a creative, compelling, and challenging presentation of God’s word in a way that speaks to today’s culture. Our commitment is to communicate the Word in an uncompromising manner and also in a language that unchurched and non-religious can understand. The objective is to teach people how to apply the Word of God to their everyday life. Why not consider visiting us soon and experience it for yourself. Our promise is that “You Will Never Be The Same.”
+Dr. P. Ronald Wilder
+ABOUT OUR CHURCH
+Covenant Church International is a non-denominational Christian church that has served the Birmingham community for over 25 years. After the loss of the buildings that housed the ministry for over 20 years in 2016
+READ MORE >>
+OUR MINISTRIES
+The Ministries of Covenant Church International are a vital part of the ministry. They assist in carrying out the vision, mission, and purpose of Covenant Church International.
+READ MORE >>
+ONLINE GIVING
+Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the Lord of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need.
+(Mal. 3:10–12)
+READ MORE >>
+HELP US TO SPREAD OUR
+LOVE AND FAITH
+Join Us Sundays at 10:00 AM & Bring a Friend!
+ABOUT US
+Covenant Church International is an active, caring church with a genuine love for people. It is our prayer that all who attend our services experience the unmistakable presence of God. We expect that in visiting with us you will "Hear the RADICAL and experience the CHANGE."
+ADDRESS
+PH: 205-956-9672
+5407 Old Springville Road
+Pinson, AL 35126
+www.covenantchurchintl.org
+©2020-2024 Covenant Church International. Proudly created by OSI Designs
+bottom of page

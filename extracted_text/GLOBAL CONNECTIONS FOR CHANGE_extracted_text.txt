@@ -1,0 +1,79 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Global Connections for Change'}
+{'property': 'og:title', 'content': 'Global Connections for Change'}
+{'property': 'og:url', 'content': 'https://www.globalcfc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'itemprop': 'name', 'content': 'Global Connections for Change'}
+{'itemprop': 'url', 'content': 'https://www.globalcfc.org'}
+{'name': 'twitter:title', 'content': 'Global Connections for Change'}
+{'name': 'twitter:url', 'content': 'https://www.globalcfc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Global Connections for Change
+Global Connections for Change
+About
+Partners
+Ways to Help
+Back
+Our Vision
+Board Members
+Contact
+Back
+CARE Fund
+DART CAB (Durham)
+Youth CAB (Tanzania)
+Alcaldía Maya (Guatemala)
+Back
+Donations
+Events
+About
+Our Vision
+Board Members
+Contact
+Partners
+CARE Fund
+DART CAB (Durham)
+Youth CAB (Tanzania)
+Alcaldía Maya (Guatemala)
+Ways to Help
+Donations
+Events
+Global Connections for Change
+Scroll
+Empowering communities
+Join the Campaign →
+Global Connections for Change is a 501 (c)(3) non-profit organization that creatively connects people and communities across the world to make a sustainable impact and create positive change.
+Our Vision →
+Moshi Youth CAB
+The Moshi Youth Community Advisory Board supports a diverse group of young people who share a desire learn more about health issues impacting young people in Kilimanjaro region of Tanzania. Moshi Youth CAB teaches leadership skills and builds community with other groups in the region.
+Read More →
+Douglas Thomas Memorial CARE Fund
+The CARE Fund provides short term emergency financial assistance to HIV+ people. While medications have improved the lives of many patients, there are those who remain in tremendous need. There are few programs designed to help them in a time of crisis.
+Read More →
+DART CAB
+The DART CAB sponsors outreach educational events for at-risk populations. These events are centered around HIV-awareness building, demystifying medical clinical research, and other educational topics that people infected or affected by HIV/AIDS experience.
+Read More →
+Alcaldía Maya
+The Mayan Council works within a small municipality located in the department of El Quiché, Guatemala to empower the municipality's indigenous population.
+Read More →
+Home Top
+Home Vision + Campaigns
+Home Footer CTA
+About
+Our Vision
+Board
+Contact
+Campaigns
+Youth CAB
+CARE Fund
+DART CAB
+Alcaldía Maya
+Ways to Help
+Donate
+Events

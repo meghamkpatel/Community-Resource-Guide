@@ -1,0 +1,91 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.6.2'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Southpoint Academy | Southpoint Academy Durham NC'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Home | Southpoint Academy'}
+{'property': 'og:url', 'content': 'https://southpointacademy.org/'}
+{'property': 'article:published_time', 'content': '2023-04-27T15:29:17+00:00'}
+{'property': 'article:modified_time', 'content': '2023-08-09T15:44:28+00:00'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Home | Southpoint Academy'}
+{'name': 'google', 'content': 'nositelinkssearchbox'}
+{'name': 'generator', 'content': 'WordPress 6.4.4'}
+{'name': 'generator', 'content': 'WooCommerce 8.8.3'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://southpointacademy.org'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap'}
+{'name': 'generator', 'content': 'Powered by WPBakery Page Builder - drag and drop page builder for WordPress.'}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 6.7.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+{'name': 'msapplication-TileImage', 'content': 'https://southpointacademy.org/wp-content/uploads/2020/07/cropped-logo-symbol3-3-270x270.jpg'}
+
+Body Text:
+Home | Southpoint Academy
+brown@southpointacademy.com
+919-544-5652
+Home
+About SPA
+About Us
+Opportunity Scholarship Program
+Employment Opportunities
+Testimonials
+Enrollment
+Calendar
+Summer camp
+Contact Us
+spa@ncrrbiz.vom
+919-544-5652
+Facebook
+Home
+About SPA
+About Us
+Opportunity Scholarship Program
+Employment Opportunities
+Testimonials
+Enrollment
+School Calendar
+Summer camp
+Contact Us
+BECOME A SPA SCHOLAR
+WELCOME TO 
+SOUTHPOINT ACADEMY
+EDUCATING MINDS OF THE FUTURE
+Enroll Here
+Facts Tuition Payment
+School Calendar
+Scholarship Program
+WELCOME
+Southpoint Academy prepares students to become ethical, well-rounded and self sufficient citizens by providing a world-class education in a nurturing environment that motivates students to reach high academic standards, enjoy learning, achieve success, and contribute actively to their communities.
+Accepting kindergarten students who missed the traditional school age cut-off pending successful evaluation.
+Now accepting applications for the fall.
+Summer camp
+Enroll your child now for a fun-filled summer at Summer Quest for Knowledge Day Camp, sponsored by Southpoint Academy. Each week will be packed with fun filled educational and recreational activities. Fun outings and field trips will also be scheduled throughout the program.
+Learn more
+Quick Facts
+Grades: K through 5th grade
+Quality Academic Program
+Qualified / Certified Teachers
+After School Program
+Summer Program
+Accessible, Located Near The Streets at Southpoint
+Have fun while learning
+Safe & Nurturing Environment
+World Class Facility (Bowling Alley, Game Room, Gym)
+ABOUT SPA
+We are a partnership of home and school, working together for the purpose of preparing students spiritually, academically, physically, and emotionally in order for them to successfully overcome the challenges of life.
+Quick Links
+Facts Tuition
+Enrollment
+Calendar
+Scholarship
+Summer camp
+Contact Us
+919-544-5652
+7415 Fayetteville Road, Durham, NC
+2020 Southpoint Academy - All rights reserved.
+Privacy Policy
+Facebook
+Youtube

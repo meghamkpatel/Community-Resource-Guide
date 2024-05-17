@@ -1,0 +1,135 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Durham Farmers Market'}
+{'property': 'og:title', 'content': 'Durham Farmers Market'}
+{'property': 'og:url', 'content': 'https://www.durhamfarmersmarket.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/6503a3eefd73b25ffa2aadb2/t/6513846c38635d6d996dd7c9/1695777901038/DFM---Full-Color.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1400'}
+{'property': 'og:image:height', 'content': '1539'}
+{'itemprop': 'name', 'content': 'Durham Farmers Market'}
+{'itemprop': 'url', 'content': 'https://www.durhamfarmersmarket.com'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/6503a3eefd73b25ffa2aadb2/t/6513846c38635d6d996dd7c9/1695777901038/DFM---Full-Color.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/6503a3eefd73b25ffa2aadb2/t/6513846c38635d6d996dd7c9/1695777901038/DFM---Full-Color.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Durham Farmers Market'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/6503a3eefd73b25ffa2aadb2/t/6513846c38635d6d996dd7c9/1695777901038/DFM---Full-Color.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.durhamfarmersmarket.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Durham Farmers Market
+0
+Skip to Content
+About
+about
+location & hours
+staff & board
+rules and by-laws
+Our Programs
+food programs
+sprouts club
+bipoc vendor program
+goals and impacts
+Get Involved
+Vendors
+our vendors
+become a vendor
+vendors only
+this week's vendors
+Newsletter Sign up
+Open Menu
+Close Menu
+About
+about
+location & hours
+staff & board
+rules and by-laws
+Our Programs
+food programs
+sprouts club
+bipoc vendor program
+goals and impacts
+Get Involved
+Vendors
+our vendors
+become a vendor
+vendors only
+this week's vendors
+Newsletter Sign up
+Open Menu
+Close Menu
+Folder:
+About
+Back
+about
+location & hours
+staff & board
+rules and by-laws
+Folder:
+Our Programs
+Back
+food programs
+sprouts club
+bipoc vendor program
+goals and impacts
+Get Involved
+Folder:
+Vendors
+Back
+our vendors
+become a vendor
+vendors only
+this week's vendors
+Newsletter Sign up
+farmer run, durham focused.
+Providing access to fresh food for all of our community, championing small farmers and artisans, and fostering a thriving and participatory local economy.
+Location
+501 Foster Street,
+Durham, NC 27701
+DCP Pavilion
+Hours
+Saturday Main Season Hours (April- November) : 8am - 12pm
+Saturday Winter Hours (December - March) : 10am - 12pm
+Wednesdays (April - October): 3pm - 6pm
+read this week's newsletter
+locally grown, locally raised, locally crafted.
+The Durham Farmers’ Market is a community of farmers, growers and crafters. We are strongly committed to local products: every item you see at the market was produced by the people selling it, and it all comes from no more than 70 miles away.
+Meet your vendors
+our programs
+The Durham Farmers’ Market is committed to being a space for ALL families and individuals in our community. Learn more about the various programs offered at the DFM.
+DOUBLE BUCKS & WIC/SENIOR FMNP
+Double your SNAP, WIC, and Senior FMNP dollars with our Double Bucks program.
+Learn more
+SPROUTS
+CLUB
+Providing space for the youth in our community to learn about nutrition, seasonal eating, cooking tips, how to grow vegetables, composting, and much more.
+Learn more
+BIPOC VENDOR PROGRAM
+Learn about how we are working to increase the diversity of our membership in hopes of more accurately reflecting the demographics of our community.
+Learn more
+serving our community,
+served by our community
+Without our loyal community of volunteers, donors, and sponsors, our market would not be the thriving space that it is. We are truly grateful for all the ways that our customers support the market.
+Get Involved
+Thank you to our sponsors
+CURRENT HOURS
+LOCATION
+501 Foster Street
+Durham, NC 27702
+Wednesdays, 3pm - 6pm
+Saturdays, 8am - 12pm
+PROGRAMS
+Food programs
+BIPOC Vendor Program
+Sprouts Club
+GET INVOLVED
+Donate
+Sponsorships
+Volunteer
+CONTACT
+info@durhamfarmersmarket.com
+(919) 667-3099

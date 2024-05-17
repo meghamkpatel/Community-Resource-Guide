@@ -1,0 +1,50 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'referrer', 'content': 'origin'}
+{'property': 'og:title', 'content': 'W.A.R.4LIFE, We Are Ready For Life'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://www.war4life.com/'}
+{'property': 'og:description', 'content': 'Suicide Prevention through Community Development\n'}
+{'itemprop': 'name', 'content': 'W.A.R.4LIFE, We Are Ready For Life'}
+{'itemprop': 'description', 'content': 'Suicide Prevention through Community Development\n'}
+{'itemprop': 'url', 'content': 'https://www.war4life.com/'}
+{'itemprop': 'thumbnailUrl', 'content': 'https://lh6.googleusercontent.com/mlfwHcV1WFL76s_s4HhXejhk3KwZIxahFZ5QGl0dFYx18hX-yN65UUxz-rKq7w8YQVADjQ=w16383'}
+{'itemprop': 'image', 'content': 'https://lh6.googleusercontent.com/mlfwHcV1WFL76s_s4HhXejhk3KwZIxahFZ5QGl0dFYx18hX-yN65UUxz-rKq7w8YQVADjQ=w16383'}
+{'itemprop': 'imageUrl', 'content': 'https://lh6.googleusercontent.com/mlfwHcV1WFL76s_s4HhXejhk3KwZIxahFZ5QGl0dFYx18hX-yN65UUxz-rKq7w8YQVADjQ=w16383'}
+{'property': 'og:image', 'content': 'https://lh6.googleusercontent.com/mlfwHcV1WFL76s_s4HhXejhk3KwZIxahFZ5QGl0dFYx18hX-yN65UUxz-rKq7w8YQVADjQ=w16383'}
+
+Body Text:
+W.A.R.4LIFE, We Are Ready For Life
+Search this site
+Skip to main content
+Skip to navigation
+W.A.R.4LIFE, We Are Ready For Life
+HOME
+ECONOMIC AND WORKFORCE DEVELOPMENT
+GET INVOLVED
+DONATE
+W.A.R.4LIFE, We Are Ready For Life
+HOME
+ECONOMIC AND WORKFORCE DEVELOPMENT
+GET INVOLVED
+DONATE
+More
+HOME
+ECONOMIC AND WORKFORCE DEVELOPMENT
+GET INVOLVED
+DONATE
+OPPORTUNITY FOR ALL
+Suicide Prevention through Community Development
+EXECUTIVE SUMMARY
+At W.A.R.4Life, our mission is to enhance the livability of communities by creating sustainable living environments and fostering economic growth. We achieve this by collaborating with local leaders, non-profit organizations, businesses, residents, and funding partners to plan, develop, and invest in projects aligned with our shared goals and objectives. Our approach is characterized by a commitment to innovation and a willingness to challenge conventional thinking to drive positive change in communities.
+MISSION STATEMENT
+WAR4Life
+is dedicated to preventing suicide by improving the quality of life for individuals and families living in destitute regions or circumstances. Through our commitment to action over mere words, we offer hope to those who may feel hopeless. By positively impacting one community at a time, we strive to create a better future for all.
+VALUES STATEMENT
+Transparent Leadership through Intuitive Innovations
+info@war4life.com
+Copyright © WAR4LIFE 2017-∞. All Rights Reserved.
+Report abuse
+Report abuse

@@ -1,0 +1,67 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'author', 'content': 'The CORC'}
+{'name': 'generator', 'content': 'Starfield Technologies; Go Daddy Website Builder 8.0.0000'}
+{'property': 'og:url', 'content': 'https://thecorc.com/'}
+{'property': 'og:site_name', 'content': 'The CORC'}
+{'property': 'og:title', 'content': 'The CORC'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'https://img1.wsimg.com/isteam/ip/f7860afc-384b-458b-a9b8-e3a6917df3aa/Coalition%20of%20Resident%20Councils.png'}
+{'property': 'og:locale', 'content': 'en_IN'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'The CORC'}
+{'name': 'twitter:image', 'content': 'https://img1.wsimg.com/isteam/ip/f7860afc-384b-458b-a9b8-e3a6917df3aa/Coalition%20of%20Resident%20Councils.png'}
+{'name': 'twitter:image:alt', 'content': 'The CORC'}
+{'name': 'theme-color', 'content': '#008390'}
+
+Body Text:
+The CORC
+Home
+The CORC Connection
+Special Projects
+Contact Us
+Donate
+More
+Home
+The CORC Connection
+Special Projects
+Contact Us
+Donate
+Sign In
+Create Account
+My Account
+Signed in as:
+filler@godaddy.com
+My Account
+Sign out
+Signed in as:
+filler@godaddy.com
+Home
+The CORC Connection
+Special Projects
+Contact Us
+Donate
+Account
+My Account
+Sign out
+Sign In
+My Account
+Welcome to the CORC!
+The Coalition of Resident Councils (THE CORC) is a national collaborative partnership, made up of residents in Nursing Homes, Assisted Living Communities, consumers, family members, friends, healthcare professionals and educators who recognize the extensive value of the resident organization, commonly called The Resident Council.
+Find out more
+Help Our Cause!
+Your support helps us to make residents' wishes come true in
+Donate
+Stay in Touch
+Sign up to receive information about our events, classes, and more!
+Email Address
+Sign up
+Copyright © 2023 The CORC - All Rights Reserved.
+Donate
+Privacy Policy
+Terms and Conditions
+This website uses cookies.
+We use cookies to analyze website traffic and optimize your website experience. By accepting our use of cookies, your data will be aggregated with all other user data.
+Accept

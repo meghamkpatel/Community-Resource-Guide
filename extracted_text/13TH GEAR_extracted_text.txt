@@ -1,0 +1,308 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=Edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, viewport-fit=cover'}
+{'name': 'theme-color', 'content': '#fefefe'}
+{'name': 'apple-mobile-web-app-title', 'content': 'YT Forums'}
+{'name': 'description', 'content': "What could be the problem when my 8300 won't shift past 13th gear?  It only happens once in a while so it's hard to diagnose.  Shifts fine up thru 13th but..."}
+{'property': 'og:description', 'content': "What could be the problem when my 8300 won't shift past 13th gear?  It only happens once in a while so it's hard to diagnose.  Shifts fine up thru 13th but then occasionally just won't go on to higher gears.  Any help appreciated."}
+{'property': 'twitter:description', 'content': "What could be the problem when my 8300 won't shift past 13th gear?  It only happens once in a while so it's hard to diagnose.  Shifts fine up thru 13th but then occasionally just won't go on to..."}
+{'property': 'og:url', 'content': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'property': 'og:site_name', 'content': "Yesterday's Tractors Forums"}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'JD 8300 trouble shifting past 13th gear'}
+{'property': 'twitter:title', 'content': 'JD 8300 trouble shifting past 13th gear'}
+{'itemprop': 'position', 'content': '1'}
+{'itemprop': 'position', 'content': '2'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/jd-seller.101891/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/the-tractor-vet.62639/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/jared-in-wi.51286/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/jared-in-wi.51286/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/robert-major.86574/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/tech-7.49144/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/travis-miranowski.152274/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/frank-41.153395/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/anonymous-0.44999/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/bob.60391/'}
+{'itemprop': 'mainEntity', 'itemscope': '', 'itemtype': 'https://schema.org/DiscussionForumPosting', 'itemid': 'https://forums.yesterdaystractors.com/threads/jd-8300-trouble-shifting-past-13th-gear.1102701/'}
+{'itemprop': 'url', 'content': 'https://forums.yesterdaystractors.com/members/jd-seller.101891/'}
+{'itemprop': 'position', 'content': '1'}
+{'itemprop': 'position', 'content': '2'}
+
+Body Text:
+JD 8300 trouble shifting past 13th gear | Yesterday's Tractors Forums
+(800) 853-2651
+SHOP NOW
+Forums
+Contact Us
+New posts
+Resources
+YT Home Page
+Help
+Articles
+Serial Numbers
+Tractor Registry
+Events
+Upcoming Events
+Featured Events
+Marketplace
+Classified Ads
+Salvage
+Gallery
+New media
+Tractor Photos
+Implement Photos
+Vintage Photos
+Help Identify
+Parts & Pieces
+Stuck & Troubled
+Community Album
+Tractor Parts
+Tractor Manuals
+What's new
+New posts
+New media
+New media comments
+New resources
+New profile posts
+Latest activity
+New classified ads
+New classified comments
+Members
+Current visitors
+New profile posts
+Search profile posts
+Log in
+Register
+What's new
+Search
+Search
+Everywhere
+Threads
+This forum
+This thread
+Search titles only
+By:
+Search
+Advanced search…
+Contact Us
+New posts
+Menu
+Log in
+Register
+Install the app
+Install
+General Topics
+Tractor & Farm Talk
+JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
+You are using an out of date browser. It  may not display this or other websites correctly.
+You should upgrade or use an
+alternative browser
+.
+(800) 853-2651
+SHOP NOW
+JD 8300 trouble shifting past 13th gear
+Thread starter
+Anonymous-0
+Start date
+Sep 2, 2013
+A
+Anonymous-0
+Well-known Member
+Sep 2, 2013
+#1
+What could be the problem when my 8300 won't shift past 13th gear?  It only happens once in a while so it's hard to diagnose.  Shifts fine up thru 13th but then occasionally just won't go on to higher gears.  Any help appreciated.
+J
+JD Seller
+Well-known Member
+Sep 2, 2013
+#1
+It could be a sensor not working sometimes. It could be the PCU computer not always working. It could be a bad wire in the harness. Even with a computer to diagnose the problems, until it fails all of the time, or at least more often it will be hard to find the trouble.
+That is why there are not any tractors on this farm with a computer control. I have seen too many horror stories when they start to act up.
+Have guys tell me about an $20 sensor and $750 labor to find it was bad.
+T
+the tractor vet
+Well-known Member
+Sep 2, 2013
+#1
+And this is the main reason we over here have OLD tractors that we can fix and i can keep them going WITH OUT a computer to have S#X with another computer to try and figure out what is wrong. The old 06's thru 86 sires binders and 10-40 sires Deere's will still be going when the SMART tractors are setting dead .
+J
+jared in wi
+Member
+Sep 2, 2013
+#1
+To me it sounds like a problem with the D clutch (Dc) shift valve or the wiring harness.  If you look at the RH rear end of the transmission (below where the hood and cab meet on the RH side of the tractor).  Check the shift valve and the shift valve connector.  Also check the connector between the transmission to the main wire harness.
+Jared
+J
+jared in wi
+Member
+Sep 2, 2013
+#1
+one other thing I would like to add.  When it acts up again, run through all the gears and note which ones are missing. go through forward and reverse.  If you end up calling the dealer to send some one out, if you can tell them which gears are missing, that will help them narrow it down to which circuit, valve or clutch is causing the problem.
+R
+Robert Major
+Well-known Member
+Sep 2, 2013
+#1
+Hi
+We had this little problem at a dealership I worked in for a while.
+You wait till the day the computers plugged in and it basically says tractor not found. well the guy had the cable in his hand and plugged it in .
+He knew more than the computer did at this point!. this tractor was in the middle of a feed lot totally dead. Had to be trucked to the dealer, 2 guys spent 3 days looking at it and calling brand HQ tech guys.
+In the end they found a small 0.7 milli amp fuse blown, changed that and it fired right up, and never was a problem again.
+That was warrantied , if it had been 2 months later that fuse would of cost, quite a few thousand dollars from the customers pocket.
+Regards Robert
+T
+Tech 7
+Well-known Member
+Sep 3, 2013
+#1
+Does this happen more when the tractor/transmission oil is cold? The system is built to not let the transmission opeerate above 13 until oil is warm. If this is happening and oil is warm it may be related to a temp sender. Does the trans. light flash when this happens? If it does it will set a code.I will try to walk you through accessing the code: 1. engine off, key off. 2. remove cover for fuses on the RH console, insert a 10A in the port marked "DIAG ONLY". 3.Turn key on cornerpost should read DIA.4.operate turn signal like you were to be tuning right (just bump it if you like) display will change to display different controllers.5.continue until display reads PCU.6.pull turn signal back towards you and release.7.bump turn signal once, display will read PCU 001. 8. Pull back turn signal once and release.Codes will now display in sequence, Example; PCU 017 etc. 9. Write these down (they will keep scrolling until you clear them or the key is shut off).10. Once you have written the codes down shut the key off, remove the fuse from DIA port.
+Your operators book may have a list of the codes. If not tell us what you have,may be able to find out. There might be a lot of codes in there that will not affect the tractor operation. The example I used, PCU 017 indicates that the operator was off the seat with trans in gear. It will set when you bounce over a big bump, really not an issue. Go through this procedure if you like, let us know what you find.
+T
+travis miranowski
+Member
+Sep 3, 2013
+#1
+Had this happen in a 8100.  Was the screws loose in the counsel the held the shift module in place.  when you were pushing forward it felt ok but the module was just loose enough to not want to shift up once in a while.
+F
+Frank 41
+Member
+Sep 3, 2013
+#1
+My 1997 8400 has problems from 12 to 13. Some times it will throw you into the windshield. The Funk trans that Deere bought, in the Ford is faultless. Can't tell when going thru clutch packs but Deere had to put their twist on it. Dealer said to shift up 2 gears and then back 1. I can't imagine what the older Deeres shift like.
+OP
+OP
+A
+Anonymous-0
+Well-known Member
+Sep 3, 2013
+#1
+Only happens when tractor is hot.  It never acts up when cold.  Sometimes transmission light will flash.  When it acts up it shifts fine from 1st thru 13th but just will not advance above 13th.  One site I found with this discussion mentioned clutch engage switch.  Anyone heard of this?
+B
+Bob
+Well-known Member
+Sep 4, 2013
+#1
+"small 0.7 milli amp fuse"
+That"s 0.0007 Amp!
+NOT sure if that would even be enough current to tickle a gnat!
+Think you are off a decimal place or two, maybe?
+J
+JD Seller
+Well-known Member
+Sep 4, 2013
+#1
+Tech 7: Has it correct. Check and see what codes are stored in the PCU. IF the transmission light is flickering it should have a code. This is about the only way to diagnose these transmissions/controllers. Once you read the codes clear them and then check after you run it for codes coming back. There should be a code repeating.
+These where just starting to have issues when I got out of the shop. I have had the schooling on them but I have to have the tech book because I DO NOT remember the steps to do it anymore.
+Also has the transmission be ran through a calibration cycle lately??? IF not you need to have that done. That could very well be some of the trouble too.
+You must log in or register to reply here.
+Similar threads
+T
+TL100DT Shuttle shift Problem
+tedinmn
+Apr 10, 2024
+New Holland
+Replies
+1
+Views
+178
+Apr 11, 2024
+Jim.ME
+J
+G
+IH 560 that locks in gear when front end loader full
+gwayne1962
+Oct 24, 2023
+Tractor & Farm Talk
+Replies
+8
+Views
+277
+Oct 24, 2023
+Jim in LA
+J
+C
+Case 411 grinding gears
+Codytorg
+Sep 25, 2023
+Case & David Brown
+Replies
+13
+Views
+684
+Sep 25, 2023
+chuck machinist
+N
+831 Hard shifting
+nick831
+Sep 25, 2023
+Case & David Brown
+Replies
+2
+Views
+255
+Sep 25, 2023
+nick831
+N
+D
+1950 John Deere A Gear Shift
+Devon B
+Oct 7, 2023
+John Deere
+Replies
+4
+Views
+278
+Oct 7, 2023
+Devon B
+D
+Share:
+Facebook
+Twitter
+Reddit
+Pinterest
+Tumblr
+WhatsApp
+Email
+Share
+Link
+General Topics
+Tractor & Farm Talk
+Tractor Parts
+Tractor Manuals
+We sell tractor parts!
+We have the parts you need to repair your tractor - the right parts. Our low prices and years of research make us your best choice when you need parts.
+Shop Online Today
+.
+Copyright © 1997-2024 Yesterday's Tractor Co.
+All Rights Reserved. Reproduction of any part of this website, including design and content, without written permission is strictly prohibited. Trade Marks and Trade Names contained and used in this Website are those of others, and are used in this Website in a descriptive sense to refer to the products of others. Use of this Web site constitutes acceptance of our
+User Agreement
+and
+Privacy Policy
+TRADEMARK DISCLAIMER: Tradenames and Trademarks referred to within Yesterday's Tractor Co. products and within the Yesterday's Tractor Co. websites are the property of their respective trademark holders. None of these trademark holders are affiliated with Yesterday's Tractor Co., our products, or our website nor are we sponsored by them. John Deere and its logos are the registered trademarks of the John Deere Corporation. Agco, Agco Allis, White, Massey Ferguson and their logos are the registered trademarks of AGCO Corporation. Case, Case-IH, Farmall, International Harvester, New Holland and their logos are registered trademarks of CNH Global N.V.
+Yesterday's Tractors - Antique Tractor Headquarters
+Website Accessibility Policy
+Contact us
+Terms and rules
+Privacy policy
+Help
+Home
+RSS
+|
+Events Manager by XenCustomize
+This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.
+By continuing to use this site, you are consenting to our use of cookies.
+Accept
+Learn more…
+Back
+Top

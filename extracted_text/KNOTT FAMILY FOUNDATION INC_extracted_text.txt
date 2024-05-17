@@ -1,0 +1,197 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - The Knott Foundation'}
+{'property': 'og:description', 'content': 'Making a Difference, Honoring Our Faith Learn More About Our Program Areas A Tradition of Generosity The Marion I. & Henry J. Knott Foundation is a Catholic family foundation dedicated…'}
+{'property': 'og:url', 'content': 'https://knottfoundation.org/'}
+{'property': 'og:site_name', 'content': 'The Knott Foundation'}
+{'property': 'article:modified_time', 'content': '2024-02-21T17:43:30+00:00'}
+{'property': 'og:image', 'content': 'https://knottfoundation.org/wp-content/uploads/First-Fruits-Farm-2021-2.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://knottfoundation.org'}
+{'name': 'msapplication-TileImage', 'content': 'https://knottfoundation.org/wp-content/uploads/New-logo.png'}
+{'itemprop': 'name', 'content': 'The Knott Foundation'}
+{'itemprop': 'name', 'content': 'The Knott Foundation'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3995', 'content': 'Hope and Healing in Harford County'}
+{'itemprop': 'datePublished', 'content': '2024-03-05'}
+{'itemprop': 'dateModified', 'content': '2024-03-05'}
+{'itemprop': 'name', 'content': 'The Knott Foundation'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/TKF-logo1x.jpg'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/author/christina_rickman/'}
+{'itemprop': 'name', 'content': 'Christina Rickman'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/SARC-Playroom.jpg'}
+{'itemprop': 'width', 'content': '1065'}
+{'itemprop': 'height', 'content': '710'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3972', 'content': 'What We’re Reading: “How to Change” by Katy Milkman'}
+{'itemprop': 'datePublished', 'content': '2024-03-01'}
+{'itemprop': 'dateModified', 'content': '2024-03-06'}
+{'itemprop': 'name', 'content': 'The Knott Foundation'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/TKF-logo1x.jpg'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/author/christina_rickman/'}
+{'itemprop': 'name', 'content': 'Christina Rickman'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/Book-Photo.jpg'}
+{'itemprop': 'width', 'content': '1139'}
+{'itemprop': 'height', 'content': '1501'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3909', 'content': 'February 2024 Grant Awards'}
+{'itemprop': 'datePublished', 'content': '2024-02-21'}
+{'itemprop': 'dateModified', 'content': '2024-02-27'}
+{'itemprop': 'name', 'content': 'The Knott Foundation'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/TKF-logo1x.jpg'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/author/jessica_feldt/'}
+{'itemprop': 'name', 'content': 'Jessica Feldt'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/plant.png'}
+{'itemprop': 'width', 'content': '447'}
+{'itemprop': 'height', 'content': '400'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3088', 'content': 'Strong Roots; New Strategies'}
+{'itemprop': 'datePublished', 'content': '2024-01-11'}
+{'itemprop': 'dateModified', 'content': '2024-02-15'}
+{'itemprop': 'name', 'content': 'The Knott Foundation'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/TKF-logo1x.jpg'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/author/kathleen_mccarthy/'}
+{'itemprop': 'name', 'content': 'Kathleen McCarthy'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/0287020b-f880-37b6-8a47-701686b6ac90.jpg'}
+{'itemprop': 'width', 'content': '1274'}
+{'itemprop': 'height', 'content': '849'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://2710', 'content': 'Knott Foundation Holiday Closure'}
+{'itemprop': 'datePublished', 'content': '2023-12-18'}
+{'itemprop': 'dateModified', 'content': '2024-02-15'}
+{'itemprop': 'name', 'content': 'The Knott Foundation'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/TKF-logo1x.jpg'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/author/christina_rickman/'}
+{'itemprop': 'name', 'content': 'Christina Rickman'}
+{'itemprop': 'url', 'content': 'https://knottfoundation.org/wp-content/uploads/11445689383_a8a83aa992_b.jpg'}
+{'itemprop': 'width', 'content': '1024'}
+{'itemprop': 'height', 'content': '683'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+
+Body Text:
+Home - The Knott Foundation
+Skip to content
+Menu
+Who We Are
+Family Legacy
+Our Mission
+Our People
+Contact
+What We Support
+Where We Work
+General Funds
+Strategic Initiatives
+Youth Empowerment
+Catholic Schools
+Workforce Development
+Past Grants
+How We Give
+General Fund Grants
+Strategic Initiatives
+Discretionary Grants
+Cash Flow Loans
+News & Resources
+Annual Reports
+Blog
+Menu
+Who We Are
+Family Legacy
+Our Mission
+Our People
+Contact
+What We Support
+Where We Work
+General Funds
+Strategic Initiatives
+Youth Empowerment
+Catholic Schools
+Workforce Development
+Past Grants
+How We Give
+General Fund Grants
+Strategic Initiatives
+Discretionary Grants
+Cash Flow Loans
+News & Resources
+Annual Reports
+Blog
+Making a Difference, Honoring Our Faith
+Learn More About Our Program Areas
+A Tradition of Generosity
+The Marion I. & Henry J. Knott Foundation is a Catholic family foundation dedicated to preserving the generous spirit of its founders.
+Henry and Marion Knott held three great passions close to their hearts: faith, family, and community. In 1977, they established the Foundation to merge these passions. Today, the Knott Foundation remains a family-driven philanthropic effort, focused on strengthening communities in central and western Maryland, while honoring the Knott legacy of giving. Click
+here
+to learn more about our Mission.
+“Those who are rich in the world’s goods should not be proud and should not rely on so uncertain a thing as wealth. Let them do good, be rich in good works and generous, sharing what they have.”
+— Henry J. Knott on his faith and giving philosophy
+Supporting the Community
+The Knott Foundation provides funding through grants and loans to programs focused on arts and humanities, Catholic activities, education, health care, and human services.
+Learn more about the types of programs we support
+47
+Years of Giving Back to the Community
+$
+3
+Million in Grants Awarded in 2023
+33
+Knott Family Board Members
+Sign up for our newsletter to receive grant and Foundation updates.
+Please enter your name.
+Please enter a valid email address.
+SUBMIT
+Something went wrong. Please check your entries and try again.
+Spotlight Stories
+Grant Spotlight Stories
+Hope and Healing in Harford County
+March 5, 2024
+What We're Learning
+What We’re Reading: “How to Change” by Katy Milkman
+March 1, 2024
+Foundation News / Grant Awards
+February 2024 Grant Awards
+February 21, 2024
+Foundation News
+Strong Roots; New Strategies
+January 11, 2024
+Foundation News
+Knott Foundation Holiday Closure
+December 18, 2023
+Who We Are
+Family Legacy
+Our Mission
+Our People
+Contact
+What We Support
+Where We Work
+General Funds
+Strategic Initiatives
+Youth Empowerment
+Catholic Schools
+Workforce Development
+Past Grants
+How We Give
+General Fund Grants
+Strategic Initiatives
+Discretionary Grants
+Cash Flow Loans
+News & Resources
+Annual Reports
+Blog
+© 2024 The Knott Foundation. All Rights Reserved. |
+Privacy Policy
+|
+Accessibility Policy
+|
+Terms & Conditions
+| Designed & Developed by
+Redstart Creative
+Scroll To Top

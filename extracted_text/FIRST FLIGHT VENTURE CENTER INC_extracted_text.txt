@@ -1,0 +1,231 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'First Flight Venture Center'}
+{'property': 'og:title', 'content': 'First Flight Venture Center'}
+{'property': 'og:url', 'content': 'https://www.ffvcnc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'First Flight Venture Center (FFVC) is a unique incubator for science-based startups located in the heart of Research Triangle Park (RTP)'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5bd3a838523958a867b252e0/t/6434db369222e7752774fe3b/1681185590424/logo-icon.png?format=1500w'}
+{'property': 'og:image:width', 'content': '297'}
+{'property': 'og:image:height', 'content': '331'}
+{'itemprop': 'name', 'content': 'First Flight Venture Center'}
+{'itemprop': 'url', 'content': 'https://www.ffvcnc.org'}
+{'itemprop': 'description', 'content': 'First Flight Venture Center (FFVC) is a unique incubator for science-based startups located in the heart of Research Triangle Park (RTP)'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5bd3a838523958a867b252e0/t/6434db369222e7752774fe3b/1681185590424/logo-icon.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5bd3a838523958a867b252e0/t/6434db369222e7752774fe3b/1681185590424/logo-icon.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'First Flight Venture Center'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5bd3a838523958a867b252e0/t/6434db369222e7752774fe3b/1681185590424/logo-icon.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.ffvcnc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'First Flight Venture Center (FFVC) is a unique incubator for science-based startups located in the heart of Research Triangle Park (RTP)'}
+{'name': 'description', 'content': 'First Flight Venture Center (FFVC) is a unique incubator for science-based \r\nstartups located in the heart of Research Triangle Park (RTP)'}
+
+Body Text:
+First Flight Venture Center
+About
+Programs
+Hangar6
+Membership
+Graduates
+Resources for Startups
+Sponsorships
+News
+AgBio + AgTech
+Events
+Member Portal
+Contact
+Donate
+Back
+Our Story
+Why First Flight?
+Impact Reports
+Meet Our Team
+Board of Directors
+Navigators
+Back
+Our Programs
+2023/24 FAST SBIR Funding Program
+LiftOff: Strategic Non-dilutive Funding
+BARDA DRIVe: Health Security Innovation Funding
+WheelsUP Accelerator
+Propeller Pre-Accelerator: Finding the Business Value in New Ideas
+Test Flight: Pitch Practice
+Navigators: Advisors and Business Mentoring
+Captain's Circle
+Business Incubator
+Back
+Meet Our Sponsors
+Become a Sponsor
+About
+Our Story
+Why First Flight?
+Impact Reports
+Meet Our Team
+Board of Directors
+Navigators
+Programs
+Our Programs
+2023/24 FAST SBIR Funding Program
+LiftOff: Strategic Non-dilutive Funding
+BARDA DRIVe: Health Security Innovation Funding
+WheelsUP Accelerator
+Propeller Pre-Accelerator: Finding the Business Value in New Ideas
+Test Flight: Pitch Practice
+Navigators: Advisors and Business Mentoring
+Captain's Circle
+Business Incubator
+Hangar6
+Membership
+Graduates
+Resources for Startups
+Sponsorships
+Meet Our Sponsors
+Become a Sponsor
+News
+AgBio + AgTech
+NC PREMIER RESEARCH INCUBATOR
+Events
+Member Portal
+Contact
+Donate
+Scroll
+Develop. Launch. Succeed.
+Develop your idea, create your prototype, secure grants, launch your business, and in doing so, we create jobs and grow the economy of North Carolina.
+DISCOVER MORE
+WELCOME TO FIRST FLIGHT
+The Home of "High Science, High Impact" Technological Innovation
+First Flight is one of the nation's largest, most stable incubators with a proven record of success. We've hosted more than 400 companies, launched businesses that have commercializing and impactful new technologies, and created thousands of jobs. We have the experience and ecosystem you need for success.
+ACHIEVEMENTS
+Our Impact
+The numbers tell the story better than we ever could. First Flight is proud to say that since 1991, our companies have accumulated a market capitalization of $14 billion, a truly remarkable number. Additionally, in 2023, First Flight companies filed over 28 patents and raised over $4,454,000 million in grants.
+14
+BILLION
+Market Cap for First Flight Grads
+400+
+COMPANIES
+In 33 years
+323
+MILLION
+Investment Funds raised by equity since inception by 2023 Companies
+34.6
+MILLION
+Grants Awarded to Companies while at First Flight in 2023
+119
+Patents currently held
+50
+Minority/ Women
+employed by current First Flight companies
+CONTACT US
+Our community supports your work.
+Our community is an inspiring mix of start-ups, serial entrepreneurs, advisors and alumni. A collaborative spirit is part of our makeup, so you’ll have plenty of resources willing to share, advise or just talk.
+OUR PROGRAMS
+Our programs meet you
+where you are at
+First Flight propels early-stage science companies through the delivery of comprehensive resources and empowers innovators to transform good ideas into great successes. We use our
+Runway to Success
+to meet our companies where they are in their business life cycle to improve their probability of success
+Download Runaway to success
+Propeller Pre-Accelerator: Finding the Business Value in New Ideas
+BARDA DRIVe: Health Security Innovation Funding
+WheelsUP Accelerator
+Hangar6: Design, Prototype, Take Flight
+LiftOff: Strategic Non-dilutive Funding
+Navigators: Advisors and Business Mentoring
+2022/23 FAST SBIR Funding Program
+Test Flight: Pitch Practice
+Learn more about our programs
+LET’S GET STARTED
+We have labs, office spaces, programs, and so much more!
+We are not a real estate company with long term leases. We’re a non-profit with a mission to help you develop your idea, create your prototype, secure grants, launch your business, and in doing so, we create jobs and grow the economy of North Carolina.
+Our focus is on creating the support you need, not square foot pricing or occupancy rates. Our spaces are affordable and customizable wet labs, offices, power drops, sinks whatever you need. And our flexible leases evolve with you.
+25,000 SQUARE FEET OF CONFIGURABLE SPACE
+LEARN MORE
+OUR PARTNERS
+FIRST FLIGHT CHAMPIONS OF INNOVATION
+Without the generous support of these companies and individuals, we would not be able to create & maintain services and programs for early stage companies.
+DONATE
+SUPPORT JOB CREATION
+Support our work.
+First Flight is a non-profit. We don’t use federal or state funding for sustaining daily operations. Our residents benefit from the expertise and services of a community comprised of corporate service providers for early stage companies, foundations, and individual donors. With our generous supporters, we’re able to meet the ongoing needs of our startups. You can support our mission to advance game-changing technologies and create jobs with donations of time, equipment, resources, and financial gifts.
+DONATE
+Click Here to Watch
+Testimonials
+Fred Hutchison, Founding Member, Hutchison PLLC
+We at Hutchison PLLC have been a long-term sponsor of First Flight Venture Center for a variety of reasons. We believe that First Flight is an incredibly important building block…
+Sunil Mehta, CEO AthemBio
+AthemBio's path wouldn't have been as seamless if it weren't for the support provided by First Flight Ventures. This organization has offered unparalleled resources to budding…
+Founder & CEO
+Michael Shain, President & CEO, OxiHealth
+Founder & CEO
+The Propeller program was a great program for OxiHealth at just the right stage in our company’s development. In addition to providing basic business and marketing skills…
+Founder & CEO
+main_banner
+Welcome To First Flight
+Our Impact
+Our community
+OUR PROGRAMS
+offices and laboratory
+CHAMPIONS
+our work
+Lab Space
+Testimonials
+DONATE
+Programs
+WheelsUP Accelerator
+2022/23 FAST SBIR Funding Program
+Propeller Pre-Accelerator
+Hangar6
+LiftOff
+BARDA DRIVe
+Navigators
+Test Flight
+The Product Launch
+About
+Our Story
+Why First Flight?
+Impact Reports
+Meet Our Team
+Board of Directors
+Navigators
+Membership
+Graduates
+Resources for
+Startups
+Sponsorship
+Meet Our Sponsors
+Become A Sponsor
+News
+Events
+Member Portal
+Contact
+Newsletter
+First Flight Venture Center
+2 Davis Drive, RTP, NC 27709
+Hours: Mon- Fri: 8:00-5:00
+919.990.8558
+|
+info@ffvcnc.org
+© Copyright 2024 First Flight Venture Center. All Rights Reserved.
+Privacy
+First Flight Venture Center
+2 Davis Dr,
+Durham, NC, 27703,
+United States
+919.990.8558
+info@ffvnc.org
+Hours
+Mon 8:00-5:00
+Tue 8:00-5:00
+Wed 8:00-5:00
+Thu 8:00-5:00
+Fri 8:00-5:00
+Sat Closed
+Sun Closed
+Newsletter
+Links
+Contact
+donate
+Privacy

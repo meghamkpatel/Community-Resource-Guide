@@ -1,0 +1,351 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'description', 'content': 'Shop our nonprofit fair trade store for handmade gifts that give back! Sustainable, ethical, and eco-friendly coffee, jewelry, and more from around the globe.'}
+{'property': 'og:site_name', 'content': 'Bull City Fair Trade '}
+{'property': 'og:url', 'content': 'https://bullcityfairtrade.com/'}
+{'property': 'og:title', 'content': 'Bull City Fair Trade'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Shop our nonprofit fair trade store for handmade gifts that give back! Sustainable, ethical, and eco-friendly coffee, jewelry, and more from around the globe.'}
+{'property': 'og:image', 'content': 'http://bullcityfairtrade.com/cdn/shop/files/BC_FairTrade_Horiz_Tag_RGB_1200x1200.png?v=1614314042'}
+{'property': 'og:image:secure_url', 'content': 'https://bullcityfairtrade.com/cdn/shop/files/BC_FairTrade_Horiz_Tag_RGB_1200x1200.png?v=1614314042'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Bull City Fair Trade'}
+{'name': 'twitter:description', 'content': 'Shop our nonprofit fair trade store for handmade gifts that give back! Sustainable, ethical, and eco-friendly coffee, jewelry, and more from around the globe.'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'name': 'theme-color', 'content': '#008996'}
+{'name': 'google-site-verification', 'content': 'O-bOkFJhdDvykljUQKjRHckxhoKgPb_fQ2hNtnPtiWg'}
+{'id': 'shopify-digital-wallet', 'name': 'shopify-digital-wallet', 'content': '/45908983967/digital_wallets/dialog'}
+{'name': 'shopify-checkout-api-token', 'content': '6a199d90291c012066e65c52645f4dcd'}
+
+Body Text:
+Bull City Fair Trade – Bull City Fair Trade
+NEW SPRING HOURS! Mon - Sat 10A-7P and Sun 12P-5P
+Log in
+or
+Create account
+Cart
+0
+Search
+NEW SPRING HOURS! Mon - Sat 10A-7P and Sun 12P-5P
+Menu
+Cart
+0
+Gifts
++
+-
+All
+Gifts
+MOTHER'S DAY GIFTS
+Gifts for the Graduate
+Easter Gifts
+Valentine's Day Gifts
+Build A Gift Basket
+Gifts for Foodies
+Gifts for LGBTQ Pride
+Gift Sets
+Gift Cards
+Bull City Pride
+Gifts for the Educator
+Wedding Gifts
+Gifts of Faith
+Gifts for Hosts
+Gifts For Him
+Gifts for Her
+Gifts for Baby
+Gifts for Teens
+Gifts for Cat Lovers
+Gifts for Dog Lovers
+Gifts for Wellness Lovers
+Gifts for Outdoor Lovers
+Food
++
+-
+All
+Food
+Chocolate
+Coffees, Teas, & Cocoas
+Soup & Baking Mixes
+Snacks & Nuts
+Sauces & Spices
+Accessories
++
+-
+All
+Accessories
+Keychains
+Pins, Odds & Ends
+Scarves
+Bags, Pouches, and Wallets
+Hair Accessories
+Apparel
++
+-
+All
+Apparel
+Socks, Hats, & Ties
+Clothing
+Jewelry
++
+-
+All
+Jewelry
+Earrings
+Necklaces
+Bracelets
+Rings
+Home
++
+-
+All
+Home
+Bed & Bath
+Baskets
+Decor
+Kitchen
+Outdoor
+Journals & Cards
++
+-
+All
+Journals & Cards
+Quilling Card
+Good Paper
+Kids
++
+-
+All
+Kids
+Books
+CDs
+Toys & Games
+Baby
+Shop By Cause
++
+-
+Eco-Friendly Gifts
+Gifts Made in the USA
+Gifts That Empower Women
+Gifts That Fight Trafficking
+Gifts That Keep Families Together
+Gifts That Aid Refugees
+Gifts That Help Small Farmers
+Gifts That Donate To Charities
+Gifts That Support Disabled Artisans
+Gifts That Fund Education
+Gifts That Preserve Tradition
+Gifts That Build Communities
+Shop By Country
++
+-
+Americas
+African region
+Asian region
+European region
+Rewards
+Holiday
+Log in
+Create account
+Search
+Gifts
+MOTHER'S DAY GIFTS
+Gifts for the Graduate
+Easter Gifts
+Valentine's Day Gifts
+Build A Gift Basket
+Gifts for Foodies
+Gifts for LGBTQ Pride
+Gift Sets
+Gift Cards
+Bull City Pride
+Gifts for the Educator
+Wedding Gifts
+Gifts of Faith
+Gifts for Hosts
+Gifts For Him
+Gifts for Her
+Gifts for Baby
+Gifts for Teens
+Gifts for Cat Lovers
+Gifts for Dog Lovers
+Gifts for Wellness Lovers
+Gifts for Outdoor Lovers
+Food
+Chocolate
+Coffees, Teas, & Cocoas
+Soup & Baking Mixes
+Snacks & Nuts
+Sauces & Spices
+Accessories
+Keychains
+Pins, Odds & Ends
+Scarves
+Bags, Pouches, and Wallets
+Hair Accessories
+Apparel
+Socks, Hats, & Ties
+Clothing
+Jewelry
+Earrings
+Necklaces
+Bracelets
+Rings
+Home
+Bed & Bath
+Baskets
+Decor
+Kitchen
+Outdoor
+Journals & Cards
+Quilling Card
+Good Paper
+Kids
+Books
+CDs
+Toys & Games
+Baby
+Shop By Cause
+Eco-Friendly Gifts
+Gifts Made in the USA
+Gifts That Empower Women
+Gifts That Fight Trafficking
+Gifts That Keep Families Together
+Gifts That Aid Refugees
+Gifts That Help Small Farmers
+Gifts That Donate To Charities
+Gifts That Support Disabled Artisans
+Gifts That Fund Education
+Gifts That Preserve Tradition
+Gifts That Build Communities
+Shop By Country
+Americas
+African region
+Asian region
+European region
+Rewards
+Holiday
+SHOP GIFTS THAT EMPOWER WOMEN
+SEE GIFT GUIDE
+shop now
+SEE THE COLLECTION
+EXPLORE THE INTERACTIVE MAP --->
+SHOP GIFTS THAT EMPOWER WOMEN
+SEE GIFT GUIDE
+shop now
+SEE THE COLLECTION
+EXPLORE THE INTERACTIVE MAP --->
+Store Hours:
+Monday-Saturday 10-7, Sunday 12-5
+WE'RE A FAIR TRADE, NONPROFIT GIFT STORE
+Since 1991, your purchases and donations have helped improve the lives of thousands of hardworking artisans and farmers.
+OUR STORY
+Shop By Cause
+NEW! Shop By Country
+Americas
+Europe
+Asia
+Africa
+Our Top Gift Guides
+WEDDING GIFTS
+MOTHER'S DAY
+HOST GIFTS
+GIFTS FOR OUTDOOR LOVERS
+See the full impact report
+WHAT IS FAIR TRADE?
+Fair trade isn't charity, but rather a long term system that seeks justice in the international trading system.
+LEARN MORE ABOUT OUR VALUES
+Our Customers Can't Get Enough...
+6 TINY DIVINE BARS
+Regular price
+$6.50
+ARCH STUD EARRINGS
+Regular price
+$10.00
+BICYCLE PIZZA CUTTER
+Regular price
+$21.99
+BULL CITY MAGNET
+Regular price
+$7.00
+COFFEE TRAVELER PACK (2.11 OZ.)
+Regular price
+More Options >
+$3.00
+COTTON NAPKINS SET OF 4 (16" x 16")
+Regular price
+More Options >
+$26.00
+HEALING OIL
+Regular price
+More Options >
+$16.00
+JUSTEA TEA POUCH
+Regular price
+More Options >
+$11.99
+REED DIFFUSER SET
+Regular price
+More Options >
+$25.00
+SOLID LEGGINGS
+From $32.00
+$32.00
+INVEST IN ARTISANS
+Every time you make a purchase, you're sustaining safe, living wage jobs that help support artisan and farmer families in dozens of countries around the world.
+MAKE A DONATION
+JOIN US ON INSTAGRAM! TAG + FOLLOW @BULLCITYFAIRTRADE
+Learn
+About Us
+Our Impact
+What Is Fair Trade?
+Visit Our Blog
+BCFT Archives
+Frequently Asked Questions
+Privacy Policy
+Return Policy
+Terms of Service
+Get Involved
+Donate
+Volunteer
+Get Rewards
+Join Our Newsletter
+Work
+Partner With Us
+Shop By Cause
+Visit / Contact Us
+Artisan Spotlights
+Bright Endeavors
+Fair Anita
+Gabi's Grounds
+Malia Designs
+Mata Traders
+New Creation
+Rover + Kin
+Starfish Project
+Thistle Farms
+Twin Engine Coffee
+Women of the Cloud Forest
+Contact
+811 9th St, Suite 100
+Durham, NC 27705
+(919) 286-2457
+info[at]bullcityfairtrade.com
+Follow Us
+Facebook
+Instagram
+Copyright © 2024,
+Bull City Fair Trade
+.
+Payment icons
+American Express
+Apple Pay
+Diners Club
+Discover
+Google Pay
+Mastercard
+Shop Pay
+Visa
+Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
+choosing a selection results in a full page refresh
+Opens in a new window.
+Opens external website in a new window.

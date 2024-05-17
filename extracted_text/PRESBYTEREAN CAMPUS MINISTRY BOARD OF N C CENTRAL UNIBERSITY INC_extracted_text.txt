@@ -1,0 +1,647 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'property': 'og:title', 'content': 'Ministries'}
+{'property': 'og:description', 'content': ''}
+{'property': 'og:url', 'content': 'https://ukirk.org/ministries/'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:article:published_time', 'content': '2023-02-14 15:14:36'}
+{'property': 'og:article:modified_time', 'content': '2023-02-23 10:41:50'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Ministries'}
+{'name': 'twitter:description', 'content': ''}
+{'name': 'author', 'content': 'Tent App Support'}
+{'content': 'Tent Apps Church Theme v.1.0.0', 'name': 'generator'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.126.0'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'}
+{'name': 'msapplication-TileImage', 'content': 'https://ukirk.org/wp-content/uploads/2023/01/cropped-UKIRK-logo-270x270.png'}
+
+Body Text:
+Ministries | UKirk
+About
+Who We Are
+UKirk Strategic Plan 2026
+Staff and Board
+Board Nominations
+History of Support
+Ministries
+Find a Ministry
+Refer a Student
+Register a Ministry
+News & Events
+Ukirk Stories
+2024 UKirk National Gathering
+Resources
+Daily Prayer
+Jobs
+Donate
+Log In
+Find A Ministry
+We have several great ministries for you to get involved with or learn more information about.  Use the following tool to help you find the ministry you are looking for.
+Name
+Schools
+A.T. Still University
+Agnes Scott College
+Alamo College
+Alma College
+and Ivy Tech
+Appalachian State University
+Arizona Christian University
+Arizona State University
+Auburn University
+Austin Community College
+Ball State
+Baylor University
+Belmont
+Bethel College
+Bethel University
+Binghamton University
+Birmingham Southern College
+Blinn College
+Bloomsburg University
+Blue Ridge Community College
+Bluegrass Community and Technical College
+Branded as UKirk (UKirk is in the title of your ministry) Cate Van
+Branded as UKirk (UKirk is in the title of your ministry) Rachel
+605-670-2156
+Bridgewater College
+Bryant University
+Buena Vista University
+Buffalo State College
+Butler CC
+Cal Poly University
+Cardoza
+Carlow University
+Carnegie Mellon University
+Cascadia Community College
+Case Western Reserve University
+Central Community College
+Central Michigan University
+Centre College
+Chaplaincy
+Chatham University
+Chattanooga State
+Clemson University
+Cleveland Institute of Art
+Cleveland Institute of Music
+Cleveland State University
+Coe College
+College of Charleston and The Citadel
+Collin College
+Colorado State University-Pueblo
+Columbia College
+Columbia University
+Columbus State University
+Community College
+Congregational Ministry
+Converse College
+Cornell University
+Cuesta College
+Cuyahoga Community College
+Davidson College UKirk
+Denison University
+Denison Universty
+Denver University
+Downtown Richmond
+Duke University
+East Carolina University
+East Tennessee State University
+Eastern Mennonite University
+Eastern Michigan University Washtenaw Community College
+Eastern New Mexico University
+Ecumenical
+Edgecombe Community College
+Edgewood College
+Embry-Riddle Aeronautical University
+Emory University
+Everett Community College
+FAMU
+Flagler College
+Florida Atlantic University
+Florida Institute of Technology
+FSU
+Furman University
+Gannon University
+George Mason University
+George Washington Univ; Georgetown
+Georgia Southern University
+Georgia State University
+Georgia Tech
+Grand Valley State University
+Greensboro
+Greensboro College
+Guilford College Technical Community College
+Hamilton College
+Hendrix College
+Indiana University
+Indiana University-South Bend
+Indiana Wesleyan
+Iowa State University
+Ithaca College
+J. Sargent Reynolds
+Jacksonville State University
+James Madison University
+Kansas State University
+Kilgore College
+Knoxville
+Lafayette College
+LaGrange College
+Lake Forest College
+Lane Community College
+Lawrence
+Lebanon Valley College
+Lindenwood University
+Linn-Benton Community College
+Lipscomb
+Los Angeles Trade Tech College
+Louisiana State University
+Lourdes University
+Lyon College
+Macalaester College
+Macon Campus
+Madison
+Malone University
+Marshall University
+McNeese State University
+Mercer University
+Meredith College
+Miami Universtiy
+Michigan State University
+Middle Tennessee State University
+Midlands Tech
+Mississippi State University
+Mississippi State University Campus-Based
+Mississippi University for Women Campus-Based
+Missouri State University
+Missouri Valley College Campus-Based
+Moberly Area Community Colleges
+Monmouth College
+Montana State University; Gallatin College
+Murray State University
+Muskingham University
+Nebraska Wesleyan
+New River Community College
+New York University
+None
+North Carolina State University
+Northern Arizona University
+Northwest Christian University
+Northwest Mississippi Community College
+Oakland University
+Ohio University
+Oklahoma State University
+Old Dominion University
+Oregon State University
+Owens Community College
+Parsons
+PCUSA Related College Rev. Pam
+Penn State University
+Pensacola State College
+Pitt Community College
+Primarily Wichita State
+Princeton University
+Purdue University
+Queens University of Charlotte
+Radford University
+Rhodes College
+Rockinghman Community College
+Rocky Mountain College
+Saint Louis University
+Salem College
+Samford University
+San Francisco State University
+Schreiner University
+Seattle Pacific
+Seattle University
+Shawnee State University
+Shepherd University
+Shoreline Community College
+South Louisiana Community College (SLCC)
+Southeast Community College
+Southeastern Louisiana University
+Southern Methodist University
+Southwestern Community College
+Sowela Technical College
+Spartanburg Methodist College
+Spoon River College
+Spring Hill College
+St. Cloud State University; St. Cloud Technical
+St. Edward's University
+Stanford University
+Stephen F. Austin State University
+Stephens College
+Stony Brook University
+SUNY Broome
+SUNY Cortland
+Tarleton University
+Taylor
+TCC
+Tennessee Tech
+Texas A&M University
+Texas State University
+The Military College of South Carolina
+The New School
+The Ohio State University
+The University of Kansas
+The University of Tennessee
+Transylvania University
+Trinity University
+Truman State University
+Tulane and Loyola Universities
+Tulsa University
+UNC Wilmington
+UNC-Charlotte
+UNH
+Union College
+University at Buffalo
+University Nebraska Lincoln
+University of Alabama
+University of Alabama at Birmingham
+University of Arizona
+University of Arkansas
+University of California–Santa Cruz
+University of Central Arkansas
+University of Cincinnati
+University of Delaware
+University of Dubuque
+University of Georgia
+University of Houston
+University of Idaho
+University of Illinois at Urbana-Champaign
+University of Kentucky
+University of Louisiana (Lafayette)
+University of Louisville
+University of Mary Washington
+University of Memphis
+University of Miami
+University of Michigan
+University of Minnesota Duluth
+University of Mississippi
+University of Missouri
+University of Nebraska - Lincoln
+University of North Carolina
+University of North Carolina- Chapel Hill
+University of Northern Iowa; Hawkeye Community College
+University of Notre Dame
+University of Oregon
+University of Pennsylvania
+University of Pikeville
+University of Pittsburgh
+University of Rochester
+University of South Alabama
+University of South Carolina
+University of Southern California
+University of Southern Mississippi
+University of Texas
+University of Texas at Dallas
+University of the Ozarks
+University of TN–Chattanooga
+University of Toledo
+University of Vermont
+University of Virginia
+University of Washington
+University of West Alabama
+University of West Florida
+University of Wisconsin
+University of Wisconsin - La Crosse
+University of Wyoming
+University Park
+UPR-Mayaguez Campus
+USC Upstate
+Valdosta State University
+Vanderbilt
+VCU
+Virginia Tech
+Wake Forest University
+Waldorf University
+Washington State University
+Washington University
+Wesleyan University
+West Georgia Technical College
+West Virginia State University
+West Virginia University
+Western Carolina University
+Western Illinois University
+Western Kentucky University
+Western Michigan University
+Western Oregon University
+Westminster College
+William Peace University
+Winthrop University
+Wofford College
+York Technical College
+States
+AL
+AR
+AZ
+CA
+CO
+CT
+DC
+DE
+FL
+GA
+IA
+ID
+IL
+IN
+KS
+KY
+LA
+MI
+MN
+MO
+MS
+MT
+NC
+NE
+NJ
+NM
+NY
+OH
+OK
+OR
+PA
+PR
+SC
+TN
+TX
+VA
+VT
+WA
+Washington
+WI
+WV
+WY
+Countries
+US
+USA
+UKirk Birmingham
+UKirk Shadyside
+The Vine
+United Campus Ministry (UW-La Crosse)
+Wingspan ILM
+Jacob‘s Porch
+Westminster Club of Washington State University
+UKirk Bryant
+University Presbyterian Ministry
+RISE U (Harrisonburg, Virginia)
+Cooperative Christian Ministry (Univ. of Vermont)
+Community College outreach ministry
+The Inn
+Whitworth University Campus Ministry
+ShepConnections@Shepherd University (WV)
+Carroll University Office of Spiritual Life
+North Lima Presbyterian Church
+Pres House (Presbyterian Student Center Foundation)
+Davis and Elkins
+Harless Center, Inc
+Marshall UKirk
+Westminster Foundation Hospitality (Cookies and Conversation)
+WV UKirk-PSF (Presbyterian Student Fellowship, West Virginia University)
+UKirk @ EWC
+United Presbyterian Church – University of Wyoming
+United Campus Ministry
+First Presbyterian Church Kerrville, TX UKirk
+Trinity University Chapel | Spiritual Life
+Trinity University Chaplaincy
+UKIRK @ FPC Kilgore
+UKirk Austin
+UKirk SMU (Dallas, TX)
+First Presbyterian Church, Waco, TX
+United Campus Ministry in Aggieland
+United Campus Ministry of Greater Houston (Texas)
+United Campus Ministry Texas State University
+Westminster University Fellowship: A UKIRK Ministry
+Arise Campus Ministry
+Campus Christian Community
+Presbytery of the Peaks
+UKirk @ Radford University
+UKirk at UVA (University of Virginia)
+Trinity Presbyterian Church (Harrisonburg, VA)
+UKirk at Virginia Tech
+UKirk RVA (Richmond, VA)
+Office of the Chaplain
+UKirk Furman
+Ukirk PC (Clinton, South Carolina)
+UKirk SC – A Presbyterian Campus Ministry
+UKirk Winthrop
+Cumberland Presbyterian Ministry (CPM)
+Hope House (UKirk at UTC)
+Maryville College Center for Campus Ministry
+Presbyterian Student Association/UKirk @ Tennessee Tech
+UKIRK MTSU (Middle Tennessee State University)
+Seong Im
+UKirk ETSU (East Tennessee State University)
+UKirk Memphis (Tennessee)
+UKirk Ministries at the University of Tennessee, Knoxville
+UKirk Nashville (Tennessee)
+Austin College Religious Life Program
+Chaplain’s Office – Margarite B. Parker Chapel
+First Presbyterian Church, Stephenville, Texas
+Grace Presbyterian Church
+Schreiner University Campus Ministry, Kerrville, Texas
+Calvary UKirk
+Christian Association at the University of Pennsylvania
+Christian Life at LVC
+First Presbyterian Church of the Covenant (Gannon University)
+Office of Religious and Spiritual Life at Lafayette College
+Presbyterian Student Fellowship
+Protestant Campus Ministry at Bloomsburg University
+The Commonwealth
+UKirk New Willy
+Westminster Presbyterian Fellowship at Penn State
+Wilson College Office of the Chaplain
+Escuela Elemental y Superior Antolina Velez
+UKirk Mayaguez, PR
+UKirk Puerto Rico
+Presbyterian Student Association at Clemson (PSA)
+Journey
+Mere Christianity Forum
+Spartanburg UKirk (South Carolina)
+Tyger River Presbyterian Church
+JASM Presbytery Ministries
+Malone University Office of Spiritual Formation
+Office of the Chaplains
+Oxford Presbyterian Church
+PCCM @ Oxford Presbyterian Church (Miami University)
+Presbyterians at Denison
+Religious & Spiritual Life at the College of Wooster
+Student Community at Covenant
+Toledo Campus Ministry
+UKirk Cincinnati (University of Cincinnati)
+UKirk Wooster
+UKirk Stillwater
+UKirk Tulsa (Oklahoma)
+Office of Religious and Spiritual Life
+The Koinonia Center: A UKirk Ministry
+WestM- United Campus Ministry at Westminster House (Oregon State University)
+Western Compass
+First Presbyterian Church
+Jacob’s Porch
+UKirk-Salem College Presbyterian Campus Ministry
+Federated Church
+The Co-Op 513
+UKirk Lincoln
+Protestant Campus Ministry @ Stony Brook University (New York)
+Princeton Presbyterians
+Presbyterian Campus House (Portales, New Mexico)
+Campus Church ConneXion
+Campus Protestant Ministry at Union College
+First Presbyterian Church NYC
+Interfaith & Protestant Campus Ministry
+Ithaca College Protestant Community
+LaMP Campus Ministry
+PRiSM Student Ministry in NYC
+Protestant Chapel Community
+Protestant Cooperative Ministry (PCM) at Cornell University (Ithaca, New York)
+UKirk @ UPC Binghamton
+UR Protestant Chapel Community
+Campus Ministry to Shawnee State University
+Center for Religious and Spiritual Life
+Presbyterian Fellowship
+UKirk at Mississippi State
+UKirk Ole Miss
+Office of Spiritual Life and Church Relations
+Presby Cats@Montana State Univ. and Gallatin College
+Davidson College UKirk
+Duke Presbyterian Campus Ministry (North Carolina)
+Niner United Campus Ministry
+PCM Raleigh
+Presbyterian Campus Ministry North Carolina Central University
+Presbyterian Campus Ministry of Chapel Hill, NC, Inc
+Presbyterian Episcopal Campus Ministry @ 3rd Place
+Queens University Chapel
+UKirk at Wake Forest University (North Carolina)
+UKirk at WCU
+Ukirk Greensboro
+UKIRK of East Carolina
+UKirk WCU
+Campus Ministry
+EMU/WCC UKIRK
+First Presbyterian Church Mt. Pleasant MI UKIRK
+UCM (United Campus Ministry) at Western Michigan University
+UKirk at Michigan State (Presbyterian Campus Ministry)
+UKirk OU
+UKirk@UMich
+United Campus Christian Fellowship (Grand Rapids and Allendale, Michigan)
+Macalester College Center for Religious and Spiritual Life
+St. Cloud UKirk Ministries
+Ekklesia MSU (United Ministries) at Missouri State University
+Office of Spiritual Life@Westminster College
+Presbyterian College Fellowship
+Spiritual Life at Lindenwood University
+UKIRK Ministries-Columbia, MO
+UKirk St. Louis
+MSUkirk
+MUW UKirk
+Northwest Mississippi Community College UKirk
+Sunnyside Presbyterian Church
+UKIRK at IU
+UKirk@Purdue (Indiana)
+Ecumencial Campus Ministry (ECM)
+Ecumenical Campus Ministry
+Grace YaYa’s
+737 at University of Pikeville
+Centre College Religious Life Office
+Topper Student Ministries
+UKirk Lexington
+UKirk Louisville
+UKirk Murray State
+UKirk WKU
+Labyrinth and NOLA Wesley@Tulane and Loyola
+PCF- Presbyterian Campus Fellowship
+Presbyterian Campus Ministry of Southeastern
+Ukirk Presbyterian Campus Ministry at LSU
+Wesley United Campus Ministry@University of Louisiana (Lafayette)
+Alma College Chapel
+UKirk at LaGrange College
+UKirk Atlanta
+UKirk Georgia Southern
+UKirk LaGrange
+UKirk Macon
+Westminster Christian Fellowship
+BVU Chaplain/Spiritual Life Dept.
+Campus Ministry at UD
+Coe College Office of the Chaplain
+Like Fire Campus Ministry (Waldorf University)
+The Vine@Iowa State University
+ThreeHouse (University of Northern Iowa & Hawkeye Community College)
+Presbyterian Student Organization (PSO)
+College Ministry at First Presbyterian Church in Lake Forest not sure this exists
+First Presbyterian Church of Macomb
+Religious and Spiritual Life at Monmouth College
+The McKinley Foundation at the University of Illinois Urbana-Champaign
+First Presbyterian of Grant County
+Washington Seminar Center
+Sweaty Sheep
+United Campus Christian Ministry at Stanford University
+First Presbyterian Church check and see if this one is really functioning
+The Foundation (Denver, Colorado)
+United Presbyterian Church
+Wesleyan Christian Community
+College Ministry at Western Presbyterian Church
+Lumos Presbyterian Campus Ministry
+Protestant Campus Ministry
+UKirk of the Palm Beaches
+UKirk Tallahassee
+UKirk@RPC
+University Chaplain
+UWF UKirk not on our google spreadsheet
+UKirk @ Flagler College (St. Augustine, Florida)
+Agnes Scott
+Presbyterian Student Center @ University of Georgia
+The Abbey Fellowship (Columbus, GA)
+The Center at VSU, Inc. (Valdosta State)
+Bama UKirk
+Stillman College Chapel Program
+UKirk Auburn
+UKirk South Alabama
+UkirkJSU
+West Alabama UKirk
+Lyon College Campus Ministry
+UKirk Ministry of Conway – Univ. of Central AR and Hendrix College
+UKirk Ozarks
+United Campus Ministry at the University of Arkansas
+Presbyterian Campus Ministry@University of Arizona
+UKIRK Presbyterian Campus Ministry @ ASU
+UKirk Presbyterian Campus Ministry@ACU (Arizona Christian University)
+United Christian Ministry @ NAU
+Campus Engagement at United University Church (USC, Los Angeles, CA)
+Ec House Campus Ministry
+Front Porch SLO@Cal Poly University, Cuesta College
+University of Souther California, Los Angeles
+Download Today
+UKirk Mobile App
+Stay up-to-date
+Access signups right away
+Give with ease
+
+210-237-8612
+
+800 Jefferson Street
+Kerrville, TX 78028
+Connect With Us
+
+Facebook
+
+Instagram
+
+Twitter
+
+800 Jefferson Street
+Kerrville, TX 78028
+
+[email protected]
+
+210-237-8612
+Sign up for News
+Fill out the form below to get connected with us and stay in the loop of all that we do!  We’d love to get to know you more!
+Please leave this field empty
+First name
+Last name
+Email Address
+*
+Check your inbox or spam folder to confirm your subscription.

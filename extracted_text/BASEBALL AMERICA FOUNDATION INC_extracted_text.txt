@@ -1,0 +1,210 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'property': 'locale', 'name': 'locale', 'content': 'en'}
+{'property': 'env', 'name': 'env', 'content': 'production'}
+{'property': 'description', 'name': 'description', 'content': 'Since 1978, USA Baseball has been the national governing body for amateur baseball.'}
+{'property': 'page_id', 'name': 'page_id', 'content': 'Home'}
+{'property': 'og:title', 'name': 'og:title', 'content': 'Home | USA Baseball'}
+{'property': 'og:description', 'name': 'og:description', 'content': 'Since 1978, USA Baseball has been the national governing body for amateur baseball.'}
+{'property': 'og:image', 'name': 'og:image', 'content': ''}
+{'property': 'og:imag:alt', 'name': 'og:imag:alt', 'content': 'Since 1978, USA Baseball has been the national governing body for amateur baseball.'}
+{'property': 'og:site_name', 'name': 'og:site_name', 'content': ''}
+{'property': 'og:url', 'name': 'og:url', 'content': 'https://www.usabaseball.com/'}
+{'property': 'og:type', 'name': 'og:type', 'content': 'website'}
+{'property': 'timezone', 'name': 'timezone', 'content': 'America/New_York'}
+{'property': 'twitter:card', 'name': 'twitter:card', 'content': 'summary_large_image'}
+{'property': 'twitter:site', 'name': 'twitter:site', 'content': 'null'}
+{'property': 'twitter:description', 'name': 'twitter:description', 'content': 'Since 1978, USA Baseball has been the national governing body for amateur baseball.'}
+{'property': 'twitter:title', 'name': 'twitter:title', 'content': 'Home | USA Baseball'}
+{'property': 'twitter:image', 'name': 'twitter:image', 'content': ''}
+{'property': 'twitter:imag:alt', 'name': 'twitter:imag:alt', 'content': 'Since 1978, USA Baseball has been the national governing body for amateur baseball.'}
+{'property': 'viewport', 'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no'}
+{'name': 'next-head-count', 'content': '29'}
+
+Body Text:
+Home | USA Baseball
+Develops
+American Development Model
+BASE Compliance
+Blog
+Coach Clinics
+Courses
+Fun At Bat
+Homegrown
+Mobile Coach
+Pitch Smart
+Play Ball
+Prospect Development Pipeline
+Team USA
+Premier12
+Home
+Schedule
+Roster
+Women's
+Home
+Schedule
+Roster
+Collegiate
+Home
+Schedule
+Roster
+18U
+Home
+Schedule
+Roster
+NTDP
+Home
+Schedule
+Roster
+15U
+Home
+Schedule
+Roster
+12U
+Home
+Schedule
+Roster
+Events
+13U/14U Athlete Development
+Champs-Arizona
+Champs-North Carolina
+NTIS
+NHSI
+Futures Invitational
+Breakthrough Series
+Hank Aaron Invitational
+Girls Baseball Development
+DREAM Series
+States Play
+Event Registration
+Appalachian League
+Video
+USABat
+About USABat
+FAQ
+Bat Advisory Committee
+Approved Bat List
+Approved Tee Ball List
+Decertified Bat List
+Tampering is Cheating
+2024 USABat Guide
+About
+Alumni: Coaches/Admin
+Alumni: Players
+Alumni in the Majors
+Awards & Honors
+Baseball5
+Board of Directors
+Calendar
+Employment
+FAQ
+Governance
+History
+International Sanctions
+Member Organizations
+National Training Complex
+Partners
+Staff/Contact Us
+Travel Services
+Anti-Doping
+Donate
+Media
+SafeSport
+Golden Spikes Award
+Shop
+Develops
+Team USA
+Events
+Video
+USABat
+About
+Anti-Doping
+Donate
+Media
+SafeSport
+Golden Spikes Award
+Shop
+USA Baseball Mourns the Passing of Sean Burroughs
+USA Baseball mourns the loss of alumnus Sean Burroughs, who unexpectedly passed away on Thursday at the age of 43.
+WBSC Celebrates Tenth Anniversary, May 10th Declared World Baseball Softball Day
+The 2024 calendar year is a significant milestone for international baseball, as it marks the tenth anniversary of the birth of the World Baseball Softball Confederation (WBSC) as a world governing body. To honor this day, the WBSC Executive Board has declared May 10th as the official World Baseball Softball Day.
+2024 Collegiate National Team Schedule Revealed
+USA Baseball revealed the 2024 Collegiate National Team schedule, which is highlighted by the return of the USA vs. Chinese Taipei International Friendship Series and the addition of the Summer League Tour.
+USA Baseball, Town of Cary Open Executive Offices and Training Center at National Training Complex
+USA Baseball and the Town of Cary announced the grand opening of the Executive Offices and Training Center at the USA Baseball National Training Complex in Cary, North Carolina. The grand opening coincides with a 20-year agreement that was recently signed by USA Baseball and the Town of Cary, solidifying Cary, North Carolina, as the permanent home of the national governing body for baseball in the United States.
+Corona Shuts Out Orange Lutheran, Captures 2024 NHSI Title
+In its first-ever appearance in the National High School Invitational presented by the Greater Raleigh Sports Alliance, Corona High School shut out three-time champion Orange Lutheran, 3-0, to capture the 2024 title in Cary, North Carolina, at the USA Baseball National Training Complex.
+carousel-arrow-left-28773
+carousel-arrow-right-28774
+more-28775
+Sign Up for News and Updates
+Latest News
+USA Baseball Mourns the Passing of Sean Burroughs
+GSA Spotlight: Austin Peay's Lyle Miller-Green
+WBSC Celebrates Tenth Anniversary, May 10th Declared World Baseball Softball Day
+USA Baseball Reveals 2024 Collegiate National Team Schedule
+GSA Spotlight: Louisiana Tech's Ethan Bates
+More News
+Featured Stories
+Check out the 2024 NHSI Digital Program
+Check out the 2024 USA Baseball National High School Invitational digital program. The program includes full team rosters, information on the participating teams and their players, messages from our sponsors and more!
+The 2024 NHSI by the Numbers
+As the 2024 National High School Invitational quickly approaches, USABaseball.com breaks down this year's event by the numbers.
+USA Baseball Alumni Report
+USA Baseball alumni are all over the baseball landscape in 2024. Follow along throughout the season to keep track of some of the best performances among Team USA alumni across every level of the sport.
+Find Events and Teams
+Check by date of birth to find the right events and teams for you!
+Check out the 2024 USABat Guide
+The 2024 USABat Guide presented by VukGripz is here! Take a look to see the approved list of USABats, featuring many innovative products that aim to advance the game while maintaining its traditional values.
+The Road to Play for Team USA in 2024
+The road to a USA Baseball national team can take many routes. Use the attached table to see which team(s) you are eligible for, and its corresponding selection event.
+More Stories
+carousel-arrow-left-28776
+carousel-arrow-right-28777
+Find Events and Teams
+Check by date of birth to find the right events and teams for you!
+Learn More
+Latest Highlights
+play-overlay-28778
+2024 NHSI Recap
+April 15, 2024 (02:08)
+play-overlay-28779
+José Vázquez on MLB Network
+February 28, 2024 (01:08)
+play-overlay-28780
+David and Rick Eckstein Join Hot Stove
+February 28, 2024 (08:32)
+play-overlay-28781
+Team USA Wins World Cup Gold
+August 9, 2023 (01:58)
+play-overlay-28782
+USA Baseball's Freedom
+December 7, 2023 (00:56)
+play-overlay-28783
+Women's National Team Sweeps Group Stage
+September 28, 2023 (00:43)
+More Video
+Upcoming Events
+May 29:
+Community Clinic
+(Moss Bluff, La.)
+May 31-June 8:
+NCAA Division II College World Series
+(Cary, N.C.)
+June 7-9:
+Breakthrough Series
+(Vero Beach, Fla.)
+June 11-14:
+17U National Team Championships
+(Cary, N.C.)
+June 12-17:
+17U National Team Championships
+(Phoenix, Ariz.)
+Featured Photos
+More Photos
+Follow USA Baseball on Social!
+Terms of Use
+Privacy Policy
+Media Services
+Copyright ©
+2024

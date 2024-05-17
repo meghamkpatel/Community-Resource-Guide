@@ -1,0 +1,166 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Student Action with Farmworkers is a 501(c)3 non-profit organization whose mission is to bring students and farmworkers together to learn about each other’s lives, share resources and skills, improve conditions for farmworkers, and build diverse coalitions working for social change.'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.6.2'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Student Action with Farmworkers'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Student Action with Farmworkers'}
+{'property': 'og:description', 'content': 'Student Action with Farmworkers is a 501(c)3 non-profit organization whose mission is to bring students and farmworkers together to learn about each other’s lives, share resources and skills, improve conditions for farmworkers, and build diverse coalitions working for social change.'}
+{'property': 'og:url', 'content': 'https://saf-unite.org/'}
+{'property': 'og:image', 'content': 'https://saf-unite.org/wp-content/uploads/2020/07/students-bnw-green.png'}
+{'property': 'og:image:secure_url', 'content': 'https://saf-unite.org/wp-content/uploads/2020/07/students-bnw-green.png'}
+{'property': 'og:image:width', 'content': '3264'}
+{'property': 'og:image:height', 'content': '2022'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@SAFistas'}
+{'name': 'twitter:title', 'content': 'Student Action with Farmworkers'}
+{'name': 'twitter:description', 'content': 'Student Action with Farmworkers is a 501(c)3 non-profit organization whose mission is to bring students and farmworkers together to learn about each other’s lives, share resources and skills, improve conditions for farmworkers, and build diverse coalitions working for social change.'}
+{'name': 'twitter:creator', 'content': '@SAFistas'}
+{'name': 'twitter:image', 'content': 'https://saf-unite.org/wp-content/uploads/2020/07/students-bnw-green.png'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Romina'}
+{'name': 'twitter:label2', 'content': 'Est. reading time'}
+{'name': 'twitter:data2', 'content': '1 minute'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'WPML ver:4.6.10 stt:1,2;'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://saf-unite.org'}
+{'name': 'msapplication-TileImage', 'content': 'https://saf-unite.org/wp-content/uploads/2020/01/cropped-SAFLogo-Color-onWhite_square-1-270x270.jpg'}
+{'content': 'https://saf-unite.org/?s={s}', 'itemprop': 'target'}
+
+Body Text:
+Student Action with Farmworkers
+Skip to primary navigation
+Skip to main content
+Sign up for our list serve!
+Facebook
+Instagram
+LinkedIn
+Donate
+Donate Monthly
+Student Action with Farmworkers
+Home
+About Us
+Mission & Vision
+Staff
+Board
+Our Story
+Annual Report
+Partners
+Contact Us
+Programs
+Levante Leadership Institute
+Into the Fields
+ITF Program Assistant
+Into the Fields Sponsor Organizations
+ITF Sponsor FAQ
+Frequently Asked Questions
+Solidaridad
+Cosecha
+From the Ground Up
+Resources
+News
+Fact Sheets
+Publications
+Theater
+Speaker Guide
+For Farmworkers
+For Alumni
+Jobs & Opportunities
+Stories
+Field Notes
+Documentary
+Videos
+Multimedia
+Narrative
+Zines
+Audio
+Take Action!
+National Farmworker Awareness Week
+Request a Speaker or Documentary
+Events
+Support Us
+Donate
+Volunteer
+Shop our SAF Store
+Update Your Contact Info
+Languages
+English
+Español
+Show Search
+Search this website
+Hide Search
+Student Action with Farmworkers
+Uniting for just living and working conditions for farmworkers and their families
+100,000+
+Farmworkers
+and their family members have gained access to health, legal, and education resources provided by SAF interns and fellows in the Carolinas
+Our programs
+1,000+
+Students
+have learned about farmworker rights and advocated for farmworker justice as a result of SAF leadership programs
+Take action with us!
+150+
+Partners
+including community organizations and university groups have partnered with SAF on access to higher education for immigrant students
+Partner with us!
+Take Action on Heat Stress
+Write a Public Comment
+Support SAF's work
+Make a donation to support our work with farmworkers and their families
+Child Labor Research Infographics
+New research on the working conditions of child farmworkers in NC and the health and social outcomes of their work
+A night with the mobile clinic
+The story of a mobile clinic visit to a farmworker labor camp with the North Carolina Farmworkers' Project
+What we're working on
+What We Do
+&
+How We Do It
+SAF students
+conduct outreach to workers in migrant labor camps
+, welcoming them to their new communities and educating them about their rights.
+SAF collaborates with
+partners
+to link farmworkers to legal services, healthcare, and migrant education resources.
+SAF advocates for workers’ rights and immigration reform through
+lobbying, policy work, and popular education.
+SAF
+supports worker organizing
+through petitions, actions, and marches.
+SAF raises consciousness about our food system through workshops, documentaries, and
+National Farmworker Awareness Week.
+SAF facilitates students and farmworkers sharing their stories and working toward social change through
+participatory documentary
+and
+theater.
+85% of fresh fruits and vegetables produced in the United States are harvested by hand.
+Farmworkers’ mean and median individual incomes from agricultural employment range from $15,000 –  $17,499.
+There are 2.5-3 million farmworkers in the United States.
+45% of agricultural workers are uninsured.
+500,000 children work in agriculture.
+The states with the highest farmworker populations are California, Texas, Washington, Florida, Oregon and North Carolina.
+84% of farmworkers are seasonal workers and 14% are migrant.
+Nearly 5 out of 10 farmworker households in North Carolina reported not being able to afford enough food to feed their families.
+Stay Connected
+Sign up to hear from us about SAF events & news
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+We don't share your information with third parties.
+Name
+Send me SAF news!
+Copyright © 2024 Student Actions with Farmworkers.  All rights reserved
+Made with
+in Durham NC by
+Odila Muni
+Contact Us
+Facebook
+Instagram
+LinkedIn

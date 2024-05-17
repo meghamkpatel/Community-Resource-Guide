@@ -1,0 +1,100 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'fdd39eca-563b-4ac4-aaa7-84e4cac4b0e8'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'adad008b-b586-466d-879a-d3a66d9e681f'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '224'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'We are the Jung Society of the Triangle. We nurture the search for meaning, \u200bnourish the psyche, \u200bawaken imagination, and \u200bsupport the healing journey. \n\u200b\u200bWe do this through lectures, workshops, small groups, salons, experiential encounters, retreats, and social events. People with a wide range of interests and professions attend our programs. \u200bNon-members are welcomed at all lectures and workshops.'}
+{'property': 'og:title', 'content': 'Jung Society of the Triangle | North Carolina'}
+{'property': 'og:description', 'content': 'We are the Jung Society of the Triangle. We nurture the search for meaning, \u200bnourish the psyche, \u200bawaken imagination, and \u200bsupport the healing journey. \n\u200b\u200bWe do this through lectures, workshops, small groups, salons, experiential encounters, retreats, and social events. People with a wide range of interests and professions attend our programs. \u200bNon-members are welcomed at all lectures and workshops.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/109510_3b22d211c1914339ac7dd8ba7e8e1d14%7Emv2.png/v1/fit/w_2500,h_1330,al_c/109510_3b22d211c1914339ac7dd8ba7e8e1d14%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.jungnc.org'}
+{'property': 'og:site_name', 'content': 'Jung Society NC'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'Financial, Coach'}
+{'name': 'fb_admins_meta_tag', 'content': 'jungtriangle'}
+{'property': 'fb:admins', 'content': 'jungtriangle'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Jung Society of the Triangle | North Carolina'}
+{'name': 'twitter:description', 'content': 'We are the Jung Society of the Triangle. We nurture the search for meaning, \u200bnourish the psyche, \u200bawaken imagination, and \u200bsupport the healing journey. \n\u200b\u200bWe do this through lectures, workshops, small groups, salons, experiential encounters, retreats, and social events. People with a wide range of interests and professions attend our programs. \u200bNon-members are welcomed at all lectures and workshops.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/109510_3b22d211c1914339ac7dd8ba7e8e1d14%7Emv2.png/v1/fit/w_2500,h_1330,al_c/109510_3b22d211c1914339ac7dd8ba7e8e1d14%7Emv2.png'}
+
+Body Text:
+Jung Society of the Triangle | North Carolina
+top of page
+trianglejungsociety@gmail.com
+Log In
+Home
+About
+About the Triangle Jung Society
+About Carl Jung
+Board Members
+Events
+Resources
+Who is Carl Jung?
+Membership
+Donate
+More
+Use tab to navigate through the menu items.
+Sign up for our newsletter!
+Dedicated to Nourishing
+the Human Spirit
+"All true things must change and only that which changes remains true."
+Home: Welcome
+Reflect. Learn. Grow. Share.
+Live a purposeful and creative life.
+Together let's build a more conscious and thoughtful community.
+Sign Up
+Home: Headliner
+About Us
+We are an organization of people interested in the work of Swiss psychiatrist Carl Gustav Jung and his followers.
+​​We are inspired by and deeply engaged in the evolution of Jung's paradigm of analytical psychology.
+​​We nurture the search for meaning, ​nourish the psyche, ​awaken imagination, and ​support the healing journey.
+​​We do this through lectures, workshops, small groups, salons, experiential encounters, retreats, and social events.
+​
+People with a wide range of interests and professions attend our events. ​Non-members are welcomed at all lectures and workshops.
+Learn More
+Home: About
+Our Events
+Learn Differently. Explore all of the learning opportunities the Jung Society of the Triangle offers. Take advantage of our programming offers for dynamic conversations on a diverse range of psychological, artistic, and spiritual topics.
+Our mission is to support the development of greater self-awareness, creative expression, and psychological insight—individually in relationships and within the community. The Jung Society of the Triangle provides pathways to find a deeper meaning in everyday life.
+Upcoming Events
+Friday Lectures
+Friday Lectures,  presented by Jungian Analysts, include  current topics of interest in the field of Depth Psychology.
+Saturday Workshops
+Saturday Workshops show us how to incorporate  the concepts presented at the Friday Lectures, into our daily lives.
+Free Salons
+Free Salons, featuring  Jung Society members, present Jungian concepts and how they relate to a  particular field of expertise.
+Member Socials
+​Movie Mondays, ​C. G. Jung Birthday Party,  and the Winter Solstice Celebration  are our most popular  members-only events.
+Home: Services
+The Words of Carl Jung
+“We cannot change anything until we accept it. Condemnation does not liberate, it oppresses.”
+Carl Jung
+Home: Testimonials
+Awaken your imagination. ​Support the healing journey.
+Raleigh-Durham- Chapel Hill, North Carolina
+trianglejungsociety@gmail.com
+Join the Society
+Have any questions? Fill out this form and we will be in touch!
+Thanks for submitting!
+Submit
+Home: Contact
+Home: Headliner
+Submit
+Thanks for subscribing to our newsletter!
+Home: Subscribe
+Be the first to know about our upcoming events!
+Subscribe to our email list below!
+Reflect. Learn. Grow. Share
+©2022 Jung Society of the Triangle Area.LLC            Made with love by
+Sikes Media
+bottom of page

@@ -1,0 +1,103 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'df9ab862-51d9-448c-8e5d-8f167caca83e'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'fb2382b6-eea1-440e-8ede-4ad42aea63a4'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '5001'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Welcome to Victory Christian ministries International a place where the word of God and the power of God are available for you. We are one church in many locations.'}
+{'property': 'og:title', 'content': 'Victory | Victory Christian Ministries International | United States'}
+{'property': 'og:description', 'content': 'Welcome to Victory Christian ministries International a place where the word of God and the power of God are available for you. We are one church in many locations.'}
+{'property': 'og:url', 'content': 'https://www.vcmi.org'}
+{'property': 'og:site_name', 'content': 'vcmiglobal'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'Qoke1qC0pgViZKNgG1fwHGDnyLFpSJZVYMwYLAn_J2s'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Victory | Victory Christian Ministries International | United States'}
+{'name': 'twitter:description', 'content': 'Welcome to Victory Christian ministries International a place where the word of God and the power of God are available for you. We are one church in many locations.'}
+
+Body Text:
+Victory | Victory Christian Ministries International | United States
+top of page
+MEMBER LOG-IN
+HOME
+ABOUT US
+WATCH US LIVE
+MINISTRIES
+JOIN THE TEAM
+SALVATION
+CONTACT
+EMPLOYMENT
+CAMPUSES
+BOWIE
+CHARLES COUNTY
+MIDDLESBROUGH
+ORLANDO
+SAINT MARY'S
+SUITLAND
+V-NATION
+WASHINGTON DC
+WOODBRIDGE
+WOODBRIDGE_PRAYERWALL
+PARTNER
+TCBM
+BIBLE COLLEGE
+VICTORY CHRISTIAN PRESCHOOL & ACADEMY
+THE HEALING CENTER
+CHANGING LIVES
+GIVE
+DONATE
+EVENTS
+MESSAGES
+More
+Use tab to navigate through the menu items.
+REGISTER TODAY
+Experience the Power of God
+Join us for a virtual or in-person worship experience.
+VIEW THE LIVE STREAM
+ABOUT OUR CHURCH
+We are one church in many locations. A place where the Word of God and the power of God are available for you.
+​
+READ MORE >>
+PARTNER WITH US
+Want to be a part of what God is doing through VCMI? Click below to get involved and help impact the world for Jesus!
+CONNECT >>
+SERVICES
+We have dynamic Sunday services and immersive mid-week Bible study at all of our campuses. Click below to select a campus and see services times.
+READ MORE >>
+2024 NYE Declarations
+Declaration of Faith to Find Your Purpose in 2024
+Father, 2024 is "The Year of Fixed Purpose."  I will set my focus. I will look steadily and intently on the plan you have for me. I refuse to give my attention to anything that will prevent me from focusing on your will for my life.
+In this year of fixed purpose, I will seek Your wisdom and understanding first. You made plans for me before the world began. As I draw closer to You, the details of my purpose will be made clear...
+​
+Download the complete 2024 declaration to receive the full benefit of this declare.
+DOWNLOAD 2024 DECLARATION
+Victory Christian Ministries International A place where the Word of God and Power of God is available for you.  vcmi.org
+VCMI MISSIONS
+Go ye into all the world, and preach the gospel to every creature.
+Mark 16:15-16 KJV
+Learn More
+HELP US TO SPREAD GOD'S
+LOVE AND FAITH
+Click the button below to donate.
+GIVE >>
+HOURS
+OFFICE HOURS
+Monday through Friday 9:00am to 5:00pm EST
+Employment Opportunities
+ADDRESS
+301.423.8264
+3911 St. Barnabas Rd.
+Suitland, MD 20746
+contactus@vcmi.org
+SUBSCRIBE
+Subscribe Now
+Thanks for submitting!
+Media Request Form
+© 2024 VCMI
+bottom of page

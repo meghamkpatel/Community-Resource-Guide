@@ -1,0 +1,87 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Carolinas - EndHunger'}
+{'property': 'og:description', 'content': "Carolinas Gleaning Network     \xa0  Help Feed Hungry Families In The Carolinas Since 1992, The Society of St. Andrew has coordinated a statewide, volunteer-driven Gleaning Network across the Carolinas that coordinates with local farmers, thousands of volunteers, and food-providing agencies.     SoSA's Gleaning Network— and your community— need you to serve in the mission to prevent good food from being lost as food waste and instead use it to feed hungry people ..."}
+{'property': 'og:url', 'content': 'https://endhunger.org/north-carolina/'}
+{'property': 'og:site_name', 'content': 'EndHunger'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/Society-of-St-Andrew-210137351957/'}
+{'property': 'article:modified_time', 'content': '2024-02-05T16:52:19+00:00'}
+{'property': 'og:image', 'content': 'https://endhunger.org/wp/wp-content/uploads/2022/12/Gleaning-Winter-Squash-In-North-Carolina-with-Society-of-St.-Andrew-225x300.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@societystandrew'}
+{'name': 'twitter:label1', 'content': 'Est. reading time'}
+{'name': 'twitter:data1', 'content': '3 minutes'}
+{'property': 'og:site_name', 'content': 'EndHunger'}
+{'property': 'og:locale', 'content': 'en_us'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:image:width', 'content': ''}
+{'property': 'og:image:height', 'content': ''}
+{'property': 'og:image', 'content': 'https://endhunger.org/wp/wp-content/uploads/2022/12/Freshly-Gleaned-Apples-Give-Thanks-125x88.jpg'}
+{'property': 'og:title', 'content': 'Carolinas'}
+{'property': 'og:url', 'content': 'https://endhunger.org/north-carolina/'}
+{'property': 'og:description', 'content': "Carolinas Gleaning Network\r\n   \r\n\r\n\xa0\r\n\r\nHelp Feed Hungry Families In The Carolinas\r\nSince 1992, The Society of St. Andrew has coordinated a statewide, volunteer-driven Gleaning Network across the Carolinas that coordinates with local farmers, thousands of volunteers, and food-providing agencies.\r\n \r\n\r\n\r\nSoSA's Gleaning Network— and your community— need you to serve in the mission to prevent good food from being lost as food waste and instead use it to feed hungry people ..."}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 5.4.7.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+{'charset': 'utf-8'}
+{'name': 'google-site-verification', 'content': 'G4-jGRiV9V8n05YVZ2ZAqPnZ2B_MEeZUIjzLG9fU3TQ'}
+
+Body Text:
+Carolinas - EndHunger
+Donate Now
+Give Monthly
+GIVE
+Ways to Donate
+Monthly Donations
+Donate Crypto
+Christmas Cards
+Donate Crops
+SERVE
+Individuals & Groups
+Harvest of Hope
+Hunger Relief Agencies
+Team Glean
+United Methodist Men
+Employment
+LEARN
+Blog
+Newsletter Signup
+Food Waste Audit
+Food Waste Resources
+Food Waste in America
+Food Waste Quiz
+Hunger Resources
+Hunger in America
+Hunger Quiz
+Hunger Videos
+Request a Speaker
+LEAD
+Adopt a Bushel
+Just Ask – Hunger Screener
+Share Our Surplus
+Simple Supper
+Employment at SoSA
+Spiritual Resources
+Order Promo Materials
+Vacation Bible School
+Hunger Action Month
+Advent Devotions
+Lenten Devotions
+Bible Studies
+Carolinas Gleaning Network
+Create Volunteer Profile
+Yam Jam Signup
+Farmer Info
+Donations
+In 2024, through March:
+1,120,495 pounds
+of food gleaned and distributed
+4,481,980 servings
+of fresh food shared
+107 events
+held to rescue and share food
+1,385 volunteers
+engaged in hands-on service
+107 recipient
+agencies and partners

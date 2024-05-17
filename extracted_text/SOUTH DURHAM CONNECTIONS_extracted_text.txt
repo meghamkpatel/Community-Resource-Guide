@@ -1,0 +1,83 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'author', 'content': 'South Durham Connections'}
+{'name': 'generator', 'content': 'Starfield Technologies; Go Daddy Website Builder 8.0.0000'}
+{'property': 'og:url', 'content': 'https://soduco.org/'}
+{'property': 'og:site_name', 'content': 'South Durham Connections'}
+{'property': 'og:title', 'content': 'South Durham Connections'}
+{'property': 'og:description', 'content': 'Bringing South Durham Together'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'https://img1.wsimg.com/isteam/ip/37b27324-10a2-421c-83fe-7d8d760fa11d/Parktown%20400dpiLogo%202.jpg'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'South Durham Connections'}
+{'name': 'twitter:description', 'content': 'Bringing South Durham Together'}
+{'name': 'twitter:image', 'content': 'https://img1.wsimg.com/isteam/ip/37b27324-10a2-421c-83fe-7d8d760fa11d/Parktown%20400dpiLogo%202.jpg'}
+{'name': 'twitter:image:alt', 'content': 'South Durham Connections'}
+{'name': 'theme-color', 'content': '#F4EBDE'}
+
+Body Text:
+South Durham Connections
+WE ARE HIRING! 
+Click here to see the job descriptions
+Parktown Food Hub - 5123 Revere Road - Durham, NC 27713US
+984-484-8475
+984-484-8475
+Home
+Contact Us
+About Us
+Events
+Donate
+Volunteer
+Job Descriptions
+More
+Home
+Contact Us
+About Us
+Events
+Donate
+Volunteer
+Job Descriptions
+Sign In
+My Account
+Signed in as:
+filler@godaddy.com
+My Account
+Sign out
+Signed in as:
+filler@godaddy.com
+Home
+Contact Us
+About Us
+Events
+Donate
+Volunteer
+Job Descriptions
+Account
+My Account
+Sign out
+Sign In
+My Account
+Bringing South Durham Together
+About Us
+What We Do
+The Parktown Food Hub is working to help people in the Southern part of Durham, North Carolina build relationships across the lines that divide us by creating opportunities to live, learn, and love our neighbors - especially around sharing food. Find our calendar of events, volunteer hours and food distribtutions
+here
+.
+Get Involved
+There are many ways to volunteer and participate in the Hub. Contact Sharon Schulze, Parktown Food Hub Coordinator, for more information on volunteering, contributing, or partnering with the Hub.
+Email us for more information
+Nourishing Community
+The Parktown Food Hub is a place where hungry people can go to be fed. Food is not the only thing that the Hub provides, though. Opportunities to meet others, work together, and contribute to the community are also part of our mission. Check out the "Events" page to learn more about what's happening.
+Support Our Work
+Your generous donation supports the work of the Parktown Food Hub.
+Donate Here
+Social
+Copyright © 2024 South Durham Connections - All Rights Reserved.
+Home
+Contact Us
+About Us
+Events
+Donate

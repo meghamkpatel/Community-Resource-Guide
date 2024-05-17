@@ -1,0 +1,140 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '5c4c1236-a9be-4431-96ff-f30cd6084243'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'c3a580d2-922f-4b96-9b70-48e4c763760d'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '604'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Twenty Six Eight is a non-denominational church in Meridian, Idaho. We declare the name and fame of Jesus to families, neighborhoods and the city. —enabling them to share that life with others. We seek to share the gospel, make disciples and become more like Jesus. '}
+{'property': 'og:title', 'content': 'Twenty Six Eight | Meridian Church'}
+{'property': 'og:description', 'content': 'Twenty Six Eight is a non-denominational church in Meridian, Idaho. We declare the name and fame of Jesus to families, neighborhoods and the city. —enabling them to share that life with others. We seek to share the gospel, make disciples and become more like Jesus. '}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/deed86_d53b02e842154d07a56dc0a7fe812517~mv2.jpg/v1/fill/w_2500,h_1568,al_c/deed86_d53b02e842154d07a56dc0a7fe812517~mv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1568'}
+{'property': 'og:url', 'content': 'https://www.268church.org'}
+{'property': 'og:site_name', 'content': 'Twenty Six Eight'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'twentysixeight'}
+{'name': 'google-site-verification', 'content': 'ifVPCSkMyz6m_YTHvELnlTd5ZQsYfXOFNE3aD70Heoo'}
+{'property': 'fb:admins', 'content': 'twentysixeight'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Twenty Six Eight | Meridian Church'}
+{'name': 'twitter:description', 'content': 'Twenty Six Eight is a non-denominational church in Meridian, Idaho. We declare the name and fame of Jesus to families, neighborhoods and the city. —enabling them to share that life with others. We seek to share the gospel, make disciples and become more like Jesus. '}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/deed86_d53b02e842154d07a56dc0a7fe812517~mv2.jpg/v1/fill/w_2500,h_1568,al_c/deed86_d53b02e842154d07a56dc0a7fe812517~mv2.jpg'}
+
+Body Text:
+Twenty Six Eight | Meridian Church
+top of page
+Twenty Six Eight
+Visit
+About
+About
+Our Leadership
+Contact
+Kids Ministry
+Events
+Next Steps
+Baptism
+First Steps
+Serve
+Life Groups
+Resources
+268TV
+Livestream
+Blog
+Shop
+Give
+Jesus
+More
+Use tab to navigate through the menu items.
+LOGIN
+Twenty Six Eight
+WELCOME HOME
+JOIN US IN PERSON
+WATCH US ONLINE
+Join us for Saturday Church
+3:00 PM
+237 E. State Avenue, Meridian
+WHAT TO EXPECT
+Follow Jesus
+Jesus is the Savior of the world, and he came to save you. He dwelt among us, and he wants to live every day of your life with you. You can meet Jesus today.
+WHO IS JESUS?
+Live Like Family
+JOIN US IN COMMUNITY
+When Jesus left this earth, he left a beautiful community. We work together, live together, serve together, celebrate together and show love to the people in the world who are broken and lost.
+Love the City
+We serve  city communities, we serve friends, we serve neighborhoods, and we reach out to the lonely and isolated.
+Our Treasure Valley church shares the good news of Jesus and impacts our city.
+SERVE THE CITY AND COMMUNITY
+Give
+Your financial gifts help us spread the message of Jesus Christ. Become a monthly partner.
+GIVE TO THE VISION
+Events
+Here’s what’s happening at Twenty Six Eight!
+Be sure to check out our resources and classes.
+JOIN AN EVENT
+Isaiah 26:8
+"Yes Lord, walking in the way of your laws, we wait for you,
+your name and fame
+are the desire of our hearts."
+OUR VISION & BELIEFS
+Church App
+Watch messages, join a group, engage on Saturday mornings, find events and resources, and stay up to date with the Church App!
+DOWNLOAD OUR CHURCH APP
+JOIN US ONLINE
+1
+Watch a sermon, worship with us, and meet Jesus.
+WATCH A SERMON
+2
+Find a group of people who live in your city, or start a group.
+JOIN ONLINE CAMPUS
+3
+Create a community in your own neighborhood.
+HOST A WATCH GROUP
+Welcome Home... From Wherever You Live
+Join our email list and get access to special resources, videos and much more, no matter where you are in the country.
+Enter your email here
+Sign Up
+Thanks for submitting!
+©
+2023 by Twenty Six Eight
+Powered and secured by
+Wix
+ABOUT
+Twenty Six Eight is a nondenominational church. We follow Jesus, live like family and love the city of Meridian.
+© 2024 by Twenty Six Eight.
+Powered and secured by
+Wix
+LOCATION
+Church:
+237 E. State Avenue, Meridian, ID 83642
+Office:
+134 E Pine Avenue, Meridian, ID 83642
+The Garage:
+229
+E State Avenue, Meridian, ID 83642
+​
+208-571-2090
+c
+hurch@268church.org
+Visit
+Contact
+Events
+About
+Give
+RESOURCES
+VISIT
+Resources
+268TV
+Jesus
+Blog
+Baptism
+First Steps
+Serve
+Life Groups
+bottom of page

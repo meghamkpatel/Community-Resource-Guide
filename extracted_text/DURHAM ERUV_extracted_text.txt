@@ -1,0 +1,34 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width,maximum-scale=1,minimum-scale=1,initial-scale=1,viewport-fit=cover'}
+{'charset': 'utf-8'}
+{'property': 'og:title', 'content': 'Home - Durham Eruv'}
+{'property': 'og:description', 'content': ''}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'twitter:title', 'content': 'Home - Durham Eruv'}
+{'property': 'twitter:description', 'content': ''}
+
+Body Text:
+Home - Durham Eruv
+Home
+Benefits of the Eruv
+Eruv Status
+Map
+Contact
+Durham Eruv
+The Durham Eruv helps build and expand our Jewish community
+Map of the Eruv
+The Eruv is
+UP
+- April 19, 2024
+Home
+Benefits of the Eruv
+Eruv Status
+Map
+Contact
+Address
+1004 Watts Street
+Durham, NC 27701, US
+info@durhameruv.org
+About us
+Jewish law has developed a mechanism called an Eruv which transforms an outdoor area into one large symbolic home, within which
+carrying is be permitted. The Durham Eruv surrounds Beth El Synagogue and Fleishman House Chabad at Duke University. The Durham Eruv is an area with many family homes that are in walking distance of the synagogue.

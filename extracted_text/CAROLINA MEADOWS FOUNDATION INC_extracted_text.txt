@@ -1,0 +1,86 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'CM Foundation'}
+{'property': 'og:title', 'content': 'CM Foundation'}
+{'property': 'og:url', 'content': 'https://www.carolinameadowsfoundation.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/6109878d2512b354eaeeb4e0/t/61098a778cb41a4a02626efa/1628015223852/Carolina_Meadows_Foundation-Lockup_FINAL.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '363'}
+{'itemprop': 'name', 'content': 'CM Foundation'}
+{'itemprop': 'url', 'content': 'https://www.carolinameadowsfoundation.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/6109878d2512b354eaeeb4e0/t/61098a778cb41a4a02626efa/1628015223852/Carolina_Meadows_Foundation-Lockup_FINAL.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/6109878d2512b354eaeeb4e0/t/61098a778cb41a4a02626efa/1628015223852/Carolina_Meadows_Foundation-Lockup_FINAL.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'CM Foundation'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/6109878d2512b354eaeeb4e0/t/61098a778cb41a4a02626efa/1628015223852/Carolina_Meadows_Foundation-Lockup_FINAL.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.carolinameadowsfoundation.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+CM Foundation
+0
+Skip to Content
+Our Mission
+Why Give
+Ways to Give
+Funds
+FAQs
+Blog
+Donate
+Open Menu
+Close Menu
+Our Mission
+Why Give
+Ways to Give
+Funds
+FAQs
+Blog
+Donate
+Open Menu
+Close Menu
+Our Mission
+Why Give
+Ways to Give
+Funds
+FAQs
+Blog
+Donate
+Charitable Giving at Carolina Meadows
+The Power of Community
+Carolina Meadows knows what it means to be part of a community. We have a proud history of caring which radiates inward and outward to support employees and residents and to create a vibrant community life.
+Our Mission
+Your gift to the Carolina Meadows Foundation makes a difference, enhancing programs and services to increase the quality of life within our community. Charitable giving helps Carolina Meadows aspire to its vision to be the best place to live and work.
+The Carolina Meadows Foundation, Inc. was established in 2018 for the purpose of supporting Carolina Meadows, Inc. It creates a structured vehicle for the generosity that already exists, and it connects our generous gift-givers with the areas of greatest need within the Caroline Meadows community.  The Foundation allows a broader pathway for generous donors to contribute to the current and future success of Carolina Meadows, Inc.
+The Impact of Your Gift
+Your gifts – big and small – make an impact. You make the difference.
+Carolina Meadows is a place where people care deeply for each other, and it is a place worth giving to. Your gift makes a difference, enhancing programs and services to increase the quality of life within Carolina Meadows. Our donors include residents, family, friends and employees. They are inspired to give for different reasons and share the desire to make a positive impact.
+Learn More
+Our Family of Funds
+The Foundation has four main Funds: Fund for the Future, Fund for Campus Life, Fund for Employees and Resident Association Gift and Remembrance.  Each offers unique giving aspects.  Whatever your passion or interest, the Carolina Meadows Foundation can connect you with a meaningful and unique giving opportunity.
+Learn More
+Ways to Give
+Whether you are interested in making an immediate impact with your gift or leaving a legacy gift to assure a thriving future for Carolina Meadows, there are a variety of giving options.
+Learn More
+“Because of you, I wake up every day knowing that someone out there listens. Because of you, I have managed to avoid eviction. Because of you, the world is a better place to live in, and because of you, I am forever grateful and will one day pass it forward.”
+— Staff Recipient of Employee Emergency Assistance Fund
+The Carolina Meadows Foundation, Inc.
+Please reach out to learn more.
+We look forward to hearing from you.
+Amy Gorely, MPA
+Executive Director
+Phone: 919-370-7213
+Email: amy@carolinameadows.net
+Made with
+Squarespace
+About
+Our Mission
+Donate
+﻿
+Mailing Address:
+Carolina Meadows
+100 Carolina Meadows
+Chapel Hill, NC 27517

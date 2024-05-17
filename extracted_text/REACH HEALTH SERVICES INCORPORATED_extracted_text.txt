@@ -1,0 +1,84 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'Powered by LayerSlider 5.6.8 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress.'}
+{'property': 'og:title', 'content': 'REACH Health Services'}
+{'property': 'og:image', 'content': ''}
+{'property': 'og:url', 'content': 'https://ibrinc.org/reach/'}
+{'property': 'og:description', 'content': 'The REACH (Recovery Enhanced by Access to Comprehensive Healthcare) Health Services program, which originated as a National Institute on Drug Abuse (N'}
+{'property': 'og:site_name', 'content': 'Institutes for Behavior Resources, Inc.'}
+{'name': 'generator', 'content': 'Powered by Visual Composer - drag and drop page builder for WordPress.'}
+
+Body Text:
+REACH Health Services –  Institutes for Behavior Resources, Inc.
+Home
+About IBR
+History
+Board of Trustees
+Staff
+Collaborators
+Contact/Directions
+The Joseph V. Brady Behavioral Sciences Center at the Institutes for Behavior Resources
+Careers
+REACH Hours of Operation
+Contact/Directions
+Research
+Operational Fatigue & Performance
+Field
+Laboratory
+Simulator
+Modeling
+Small-Group Behavior & Social Neuroscience
+Behavioral Economics
+Behavioral Pharmacology & Pre-Clinical Research
+Policy Development
+Research Study Participation
+REACH Health Services
+REACH Hours of Operation
+Consulting & Education
+Fatigue Risk Management Systems (FRMS)
+Sleep, Activity, Fatigue, and Task Effectiveness (SAFTE)
+Behavioral Economics
+Policy Development
+Resources
+Facilities
+Software
+Behavioral Economics Tools
+Presentations
+Selected Publications
+REACH Health Services
+The REACH (
+R
+ecovery
+E
+nhanced by
+A
+ccess to
+C
+omprehensive
+H
+ealthcare) Health Services program, which originated as a National Institute on Drug Abuse (NIDA)-funded research project by IBR founder Dr. Joseph V. Brady in the early 1990’s, is a comprehensive, outpatient, substance use recovery program uniquely designed to deliver substance use disorder treatment, including medication-assisted treatment services, to individuals in the community. In response to the opioid epidemic, REACH offers overdose response training and Narcan™ prescriptions to treatment participants and the community. Guided by a patient centered and trauma informed approach to addiction and recovery, REACH realizes the widespread impact of trauma and understands the prevalence of traumatic events in the population we serve. REACH is also committed to offering culturally competent services to all individuals regardless of race, ethnicity, gender, sexual orientation, or religion.
+Outpatient Services
+Standard Outpatient Treatment
+We offer outpatient treatment for those seeking a safe, supportive environment. Services are provided in regularly scheduled sessions tailored to meet the needs of the individual. The treatment plan is developed between the counselor and the patient and individualized to meet the needs of the patient.
+Medication Assisted Treatment
+REACH offers medication-assisted treatment, including Methadone, Buprenorphine, and injectable naltrexone (Vivitrol
+™
+) in conjunction with standard outpatient therapies. Other medications are also available to assist in recovery from alcohol and tobacco use disorders. The combination of a medication plus other services provides the highest chance of recovery compared to medication alone or treatment that does not include a medication (
+McLellan et al JAMA 1993
+and
+Clark et al JSAT 2015
+).
+Intensive Outpatient Treatment
+REACH provides intensive outpatient services offering a higher level of care to patients struggling with relapse in standard outpatient or opioid maintenance therapies.  Group counseling is offered 4 days per week and includes topics such as stress and relapse management, coping skills, health and wellness, drug education, in addition to many others.  All patients receive individual counseling, case management and mental health referral, as needed.
+Health Home
+The Health Home Program, designed to promote overall wellness and health, assists clients in IBR/REACH’s opioid treatment program with coordinating their healthcare services, navigating the healthcare system, and managing chronic diseases through education, referrals, and other supportive activities. The health home aims to reduce the unique barriers that these individuals face by providing holistic, integrated healthcare coordination for primary, specialty, and behavioral health care.  Patients may receive limited primary care services, including hepatitis C treatment, as indicated.
+Interested in participating in the REACH program?  Call 410-752-6616
+Hours of Operation
+© 2012-2020 Institutes for Behavior Resources, Inc.
+Site designed by
+Elevated Interest
+Home
+Sitemap
+Privacy Policy & Terms of Use
+REACH Hours of Operation

@@ -1,0 +1,149 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Homepage - Pro-Choice North Carolina'}
+{'property': 'og:url', 'content': 'https://prochoicenc.org/'}
+{'property': 'og:site_name', 'content': 'Pro-Choice North Carolina'}
+{'property': 'article:modified_time', 'content': '2023-07-20T13:04:03+00:00'}
+{'property': 'og:image', 'content': 'https://prochoicenc.org/wp-content/uploads/2021/12/prochoice-announcement.jpg'}
+{'property': 'og:image:width', 'content': '1080'}
+{'property': 'og:image:height', 'content': '608'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'description', 'content': 'Pro-Choice North Carolina is a grassroots pro-choice advocacy organization. We believe that every person should be able to control their bodies and make their own decisions about the full range of reproductive health options.'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://prochoicenc.org/'}
+{'property': 'og:title', 'content': 'Pro-Choice North Carolina'}
+{'property': 'og:description', 'content': 'Pro-Choice North Carolina is a grassroots pro-choice advocacy organization. We believe that every person should be able to control their bodies and make their own decisions about the full range of reproductive health options.'}
+{'property': 'og:image', 'content': 'https://prochoicenc.org/wp-content/uploads/2021/12/prochoice-announcement.jpg'}
+{'property': 'og:image:width', 'content': '1080'}
+{'property': 'og:image:height', 'content': '608'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Pro-Choice North Carolina'}
+{'name': 'twitter:description', 'content': 'Pro-Choice North Carolina is a grassroots pro-choice advocacy organization. We believe that every person should be able to control their bodies and make their own decisions about the full range of reproductive health options.'}
+{'name': 'twitter:image', 'content': 'https://prochoicenc.org/wp-content/uploads/2021/12/prochoice-announcement.jpg'}
+{'name': 'msapplication-TileImage', 'content': 'https://prochoicenc.org/wp-content/uploads/2021/10/pro-choice-north-carolina-ico.png'}
+
+Body Text:
+Pro-Choice North Carolina
+Are you seeking abortion care? We can help:
+A Guide for Accessing Reproductive Healthcare in North Carolina
+Pro-Choice North Carolina
+Donate Now!
+Issues
+Crisis Pregnancy Centers
+Abortion Access
+Legislation
+Reproductive Healthcare
+Media
+News
+Press Releases
+Blog
+Events
+Resources
+About
+Campaigns
+Jobs and Internships
+Board of Directors
+Contact
+Support
+Pro-Choice Merch
+Workplace Giving
+Planned Giving
+Vehicle Donation
+Take Action
+Protecting Reproductive Freedom
+We’re facing powerful attacks on bodily autonomy and the right to access the full range of reproductive care options, including abortion. Now more than ever, we need you with us.
+Join the Fight
+Make a Donation
+Accessing Reproductive Healthcare in North Carolina
+Healthcare needs don't disappear during a global pandemic. To help North Carolinians navigate access during this time, we created this resource page, which we will do our best to update as needed.
+Read the Guide
+Everyday we fight to protect reproductive freedom and bodily autonomy for every person in North Carolina. We believe everyone should have access to affordable abortion care, the full range of birth control methods, paid parental leave, clinics that are free from harassment and violence, and protections from pregnancy discrimination.
+Abortion Access
+We provide resources for  North Carolinians to decide if, when and with whom to start or grow a family, and have access to abortion care.
+Learn More
+Crisis Pregnancy Centers
+We provide comprehensive and factual information about reproductive health and educate the public about Crisis Pregnancy Centers, or anti-abortion fake clinics.
+Learn More
+Legislation
+We work at all levels of government to combat anti-choice legislation. We trust people make the best decisions about their health care, not politicians.
+Learn More
+Get Resources
+Whether you are looking for information on how to access abortion in North Carolina, want to learn more about the state of reproductive rights, or are excited to support equitable access to abortion, contraception, and other reproductive health and justice issues, we have resources for you!
+Learn More
+Support Our Work
+We can't do this critical work without you! There are so many ways to show your support and be a part of this movement we are building. Thank you for joining us to protect and expand reproductive freedom for all!
+Ways to Support
+Make a Donation
+Our work is possible because of generous donations from people like you. Join the fight for reproductive rights by making a financial contribution.
+Donate Now
+More than
+1
+Million North Carolinians
+live in a county with no abortion provider (56% of the population).
+More than
+1
+North Carolinians
+of reproductive age are denied abortion care in their public insurance plans.
+More than
+1
+Anti-Abortion Bills
+have been introduced by lawmakers in North Carolina since 2010.
+See what we're doing about it
+Recent Posts
+Statement on the One Year Anniversary of North Carolina’s SB20
+News
+|
+On the 1-year anniversary of SB20, we can and will restore abortion access in NC.
+read more »
+Statement on Today’s Abortion Case at the U.S. Supreme Court
+News
+|
+At the heart of today's abortion rights case at SCOTUS is whether pregnant patients deserve the same right to comprehensive healthcare as everyone else.
+read more »
+What You Need to Know about Today’s Mifepristone Case at the U.S. Supreme Court
+News
+|
+The U.S. Supreme Court will be hearing the first abortion access case today since it overturned Roe v Wade in 2022.
+read more »
+Join the fight in North Carolina!
+We’re facing powerful attacks on bodily autonomy and the right to access the full range of reproductive care options, including safe and legal abortion. Now more than ever, we need you with us.
+Sign Up to Join our Email Listserv!
+Pro-Choice North Carolina
+4711 Hope Valley Road
+Suite 4F-509
+Durham, NC 27707
+info@prochoicenc.org
+(919) 424-7701
+Home
+Issues
+Crisis Pregnancy Centers
+Abortion Access
+Legislation
+Reproductive Healthcare
+Media
+News
+Campaigns
+Resources
+Blog
+Press Releases
+About
+Jobs and Internships
+Contact
+Support
+Workplace Giving
+Planned Giving
+Vehicle Donation
+Take Action
+Donate
+Copyright © 2023 Pro-Choice North Carolina
+Paid for by Pro-Choice North Carolina and not authorized by any candidate or candidate’s committee.
+Privacy Policy
+| Website Design by
+Hey Awesome Girl
+Search for:

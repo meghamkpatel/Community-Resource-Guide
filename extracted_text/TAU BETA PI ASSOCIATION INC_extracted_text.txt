@@ -1,0 +1,118 @@
+Meta Information:
+{'name': 'description', 'content': 'Homepage for Tau Beta Pi members including recent news, upcoming events, and useful links for officers and general members.'}
+{'name': 'keywords', 'content': 'Home, News, Upcoming Events, Job Board, Event Calendar, Store'}
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, minimal-ui'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black-translucent'}
+
+Body Text:
+Tau Beta Pi Members Website
+Members & Chapters
+Collegiate Chapters
+Collegiate Officers
+Alumni Chapters
+Alumni Officers
+Advisors
+Volunteer Opportunities
+Distinguished Members
+Member Lookup
+Organization
+Association Structure
+Leadership
+Boards & Committees
+Convention
+Districts
+Publications
+The Bent
+The Bulletin
+Press Releases
+Other Media
+Blog
+Programs
+Alumni Giving
+Engineering Futures
+Scholarships
+Fellowships
+K-12 Mindset
+NEST
+Awards
+Resources
+Member Benefits
+Loans & Grants
+Career Assistance
+Governing Documents
+Info Book
+Quick Links
+Contact Us
+Store
+Update Member Information
+Chapter Reporting System
+Recruiting Site
+Donate
+Tau Beta Pi
+The Engineering Honor Society
+Tau Beta Pi News
+New member website launches
+The member website has been re-organized and previous bookmarks will no longer work, except for  the
+chapter reporting system
+. Can't locate something or found an error? Contact
+.
+Register for the May 19 Tau Bate Talk
+Go here for more information and to register for the May 19 Talk. See the
+Tau Bate Talk webpage
+for future dates and videos of past talks.
+Upgrade your Bent Subscription
+Life paper subscribers can switch or add a digital subscription for free! Email tbp.memberupdate@tbp.org.
+Michael R Bloomberg,
+MD D '64
+, received the Presidential Medal of Freedom
+He was cited as an entrepreneur, philanthropist, and three-term mayor who revolutionized the financial information industry and transformed New York City's education, environment, public health, and the arts.
+Previous
+Next
+Hidden
+Recent Headlines
+New member website launches
+Register for the May 19 Tau Bate Talk
+Upgrade your
+Bent
+Subscription
+Bloomberg awarded Presidential Medal of Freedom
+Scholarships & Fellowships
+Each year, the Association awards up to 32 Fellowships of $10,000 to students in any engineering discipline, for one year of graduate study. Approximately 250 Scholarships of $ 2,000 are awarded to members for their senior year of study in engineering, or $1,000 for one semester.
+Scholarships
+|
+Fellowships
+Member Information
+Wondering if someone is a member of Tau Beta Pi?  You can search by last name, chapter, class (graduation) year, or location to find other Tau Bates. Also, update your mailing address or other contact information to make sure you keep receiving The Bent and other Association news.
+Member Lookup
+Update Your Information
+Member Benefits
+Members can take advantage of career assistance opportunities plus exclusive discounts on products and services including: computers, test preparation materials for FE & PE exams, travel, hotels, and home mortgages.
+Explore All Member Benefits
+TBP Store
+The
+only
+place on Earth to get your Tau Beta Pi gear! Shop and order official apparel, insignia items, jewelry, graduation regalia, and chapter supplies to help run your chapter. You can also subscribe to the Bent and make a gift here!
+Shop Now
+Job Board Posts
+(865) 546-4578
+|
+Contact
+Advisors
+Store
+Giving
+Site Map
+Convention
+The Bent
+Info Book
+Alumni Officers
+Collegiate Officers
+Member Benefits
+Member Lookup
+©2024 The Tau Beta Pi Association, Inc. All rights reserved.
+All individual email addresses on Tau Beta Pi websites are exclusively for use in the conduct of Tau Beta Pi related business.
+Any other use, including recruiting and marketing, is strictly prohibited.
+Founding member of the
+Association of College Honor Societies

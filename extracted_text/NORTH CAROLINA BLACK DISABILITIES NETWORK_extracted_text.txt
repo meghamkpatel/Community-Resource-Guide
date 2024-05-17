@@ -1,0 +1,64 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '1dd6702b-843a-4e7f-8c38-9628154ea6da'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'af43e81b-55be-4946-a12b-4b294093eb1f'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '2'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Amplifying the voices and experiences of Black disabled communities living in North Carolina. \n\nNetworking opportunities and panel discussions address spectrum of disability issues and experiences, develop new strategies for eliminating barriers that Black disabled populations and their caregivers face.'}
+{'property': 'og:title', 'content': 'Conference | North Carolina Black Disabilities Network'}
+{'property': 'og:description', 'content': 'Amplifying the voices and experiences of Black disabled communities living in North Carolina. \n\nNetworking opportunities and panel discussions address spectrum of disability issues and experiences, develop new strategies for eliminating barriers that Black disabled populations and their caregivers face.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/a49162_d1760a59ca294bfdaed5248045f9ef35%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a49162_d1760a59ca294bfdaed5248045f9ef35%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.nc-bdn.org'}
+{'property': 'og:site_name', 'content': 'NC BDN'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Conference | North Carolina Black Disabilities Network'}
+{'name': 'twitter:description', 'content': 'Amplifying the voices and experiences of Black disabled communities living in North Carolina. \n\nNetworking opportunities and panel discussions address spectrum of disability issues and experiences, develop new strategies for eliminating barriers that Black disabled populations and their caregivers face.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/a49162_d1760a59ca294bfdaed5248045f9ef35%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a49162_d1760a59ca294bfdaed5248045f9ef35%7Emv2.png'}
+
+Body Text:
+Conference | North Carolina Black Disabilities Network
+top of page
+North Carolina Black Disabilities Network
+Home
+About NC-BDN
+Inaugural Conference
+Organizers & Steering Committee
+Keynote & Panelists
+Schedule
+Session Topics
+Venue and Accomodations
+Covid-19 Information
+Contributors
+Sponsors
+Donations
+Contact Us
+More
+Use tab to navigate through the menu items.
+Equity at the Intersections of Race & Disability
+Acerca de
+April 29, 2022 - April 30, 2022
+NC State University, Hunt Library
+Register
+Schedule
+Info
+Registration closes April 22, 2022
+at 5:00pm.
+Hosted by:
+Follow Us!
+Contact Us
+Join our mailing list
+Email
+Subscribe
+Thanks for subscribing!
+ncblackdisabilitiesnetwork@gmail.com
+©2021 by NC-BDN. Proudly created with Wix.com
+bottom of page

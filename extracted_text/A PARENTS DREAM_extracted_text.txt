@@ -1,0 +1,161 @@
+Meta Information:
+{'data-rh': 'true', 'charset': 'utf-8'}
+{'data-rh': 'true', 'name': 'viewport', 'content': 'width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1'}
+{'data-rh': 'true', 'name': 'theme-color', 'content': '#000000'}
+{'data-rh': 'true', 'name': 'twitter:app:name:iphone', 'content': 'Medium'}
+{'data-rh': 'true', 'name': 'twitter:app:id:iphone', 'content': '828256236'}
+{'data-rh': 'true', 'property': 'al:ios:app_name', 'content': 'Medium'}
+{'data-rh': 'true', 'property': 'al:ios:app_store_id', 'content': '828256236'}
+{'data-rh': 'true', 'property': 'al:android:package', 'content': 'com.medium.reader'}
+{'data-rh': 'true', 'property': 'fb:app_id', 'content': '542599432471018'}
+{'data-rh': 'true', 'property': 'og:site_name', 'content': 'Medium'}
+{'data-rh': 'true', 'property': 'og:type', 'content': 'article'}
+{'data-rh': 'true', 'property': 'article:published_time', 'content': '2019-07-18T11:22:00.194Z'}
+{'data-rh': 'true', 'name': 'title', 'content': 'When your parents’ dreams become your own | by R Munford | The Startup | Medium'}
+{'data-rh': 'true', 'property': 'og:title', 'content': 'When your parents’ dreams become your own'}
+{'data-rh': 'true', 'property': 'al:android:url', 'content': 'medium://p/5e4d649f1dff'}
+{'data-rh': 'true', 'property': 'al:ios:url', 'content': 'medium://p/5e4d649f1dff'}
+{'data-rh': 'true', 'property': 'al:android:app_name', 'content': 'Medium'}
+{'data-rh': 'true', 'name': 'description', 'content': 'The first time I realised that some of these expectations could have lasting consequences, I was sitting in a back room of a shop where I worked at the time after graduating from university. On the…'}
+{'data-rh': 'true', 'property': 'og:description', 'content': 'Don’t let your parents choose your career, especially if you know you will hate it.'}
+{'data-rh': 'true', 'property': 'og:url', 'content': 'https://medium.com/swlh/when-your-parents-dreams-become-your-own-5e4d649f1dff'}
+{'data-rh': 'true', 'property': 'al:web:url', 'content': 'https://medium.com/swlh/when-your-parents-dreams-become-your-own-5e4d649f1dff'}
+{'data-rh': 'true', 'property': 'og:image', 'content': 'https://miro.medium.com/v2/da:true/resize:fit:1200/0*Qw4G_rlHUA-AvRH3'}
+{'data-rh': 'true', 'property': 'article:author', 'content': 'https://medium.com/@rmunford'}
+{'data-rh': 'true', 'name': 'author', 'content': 'R Munford'}
+{'data-rh': 'true', 'name': 'robots', 'content': 'index,follow,max-image-preview:large'}
+{'data-rh': 'true', 'name': 'referrer', 'content': 'unsafe-url'}
+{'data-rh': 'true', 'property': 'twitter:title', 'content': 'When your parents’ dreams become your own'}
+{'data-rh': 'true', 'name': 'twitter:site', 'content': '@GrowthSupply'}
+{'data-rh': 'true', 'name': 'twitter:app:url:iphone', 'content': 'medium://p/5e4d649f1dff'}
+{'data-rh': 'true', 'property': 'twitter:description', 'content': 'Don’t let your parents choose your career, especially if you know you will hate it.'}
+{'data-rh': 'true', 'name': 'twitter:image:src', 'content': 'https://miro.medium.com/v2/da:true/resize:fit:1200/0*Qw4G_rlHUA-AvRH3'}
+{'data-rh': 'true', 'name': 'twitter:card', 'content': 'summary_large_image'}
+{'data-rh': 'true', 'name': 'twitter:creator', 'content': '@RachelAMunford'}
+{'data-rh': 'true', 'name': 'twitter:label1', 'content': 'Reading time'}
+{'data-rh': 'true', 'name': 'twitter:data1', 'content': '6 min read'}
+
+Body Text:
+When your parents’ dreams become your own | by R Munford | The Startup | Medium
+Open in app
+Sign up
+Sign in
+Write
+Sign up
+Sign in
+When your parents’ dreams become your own
+R Munford
+·
+Follow
+Published in
+The Startup
+·
+6 min read
+·
+Jul 17, 2019
+--
+2
+Listen
+Share
+Don’t let your parents choose your career, especially if you know you will hate it.
+Photo by
+Christian Erfurt
+on
+Unsplash
+Every day we are faced with expectations.
+These can come from anywhere and we are expected to do so much all of the time.
+We
+should
+be organised. We
+should
+be responsible. We
+should
+work in a reliable job. We
+should
+be… perfect?
+The first time I realised that some of these expectations could have lasting consequences, I was sitting in a back room of a shop where I worked at the time after graduating from university. On the face of it, and no doubt the opinion of some of my family, I had failed; I had picked an arts major and consequently struggled to find a graduate job because unless you’re in medicine or somehow have 10 years of experience, there are none.
+I was making a cup of coffee when one of the younger sales assistants told me he was only applying to a particular university and a particular course because his parents had given him 2 options — he could either become an architect, or he could become a dentist. He knew he couldn’t be a dentist because he was scared of blood so he chose to pursue architecture.
+That was that and he was on course to get into that university the following year.
+When he told me this, my mouth dropped open.
+I was shocked at the idea that the ones who are supposed to love you and care for you would put you under that sort of stress when it isn’t necessary is mind-blowing. I’ve also found that just because someone tells you to do something because it is ‘right’, it is often just right in their opinion.
+It happens more than you think
+Photo by
+Benjamin Manley
+on
+Unsplash
+Maybe I grew up in a too liberal household, or maybe it’s because I’ve read too many stories about young heroines having to fight expectations and proving people wrong,
+but I have always held onto the belief that you shouldn’t be doing something that doesn’t match your skillset and makes you unhappy.
+If the idea of sitting in an office cubicle for the rest of your life fills you with dread then you shouldn’t do it.
+It would be pointless to pursue a job in, for example, biology if every test you sit at school you fail but if you know you can do it and you put the time in, it would make sense for you to succeed. However I’ve met more and more people who have followed the dreams and wishes of their parents rather than their own mind. That’s where the issue really is.
+Parents who wanted their children to be doctors, lawyers, accountants and more are finally living the dream of telling their judgmental friends that “Yes, my boy Tim is a surgeon”.
+To be fair, some of this pressure does come from a place of concern. We all want our children and friends to be financially secure and live comfortable lives.
+The issue is when this caring attitude moves into unnatural levels of pressure.
+This pressure and obvious expectation put on a child can lead to stress, burnout and feelings of inadequacy. I know this because I have seen it happen. Putting pressure on someone from a position of power means that when you say they should be doing [x] that they will probably listen to you unless they are incredibly strong-willed.
+Let’s put it this way:
+to be told by your parents that you will be a failure if you don’t have a six figure salary can be destructive for your confidence. It can break your heart.
+The idea that your goals and your parents’ goals are completely at odds is upsetting. Suddenly the people you’ve relied on your whole life for support and your basic needs are forcing you to make a decision
+that might tear apart the very fabric of your being
+.
+Archana Madhavan details her experience
+for Femsplain (featured in Teen Vogue) realising that her need to make her parents proud and living a happy life weren’t always compatible. She touches on having to find her own path while knowing her parents would be disappointed.
+Parents sometimes forget their words have power and so do their actions.
+Photo by
+Sydney Sims
+on
+Unsplash
+Encouragement is not the same as pressure
+There is a difference between encouraging your child to aim high and implying that if they don’t achieve (insert affluent milestone) then they are a disappointment to you.
+With most parents, they don’t even have to say they don’t approve out loud.
+You can tell from your mother’s face when you’ve done something she disagrees with. (Trust me because I have a tattoo I know exactly what that look is).
+Adult children have listened to their parents brag about siblings in public,
+overheard their parents discussing their choices negatively
+and even let their parents lecture them at length about getting a proper job that is stable.
+Parents can, and will, assume that the path of stability is the only logical route to take. They probably do want what’s best for you but they’re still human beings with flaws and bias. What they perceive to be a bad choice is filtered through their own understandings of the working world which is from another period in time.
+Your dad may have worked the same job for the last 20 years and therefore assumes that this will be the same for you. It’s not like that anymore.
+Too often we apply our own prejudices and concepts of how the world
+should
+be in a situation that we forget to see the situation as it really is.
+As Captain Jack aptly puts it:
+“The problem is not the problem. The problem is your attitude about the problem…”
+Careers are no longer straight lines from point A to B. They are looping, overlapping marks that can stop and start.
+Whether you think that someone should be in one job their whole life or have many different jobs, the fact remains that the norm now is most people of my age group have had multiple jobs and sometimes in multiple areas because no sector is truly reliable.
+Even as an engineer, plumber and undertaker, there are a lot of factors that can determine success. I have known people who have had apprenticeships with major companies and worked there for nearly 6 years before being made redundant due to cutbacks in the company.
+Life doesn’t follow what is expected because there are too many things that can change.
+Life is short — what a clichéd thing to say but…
+It’s true. You only get one shot at life and we need to do what’s right for us not other people.
+Deciding to break away from the ideals of our family can be difficult and while my parents didn’t put pressure on me to pursue a particular career, there have been other things we have disagreed on because we are human.
+Your parents are humans just like you (shocking). We all have our own opinions and our own priorities. It’s not surprising when there’s a clash.
+We learn from our parents but also we
+learn
+from our parents; we make our own set of ideals and priorities in response to [or in spite of] the lessons our parents have taught us through their own actions.
+When it comes to making a career and even an education choice, by all means listen to your parent’s opinion but remember the only person who is going to do the work is you.
+You are the person who has to sit through boring lectures, or slave away at a job you hate. Your parents won’t be there outside your work waiting for you.
+You need to do what’s right for you.
+The hard bit is just figuring out what that is.
+Life
+Career Advice
+Education
+Life Lessons
+Relationships
+--
+--
+2
+Follow
+Written by
+R Munford
+368 Followers
+·
+Writer for
+The Startup
+Freelancer. Writer. Poet. Scottish.
+Follow
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams

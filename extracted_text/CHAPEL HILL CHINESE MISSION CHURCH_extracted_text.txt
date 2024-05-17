@@ -1,0 +1,117 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'http-equiv': 'cache-control', 'content': 'no-cache, must-revalidate, post-check=0, pre-check=0'}
+{'http-equiv': 'cache-control', 'content': 'max-age=0'}
+{'http-equiv': 'expires', 'content': '0'}
+{'http-equiv': 'expires', 'content': 'Tue, 01 Jan 1980 1:00:00 GMT'}
+{'http-equiv': 'pragma', 'content': 'no-cache'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'}
+{'name': 'description', 'content': 'å\x8d\x8eäººç¦\x8fé\x9f³å\x9fºç\x9d£æ\x95\x99ä¼\x9a'}
+{'name': 'author', 'content': 'CCMC'}
+
+Body Text:
+â ccmcnc.org
+Toggle navigation
+åäººç¦é³åºç£æä¼
+å¾·æ©å 
+å¯çå 
+é¦é 
+Home
+åå¥å°çµ
+Fellowship
+è¿æéç¥
+Events
+ç§å¸«é·å·
+Servants
+è¬ééé³
+Sermons
+è¦é »éé¦
+Videos
+è³æææª
+Documents
+æå®èç¶
+èç¶é½æ¯  ç¥æé»ç¤ºçï¼æ¼æè¨ãç£è²¬ãä½¿äººæ­¸æ­£ãæå°äººå­¸ç¾©é½æ¯æççï¼ å«å±¬ç¥çäººå¾ä»¥å®å¨ï¼é åè¡åæ¨£çåäºããææ©å¤ªå¾æ¸3:16-17ã
+åäººç¦é³åºç£æä¼ • å¾·æ©å 
+èç«æ¯æ¸2:8-9 æ¢æäººçæ¨£å­ï¼å°±èªå·±åå¾®ï¼å­å¿é æï¼ä»¥è³æ¼æ­»ï¼ä¸ æ­»å¨åå­æ¶ä¸ãæä»¥ç¥å°ä»åçºè³é«ï¼åè³çµ¦ä»é£è¶ä¹è¬åä¹ä¸çåãï¼ ååæ¬ï¼ Philippians 2:8-9 And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross. Therefore God also has highly exalted Him and given Him the name which is above every name. (NKJV)
+(éç¦®æèèª¦é»æ³ç¶æ)
+ä»æ¥è®ç¶ Bible Reading Today
+2024-05-16 • çä¸ 1Kings 15, 16;æå 1Cor 4
+æ­¡è¿ä½ ä¾ Welcome
+æ­¡è¿ä½ ä¾å°ç¾éºçæåå¤§å­¸åä¸è§ç ç©¶åãä¹æ­¡è¿ä½ ä¾ç­è§£æåçææåæåçä¿¡ä»°ã
+æåæ¯ä¸ç¾£å¨æåå¤§å­¸ Duke Universityãåå¡æå å±±å¤§å­¸ University of North Carolina at Chapel Hill åä¸è§ç ç©¶å Research Triangle Park å­¸ç¿å·¥ä½çè¯äººåºç£å¾ï¼å¤§å®¶äºç¸æ¶æå¹«å©ï¼ä¸èµ·æ¢è¨äººççæ­£çæç¾©ï¼å­¸ç¿ä»¥ä¸é¡åæ¨çå¿ä¾æ¸¡éç·å¼µççæ´»ã
+æåè¯äººç¦é³åºç£ææ Chinese Christian Mission Church å¸ææ¨ä¾åå æåæææ¯åç¦®æå¤©æ©ä¸çå´æåä¸»æ¥å­¸ï¼æ¯åç¦®æäºæç¦®æå­æä¸çåå¥èæååæ¨£å¶ä»çæ´»åãæ­¤å¤ï¼ä¹è«éæ³¨
+è¿ææ´»åéç¥
+ã
+æéå®æ Schedule
+æ´»å Event
+æé Time
+ä¸»æ¥æ¨ç¦±
+Sunday Morning Prayer Meeting
+ç¦®ææ¥ ä¸å 9:30 â 9:55
+Sunday 9:00am - 9:45am
+ä¸»æ¥å´æ (åèª)
+Mandarin Sunday Worship
+ç¦®ææ¥ ä¸å 10:00 â 11:15
+Sunday 10:00am - 11:15am
+æäººä¸»æ¥å­¸
+Adult Sunday School
+ç¦®ææ¥ ä¸å 11:30 â 12:30
+Sunday 11:30am - 12:30pm
+ææç¦±åæ
+Church Prayer Meeting
+ç¦®æä¸ æä¸ 7:30 â 9:30
+Wednesday 7:30pm - 9:30pm
+ææå§å¦¹æ
+Church Sister Fellowship
+ç¦®æå (éå¨) ä¸å 9:30 â 11:30
+Thursday (Every Other) 9:30am - 11:30am
+ä¸»æ¥å´æ (è±æ)
+English Sunday Worship
+ç¦®ææ¥ ä¸å 10:00 â 11:15
+Sunday 10:00am - 11:15am
+è±æä¸»æ¥å­¸
+English Sunday School
+ç¦®ææ¥ ä¸å 11:30 â 12:30
+Sunday 11:30am - 12:30pm
+ä¸»æ¥å´æ (åç«¥)
+Children Sunday Worship
+ç¦®ææ¥ ä¸å 10:00 â 11:15
+Sunday 10:00am - 11:15am
+åç«¥ä¸»æ¥å­¸
+Children Sunday School
+ç¦®ææ¥ ä¸å 11:30 â 12:30
+Sunday 11:30am - 12:30pm
+ä¸»æ¥æå®´
+Sunday Lunch
+ç¦®ææ¥ ä¸­å12:30 â  1:30
+Sunday 12:30pm - 1:30pm
+æ¯æ¥è®ç¶
+Daily Reading
+å¨ä¸­ (Weekday) 7:30am â 8:00am
+å¨æ«åèåæ¥ (Weekend & Holiday) 8:00am â 8:30am
+è¯ç¹«æå
+Chinese Christian Mission Church (CCMC)
+4528 Bennett Memorial Road
+Durham, NC 27705
+çè¨
+éµä»¶
+é»è©±
+è¿åé é¦
+•
+ç¶²ä¸èæ
+•
+ä¿¡ä»°åç½
+•
+è¿æéç¥
+•
+ç§å¸«é·å·
+•
+è¬ééé³
+•
+è¦é »éé¦
+•
+è³æææª
+•
+English Ministry
+Chinese Christian Mission Church (CCMC) • Durham • North Carolina • Since 1995

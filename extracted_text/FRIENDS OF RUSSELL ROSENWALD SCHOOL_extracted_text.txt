@@ -1,0 +1,71 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Located in Hillsborough, NC, the Historic Russell School is the last remaining Rosenwald School in Durham County, landmarks and historical building'}
+{'name': 'author', 'content': 'Historic Russell School'}
+{'name': 'generator', 'content': 'Starfield Technologies; Go Daddy Website Builder 8.0.0000'}
+{'property': 'og:url', 'content': 'https://historicrussellschool.org/'}
+{'property': 'og:site_name', 'content': 'Historic Russell School'}
+{'property': 'og:title', 'content': 'Historic Russell School'}
+{'property': 'og:description', 'content': "One of America's few remaining Rosenwald Schools"}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'https://img1.wsimg.com/isteam/ip/5d0a45ae-2e51-4a09-afc4-e04972585c32/russell.JPG'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Historic Russell School'}
+{'name': 'twitter:description', 'content': 'Welcome to Historic Russell School '}
+{'name': 'twitter:image', 'content': 'https://img1.wsimg.com/isteam/ip/5d0a45ae-2e51-4a09-afc4-e04972585c32/russell.JPG'}
+{'name': 'twitter:image:alt', 'content': 'Historic Russell School'}
+{'name': 'theme-color', 'content': '#A45C5C'}
+
+Body Text:
+Landmarks and Historical Building - Historic Russell School
+Historic Russell School
+Historic Russell School
+Historic Russell School
+Historic Russell School
+Home
+History
+Buy-a-Chair Campaign
+Get Involved
+News and Events
+Contact Us
+More
+Home
+History
+Buy-a-Chair Campaign
+Get Involved
+News and Events
+Contact Us
+Historic Russell School
+Historic Russell School
+Historic Russell School
+Historic Russell School
+Home
+History
+Buy-a-Chair Campaign
+Get Involved
+News and Events
+Contact Us
+Welcome
+Welcome to Historic Russell School
+Welcome to Historic Russell School
+Welcome to Historic Russell School
+Welcome to Historic Russell School
+One of America's few remaining Rosenwald Schools
+Get Involved
+Community Gem
+Located in Hillsborough NC, the Historic Russell School is the only surviving Rosenwald School in Durham County, making it a unique cultural landmark in our community. The site is listed in the National Register of Historic Places landmarks and historical building
+About Us
+Our Mission
+The mission of FORRS is to preserve and share the Historic Russell School with visitors. Through collaboration with local and national partners, we work to increase awareness about this historic landmark, create an on-site museum, and provide educational programs for the community.
+Get Involved
+Are you passionate about what we're doing? Let us know! We are always looking for volunteers to help us make our vision a reality. We'll help you find a way to volunteer that best suits you. We're excited to have you join the team!
+Thank You
+Whether you help through monetary donations, volunteering your time, or spreading our mission through word-of-mouth, thank you. We couldn't accomplish our goals without the help of supporters like you.
+Photo Credit:
+Our State
+magazine
+Copyright © 2024 Historic Russell School - All Rights Reserved.
+Managed by BroSys Global. LLC

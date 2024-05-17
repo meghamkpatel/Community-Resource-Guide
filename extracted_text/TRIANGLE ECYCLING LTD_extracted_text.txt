@@ -1,0 +1,139 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Triangle Ecycling'}
+{'property': 'og:title', 'content': 'Businesses — Triangle Ecycling Computer Recycling for <br/>Corporate Laptops, Desktops and Electronics — Triangle Ecycling'}
+{'property': 'og:url', 'content': 'https://triangleecycling.com/businesses'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'We provide free computer recycling to businesses and individuals in our community and sell computers at discounted prices. Corporations that want to donate computers with a social purpose can call for free pickup. Data destruction guaranteed. Certificate of Destruction and ESG Report provided. Secur'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/54f0be44e4b094d6d7efb7c2/t/56d6352522482e9545ddabcc/1456878885958/new+E+in+triangle.JPG?format=1500w'}
+{'property': 'og:image:width', 'content': '191'}
+{'property': 'og:image:height', 'content': '189'}
+{'itemprop': 'name', 'content': 'Businesses — Triangle Ecycling Computer Recycling for \nCorporate Laptops, Desktops and Electronics — Triangle Ecycling'}
+{'itemprop': 'url', 'content': 'https://triangleecycling.com/businesses'}
+{'itemprop': 'description', 'content': 'We provide free computer recycling to businesses and individuals in our community and sell computers at discounted prices. Corporations that want to donate computers with a social purpose can call for free pickup. Data destruction guaranteed. Certificate of Destruction and ESG Report provided. Secur'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/54f0be44e4b094d6d7efb7c2/t/56d6352522482e9545ddabcc/1456878885958/new+E+in+triangle.JPG?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/54f0be44e4b094d6d7efb7c2/t/56d6352522482e9545ddabcc/1456878885958/new+E+in+triangle.JPG?format=1500w'}
+{'name': 'twitter:title', 'content': 'Businesses — Triangle Ecycling Computer Recycling for \nCorporate Laptops, Desktops and Electronics — Triangle Ecycling'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/54f0be44e4b094d6d7efb7c2/t/56d6352522482e9545ddabcc/1456878885958/new+E+in+triangle.JPG?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://triangleecycling.com/businesses'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'We provide free computer recycling to businesses and individuals in our community and sell computers at discounted prices. Corporations that want to donate computers with a social purpose can call for free pickup. Data destruction guaranteed. Certificate of Destruction and ESG Report provided. Secur'}
+{'name': 'description', 'content': 'We provide free computer recycling to businesses and individuals in our \r\ncommunity and sell computers at discounted prices. Corporations that want \r\nto donate computers with a social purpose can call for free pickup. Data \r\ndestruction guaranteed. Certificate of Destruction and ESG Report provided. \r\nSecure Document Shredding also available. Just Google Corporate Computer \r\nRecycling Near Me.'}
+{'name': 'keywords', 'content': 'triangle, recycling, ecycling, geep, TROSA, Global Electric Electronic Processing, e-waste, electronic waste, Durham, Raleigh, RTP, triangleecycling,green plus, computer recycling, cell phone, crt, TV, larry herst, community outreach, giving back, pay it forward, charitable, E-Scholar,triangle, recycling, ecycling, geep, TROSA, Global Electric Electronic Processing, e-waste, electronic waste, Durham, Raleigh, RTP, triangleecycling,green plus,Kramden, United Way, Computers4, computer recycling, cell phone, crt, TV, larry herst, community outreach, giving back, pay it forward, charitable, E-Scholar, Chapel Hill Carrboro City Schools, Orange County Schools, Durham Public Schools, HP, Dell, EPA, computer recycling, monitor recycling, cell phone recycling, electronics recycling, IT asset management services, Lenovo laptop desktop computer, refurbished computers, discount computers, eBay, great deals computers, cheap computers, computer sales, computer store, buy computers, business computers, Lenovo, cheap monitors'}
+{'name': 'description', 'content': 'Support tech education in the Durham Public Schools by recycling your old computers and other electronics for free at Triangle Ecycling. Data destruction and ethical recycling 100% guaranteed.'}
+
+Body Text:
+Businesses — Triangle Ecycling Computer Recycling for
+Corporate Laptops, Desktops and Electronics — Triangle Ecycling
+Home
+About
+About Triangle Ecycling: Computer Recycling & Sales
+Location
+E-Scholars
+TEKI
+What's Up @ TE Blog
+Resources
+Testimonials
+Enter to Win
+Businesses
+Individuals
+EBAY STORE
+VIP STORE
+Home
+About
+About Triangle Ecycling: Computer Recycling & Sales
+Location
+E-Scholars
+TEKI
+What's Up @ TE Blog
+Resources
+Testimonials
+Enter to Win
+Businesses
+Individuals
+EBAY STORE
+VIP STORE
+repurposing corporate computers for good
+Scroll Down For Corporate Pickup Request Form
+Whether you are refreshing your company's computer fleet, in the business of IT asset management, or something in between, we provide the secure, low/no cost service you need...with a positive social impact.
+Our clients include Fortune 500 companies, venture-backed growth companies, schools, county governments, banks, law firms, MD and CPA offices. We have only 5-star reviews because we take great care to manage the details and are trusted because of our professionalism, experience and personalized service. Our clients across the spectrum appreciate the opportunity to support Digital Equity for students and local nonprofits when we “repurpose their computers for good.”
+We Guarantee our Clients:
+- Secure pickup (RTP & nationwide) and chain of custody.
+- NIST 800-88 Certified Data Destruction including COD.
+- An EPA-developed ESG Carbon Reduction Report.*
+- Professional auditing and serial number-level reporting.
+- Responsible recycling and a $1m professional liability policy.
+- A unique positive social impact component to IT recycling.
+All ewaste recycling adheres to R2 standards and is securely processed, including audited downstreams, through our fully certified industrial recycling partner.
+All this at little or no cost to you depending on the equipment.
+A TRUSTED PARTNER
+Challenge:
+National IT asset management services company with a Fortune 100 client needs over 6,000 assets picked up at 5 locations in 2 states and processed as part of a 350,000 asset national refresh. Client contract calls for secure data destruction, serial number level inventory grading and reporting within 2 weeks of pickup and remarketing at a predetermined FMV with payment to client due 2 weeks after that.
+Solution:
+Additional expert personnel, secure space and transportation acquired and pickups made on schedule. Over 3,600 desktop and laptop computers inventoried, tested and graded. All hard drives wiped to NIST 800-88 standards. Reports submitted. All computers cleaned - inside and out - and sold in both wholesale and retail markets. Agreed upon FMV payment for all assets returned to client on time. Not one computer or IT asset lost or damaged. IT AMS client happy and our long term relationship with a trusted partner sealed.
+LOCAL SUCCESS STORIES
+Challenge:
+Regional office of a national bank's IT group is busy supporting bank's staff. Limited time and space for broken or retired hardware. VP of IT attended local public schools and wants to support bank's culture of giving back to its community.
+Solution:
+Triangle Ecycling monthly pickup of surplus and nonworking computers followed by audit, data destruction and COD. Bank provides an ongoing supply of recent generation computers for E-Scholar interns' work. Interns take field trips to the bank to learn the inner workings of big bank IT. Win win.
+Challenge:
+IT support company techs in the field replace client hardware. Computers and other ewaste piles up. Client doesn't want to store it and tech may not have a vehicle to haul it.
+Solution:
+3 tiers of service 1) techs bring IT back to shop and Triangle Ecycling makes a monthly pickup, 2) techs drop IT off at our shop after the job, 3) techs arrange for a free pickup of a truck-load of retired equipment. Everyone's business needs met.
+your giving promotes digital equity
+Your computer recycling enables us to supply laptops at no charge to Durham Public Schools students, their families and Triangle nonprofits in need. We support all students and nonprofits. With your help, we donate more than 500 computers each year.  Ten percent of our profits go to  the
+Durham Public Schools Foundation
+to support innovation and equity in the public schools.                         That’s how you “repurpose for good.”
+*Learn more about Environmental, Social and Governmental
+Reporting
+and its
+importance for businesses
+today.
+Call Today For Pickup: triangle, RTp, Nationwide
+Please call 919.414.3041 option 1 for corporate pickups.  Or, use this simple form and we’ll do our best to respond within one hour.
+We can pick up, often at no cost to you, anywhere in the US. Many of our clients use us for all their offices, nationwide.
+SUBMIT Online Computer Pickup Request:
+Name
+*
+First Name
+Last Name
+Company/Organization/School
+*
+Street Address of Pickup
+*
+City, State, Zip
+*
+Phone Number
+*
+(###)
+###
+####
+Email Address
+*
+List of Equipment (We accept all scientific testing equipment)
+*
+Preferred Date for Pickup
+Secure Document Shredding Needed?
+Yes
+No
+How Did You Hear About Us?
+*
+Thank you for your pickup request. Upon receipt we will email you back or call to schedule your pickup and discuss any special needs you have. All pickups include secure data destruction, a Certificate of Destruction and an ESG Carbon Reduction Receipt.
+To learn more about how your business can support free community electronics recycling and other environmentally friendly nonprofits in Durham please go to https://www.ecycling4good.org/.
+Back to Top
+2717 Western Bypass, Durham, NC 27705
+(919) 414-3041
+larry@triangleecycling.com
+ECYCLING4GOOD
+- Donate to support free ewaste recycling
+We pickup, refurbish, donate, sell and recycle corporate laptops and desktops.
+SECURE DOCUMENT SHREDDING FOR BUSINESSES AND INDIVIDUALS  (Only $1/lb.)
+Drop off hours are: Monday - Friday 9:30 am to 5:00 pm. No appointment needed.
+Hablamos Espanol
+See “
+Location
+” for after hours and weekend drop off sites.
+Copyright 2024 Triangle Ecycling - All Rights Reserved.

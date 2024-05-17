@@ -1,0 +1,91 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'msapplication-TileColor', 'content': '#da532c'}
+{'name': 'theme-color', 'content': '#000000'}
+{'name': 'apple-itunes-app', 'content': 'app-id=1014635777'}
+{'name': 'p:domain_verify', 'content': '24b63aa8dced5a4840327772dd21b6b9'}
+{'name': 'description', 'content': 'At Life.Church, we want to help you become the person God created you to be. You’ll find a safe place to explore your beliefs and connect with others.'}
+{'name': 'keywords', 'content': 'church, church online, life church, lifechurch, life.church, messages, Craig Groeschel'}
+{'property': 'og:title', 'content': "You're Welcome Here | Life.Church"}
+{'property': 'og:description', 'content': 'At Life.Church, we want to help you become the person God created you to be. You’ll find a safe place to explore your beliefs and connect with others.'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:url', 'content': 'https://www.life.church/'}
+{'property': 'og:app_id', 'content': '567912296616576'}
+{'property': 'og:image', 'content': 'https://cms-images.life.church/pages/homepage/Opengraph/homeOpengraphFB.jpeg?w=1200&h=630&fit=crop'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'name': 'twitter:image', 'content': 'https://cms-images.life.church/pages/homepage/Opengraph/homeOpengraphTw.jpg?w=760&h=560&fit=crop'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@lifechurch'}
+
+Body Text:
+You're Welcome Here | Life.Church
+Javascript Disabled
+In order to use this site and many of its features, including accessing your profile and giving, javascript must be enabled.
+Attend Online
+STARTS SOON
+Media
+Locations
+Give
+Who We Are
+Worship
+LOG IN
+MENU
+When you know who you are, you’ll know what to do. But who do you see in the mirror? A masterpiece or a mess? A struggler or a survivor? Find out what God says about you in our new series,
+Who Do You Think You Are
+?
+Learn More
+Attend Online
+Created for Community
+We aren’t meant to go through life alone. Find a LifeGroup that fits your schedule and season of life! Tap to get started.
+Save the Date for Sisters
+Ladies, you're invited to gather and grow with other women at our Sisters event this September! Tap to learn more.
+Find Your Unique Fit
+God has given you unique skills and gifts to make a difference. Tap to find serving opportunities that fit you and your schedule!
+You’re Welcome Here!
+Life.Church is one church meeting in multiple locations, and we want to help you become the person God made you to be. No matter where you are in your journey, you’re invited to discover your purpose and live it out at Life.Church.
+What to Expect
+Find a Location
+The new Life.Church Collection is here! Add some style to your closet this spring with new shirts, crewnecks, and accessories.
+Grab Your Favorites
+Need Prayer?
+There are times when life is overwhelming, and all we have are questions. In those moments, hope can feel far away. The great thing about prayer is that it shifts our perspective toward the One who stands ready to listen. No matter what you’re facing, we’d love to pray with you!
+Ask for Prayer
+New Album From Switch
+Symphony (Deluxe Edition)
+The latest album from Switch,
+Symphony (Deluxe Edition),
+is available now wherever you listen to music! This album is a reminder of the hope we have in God working everything together for His good.
+Listen Now
+Free Church Resources
+At Life.Church, we’re all about the “capital C” Church. When churches work together, we truly can reach the world for Christ. If you’re in ministry, we want to equip you. Access the entire library of Life.Church sermons, graphics, kids lessons, resources, and apps for free.
+Get Free Church Resources
+Take Your Ministry Online
+Get Bible Adventure
+Run the same kids ministry as Life.Church with this free 24-month curriculum package.
+Sermon Resources
+Get sermon outlines, videos, and graphics from Craig Groeschel, Levi Lusko, and dozens more!
+Free Guide
+Download the guide and get a head start on creating your own messages on habits, marriage, anxiety, and more.
+Attend
+Life.Church Online
+or a
+Life.Church location
+.
+Privacy Policy
+|
+Terms of Use
+|
+Vulnerability Disclosure Program
+{{consent_manager}}
+© 2024 Life.Church. All rights reserved.
+Watch
+Locations
+Give
+Tools
+For Churches
+Careers
+Shop
+Contact Us

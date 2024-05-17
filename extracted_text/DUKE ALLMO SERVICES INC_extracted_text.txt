@@ -1,0 +1,1057 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'generator', 'content': 'Drupal 7 (https://www.drupal.org)'}
+
+Body Text:
+Accounting Codes Overview | Accounting | Duke
+Skip to main content
+Financial Services
+Accounting
+Log In
+FINANCIAL SERVICES HOME
+Search form
+Search
+Search
+Search
+Menu
+Accounting Home
+"toggle " + jQuery(this).prev().text() + " sub nav"
+General Accounting Procedures
+General Ledger Account Definitions
+Gift Records & Processing
+Journal Vouchers
+Corporate Space & Assets
+Fiscal Year End
+Training
+Frequently Asked Questions
+Forms
+News & Events
+Accounting Contact Information
+News & Events
+Payroll Contact Information
+Home
+Accounting Home
+General Ledger Account Definitions
+Accounting Codes Overview
+Accounting Codes Overview
+Purpose
+General Overview
+Company Code
+Cost Object
+G/L Account
+I. PURPOSE
+This overview is designed to provide a general understanding of the various types of accounting codes as well as to provide details regarding the logic of the structure of the cost object numbers.
+II. GENERAL OVERVIEW
+The University and Health System use a series of codes to identify various entities.
+The highest-level identification is the
+Company Code
+. The Company Code is a four-digit code that identifies a separate accounting entity within the SAP system. A detailed listing of the company codes follows in
+section III
+.
+The next level of identification indicates the departmental position within the company code structure. For the University this is a ten-digit number called the
+Org. Code or the BFR
+. For the Health System this is an eight-digit number called the
+Hierarchy Area
+. (You can display your Org. Code or Hierarchy Area in SAP. Refer to your training manual for instructions).
+Cost objects
+are the “fund” level of identification. A cost object can be a profit center, cost center, WBS element, fund or internal order.
+Section IV
+provides detailed information regarding the logic and organization of cost objects.
+Within a cost object, the type of transaction is identified using a six-digit
+G/L account
+. Detailed descriptions of the G/L accounts can be found on the
+G/L Account Definitions
+page.
+|
+Top
+|
+III. COMPANY CODE
+The company code represents an independent accounting unit with a separate set of books. The current companies are:
+CODE
+DESCRIPTION
+ABBREVIATION
+0010
+Duke University
+DU
+0011
+Durham Realty Company, Inc.
+0012
+High Point Realty
+0013
+Durham Asset Management Company
+DAMCO
+0014
+Duke Global Inc
+DGI
+0016
+Duke CE
+0020
+Duke University Health System
+DUHS
+0021
+Duke HomeCare and Hospice
+DHCH
+0023
+Health System Medical Strategies
+HSMS
+0024
+Patient Revenue Management Organization
+PRMO
+0025
+Duke Affiliated Network
+DAN
+0026
+DUHS Clinical Labs
+LABCO
+0027
+Durham Casualty Corporation
+DCC
+0028
+Duke Integrated Network, Inc/Duke Connected Care, LLC
+DINCC
+0029
+Duke Quality Network
+DQN
+0030
+Duke Hospital
+DUH
+0040
+Duke Primary Care
+DPC
+0041
+Duke Health and Wellness
+DNHO
+0042
+DUHS Global LLC
+0043
+Duke Ambulatory Facilities
+DAF
+0044
+Duke Health Integrated Practice
+DHIP
+0050
+Duke Regional Hospital
+DRH
+0051
+Davis Ambulatory Surgical Center
+DASC
+0060
+Duke Raleigh Hospital
+DRAH
+0071
+Duke Medical Strategies, Inc.
+DMS
+0091
+AllMo Services, Inc.
+0092
+JulDec Services, Inc.
+0093
+JanJun Services, Inc.
+|
+Top
+|
+IV. COST OBJECT
+The cost object is the number that identifies the “fund”. The University (
+Section A
+) uses a seven-digit cost object for most of the types of cost objects, and a nine-digit cost object for newer projects in the Restricted Fund Group (see below). The Health System (
+Section B
+) uses a nine-digit cost object. Cost object is the generic term for a profit center, cost center, WBS element, fund, or internal order.
+Section C
+identifies the prefixes for internal orders.
+A. UNIVERSITY COST OBJECT STRUCTURE
+In company code 0010, the first digit of the number structure is called the Fund Group. The major fund groupings for the University are:
+0xxxxxx:
+Pooled Cash and Securities Fund
+1xxxxxx:
+Current Unrestricted Funds
+2xxxxxx:
+Current Restricted Funds
+3xxxxxx and 3xxxxxxxx:
+Current Restricted Funds
+Axxxxxx:
+Current Restricted Funds
+4xxxxxx:
+Current Unrestricted Funds - Allocated
+5xxxxxx:
+Loan Funds
+6xxxxxx:
+Endowment Funds
+7xxxxxx:
+Plant Funds
+8xxxxxx:
+Agency Funds
+9xxxxxx:
+Pooled Investment Funds
+1. POOLED CASH AND SECURITIES FUND
+(0xxxxxx)
+The Pooled Cash and Securities Fund is used to facilitate the management of cash and temporary securities for all funds. It operates as a "mutual fund" in which the individual participating funds share their prorated equity contribution. There is only one fund in this series, 0111000.
+|
+Top
+|
+2. CURRENT UNRESTRICTED FUND
+(1001000 fund, 1xx-14x profit centers and 15x-190 cost centers)
+The Current Unrestricted Fund represents Duke University's general operating funds earned by or given to the University free of any restrictions imposed by outside agencies. The annual budget process allocates the unrestricted income of the University to the various departments or programs for operations during the current year.
+The second and third digits of the Current Unrestricted Fund sequence convey the source or purpose of the cost object as follows:
+1001000 - ASSETS, LIABILITIES AND FUND EQUITY (Funds)
+Most Current Unrestricted assets, liabilities, and fund equity are recorded in fund 1001000. No revenue or expense is ever recorded in this fund.
+REVENUE FUNDS (Profit Centers)
+11xxxxx through 140xxxx are used to record all Current Unrestricted Fund revenue received during the current fiscal year.
+11xxxxx - Educational and General Revenue:
+111xxxx Income from Students:
+These profit centers include all tuition and fees charged to students for educational and general purposes, net of cancellations. Remissions or exemptions of tuition and fees should not reduce tuition and fees revenue. Such remissions or exemptions should be recorded as expenditures under the category Student Aid, (168xxxx).
+112xxxx Endowment Income:
+These profit centers include unrestricted income distributed from Endowment Funds.
+113xxxx Gift Income:
+These profit centers include all unrestricted gifts received during the current fiscal year.
+114xxxx Recovery of Indirect Cost:
+These profit centers include funds received as a recovery of indirect costs accruing from sponsored research and other sponsored programs.
+116xxxx Organized Activities Relating to Educational Departments:
+These profit centers represent all revenue earned by programs and activities, which support the educational departments.
+117xxxx Investment Income:
+These profit centers include all revenue earned through investment of Current Unrestricted Funds.
+118xxxx Unassigned Income Transfers:
+These represent each School’s share of unassigned income (The Duke Endowment, Unrestricted Quasi Endowment and Investment Income). These codes are for Budget Office use only.
+119xxxx Other Revenue Sources:
+These profit centers include all revenue received for educational and general purposes not reported elsewhere.
+140xxxx Auxiliary Enterprises Revenue:
+These profit centers include all revenue earned by the University's Auxiliary Enterprises. An auxiliary enterprise is a self-supporting activity primarily serving students, faculty, and staff by providing goods and services for a fee or sales price related to the cost of goods and services. The majority of the revenue comes from sources outside the University not from University departments. Examples of auxiliary revenue include charges for room, board, revenue earned from intercollegiate athletic programs, and revenue from Duke University Press operations.
+EXPENDITURE FUNDS (Cost Centers)
+15xxxxx to 19xxxxx cost centers are used to record all Current Unrestricted Fund expenditures during the current fiscal year.
+15xxxxx - Educational and General Expense
+151xxxx Instruction and Departmental Research:
+These cost centers include all expenditures of the departments, colleges, schools and other instructional divisions of the University. This category includes compensation for deans (to the extent their work is academic-oriented), faculty members, secretaries, technicians, laboratory and other assistants; office expenses; laboratory and other instructional expenses; expenditures for capital equipment; other operating expenses; and research expenditures not separately budgeted or financed.
+152xxxx Organized Activities Relating to Educational Departments:
+These cost centers include the gross expenditures of programs and activities, which support the educational departments but are not full-fledged departments.
+153xxxx Other Separately Budgeted Research:
+These cost centers include all budgeted expenditures for research.
+Note: This category does not include departmental research (research not separately budgeted or financed); these expenditures should be included under Instruction and Departmental Research (151xxxx).
+154xxxx Libraries:
+These cost centers include all expenditures for libraries, both general and departmental. Such expenditures include those for salaries, wages, books, subscriptions, binding costs and other operating expenses.
+155xxxx Student Services:
+These cost centers include all expenditures for services to students. This category includes the registrar's office, admissions office, offices of the deans of students, guidance and testing programs, health service, financial aid office and all University subsidies to student activities.
+156xxxx Operation and Maintenance of Physical Plant:
+These cost centers include all expenses for salaries and wages, supplies, materials, equipment, and other similar expenses for the operating and maintenance of the University physical plant. Expenditures of this nature, which are incurred on behalf of the Auxiliary Enterprises, are deducted from this category by means of an expense credit or cost accounting distribution and reported under expenditures of these organizations.
+157xxxx General Administration:
+These cost centers include all expenditures of the general executive and administrative offices serving the entire University. Expenditures of this nature, which are incurred on behalf of the Auxiliary Enterprises, are deducted from this category by means of an expense credit or cost accounting distribution and reported under expenditures of these organizations.
+168xxxx Student Aid Expenses:
+These cost centers represent expenditures for student aid, including tuition remissions other than those made under the University's tuition grant program (which are included in Fringe Benefits). It should also be noted that financial assistance granted to students contingent upon their performing a service does not constitute Student Aid, but should be reported under Instruction and Departmental Research (151xxxx) using the appropriate payroll G/L Account (i.e., series 60xxxx).
+180xxxx Auxiliary Enterprises Expenses:
+These cost centers represent all expenditures of the University's Auxiliary Enterprises. An auxiliary enterprise is a self-supporting activity primarily serving students, faculty, and staff by providing goods and services for a fee or sales price related to the cost of goods and services.
+19xxxxx Appropriations and Transfers:
+These cost centers have been established to record all appropriations and transfers from the Current Unrestricted Fund to other fund groups. Transactions recorded in these funds do not represent revenue or expenditures but rather (1) an assignment by the Board of Trustees of a portion of the unrestricted revenue of the Current Unrestricted Fund or (2) the reallocation or reclassification of revenue or accumulated surplus from one fund to another fund.
+The last four digits of the Current Unrestricted Fund are numbers assigned to individual cost objects.
+|
+Top
+|
+3. CURRENT RESTRICTED FUNDS
+(3xxxxxx or 3xxxxxxxx, 2xxxxxx & Axxxxxx WBS elements)
+Current Restricted Funds represent funds received by Duke University subject to outside agency restrictions that specify the manner in which the funds are to be used in current operations. These funds are cost objects that fall in the category of WBS Elements and may be all digits or alph-numeric. Examples of these funds include gifts designated by the donor for scholarship and fellowship purposes; grants from foundations, industries, individuals, and governmental bodies for research projects; and income from the investment of endowed funds, which have been restricted by the donor as to its use. WBS Elements for Current Restricted Funds created as of 10/1/21 are nine-digits in length, and those created prior to 10/1/21 are 7-digits or 7 alpha-numeric characters in length.  As funds are closed, eventually all Current Restricted Funds will be nine-digits in length.
+Regardless of whether the WBS Element for Current Restricted Funds is seven digits or a newer nine digit structure, the second digit in the Current Restricted Funds sequence indicates the funding source, as outlined below:
+20x, 30x & A0x - Department of Health & Human Services (DHHS):
+This includes contracts and grants awarded by the National Institutes of Health, the Alcohol, Drug Abuse, and Mental Health Administration, and other divisions of the Department of Health & Human Services.
+31x - Department of Defense:
+This includes contracts and grants awarded by the Army, Navy and Air Force.
+32x - Department of Energy
+33x - National Science Foundation
+34x - Other Agencies of the U.S. Government
+, includes awards made by such agencies as:
+National Aeronautics and Space Administration
+Office of Education
+U.S. Departments of Agriculture, Interior and Labor
+National Endowment for the Humanities
+Environmental Protection Agency
+Veterans Administration
+35x - State and Other Governmental Agencies:
+This includes awards made by states, counties, municipalities, public universities, and agencies of other countries.
+36x - Duke Endowment:
+This includes awards made by the Duke Endowment.
+28x & 38x - Non-Governmental - Requiring Reports or meeting other criteria:
+This includes awards made by foundations, private universities, industry, individuals or other non-governmental organizations that meet at least one of the following criteria:
+Financial reporting is required.  Financial reporting includes:
+An accounting (as documented on an invoice or financial report) of how funds were spent, i.e., either a summary or details of expenses;
+or
+A restriction on how the funds are expended;
+It DOES NOT include a simple reconciliation of funds due from the sponsor versus payments received from the sponsor.
+Agreement includes the flow-through of federal or other governmental funds OR the inclusion of federally based award terms/conditions, such as agency specific federal language/references or citing the Uniform Guidance (i.e., 2 CFR Part 200).
+Sponsor requires the return of unspent funds, as this implies the sponsor requires a final accounting of expenses.
+Non-industry sponsor, invoicing is required, and none of the above criteria apply.
+Please note, 28x & 38x WBS elements will be invoiced centrally by Office of Sponsored Programs and/or Treasury Billing Services.
+29x & 39x - Non-Governmental - Not Requiring Reports or meeting other criteria:
+This includes awards made by foundations, industry, individuals or other non-governmental, organizations which do not require periodic financial reports on the activities of the funds or meet any of the other criteria listed for 28x & 38x WBS elements. Please note, invoicing for 29x & 39x WBS elements is the responsibility of the department that received the award.
+Regardless of whether the WBS Element for Current Restricted Funds is seven digits or a newer nine digit structure, the third digit in the Current Restricted Funds sequence indicates the WBS element's primary purpose, as outlined below:
+2x1 & 3x1 - Instruction and Departmental Research:
+This includes those funds whose primary purpose is the support of instruction, departmental research and/or professorships. Instruction includes those activities offered through regular academic departments or separate divisions, such as summer school, whether they are offered for credit towards a degree or on a non-credit basis. Instruction, course and curriculum development, academic advising and scholarly activities such as preparing papers, delivering papers, attending seminars and professional society meetings are also included. Pursuing one's own professional interest through research, writing, etc. is known as departmental research and is included. Departmental research is not separately budgeted or accounted for. Also included in this category are funds that have been designated for endowed professorships.
+3x2 - Training Programs:
+This includes those funds whose primary purpose is the support of training activities. Training activities can be defined as the cost of teaching students or employees the professional skills necessary to engage in research or in the techniques and practices pertinent to the delivery of specific services in a particular area of concern. Training projects are those designed to produce skilled manpower in specific fields, disciplines or specialties.
+2x3, 3x3, & Ax3 - Sponsored Research
+This includes those funds whose primary purpose is the support of sponsored research, including clinical trials. Sponsored research includes all research and development activities of the University that are separately budgeted, accounted for, and organized with definite research objectives.
+3x4 - Libraries:
+This includes those funds whose primary purpose is the support of various library activities.
+3x5 - Student Services:
+This includes those funds whose primary purpose is the support of components rendering services to students.
+3x7 - General Administration/Operations:
+This includes those funds whose primary purpose is the support of the general administration and operations of the University.  This includes construction/renovation grants and equipment grants.
+3x8 - Student Aid:
+This includes those funds whose primary purpose is the granting of aid to students in such forms as scholarships, fellowships, grants-in-aid, stipends, etc.
+3x9 - Other Sponsored Activities:
+This includes those funds whose primary purpose is (1) the support of other programs which are not more appropriately included in one of the categories outlined above or (2) which are multipurpose funds not having a predominate purpose. Indiscriminate use of this series of cost objects is discouraged; this series should be used only when it is clearly inappropriate to establish a WBS element in one of the preceding categories.
+The last four to six digits of the Current Restricted Fund represent numbers assigned to individual WBS elements within this fund group. WBS Elements created in the Fund Group as of 10/1/21 are nine-digit values to provide the same sight intelligence are used in the past, plus a more expansive range of numbers available in the 3xx range.
+|
+Top
+|
+4. CURRENT UNRESTRICTED FUNDS - ALLOCATED (4xxxxxx Cost Centers)
+Represents funds available for general operating purposes, which have been appropriated from the Current Unrestricted Fund and designated by the Board of Trustees as to the department or purpose for which the funds shall be used. Gifts to the University should not be recorded in this series.
+A summary and explanation of the second and third digit designations follows. The meaning of the second and third digits of the 451xxxx-480xxxx is the same as the Current Unrestricted Expenditure funds (151xxxx to 180xxxx).
+EDUCATIONAL AND GENERAL:
+401xxxx:
+School of Medicine - Department Administration
+411xxxx:
+School of Medicine - Undergraduate Medical Education
+421xxxx:
+School of Medicine - Graduate Medical Education
+431xxxx:
+School of Medicine - Other Educational Activities
+431xxxx:
+Instruction and Departmental Research - Arts & Sciences Capital Needs
+441xxxx:
+School of Medicine - Department Research
+451xxxx:
+Instruction and Departmental Research
+452xxxx:
+Organized Activities Relating to Educational Departments
+453xxxx:
+Other Separately Budgeted Research
+454xxxx:
+Libraries
+455xxxx:
+Student Services
+456xxxx:
+Operations and Maintenance of Physical Plant
+457xxxx:
+General Administration
+459xxxx:
+Special Programs
+459xxxx:
+School of Medicine - Clinical Programs
+468xxxx:
+Student Aid
+480xxxx:
+Auxiliary Enterprises
+401xxxx School of Medicine - Department Administration:
+This includes those funds whose primary purpose is the support of general administration not clearly identified with a specific program. Also, these funds include the Private Diagnostic Clinic's (PDC) appropriations that will be distributed and transferred to other programs.
+411xxxx School of Medicine - Undergraduate Medical Education (UME):
+This includes those funds whose primary purpose is the support the teaching of medical students that are not covered by institutional budget allocation.
+421xxxx School of Medicine - Graduate Medical Education (GME):
+This includes those funds whose primary purpose is the support teaching and supervision of house staff not covered by institutional sources.
+431xxxx School of Medicine - Other Medical Education:
+This includes those funds whose primary purpose is the support of educational activities of the department not identified at UME or GME. Examples consist of medical education functions and expenses related to Fellows.
+431xxxx Instruction and Departmental Research - Arts & Sciences Capital Needs:
+This includes those funds whose primary purpose is the support of instruction and unbudgeted departmental research, as well as capital expenditures.
+441xxxx School of Medicine - Department Research:
+This includes those funds whose primary purpose is for research activities, which there are no outside support or other external support. Included are departmental startup funds for new faculty, as well as general department research expenses.
+451xxxx Instruction and Departmental Research
+This includes those funds whose primary purpose is the support of instruction and research activities. Included are departmental startup funds for new faculty, as well as general department research expenses.
+452xxxx Organized Activities Relating to Educational Departments:
+This includes those programs and activities supporting the Educational Departments.
+453xxxx Other Separately Budgeted Research:
+This includes those funds whose primary purpose is the support of separately budgeted or sponsored research.
+454xxxx Libraries:
+This includes those funds whose primary purpose is the support of various library activities.
+455xxxx Student Services:
+This includes those funds whose primary purpose is the support of components render service to students.
+456xxxx Operation and Maintenance of Physical Plant:
+This includes those funds whose primary purpose is the support of physical plant operations and maintenance.
+457xxxx General Administration:
+This includes those funds whose primary purpose is the support of the University's general administration.
+459xxxx Special Programs:
+This includes those funds whose primary purpose is the support of miscellaneous programs not outlined above or multi-purpose funds not having a predominate purpose.
+459xxxx School of Medicine - Clinical Programs:
+This includes those funds whose primary purpose is for the support of clinical activities of the department.
+468xxxx Student Aid:
+This includes those funds whose primary purpose is the granting of aid to students.
+480xxxx Auxiliary Enterprises:
+This includes those funds whose primary purpose is the support of the operations of the auxiliary enterprises.
+The last four digits of the Current Unrestricted Funds - Allocated are numbers assigned to individual cost centers.
+|
+Top
+|
+5. LOAN FUNDS (5xxxxxx Cost Centers)
+Loan Funds represent funds that are lendable to students of the University. Endowment funds given for student loans should not be included in this fund group; however, the income distributed from such endowment funds will be transferred annually to this fund group.
+The second digit in the Loan Fund sequence indicates the various types of loan funds:
+50xxxxx - Departmental Loan Funds:
+This includes funds for temporary loans to students, which are managed by the Department rather than the Office of Student Loans.
+52xxxxx - Loan Funds Established from Government Appropriations:
+This includes those funds created from appropriations by governmental agencies and to be used in accordance with their regulations.
+54xxxxx - Loan Funds not Refundable to Donor:
+This includes those funds established by either foundations, business enterprises, individuals or other non-governmental organizations without any provision that the funds be refundable to the donor.
+56xxxxx - Loan Funds Refundable to Donor under Certain Conditions:
+This includes those funds established by foundations, business enterprises, individuals or other non-governmental organizations with provision that should certain specified conditions occur the fund would be refundable to the donor.
+58xxxxx - Loan Funds Designated by the Board of Trustees:
+This includes those funds established by action of the governing board of Duke University.
+Within each of the above categories, there may be further designations:
+100% Government Funds for Students, includes those funds established wholly by government money for loans to students of the University.
+90% Government Funds for Students, includes those funds established jointly by government money (90%) and University support (10%) for loans to students of the University.
+Principal and Income Available for Loans to Students, includes those funds with the provision that both the principal and income of the fund may by loaned to students of the University.
+Income Available for Loans to Students, includes those funds with the provision that only the fund's income may be loaned to students of the University - the principle must remain intact.
+The last four digits of the Loan Fund sequence are numbers assigned to individual cost centers.
+|
+Top
+|
+6. ENDOWMENT FUNDS (6xxxxxx Cost Centers)
+Endowment Funds represent those funds whose principal cannot be spent. The funds are invested for the purpose of producing income, which is transferred to expendable funds to support University operations.
+The second digit of the Endowment Funds sequence indicates the type of endowment:
+61xxxxx - Perpetual Endowments:
+These are endowments in which the donor has stipulated as a condition of their gift, that the fund's principal be maintained inviolate and in perpetuity, but that all or part of the income derived from investment of the fund's principal may be expended.
+62xxxx/63xxxx – Insurance Contracts:
+Includes all insurance policies held as investments. The University is the designated insurance owner and beneficiary. The donors make gifts of cash or marketable securities to the University to pay the insurance premiums.
+62xxxxx - Perpetual Endowments Funded by Insurance Contract:
+This includes all
+permanently
+restricted insurance policies. Once the insurance contract terminates, the remainder will be used to fund a perpetual endowment.
+63xxxxx - Temporarily Restricted Insurance Contract:
+This includes all
+temporarily
+restricted insurance policies. Once the insurance contract terminates, the remainder can be used at the department’s discretion.
+64xxxxx - Term Endowments:
+These are endowments in which a donor or other outside agency has stipulated that the fund's principal is to be maintained inviolate until the happening of a particular event or the passage of a stated period of time; after which all or part of the principal may be expended. When the restrictive conditions have been met, and upon appropriate action of the Board of Trustees, such funds should be reclassified to the appropriate fund group depending upon the new use(s) to which the funds are to be applied.
+66xxxxx - Quasi-Endowments:
+These are funds established by the Board of Trustees as endowments. While quasi-endowments are established for the same purposes as permanent endowments, any portion may be expended at the discretion of the Board.
+68xxxxx – Gift Annuity Funds:
+These are funds acquired by the University subject to an annuity contract in which the University has contracted to pay a stated sum to the beneficiary until the termination of the annuity agreement. After the annuity agreement terminates the remaining funds will be transferred to the appropriate fund depending upon the new use(s) to which the remainder is to be applied.
+687xxxx - Temporarily Restricted Gift Annuity Funds:
+The gift annuity should be set up as a 687xxxx when the gift is only
+temporarily
+restricted. Once the agreement terminates, the remainder can be used at the department’s discretion.
+689xxxx - Perpetual Endowments Funded
+by
+Gift Annuity Funds:
+The gift annuity should be set up as a 689xxxx when the gift is
+permanently
+restricted. Once the agreement terminates, the remainder will be used to fund a perpetual endowment.
+69xxxxx - Life Income Funds:
+Life Income Funds are funds acquired by the University subject to a living trust agreement or gifts and bequests reserving the income of the fund to the life of one or more beneficiaries. After the agreement terminates, the remainder of such funds will be transferred to the appropriate fund depending upon the new use(s) to which the funds the remainder is to be applied.
+697xxxx - Temporarily Restricted Life Income Funds:
+The life income fund should be set up as a 697xxxx when the funds are only
+temporarily
+restricted. Once the agreement terminates, the remainder can be used at the department’s discretion.
+699xxxx - Perpetual Endowments Funded
+by
+Life Income Funds:
+The life income fund should be set up as a 699xxxx when the funds are
+permanently
+restricted. Once the agreement terminates, the remainder will be used to fund a perpetual endowment.
+The third digit in the Endowment Funds sequence indicates the fund's primary purpose, as outlined below. This structure only applies to Endowments in the 61xxxxx – 66xxxxx series.
+6x0xxxx - Student Loans:
+This includes those funds whose primary purpose is the support of and additions to Loans funds available for students of the University.
+6x1xxxx - Instruction, Departmental Research, and Professorships:
+This includes those funds whose primary purpose is the support of instruction, unbudgeted departmental research and/or professorships.
+6x2xxxx - Organized Activities/Training Programs:
+This includes those funds whose primary purpose is the support of training programs or organized activities relating to educational departments.
+6x3xxxx - Sponsored Research:
+This includes those funds whose primary purpose is the support of sponsored or separately budgeted research.
+6x4xxxx - Libraries:
+This includes those funds whose primary purpose is the support of various library activities.
+6x5xxxx - Student Services:
+This includes those funds whose primary purpose is the support of components rendering services to students.
+6x6xxxx - Operations and Maintenance of Physical Plant:
+This includes those funds whose primary purpose is the support of the operation and maintenance of the physical plant.
+6x7xxxx - General Administration/Operations:
+This includes those funds whose primary purpose is the support of the general operation of the University.
+6x8xxxx - Student Aid:
+This includes those funds having as their primary purpose aid to students in the form of scholarships and fellowships.
+6x9xxxx - Special Programs:
+This includes those funds whose primary purpose is the support of miscellaneous programs not outlined above or multi-purpose funds not having a predominate purpose.
+The last four digits of the Endowment Fund sequence represent numbers assigned to individual cost centers within the fund group.
+|
+Top
+|
+7. PLANT FUNDS (7xxxxxx WBS elements)
+Plant Funds represent:
+Funds used for the construction, renovation, or acquisition of physical properties for University purposes
+Funds set aside for renewal and/or replacement of existing plant and equipment
+Funds set aside for major maintenance projects
+Funds accumulated for the retirement of indebtedness on physical properties of the University; and
+Funds established to record the capitalized investment in physical properties of the University.
+For definitions, capitalization policies, and the classification of physical properties, refer to the
+GAP 200.040, Plant & Equipment Definitions, General Principles & Controls
+and
+GAP 200.050, Plant & Equipment Capitalization
+.
+The second digit in the Plant Fund sequence indicates the type of plant fund. The meaning of the third digit varies, depending on the type of plant fund:
+71xxxxx and 72xxxxx - Funds for Construction, Renovation and/or Acquisition of Physical Properties:
+This includes all funds established for major construction projects ($100,000 or more). Funding is provided by appropriations of unrestricted revenue, gifts, indebtedness assumed by the University or the transfer of reserves from a 74xxxxx WBS element. Detailed
+Capital Project Procedures
+are in place in order to properly manage and report on all major construction projects.
+710xxxx:
+Office of Information Technology - Electronic Equipment
+711xxxx:
+Office of Information Technology - Intra-Building Wiring Projects
+721xxxx:
+Medical Center Projects
+722xxxx:
+University Projects (excluding Medical Center)
+723xxxx:
+Infrastructure Projects, includes those funds established by special funding from interest earned on money invested in the Cash Pool.
+74xxxxx - Funds for Renewal and/or Replacement:
+This includes those funds established to purchase new equipment or accumulated to fund major construction or renovation projects. Funding is provided by transfers from Current Unrestricted Funds (except the 740 series, which is funded by proceeds of insurance claims, recovered as a result of the loss of physical properties). The third digit of these funds represents the primary purpose of the expenditure and relates the Education & General Expense funds (15xxxxx).
+740xxxx:
+Insurance Claims and Other Accounts, includes funds established to replace or repair damaged equipment or buildings where the costs are covered by insurance.
+741xxxx:
+Instruction
+742xxxx:
+Organized Activities
+744xxxx:
+Libraries
+745xxxx:
+Student Services
+746xxxx:
+Plant Operations and Maintenance
+747xxxx:
+General Administration
+749xxxx:
+Auxiliary Enterprises
+75xxxxx - Deferred Maintenance, ADA and Duke Utility Company:
+This includes those funds established for major maintenance, ADA, and Duke Utility Company projects. Funding is provided by internal appropriation.
+752xxxx:
+Deferred Maintenance on University Buildings (excluding Medical Center and Dormitories), Roads, and Utilities
+753xxxx:
+Americans with Disability Act
+754xxxx:
+Duke Utility Company
+755xxxx:
+Renewal of Campus Utility Systems
+756xxxx:
+Medical Center Buildings
+759xxxx:
+Auxiliary Enterprises - Dormitories
+76xxxxx - Funds Accumulated for Retirement of Indebtedness:
+This includes those funds established to retire outside debt by transfers of funds from other fund groups.
+769xxxx:
+University
+78xxxxx - Investment in Plant:
+This includes those funds established to record the capitalized investment of physical properties of the University.
+The last four digits of the Plant Funds are numbers assigned to individual WBS elements.
+|
+Top
+|
+8. AGENCY FUNDS (8xxxxxx Cost Centers)
+These represent accounts of organizations for which Duke University has agreed to act as a custodian or fiscal agent. Agency funds do not belong to Duke University but Duke has agreed to provide certain services to the organization provided the organization complies with Duke's policies and procedures. Further, the organization must offer evidence that the University is protected against losses.
+The second digit in the Agency Funds sequence represents various types of agency funds, as outlined below:
+80xxxxx - Duke University Management Company:
+This includes those funds belonging to Duke University Management Company, which is responsible for investing Duke's endowment funds and available money in other funds.
+81xxxxx - Student Activities:
+This includes those funds belonging to student organizations or activities.
+83xxxxx - Private Diagnostic Clinics:
+This includes those funds belonging to the Private Diagnostic Clinics.
+85xxxxx - Other Agencies
+This includes those funds belonging to agencies or activities other than those listed above.
+The third digit only has meaning in the Student Activities series, except as outlined below:
+811xxxx:
+DSG Recognized Organizations
+812xxxx:
+Non-DSG Student Activities
+813xxxx:
+Graduate School and Other Organizations
+814xxxx:
+Student Union Organization
+817xxxx:
+Residential Living Units and Non-Residential Greek Organizations
+819xxxx:
+Student Operating Accounts
+855xxxx:
+Duke Clinical Research Institute Pharmacy
+The last four digits of the Agency Funds are numbers assigned to individual cost centers.
+|
+Top
+|
+9. POOLED INVESTMENTS FUNDS (9xxxxxx Cost Centers)
+The Pooled Investments Funds represent those funds that have been established to facilitate the investment management of certain assets of all other fund groups. In general, these funds operate as "mutual funds" in which the individual participating funds share prorata their equity contribution. Only the investments office should use these funds.
+The second digit in the Pooled Investments sequence represents various types of Pooled Investments, as outlined below:
+91xxxxx - Long Term Pooled Investments:
+This includes those funds established for the management of the pooled investments for the pooled Long Term Investments of the University. Separate cost objects are established to record the activity of the various investment managers.
+92xxxxx - Intermediate Term Pooled Investments:
+This includes those funds designated for management of available cash through the pooling of funds in intermediate term investments. Separate cost objects are established to record the activity of the various investment managers.
+93xxxxx - Short Term Pooled Investments:
+This includes those funds designated for management of available cash through the pooling of funds in short term investments. Separate cost objects are established to record the activity of the various investment managers.
+95xxxxx – Retirement Plan Pool:
+This includes those funds set aside to fund the non- faculty/staff retirement plan. Separate cost objects are established to reflect the activity of the various investment managers.
+97xxxxx - Special Investment Funds:
+This reflects those funds managed as a separate group usually as a result of agreements established at the time the gift is made. These are an exception and should be held to an absolute minimum.
+|
+Top
+|
+B. HEALTH SYSTEM STRUCTURE
+In the Health System Companies, all cost objects are budgeted codes except the 204xxxxxx Restricted Funds, and 205xxxxxx Endowments. Cost objects in these two series will have carry forward balances if applicable. The last four digits in the Health System structure are numbers assigned to individual cost objects, except for
+Health System WBS elements
+. The structure is as follows:
+Company
+Code
+Assgn Func
+Code
+Assigned Functional
+Code Description
+Further Brkdwn
+Further Breakdown
+Description
+Seq #
+20-60
+0
+Unassigned Income
+00
+Investment Income
+00xx
+00
+Endowment Income
+01xx
+00
+Gift Income
+02xx
+00
+Other Miscellaneous Income
+0xxx
+00
+Charity Discounts
+31xx
+00
+Medicare/Medicaid Adj
+32xx
+00
+State Agency Adjustments
+33xx
+00
+HMO/PPO Adjustments
+34xx
+00
+Capitation Adjustments
+35xx
+00
+Research Adjustments
+36xx
+00
+All Other Adjustments
+37xx
+1
+Administration
+01
+General
+xxxx
+02
+Debt Related
+xxxx
+03
+Distributed
+xxxx
+04
+Finance
+xxxx
+05
+Patient Services
+xxxx
+06
+House Staff
+xxxx
+07
+Information Services
+xxxx
+08
+Employee Services
+xxxx
+09
+Marketing/Outreach
+xxxx
+10
+Bad Debt
+xxxx
+2
+Dietary
+01
+General
+xxxx
+02
+Patient Food
+xxxx
+03
+Preparation
+xxxx
+04
+Cafeteria
+xxxx
+3
+Plant
+01
+Building Operations
+xxxx
+03
+Projects
+xxxx
+04
+Other
+xxxx
+05
+Parking
+xxxx
+4
+Inpatient
+01
+Support
+xxxx
+02
+Medicine
+xxxx
+03
+Surgery
+xxxx
+04
+Heart
+xxxx
+05
+Oncology
+xxxx
+06
+Ob/Gyn
+xxxx
+07
+Pediatrics
+xxxx
+08
+Psychiatry
+xxxx
+09
+Ophthalmology
+xxxx
+10
+Rehab
+xxxx
+12
+Observation
+xxxx
+13
+Skilled Nursing
+xxxx
+14
+Hospice
+xxxx
+5
+Clinical Support
+01
+Surgical Supplies
+xxxx
+02
+Organ Procurement
+xxxx
+03
+Pharmaceutical Services
+xxxx
+04
+Materials Services
+xxxx
+05
+Sterile Processing
+xxxx
+06
+Blood Bank
+xxxx
+07
+Linen
+xxxx
+08
+Equipment
+xxxx
+6
+Ancillary Services
+01
+Anesthesia
+xxxx
+02
+Cardiovascular Services
+xxxx
+03
+Surgical Services
+xxxx
+04
+Diagnostic Services
+xxxx
+05
+Therapeutic Services
+xxxx
+06
+Radiological Services
+xxxx
+07
+PT/OT Services
+xxxx
+08
+Respiratory Services
+xxxx
+09
+Labs
+xxxx
+7
+Outpatient
+01
+Support
+xxxx
+02
+Medicine
+xxxx
+03
+Surgery
+xxxx
+04
+Heart
+xxxx
+05
+Oncology
+xxxx
+06
+Ob/Gyn
+xxxx
+07
+Pediatrics
+xxxx
+08
+Psychiatry
+xxxx
+09
+Ophthalmology
+xxxx
+10
+Rehab
+xxxx
+11
+Research
+xxxx
+12
+Emergency
+xxxx
+13
+Transport
+xxxx
+15
+Home Care
+xxxx
+8
+Physicians
+01
+(Individual Practices or Docs)
+xxxx
+02
+03
+04
+05
+9
+Special Purpose
+01
+Board Designated - Other
+xxxx
+02
+Funded Depreciation
+xxxx
+03
+Restricted
+xxxx
+04
+Endowments
+xxxx
+10
+Concept Design
+xxxx
+1. Capital Expenditures (WBS Element)
+In general, capital expenditures (investments) with unit cost greater than $5,000 and a useful life greater than two years are subject to the issuance of a WBS. Some examples of the various types of capital expenditures include:
+Equipment
+Operating / Capital Leases
+New Business Acquisition or Development
+Real Estate
+Other Joint Venture Relationships
+Building Remodeling / Repair
+Project Specific Working Capital
+Information Systems
+Physician Related Ventures
+Please refer to
+GAP 200.050, Plant & Equipment Capitalization
+for specific capitalization details. When there is any doubt in regards to whether a contemplated expenditure would constitute an “operating” or a “capital” expenditure, contact DUHS Corporate Finance to request a capital pre-determination.
+WBS Element
+Required in order to have funds released for a project.
+Issued by DUHS Corporate Finance, FP&A - Capital.
+Consists of 4 segments: Company Code, Funding Pool, Fiscal Year Issued, Tracking #.
+The funding pool and information in the project request determine the 9 digit number.
+Company
+Code
+Funding
+Pool
+Capital Pool Description
+Fiscal Year
+Issued
+Tracking
+#
+20 - 60
+93
+Clinical Pool – Diagnostics & LabCo Capital Acquisition\Project
+xx
+xxx
+94
+PACS Refresh Pool – Capital Acquisition\Project
+xx
+xxx
+95
+Clinical Pool – DUH, DRH, DRAH, Central Capital Acquisition\Project
+xx
+xxx
+96
+Facilities & Infrastructure Pool – Capital Acquisition\Project
+xx
+xxx
+97
+Information Systems Pool – Capital Acquisition\Project
+xx
+xxx
+98
+Health System Pool – Capital Acquisition\Project
+xx
+xxx
+99
+Projects Greater than $1M and Diagnostic Fleet Replacements
+xx
+xxx
+Example for the WBS element 309513005:
+30
+95
+13
+005
+Company Code
+Funding Code
+FY Issued
+Tracking #
+|
+Top
+|
+C. INTERNAL ORDERS
+Each internal order, previously called a work order, begins with alpha characters. These characters correspond to the area where the work was performed.
+W: FMD Internal Order
+WDU: Duke Vehicle Orders
+WH: Residence Life and Housing Services
+WL: Marine Lab Orders
+WS: University Standing Internal Orders
+H: Engineering & Operations Internal Order
+HA: Hospital ADA
+HCU: Hospital Outside Customers
+HDUMC: Hospital Vehicles
+HI: Hospital MC Instrument Shop
+HKE: Hospital Key Shop
+HM: Hospital Maintenance Shops
+HN: Hospital North Shops
+HRS: Hospital Refrigeration
+HS: Hospital South Clinics Shops
+HST: Hospital Standing Building Orders
+HV: Hospital Technical (Energy Management Shop)
+HW: Hospital Construction Shops
+V. G/L ACCOUNT
+The G/L Account designates the type of revenue, expense, or balance sheet item being recorded by a transaction. The G/L account is a six digit number.
+The first digit of the G/L Account sequence indicates the broad type of account. The definitions for the specific G/L accounts are available on the web:
+1xxxxx:
+Assets
+2xxxxx:
+Liabilities and Fund Equity
+3xxxxx:
+Revenue
+6xxxxx:
+Expenditures
+7xxxxx:
+Recharges and Expense Credits
+8xxxxx:
+Appropriations and Transfers
+9xxxxx:
+Cost Accounting Distributions
+|
+Top
+|
+Accounting Home
+General Accounting Procedures
+General Ledger Account Definitions
+toggle sub nav
+Accounting Codes Overview
+Assets
+toggle sub nav
+10xxxx: Pooled Cash
+11xxxx: Petty Cash - Imprest Funds
+12xxxx: Cash in Banks
+13xxxx: Hospital Receivables
+14xxxx: University Receivables
+1481xx-1487xx: Due From Other Funds
+15xxxx / 19xxxx: Inventories
+16xxxx: Investments
+17xxxx: Investment in Plant and Equipment
+18xxxx: Plant and Equipment - Depreciation Reserves
+190xxx-197xxx: Deferred Charges
+198xxx-199xxx: Deferred Charges - Fringe Benefits
+Liabilities & Fund Equity
+toggle sub nav
+20xxxx: Payables - Current
+21xxxx: Sundry Creditors
+22xxxx: Due to Other Funds
+23xxxx: Deposits
+24xxxx: Deferred Credits
+25xxxx: Payables - Long Term
+29xxxx: Fund Equity
+Revenue
+toggle sub nav
+30xxxx: Student Tuition and Fees
+31xxxx: Endowment Income
+32xxxx: Gifts, Grants and Contract Payments
+331xxx-333xxx: Investment Income
+336xxx-339xxx: Tele/Video Income
+34xxxx: Other Revenue
+35xxxx-39xxxx: Hospital Revenues
+Expenses
+toggle sub nav
+60xxxx: Payroll Costs
+61xxxx: Fringe Benefits
+62xxxx: Professional Services and Other Payments
+63xxxx: Scholarship,Fellowship and Tuition Remission
+64xxxx: Supplies and Materials
+65xxxx: Cost of Goods Sold, Transferred or Issued
+66xxxx: Plant and Equipment Acquisitions to be Capitalized
+67xxxx: Plant and Equipment - Minor Acquisitions
+68xxxx: Plant and Equipment Maintenance and Repair
+69xxxx: General Operating and Other Expenses
+7xxxxx: Recharges
+75xxxx: Expense Credits - Specific Accounts
+8xxxxx: Appropriations and Transfers
+9xxxxx: Cost Allocations & Salary and Fringe Benefit Transfers
+99xxxx: Sponsored Programs - Special G/L Accounts
+G/L Account Search
+Gift Records & Processing
+toggle sub nav
+Ways to Give
+Check Matching Company
+Policies & Procedures
+Fiscal Year-End Deadlines
+Journal Vouchers
+toggle sub nav
+Journal Voucher (JV) Guidance
+Assigned JVs
+Electronic Journal Voucher Upload to SAP (ZF104)
+Non-Salary Cost Transfer Tool (ZF418)
+Corporate Space & Assets
+toggle sub nav
+Capital Asset Purchases
+Allocation of Space
+Difference Between Fixed & Movable Assets
+Fiscal Year End
+Training
+Frequently Asked Questions
+Forms
+News & Events
+Accounting Contact Information
+toggle sub nav
+Accounting Systems Administration
+Alumni & Development Records
+Financial Accounting and GAAP Reporting
+Plant Accounting
+Financial Services
+Accounting
+Financial Services Home
+Duke University
+Working@Duke
+Accessibility

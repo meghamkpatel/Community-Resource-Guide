@@ -1,0 +1,179 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'name': 'robots', 'content': 'max-snippet:-1,max-image-preview:standard,max-video-preview:-1'}
+{'name': 'description', 'content': 'We inspire and mobilize giving, leadership and action, and envision a vibrant Triangle community that works together to ensure everyone thrives.'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Triangle Community Foundation'}
+{'property': 'og:title', 'content': 'Triangle Community Foundation | Maximizing Impactful Giving'}
+{'property': 'og:description', 'content': 'We inspire and mobilize giving, leadership and action, and envision a vibrant Triangle community that works together to ensure everyone thrives.'}
+{'property': 'og:url', 'content': 'https://trianglecf.org/'}
+{'property': 'og:image', 'content': 'https://trianglecf.org/wp-content/uploads/2020/01/cropped-IMG_8735-1200x412-1.jpg'}
+{'property': 'og:image:width', 'content': '785'}
+{'property': 'og:image:height', 'content': '412'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:site', 'content': '@tricomfdn'}
+{'name': 'twitter:title', 'content': 'Triangle Community Foundation | Maximizing Impactful Giving'}
+{'name': 'twitter:description', 'content': 'We inspire and mobilize giving, leadership and action, and envision a vibrant Triangle community that works together to ensure everyone thrives.'}
+{'name': 'twitter:image', 'content': 'https://trianglecf.org/wp-content/uploads/2020/01/cropped-IMG_8735-1200x412-1.jpg'}
+{'name': 'msapplication-TileImage', 'content': 'https://trianglecf.org/wp-content/uploads/2023/11/cropped-TCF-Icon-RGB-270x270.jpg'}
+
+Body Text:
+Triangle Community Foundation | Maximizing Impactful Giving
+Skip to content
+menu
+Giving
+arrow_drop_down
+Fund for the Triangle
+Donor-advised Funds
+Legacy Funds
+Scholarship Funds
+Agency Funds
+Giving Circles
+Impact
+arrow_drop_down
+40 Years of Service
+Sustainable Communities
+Cultural Arts
+Education & Youth
+Capacity Building
+Triangle Capacity-Building Network
+Stories
+arrow_drop_down
+40 Stories
+Blog
+News
+Donors
+arrow_drop_down
+Why A Community Foundation
+Manage A Fund
+Helpful Hints for Grantmaking
+Instructions For Giving
+Professional Advisors
+arrow_drop_down
+Language for Wills & Trusts
+Options for Your Client
+Giving Through an Estate Plan
+Types of Assets Used to Create a Fund
+Donor-advised Fund: The Private Foundation Alternative
+Nonprofits
+arrow_drop_down
+Grant Opportunities
+Capacity Building Resources
+Create an Agency Fund
+Students
+arrow_drop_down
+Scholarships
+Scholarship Resources
+Mental Health Resources
+Toggle Search
+search
+Search for:
+Submit
+search
+Logins
+arrow_drop_down
+Donor Portal
+Grant Portal
+Scholarship Portal
+About
+arrow_drop_down
+The Foundation
+Staff
+Careers
+Financials
+Board of Directors
+Leadership Council
+Real Estate Foundation Board
+Board Committees
+Donate
+Building a Better Triangle Region
+We Connect Partners with Resources to Create a More Thriving Community for All
+Learn How We Do It
+MAKE AN IMPACT
+Donors
+Nonprofits
+Students
+Professional Advisors
+SUPPORT FUND FOR THE TRIANGLE
+Fund for the Triangle
+provides direct support for the Foundation’s interconnected
+impact areas
+, ensuring we are able to partner with strong nonprofits that are the cornerstone of our community’s health. This permanent community-based fund allows us the flexibility to be nimble so we are able to respond quickly to pressing needs now and for generations to come. To understand how we can mobilize Fund for the Triangle, we encourage you to read more about how we did so with our
+COVID-19 Recovery efforts
+.
+Last year, we granted nearly $1.7M through Fund for the Triangle to more than 100 strong nonprofits working across our impact areas!
+Join us and be a catalyst for change!
+CURRENT ARTIST IN RESIDENCE
+Gallery Artist: Maria Frati
+The Durham Art Guild and Triangle Community Foundation are thrilled to present work from
+Maria Frati
+in the Triangle Community Artists Gallery.
+During this time, we encourage you to visit our virtual gallery where you can peruse a few pieces of the current exhibit at your leisure, and purchase art if you desire. Wish to view the exhibit in person? Contact Zach Ward, Scholarships and Program Officer, at
+zach@trianglecf.org
+.
+About Maria:
+Maria is an oil painter and relief printmaker who grew up in the woods of Maine and hails from a family of artists. Maria has exhibited in Seattle, Baltimore, Asheville and Portland, Maine. She also served as an Artist in Residence for the National Parks Foundation. Before relocating to Raleigh, Maria worked as a high school art teacher in New York City.
+Enter the virtual art gallery
+IN RECENT NEWS
+Environmental Conservation
+The Foundation recently announced that we have helped conserve
+267 acres
+of land in our region since 2015!
+Learn more about this Impact Area and join us in preserving our natural resources.
+A DIVERSE COMMUNITY
+Our region, made up of four counties, is home to a growing number of unique people with a diverse array of abilities and challenges. Interested in learning more? Take a minute to learn more about
+our continuously growing region, and the nonprofits that serve it
+.
+Orange County
+148,696 people
+Durham County
+324,833 people
+Wake County
+1,129,410 people
+Chatham County
+76,285 people
+Source: 2020 U.S. Census
+Stay informed with our newsletter
+Receive the latest news about grants, stories, and how to make an impact in your community.
+Sign up for our e-newsletter
+TRIANGLE COMMUNITY FOUNDATION
+PO Box 12729 Durham, NC 27709
+800 Park Offices Dr, Suite 201, Research Triangle Park, NC 27709
+Phone
+(919) 474-8370
+Donor Services
+(919) 474-8363
+Fax
+(919) 941-9208
+Follow Us
+Facebook
+Twitter
+Instagram
+LinkedIn
+Financials
+Careers
+Press / Media
+Contact
+Privacy Policy
+Copyright © 2024 Triangle Community Foundation. All Rights Reserved. Site by Unity Web Agency
+Stay informed with our newsletter!
+Receive the latest news about grants, stories, and how to make an impact in your community.
+Email
+*
+Required
+Name
+*
+Required
+First
+Last
+I want to receive the newsletter for
+*
+Required
+Select All
+Donors
+Nonprofits
+Professional Advisors
+×

@@ -1,0 +1,91 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '6925a37e-d928-458f-877a-401f26c619ed'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'ee74ff16-702c-4218-abf3-b3e1edb9884b'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '568'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "Josh's Hope is a Hillsborough, NC-based non-profit that provides vocational training for young adults with mental illness."}
+{'property': 'og:title', 'content': "Mental Health | Josh's Hope Foundation | United States"}
+{'property': 'og:description', 'content': "Josh's Hope is a Hillsborough, NC-based non-profit that provides vocational training for young adults with mental illness."}
+{'property': 'og:url', 'content': 'https://www.joshshopefoundation.org'}
+{'property': 'og:site_name', 'content': 'JHF Main Site'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'B1kTo35zLYvL7BfuKeYnt0rsEQPH9GA37vA0UJ_a4mc'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': "Mental Health | Josh's Hope Foundation | United States"}
+{'name': 'twitter:description', 'content': "Josh's Hope is a Hillsborough, NC-based non-profit that provides vocational training for young adults with mental illness."}
+
+Body Text:
+Mental Health | Josh's Hope Foundation | United States
+top of page
+Home
+Reading List
+Calendar
+Who We Are
+Why Josh's Hope
+Josh's Story
+Meet Our Staff
+Board of Directors
+Contact
+What We Do
+Tools For Hope
+Events
+Archives
+How You Can Help
+Sponsors/Donors
+Resources
+More
+Use tab to navigate through the menu items.
+Donate
+SHOP
+Josh's Hope Foundation provides a unique experience of personal support and on-the-job training to help those with mental health challenges work to improve their health, live a self-directed life, and achieve their full potential.
+Learn more about our mission
+Our Recomended Reading list
+HERE
+Tools
+Job Skills Training
+Our Tools For Hope job skills program offers hands-on training in
+woodworking, welding, plasma cutting, ceramics, 3D printing, laser cutting and creation, lawn maintenance and agricultural skills such as beekeeping, gardening and poultry care.
+See calendar below for meet and greet days to learn more about these opportunities.
+SCHEDULE A TOUR!
+FOR
+Providing Opportunity
+Our on-the-job opportunities help participants gain job skills and build a resume which will help them secure employment in the community at the end of their time with us. Participants will receive support services and assistance in navigating community resources that support their recovery.
+SHOP JHF
+HOPE
+Family Hope
+Our Family Hope program works with parents and caregivers of our target population, helping them to navigate resources and strengthen advocacy skills so they can help their young adult connect with vital services.
+FAMILY SERVICES
+JHF Calendar
+Calendar
+Why Josh's Hope?
+Josh’s Hope Foundation was established as a living memorial to Josh Bailey, who struggled with mental health, and was murdered in 2008 at the age of 20 by a gang in Chapel Hill, North Carolina. At Josh’s Hope, we believe that all young people struggling with mental health conditions deserve the support and resources they need to build a rewarding life. We welcome you by helping remove obstacles and creating opportunities. Join us.
+Read Josh's Story
+Contact Us
+Why Josh's Hope
+Interested in keeping up with all things Josh's Hope? Click below to join our newsletter.
+Interested in keeping up with all things Josh's Hope? Click below to join our newsletter.
+SUBSCRIBE
+Donate Now
+Your support is vital to our success!
+First Name
+Last Name
+Donate in the name of
+Donate
+Josh's Hope Foundation, Inc.
+40 Terry Brook Ln
+Hillsborough, NC 27278
+919-245-0072
+Contact Us
+Subscribe
+We are a Guidestar Approved 501
+(c) 3 non-profit
+© 2023
+Josh's Hope Foundation, Inc.
+bottom of page

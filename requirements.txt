@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 altair
 pandas
 streamlit
+=======
+altair
+pandas
+streamlit
+>>>>>>> c371ee9210c5111d439b1bd1b7c04dd3ec58b61b

@@ -1,0 +1,81 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Purified bulk water delivered or at a self-service station near you. Join us in inspiring healthier lives while reducing plastic waste.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Purified Bulk Water & Water Dispensers | Primo Water'}
+{'property': 'og:description', 'content': 'Purified bulk water delivered or at a self-service station near you. Join us in inspiring healthier lives while reducing plastic waste.'}
+{'property': 'og:url', 'content': 'https://primowater.com/'}
+{'property': 'og:site_name', 'content': 'Primo® Water'}
+{'property': 'article:modified_time', 'content': '2023-10-13T20:22:10+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'msapplication-TileImage', 'content': 'https://primowater.com/wp-content/uploads/2022/09/cropped-primo-favicon-270x270.png'}
+{'name': 'facebook-domain-verification', 'content': 'fzkhwyc00xoee7joc8t2glic5voens'}
+
+Body Text:
+Purified Bulk Water & Water Dispensers | Primo Water
+Why Primo Water
+Our Water
+Delivery
+Exchange
+Refill
+Blog
+Support
+Find Water
+Shop Dispensers
+Life Needs Water.
+Make it Primo Water.
+™
+60% of you
+is made of water
+1
+71% of earth
+is made of water
+2
+Let's start acting like it
+Water is essential to human life, and staying hydrated keeps your body functioning properly.
+3
+That’s where Primo® Water comes in. We are dedicated to inspiring healthier lives through healthy hydration.
+Hydration
+Quality Water
+Less Waste
+Learn More
+Bottled Water Delivery
+Refreshing, quality bottled water, conveniently delivered to your door. Easily manage your deliveries online or through the MyWater+ app. You can customize your order by choosing from a variety of flavored and sparkling waters and other favorite beverages.
+Water Exchange
+Available at 13,000+ retailers, our water exchange stations provide you with full bottles of purified water in 3- and 5-gallon bottles. Just exchange your empty bottle at the store for recycling and get a ticket for savings on your next bottle.
+Water Refill
+Our self-service refill stations make having refreshing drinking water readily available. Just bring your own bottle to a refill station, or buy one at the refill station, and get your fill whenever you need it!
+Water Dispensers to Fit Your Needs
+Enjoy the convenience of hot or cold water at the touch of a button. We have sleek and stylish water dispensers for every lifestyle – top  and bottom loading or the AquaBarista™, a single-cup coffee brewer and water dispenser in one. We’ll help you pick the dispenser that’s right for you.
+Top Loading Dispensers
+Shop Top Loading ›
+Bottom Loading Dispensers
+Shop Bottom Loading ›
+Countertop Dispensers
+Shop Countertop ›
+Portable Dispensers
+Shop Portable ›
+Sources:
+1
+WebMD
+2
+USGS
+3
+Mayo Clinic
+©2024 Primo Water Corporation. All rights reserved.
+Careers
+Investor Relations
+Contact Us
+Product Registration
+Sales Inquiry
+Privacy Policy
+Terms of Use
+Cookies Policy
+CA Supply Chain
+CA Privacy Policy Addendum
+Do Not Sell or Share My Personal Information
+Follow us:

@@ -1,0 +1,132 @@
+Meta Information:
+{'content': 'email=no', 'name': 'format-detection'}
+{'content': 'follow,noindex', 'name': 'robots'}
+{'content': 'IE=edge,chrome=1', 'http-equiv': 'X-UA-Compatible'}
+{'content': 'You get notifications about nearby events or road closures when Google Maps thinks it might affect a route that you travel often. If we know about a scheduled event, you’ll get an alert ahead of time', 'name': 'description'}
+{'content': 'XDaf09mosy9iTj6dOnwb6sKTrNhfKwOS6v98lPV0dEE', 'name': 'google-site-verification'}
+{'content': 'width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=3,user-scalable=yes', 'name': 'viewport'}
+{'content': '1', 'itemprop': 'position'}
+{'content': '2', 'itemprop': 'position'}
+
+Body Text:
+Traffic from nearby events - Google Maps Help
+Skip to main content
+Google Maps Help
+Sign in
+Google Help
+Help Center
+Community
+Google Maps
+Privacy Policy
+Terms of Service
+Submit feedback
+Send feedback on...
+This help content & information
+General Help Center experience
+Next
+Help Center
+Community
+Google Maps
+Maps help (iOS)
+Traffic from nearby events
+Traffic from nearby events
+You get notifications about nearby events or road closures when Google Maps thinks it might affect a route that you travel often.
+If we know about a scheduled event, you’ll get an alert ahead of time so you can plan an alternate route. For example, if there is a concert on your way home from work, you might get a notification one day before the concert.
+Learn how to turn notifications on or off
+.
+Tip:
+To help you plan around events, tap
+Get a Reminder
+and Google Maps will remind you about the event closer to when it starts.
+Was this helpful?
+How can we improve it?
+Yes
+No
+Submit
+Need more help?
+Try these next steps:
+Post to the help community
+Get answers from community members
+true
+Maps help (iOS)
+1 of 4
+Add & customize your Google Maps iOS widgets
+2 of 4
+Traffic from nearby events
+3 of 4
+Share, send, or print directions from Google Maps
+4 of 4
+See traffic near you
+©2024 Google
+Privacy Policy
+Terms of Service
+català‎
+dansk‎
+Deutsch‎
+eesti‎
+English (United Kingdom)‎
+español‎
+español (Latinoamérica)‎
+Filipino‎
+français‎
+Gaeilge‎
+hrvatski‎
+Indonesia‎
+italiano‎
+latviešu‎
+lietuvių‎
+magyar‎
+Malti‎
+Melayu‎
+Nederlands‎
+norsk‎
+polski‎
+português‎
+português (Brasil)‎
+română‎
+slovenčina‎
+slovenščina‎
+suomi‎
+svenska‎
+Tiếng Việt‎
+Türkçe‎
+íslenska‎
+čeština‎
+Ελληνικά‎
+български‎
+русский‎
+српски‎
+українська‎
+‏
+עברית
+‏
+العربية
+मराठी‎
+हिन्दी‎
+বাংলা‎
+ไทย‎
+中文（简体）‎
+中文（繁體）‎
+日本語‎
+한국어‎
+English‎
+Enable Dark Mode
+Send feedback on...
+This help content & information
+General Help Center experience
+Search
+Clear search
+Close search
+Google apps
+Main menu
+4147305773002138433
+true
+Search Help Center
+true
+true
+true
+true
+true
+76697
+false
+false

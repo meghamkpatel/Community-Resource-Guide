@@ -1,0 +1,185 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'generator', 'content': 'Magazine News Byte Premium 2.9.24'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'itemprop': 'url', 'content': 'https://indoorcyclingassociation.com/wp-content/uploads/2018/09/Music.png'}
+{'itemprop': 'width', 'content': '205'}
+{'itemprop': 'height', 'content': '205'}
+{'itemprop': 'name', 'content': 'Indoor Cycling Association'}
+{'itemprop': 'url', 'content': 'https://indoorcyclingassociation.com/wp-content/uploads/2014/06/cropped-ica-banner-1-1.jpg'}
+{'itemprop': 'width', 'content': '950'}
+{'itemprop': 'height', 'content': '181'}
+
+Body Text:
+How to Incorporate Long Intervals, Part 3: Choosing Music for Longer Intervals – Indoor Cycling Association
+Skip to content
+Indoor Cycling Association
+Primary Navigation Menu
+Menu
+Home
+About ICA
+Meet the ICA Team of Experts
+Testimonials: What Our Fans Say
+Membership
+Why should I join?
+What to Teach Next
+Member Videos: Exercise Physiology
+Member Services
+Virtual Rides
+Ride with Jennifer
+Ridestrong Training
+Links
+Music
+Weekly Music Suggestions
+Music Resources
+Free Topics
+Free Articles
+ICA In The News
+Instructor & Club Spotlight
+Marketing Ideas
+Medical & Health
+Outdoor Cycling
+Premium Articles
+Class Profiles
+Instructor Issues & growth
+Theme Ride Thursday
+Coaching and Cueing
+New Instructors
+Biomechanics, Cadence, Power
+Physiology, Heart Rate & RPE
+Contact
+Log In
+How to Incorporate Long Intervals, Part 3: Choosing Music for Longer Intervals
+By:
+Jennifer Sage
+On:
+September 2, 2018
+In:
+Instructor Issues & growth
+,
+Music Resources
+With:
+3 Comments
+Longer intervals can present a musical challenge as well as a coaching one. In this post, I’ll be giving you tips on finding and selecting appropriate music for your longer intervals. I have curated four different Spotify playlists of different genres and tempos of songs that are 7 minutes and longer. In the previous chapter of this series, I addressed how to inspire your riders to stay focused during longer intervals; you’re going to find that your music selection will have a big impact on your ability to do so.
+The questions I hear the most are the following: Do you use just one song, or a couple of songs in an interval that is 7 minutes or longer? Where do you find the long songs? Will my riders enjoy them?
+Some instructors tend to avoid longer songs, especially if they prefer mainstream music and their class is used to songs of 3 or 4 minutes. It’s true that more mainstream music tends to be shorter, but the good news is that longer remixes of popular mainstream songs have become very trendy.
+While it depends on the objective of my ride, my own personal preference is to use one long song for many of my long intervals. This is my choice when I have a mind-body goal to focus intently on what we are doing or when I want my riders to search inside themselves to find the intrinsic motivation to push through the challenge. Longer songs, especially repetitive ones without lyrics or with very few lyrics, can be mesmerizing and help you stay engaged. Some will even lull you into a hypnotic trance; this rarely happens with short songs.
+But you have to have an open mind about these types of songs because they are often outside the box that many instructors find themselves in. Many of them are genres that some may (initially) steer away from, such as ambient, global, downtempo, psychedelic trance, and others.
+For profile objectives that are more performance-oriented and less about a mind-body connection and mental strength (although, honestly, I try to bring mental strength cues into almost every class I teach), I might decide to string several songs together for one interval. An example might be negative split threshold intervals where I want my riders to work a little harder the second half of the interval, so I use two 4-minute songs of the same tempo.
+Still other classes I might do a mixture of long songs and multi-song intervals in order to provide more variety for my riders and to appease both those who enjoy the longer ones and those who prefer the more mainstream tracks.
+If you are going to use two, or perhaps even three songs for one continuous steady-state interval, here are some suggestions.
+One option is to keep the same beats per minute, or at least within 5–8 bpm, so you keep a similar cadence throughout the interval. You might choose to make the second song just a few bpm faster, and if you use a third track, have that one be the fastest of the three. This will allow a slight increase in intensity/power over the course of the interval if you don’t touch the resistance knob.
+Another option is to do one half with a song with a climbing tempo and the other half with a flat road tempo, for example, 70 rpm and 90 rpm. This works much better when you have a power meter; otherwise it’s really hard to know if you’re putting out the same amount of work. It requires good coaching to guide riders to quickly change the resistance so that they can aim for the same power output in the second half. I love that this technique is a real eye-opener for riders about how the same power can be obtained by both high cadence/low resistance and loser cadence/higher resistance. You’ll see lightbulbs go off over some riders’ heads!
+Make the last song the highest-energy one.
+If possible, use a program such as MixMeister to blend the songs so it flows better from one to the next. Or, in Spotify, use a crossfade of 8 to 10 seconds so there is less space between tracks.
+Maybe you would like to use longer songs but don’t know where to find them? We asked ICA instructors to share their favorite long songs over 7 minutes and have compiled more than 180 songs for you. (Updated March 2021: Now up to 409 songs. This list is always growing!) I’ve taken these songs and divided them into four different playlists in Spotify based on the genre and the tempo of the songs.
+The tempo (beats per minute, or bpm) of the song impacts how the song is best used. Some more popular genres such as pop and EDM, or electronic dance music are in a fairly narrow tempo range. What this can mean is that if you are a big pop and EDM fan, songs outside of that bpm might not be as popular (in other words, you may not “like” the songs as much), but if you ride on the beat, that narrows what your choices are. On the other hand, if you don’t ride to the beat, you can choose any song you want for any cadence. In a way, that is more liberating and your choice of music is vastly increased across every cadence.
+On the other hand, some instructors (and riders, too) simply cannot ride off the beat, especially when they are working hard (it’s easier to disassociate from the beat in a recovery or cool-down, for instance).
+I divided the playlists into the following two groups of genres:
+Pop, rock, alternative (includes indie, hip-hop, and similar styles). EDM remixes of popular mainstream songs found their way into this group.
+Electronic (includes EDM, house, club, trance, dub, downtempo, etc.). Most are primarily instrumental, though dance style (EDM) usually has lyrics.
+I then divided each of these into songs that are good for lower cadence (55–80 rpm) and higher cadence (80–110-ish rpm). A word of warning for those who aren’t sure about music tempo and its relation to cadence…that doesn’t necessarily translate to lower bpm and higher bpm. As you’ll see, a 90 bpm song is used for a faster-cadence effort of 90 rpm, but the
+higher
+bpm of 120–140 bpm is used for a
+lower
+cadence of 60–70 rpm (climbing or high resistance). In the first example, you pedal with one foot ON every beat, and in the latter example, you pedal with one foot
+every other
+beat.
+How do you like these playlists? I hope they help you as you explore longer intervals and maybe even open your mind up to genres you might have avoided (or didn’t know about) in the past.
+Please let us know in the comments if you have any more questions about music selection for longer intervals. Again, please also tell us if you have a favorite long song we’ve missed.
+C
+oming up. How to Incorporate Longer Intervals, Part 5: 9 Tips to Make Long Intervals More Interesting
+Check out the previous articles in this series.
+Part 1:
+How to Incorporate Long Intervals, Part 1: Why Longer Intervals Are Important
+Part 2:
+How to Incorporate Long Intervals, Part 2: Preparing for a 20-Minute FTP Assessment
+Part 3:
+How to Incorporate Long Intervals, Part 3: Progressive Programming Over 6–8 Weeks
+2018-09-02
+Previous Post:
+Quick Profile: Pub Crawl
+Next Post:
+Mainstream Music Monday: Big Effort on a Moderate Hill
+3 Comments
+In exploring the back catalog of my current musical obsession, Car Seat HEadrest, I found this gem of a long song that fits into Playlist #2:
+https://www.youtube.com/watch?v=rcFOUk21b0o
+It’s over 14 minutes at 140 BPM. The 5:00 intro is all instrumental so it can be used to start a class or a drill where the instructor needs to be heard. It features deep, introspective lyrics about the artist’s anxieties and includes 2 intensity builds around 9:30 and 13:00. It also features a reference to a Modest Mouse song. I’m planning to use it in an upcoming long interval based profile and probably the only instructor in the world who would use this song.
+Bill Pierce
+September 11, 2018
+Permalink
+Reply
+Thanks so much Jennifer!
+I’ve been coaching my riders over the past 5 weeks with longer intervals (three 10 min sets zone 3-4, 6 min hill repeats, etc) and next Tuesday I am launching my 20 min FTP test!
+Do you think you will have any more info, articles and instructor resources on how to coach the FTP test by  end of this week, early next?  If not, any guidance you can provide me would be SUPER helpful in rolling it out to my class next week.  Thanks so much!
+SaraHogrefe
+September 4, 2018
+Permalink
+Reply
+Hi Jennifer
+Is there any chance of a PDF version of these playlists?
+It won’t let me playlists to search for the songs on my music source & I don’t use Spotify.
+Gutted as I use a lot of your music suggestions & always struggle finding longer songs.
+Hope you can help
+Gill
+GillianCross
+September 4, 2018
+Permalink
+Reply
+Leave a Reply
+Cancel reply
+Your email address will not be published.
+Required fields are marked
+*
+Comment
+*
+Name
+*
+Email
+*
+Website
+Δ
+Search
+Membership
+Gain immediate access to the secrets of being a top indoor cycling instructor!
+ICA Members, welcome back! Log in now and get full access to Member Content:
+ABOUT US
+Meet the ICA Team of Experts
+Testimonials: What Our Fans Say
+ICA Membership
+FEATURES
+How It’s Done Videos
+Free Topics
+Free Articles
+ICA In The News
+Instructor & Club Spotlight
+Marketing Ideas
+Medical & Health
+Outdoor Cycling
+MEMBER TOPICS
+Ask the Expert
+Biomechanics, Cadence, Power
+Class Profiles
+Coaching and Cueing
+Communication and Presentation Skills
+Form and Technique
+Instructor Challenges & Growth
+Instructor Insight Webinar Series
+Magic Coaching Minute
+Member Videos
+Mental Training, Mind-Body
+Music Resources
+My Cycling Class Today
+New Instructors
+OCD – Obsessed with Cycling Drills
+Programming and Management
+Physiology, Heart Rate & RPE
+Step Outside Your Musical Box
+Teaching With Video
+Theme Ride Thursday
+Weekly Music Suggestions
+Weekly Music Archives
+Connect with us
+© 2023 Indoor Cycling Association All Rights Reserved.

@@ -1,0 +1,93 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'The Inner Foundation'}
+{'property': 'og:title', 'content': 'The Inner Foundation invests in SPOKE — The Inner Foundation'}
+{'property': 'og:url', 'content': 'https://www.theinnerfoundation.org/the-inner-foundation-invests-in-spoke'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/62331fab8a8317324dc225a6/t/642ae62d5e778a08ec9a5927/1680533042329/SPOKE%2Bteam.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '1443'}
+{'itemprop': 'name', 'content': 'The Inner Foundation invests in SPOKE — The Inner Foundation'}
+{'itemprop': 'url', 'content': 'https://www.theinnerfoundation.org/the-inner-foundation-invests-in-spoke'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/62331fab8a8317324dc225a6/t/642ae62d5e778a08ec9a5927/1680533042329/SPOKE%2Bteam.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/62331fab8a8317324dc225a6/t/642ae62d5e778a08ec9a5927/1680533042329/SPOKE%2Bteam.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'The Inner Foundation invests in SPOKE — The Inner Foundation'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/62331fab8a8317324dc225a6/t/642ae62d5e778a08ec9a5927/1680533042329/SPOKE%2Bteam.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.theinnerfoundation.org/the-inner-foundation-invests-in-spoke'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+The Inner Foundation invests in SPOKE — The Inner Foundation
+0
+Skip to Content
+Portfolio
+About us
+About you
+News & press
+Open Menu
+Close Menu
+Portfolio
+About us
+About you
+News & press
+Open Menu
+Close Menu
+Portfolio
+About us
+About you
+News & press
+The Inner Foundation invests in music-led mental wellness app SPOKE to support young adults
+2023/04/03
+The Inner Foundation, a foundation investing in for-profit and non-profit mental health ventures, announces their financial backing of
+SPOKE
+, a mental wellness mobile app targeting young adults.
+SPOKE’s
+app combines spoken word and music from hip-hop artists with neuroscience to create a meditation experience that has proven to be effective to reduce anxiety and depression.  The app reaches out to an audience whose mental wellness needs have not been recognized and that feels excluded by the mainstream wellness culture.
+“We have invested in SPOKE because it is an innovative and unique mental wellness app with a focus on young adults and specifically targeting young men from underserved communities. The SPOKE team is super passionate and innovative, and we share their mission to provide mental health resources for youth from all backgrounds,”
+comments Annika Sten Pärson, Co-founder and Partner of The Inner Foundation.
+Based on 18 months of research and development, SPOKE combines music with the therapeutic technique of mindfulness. SPOKE engages artists, trained by a team of clinical psychologists, therapists, and neuroscientists to produce music and spoken word to help users achieve a desired mental state. The goal is to deliver an experience that has the same impact as therapeutic practices.
+The funding from The Inner Foundation will be used to expand the team, further develop the product and build knowledge about how music and spoken word can be used to improve mental wellness.
+“What especially sparked our interest in SPOKE is that it has been specifically designed to appeal to young men, a group which until now has been extremely hard to reach with conventional wellness tools and therapy. There are so many young men battling mental health issues and this group is less likely to seek support. SPOKE has great potential to fulfill these unmet needs,”
+comments Annika Sten Pärson.
+SPOKE’s founding team includes mental health activist and entrepreneur Ariana Alexander-Sefre. She has spent several years studying the body of academic research about music-based interventions to affect the state of mind. Ariana has a master’s degree in social innovation from the University of Cambridge where she researched the link between music, culture, and mental health. Ariana is joined by Co-Founder and Co-CEO Michael Maher, a serial entrepreneur with over 18 years of experience building consumer apps and subscription-based business models. Michael previously co-founded multi-award winning app publisher Zolmo with 20M+ downloads from self published titles.
+The SPOKE team also includes scientific advisor Becky Inkster, a digital mental health neuroscientist. Becky has a PhD from Oxford University and is the author of many scientific papers on a range of topics, including digital mental healthcare. She is currently affiliated with the Department of Psychiatry at the University of Cambridge.
+“We look forward to joining forces with The Inner Foundation. We share the same vision  to improve the state of inner health for emerging adults and to fight for diversity and inclusion. SPOKE has inclusion at its core, where anyone can learn, grow, reflect and heal without expectation and judgment,”
+says Ariana Alexander-Sefre.
+“The early stage, preventative mental wellness sector is changing rapidly. It is crucial to innovate fast to meet the deeply sophisticated, varied and fluid needs of young people today, who are more in-tune and conscious than any generation before. We strongly believe that artists, who are the world’s natural healers, need a platform and vehicle to be positive and validated ambassadors for good mental health. That is exactly what we do at SPOKE; match up young people’s need for a new way of looking after the mind, with artists’ desire to serve society for good,”
+continues Ariana.
+“The Inner Foundation and SPOKE share the same values on the importance of inclusivity, equity and the quest to help improve people's inner worlds. We believe that these values will help make the world a better place,”
+concludes Ariana Alexander-Sefre.
+For further information, please contact:
+Ariana Alexander-Sefre
+Founder and Co-CEO of SPOKE
+ariana@spoke.world
++44 795 84 91 107
+Annika Sten Pärson
+Founder and Partner, The Inner Foundation
+annika.stenparson@theinnerfoundation.org
++46 73 439 06 40
+About SPOKE
+SPOKE is UK's no.1 music-led mental wellness app that helps you to re-tune your mind, sleep better, and strengthen your mindset. Created in our own East London studio, SPOKE provides a slice of audio escapism. Each soothing episode features music and spoken word by some of the UK’s best producers and rising artists - who have been trained by neuroscientists, psychologists and therapists. Each episode is a meditation created for music lovers who would like to improve mental and emotional health.
+About The Inner Foundation
+The global social crisis is fundamental and requires a radical shift.  The Inner Foundation (founded by Annika Sten Pärson and Pär-Jörgen Pärson) invests in both for profit and non-profit organizations that are ready to scale to improve the inner health for the many and strengthen inclusiveness, equity and diversity in society – uniting public, private and non-profit efforts to make sustainable human development happen.
+We are witnessing a large gap between academic insight, best practice, and street-level action in the field of mental health and DEI. The Inner Foundation was created as a significant force for good – equal parts impact investor, grant giver, and thought leader. We consider ourselves part empowerers, part activists. We recognize the complexity and still, we aim for solutions that are simple, doable, and powerful. We set out to build an ecosystem of positive change agents with people and organizations that share our philosophy and theory of change. There are thousands of innovative solutions out there that carry the potential for counteracting the problems of loneliness, loss of direction, exclusion, and lack of diversity. Debilitating issues that are not getting addressed for real. We won’t rest until that happens.
+For press and other inquiries
+www.theinnerfoundation.org
+hi@theinnnerfoundation.org
+About us
+Ready to scale?
+Work with us
+¹
+Follow us on Linkedin
+&
+Instagram
+Privacy & polic
+ies
+Contact us
+The Inner Foundation
+Grev Turegatan 40, 114 38
+Stockholm, Sweden

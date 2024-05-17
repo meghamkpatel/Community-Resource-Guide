@@ -1,0 +1,155 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+{'name': 'generator', 'content': 'SEOmatic'}
+{'name': 'keywords', 'content': 'outbound sales, account-based sales, inside sales, Outreach, Sales Engagement, Sales Engagement Platform'}
+{'name': 'description', 'content': 'As we approach Unleash, I’ve been thinking about all the things I’ve learned about Outreach as a user and admin. It caused me to reflect on what I wish I…'}
+{'name': 'referrer', 'content': 'no-referrer-when-downgrade'}
+{'name': 'robots', 'content': 'all'}
+{'content': 'en_US', 'property': 'og:locale'}
+{'content': 'de_DE', 'property': 'og:locale:alternate'}
+{'content': 'fr_FR', 'property': 'og:locale:alternate'}
+{'content': 'en_GB', 'property': 'og:locale:alternate'}
+{'content': 'Outreach', 'property': 'og:site_name'}
+{'content': 'website', 'property': 'og:type'}
+{'content': 'https://www.outreach.io/resources/blog/what-i-wish-i-knew-about-outreach', 'property': 'og:url'}
+{'content': 'What I wish I knew about Outreach from the start (an ode to Skee-Lo)', 'property': 'og:title'}
+{'content': 'As we approach Unleash, I’ve been thinking about all the things I’ve learned about Outreach as a user and admin. It caused me to reflect on what I wish I…', 'property': 'og:description'}
+{'content': 'https://cdn-mktg.outreach.io/assets/Blog-Assets/Thumbnails/_1200x630_crop_center-center_82_none/concert_thumbnail.jpg?mtime=1715378453', 'property': 'og:image'}
+{'content': '1200', 'property': 'og:image:width'}
+{'content': '630', 'property': 'og:image:height'}
+{'content': 'Sales Engagement Software to Crush Your Sales Goals', 'property': 'og:image:alt'}
+{'content': 'https://www.linkedin.com/company/outreach-saas/', 'property': 'og:see_also'}
+{'content': 'https://www.facebook.com/Outreach.io/', 'property': 'og:see_also'}
+{'content': 'https://twitter.com/outreach_io', 'property': 'og:see_also'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@outreach_io'}
+{'name': 'twitter:creator', 'content': '@outreach_io'}
+{'name': 'twitter:title', 'content': 'What I wish I knew about Outreach from the start (an ode to Skee-Lo)'}
+{'name': 'twitter:description', 'content': 'As we approach Unleash, I’ve been thinking about all the things I’ve learned about Outreach as a user and admin. It caused me to reflect on what I wish I…'}
+{'name': 'twitter:image', 'content': 'https://cdn-mktg.outreach.io/assets/Blog-Assets/Thumbnails/_800x418_crop_center-center_82_none/concert_thumbnail.jpg?mtime=1715378453'}
+{'name': 'twitter:image:width', 'content': '800'}
+{'name': 'twitter:image:height', 'content': '418'}
+{'name': 'twitter:image:alt', 'content': 'Sales Engagement Software to Crush Your Sales Goals'}
+{'name': 'next-head-count', 'content': '39'}
+
+Body Text:
+What I wish I knew about Outreach from the start (an ode… | Outreach
+Get a demo
+Resources
+Blog
+What I wish I knew about Outreach from the start (an ode to Skee-Lo)
+Posted
+May 4, 2018
+By
+Chelsey Feldman
+Product Marketing
+at
+Outreach
+Guest post by Ryan Schertzer, Director of Inside Sales @ Seal Software, 90s Aficionado
+To all of you millennials reading this, I’m sorry you had to grow up with the Kardashians. I’m sorry that real Rock ‘N Roll only exists on classic radio stations now. I’m sorry that you’re living in an era when Snoop Dogg hangs out with Martha Stewart and not 2Pac.
+But don’t fret — for today’s blog post, I am bringing back the dulcet tones of a true O.G. —  Skee-Lo.
+As we approach
+Unleash
+, I’ve been thinking about all the things I’ve learned about Outreach as a user and admin. It caused me to reflect on what I wish I had known from the beginning. As it so happens, the silver-tongued master of flow himself, Antoine Roundtree (AKA Skee-Lo), wished all the same things.
+Mr. Lo immortalized his thoughts in his classic rap ballad,
+I Wish
+. Just look at this magical chorus:
+I wish I was a little bit taller
+I wish I was a baller
+I wish I had a girl who looked good, I would call her
+I wish I had a rabbit in a hat with a bat
+And a six four Impala
+Let that wash over you for a minute. Move over, Robert Frost; the true poet is here. Let’s dissect how these profound lyrics relate back to my experience using Outreach.
+I wish I was a little bit taller
+This is the perfect metaphor for the Outreach platform. When I first started working with the platform, my thought was that it was a great way to organize and structure what my BDR team was doing daily. While true, Outreach ended up being so much more than that.
+If you think of the tall people you know, their reach is generally greater than those of a person of shorter stature. I always marvel when they speak of NBA players that are 6’9” tall and have a 7’4” wingspan. Their reach, and, therefore, impact on the game is incredible.
+I didn’t realize when I started using Outreach that it could extend my reach in the manner that it has. It has figuratively (not literally – please learn the difference between literally and figuratively in everyday speech and help save the human race from itself) extended our reach and impact in amazing ways. Our activity increased by 6X in the first quarter of use and meetings were up nearly 50%. Sales has always been a contact sport and Outreach has enabled us to contact so many more people than we could before.
+I wish I was a little bit taller – prophecy fulfilled.
+I wish I was a baller.
+This one is a layup. The bastion of internet truth, Wikipedia, tells us that a baller is one who has swag and lives an extravagant lifestyle. If you don’t know what swag is, stop reading now and go back to Reader’s Digest.
+Outreach is a platform that will magnify your efforts whether good or bad. If you’ve got a great process, you’re going to ball out and capture more prospects and market share. If you’ve got a bad process, you’re going to push your sloppy, poorly communicated message to the masses faster. The good news is that you’ll now know where you’re succeeding and failing so that you can make changes. For example, I was able to identify a pretty dull email in the middle of a sequence and replace it with an email asking for a referral to a colleague. Our response rate on that step jumped from 2.1% to 9.6%.
+I wish I had a girl who looked good, I would call her.
+I don’t have a girl, but I do have a Customer Success Superstar. I wish I had known early on just how valuable this function is for our overall success. If you’re not having regular calls with your Customer Success Manager, you’re missing out. Every week we challenge each other in various aspects of the platform. No platform is perfect. Outreach as an organization, however, is exceptional at responding to customer input. Don’t wait for Outreach to think up new things for the product to do. You’re the user, the real innovator, because you know what you need it to do. Share your insights with them and help us all in the process.
+I wish I had a rabbit in a hat with a bat.
+I wish I knew at the beginning about the
+Outreach Engagement Panel
+. That’s my rabbit in the hat. Actually, this one is my own fault. I was told about the Engagement Panel fairly early in our deployment, but I didn’t think we were ready for it. I should have listened. The ability to pull Outreach sequence data into Salesforce.com (SFDC) has given us invaluable insight into our cadence and coverage. I can run SFDC reports to see how many prospects per account manager are currently in sequence and set thresholds to quickly identify where we are under-covered. Game changer.
+And a ’64 Impala.
+I wish I had know how beautiful Outreach looks from the outside – like a ’64 Impala. As I’ve shown countless people in our organization what we’ve built with Outreach, they are amazed at how advanced we are in our process and execution. It’s not perfect and we will never arrive, but I’ll keep rollin’ in this beautiful ’64 Impala.
+Now, if I could just get tickets to the Skee-Lo reunion tour… I Wish.
+*
+Required listening
+(You’re welcome.)
+Related
+Read more
+Blog
+05.15.2024
+Smart Account Plan: Elevate your account strategy
+Blog
+05.15.2024
+The AE role has changed, have you?
+Blog
+05.14.2024
+Account-based selling: The ultimate guide for 2024
+Discover the Sales Execution Platform
+See how Outreach helps sellers close over 2 million opportunities every month.
+Request a demo
+Platform
+Platform overview
+AI-powered selling
+Trust
+GDPR
+Governance
+Marketplace
+Platform status
+Capabilities
+Sales engagement
+Deal management
+Mutual action plans
+Conversation intelligence
+Rep coaching
+Deal insights
+Pipeline management
+Sales forecasting
+Why Outreach
+Why choose Outreach?
+Customer stories
+Customer success
+Enterprise
+Customers
+Knowledge base
+Outreach Success Center
+Outreach University
+Professional services
+Support Login
+Find a partner
+Product release notes
+Personas
+Sales leadership
+Sales managers
+Sales development
+Account executives
+Revenue operations
+Customer success managers
+Resources
+Reports & guides
+Blog
+Webinars & videos
+Brand resources
+Company
+About us
+Newsroom
+Careers
+Contact us
+Our locations
+Seattle HQ
+London
+Prague
+Follow us
+Do not sell my private information
+Cookie Notice
+Privacy Statement
+Terms of Service
+Acceptable Use Policy
+© 2023 Outreach

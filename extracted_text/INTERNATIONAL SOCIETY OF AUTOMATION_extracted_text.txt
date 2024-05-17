@@ -1,0 +1,176 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1.0'}
+{'name': 'keywords'}
+{'name': 'description', 'content': 'Empowering the global automation community through standards and knowledge sharing.'}
+{'property': 'og:title', 'content': 'International Society of Automation (ISA)'}
+{'property': 'og:description', 'content': 'Empowering the global automation community through standards and knowledge sharing.'}
+{'property': 'og:type', 'content': 'Home'}
+{'property': 'og:site_name', 'content': 'isa.org'}
+{'property': 'og:url', 'content': 'https://www.isa.org/'}
+
+Body Text:
+International Society of Automation (ISA)
+Join
+Renew
+Connect
+Blogs
+InTech
+ISAGCA
+Logo Merchandise
+Career Center
+Login
+Shop
+Close
+Standards
+Standards
+List of All ISA Standards by Topic
+Standards Committees
+Committee Tools and Guidelines
+Standards News
+View ISA Standards: A Member Benefit
+ISA/IEC 62443 Series of Standards
+Certification
+CAP
+CCST
+Certificate Programs
+Credential Directory
+Training
+Courses by Topic
+Course Formats
+Custom Training Solutions
+Training Partners
+Become an Instructor
+Access Online Training
+List of Training Events
+ISA Business Academy
+Membership
+Membership
+Geographic Sections
+Technical Divisions
+Young Professionals
+Students
+Recognition
+Member Source
+ISA Mentor
+Events
+Events & Conferences
+Sponsorship
+Automation Summit & Expo
+OT Cybersecurity Summit
+Publications
+Pub Hub
+Publications
+Books
+InTech
+Position Papers and White Papers
+Automation.com
+Directory of Automation
+Transactions
+Software
+News
+Press Room
+Media Resources
+Podomation Podcast
+About
+History of ISA
+Leadership
+Strategic Plan
+Technical Content Topics
+What is Automation
+Governing Documents
+Media Resources
+Get Involved
+Contact Us
+Cancel
+Search Site
+Setting the Standard for Automation™
+The International Society of Automation (ISA) is a non-profit professional association of engineers, technicians, and management engaged in industrial automation. As the globally trusted provider of foundational standards-based technical resources for the profession, ISA strives to build a better world through automation.
+Join Us
+Read the Latest from ISA
+ISA to Host OT Cybersecurity Summit in London
+This event will take place on 18-19 June and will focus on threat intelligence and securing IoT.
+View the OTCS Webpage
+ISASecure Issues World's First Security Level 3 Certifications
+GE and Bitron Electronics receive first-ever certifications to ISA/IEC 62443 SL3, surpassing the minimum SL2 needed to defend against intentional cyber attacks.
+Read Press Release
+Ask the Automation Pros About Migrating to a Modern ICS
+Experts weigh in on how to migrate from obsolete to modern instrumentation and control systems.
+Read Full Article
+Segmenting Networks Using a DMZ
+Today’s competitive environment demands access to operations data; operational data must be secure.
+Read on Automation.com
+Upcoming Events
+OnPoint with the Automatic Controls and Robotics Division
+Optimizing Distributed Spot Welding in MSMR
+15 May 2024 | 10:00 a.m. - 11:00 a.m. ET
+Register Now
+2024 ISA OT Cybersecurity Summit
+18-19 June 2024 | London, UK
+Register Now
+2024 ISA Automation Summit & Expo–USA
+30 September - 3 October​ | Charleston, SC, USA
+Learn More
+View all
+ISA’s mission is to advance technical competence by connecting the automation community to achieve operational excellence.
+I am Interested in
+Connectivity & Cybersecurity
+Digital Transformation and Industry 4.0
+Process Automation and Control
+Factory Automation and Machine Control
+Operations and Management
+Go
+Explore ISA
+Become a Member
+Join ISA to help build a better world through automation! ISA offers professional and student memberships with benefits.
+Membership Options
+Vote Now for ISA Leadership
+Influence the future of ISA and vote today!
+Submit Your Ballot
+Skills Development Resource Navigator
+Leverage this free tool to get matched to training and other ISA resources!
+Learn More
+Find ISA Standards
+Since 1949, ISA has helped automation professionals streamline processes and improve safety, efficiency and profitability.
+Find Standards
+Featured Products
+Execute Projects with Confidence
+Get real-world, practical lessons with ISA's Automation Project Management Specialist certificate.
+ISA/IEC 62443 Series of Standards
+The world’s only consensus-based automation and control systems cybersecurity standards.
+Custom Training Solutions
+Flexible onsite and online training solutions for an adaptable, skilled workforce.
+Controlling the Future - Controlling Nonindustrial Processes: Preventing Climate and Other Disasters
+Learn how automation processes can affect the future of global warming.
+Featured Links
+Volunteer to develop new industry content
+ISA Global Cybersecurity Alliance (ISAGCA)
+Cybersecurity resources
+Learn about ISA certificate training programs
+ISA Standards by Category
+Get involved with ISA standards
+International Society of Automation
+PO Box 12277
+Research Triangle Park,
+NC
+27709
+Email:
+info@isa.org
+Phone:
++1 919-549-8411
+Fax: +1 919-549-8288
+Contact Us
+About
+Privacy Policy
+Terms & Conditions
+Do Not Sell My Info - CA Residents Only
+Site Map
+© 2024 International Society of Automation, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+Facebook
+TikTok
+Twitter
+YouTube
+LinkedIn
+Instagram
+Pinterest

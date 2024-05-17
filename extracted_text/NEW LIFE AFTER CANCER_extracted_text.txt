@@ -1,0 +1,576 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'google-site-verification', 'content': 'jbAOKI-lG24NREuEYCe3jLiDuOO56pfJt8ffeLNJJlU'}
+{'name': 'keywords', 'content': 'Survivors'}
+{'name': 'description', 'content': 'Find MD Anderson resources for cancer survivors including support groups, survivorship clinics, volunteer opportunities and more.'}
+{'property': 'og:description', 'content': 'Find MD Anderson resources for cancer survivors including support groups, survivorship clinics, volunteer opportunities and more.'}
+{'property': 'og:image', 'content': 'https://www.mdanderson.org/mda-logo-sharable.png'}
+{'name': 'twitter:card', 'content': 'Summary Card'}
+{'property': 'og:type', 'content': 'Website'}
+{'property': 'og:site_name', 'content': 'MD Anderson Cancer Center'}
+{'name': 'twitter:url', 'content': 'https://www.mdanderson.org/patients-family/life-after-cancer.html'}
+{'property': 'og:title', 'content': 'Life After Cancer'}
+{'name': 'sorting_date', 'content': '2024-02-29'}
+{'property': 'twitter:image', 'content': 'https://www.mdanderson.org/mda-logo-sharable.png'}
+{'name': 'navurl', 'content': 'https://www.mdanderson.org/patients-family/life-after-cancer.html'}
+{'name': 'twitter:site', 'content': '@MDAndersonNews'}
+{'name': 'audiences', 'content': 'Survivors'}
+{'property': 'og:url', 'content': 'https://www.mdanderson.org/patients-family/life-after-cancer.html'}
+{'name': 'poster', 'content': 'https://www.mdanderson.org/images/publications/cancerwise/A/20150327_RitaAvila_cancerwiseBlogger_0030twitter.jpg'}
+
+Body Text:
+Life After Cancer for Survivors | MD Anderson Cancer Center
+Skip to Content
+My
+Chart
+Log in to our secure, personalized website to manage your care (formerly myMDAnderson).
+Request an Appointment
+Request an Appointment
+If you are ready to make an appointment, select a button on the right. If you have questions about MD Anderson’s appointment process, our information page may be the best place to start.
+Appointment Information
+New Patients
+Current Patients
+Referring Physicians
+Donate Today
+Menu
+Close
+Clinical Trials
+Locations
+Careers
+Contact Us
+Our Doctors
+Languages
+Español
+عربى
+中文
+Türkçe
+Search
+Clear
+Go
+close
+Search MD Anderson
+Clear
+Go
+My
+Chart
+Donate Today
+Clinical Trials
+Locations
+Careers
+Contact Us
+Languages
+Español
+عربى
+中文
+Türkçe
+Request an Appointment
+Request an Appointment
+New Patients
+Current Patients
+Referring Physicians
+Patients & Family
+Becoming Our Patient
+Becoming Our Patient
+Becoming Our Patient
+Home
+Why MD Anderson
+Planning for Care
+Getting to MD Anderson
+While You're Here
+International Center
+Services and Amenities
+Insurance & Billing
+Diagnosis & Treatment
+Diagnosis & Treatment
+Diagnosis & Treatment
+Home
+Cancer Types
+A New Diagnosis
+Treatment Options
+Care Centers & Clinics
+Emotional & Physical Effects
+Patient Support
+Clinical Trials
+Supporting a Loved One
+Supporting a Loved One
+Supporting a Loved One
+Home
+Caregiver Roles & Challenges
+Children and Teens
+Taking Care of Yourself
+Helping an MD Anderson Patient
+Dealing with Loss
+Life After Cancer
+Life After Cancer
+Life After Cancer
+Home
+Legal & Financial Impacts of Cancer
+Social & Emotional Impacts of Cancer
+Follow-up Care
+Long-Term Effects of Cancer
+Survivorship Week
+Request an Appointment
+Current Patients
+Find information and resources for current and returning patients.
+Clinical Trials
+Learn about clinical trials at MD Anderson and search our database for open studies.
+Prevention & Screening
+Manage Your Risk
+Manage Your Risk
+Manage Your Risk
+Home
+Tobacco Control
+Diet
+Body Weight
+Physical Activity
+Skin Safety
+HPV
+Hepatitis
+Family History
+Family History
+Family History
+Home
+Genetic Testing
+Hereditary Cancer Syndromes
+Genetic Counseling and Testing FAQs
+Cancer Screenings
+Cancer Screenings
+Cancer Screenings
+Home
+Mammograms & Breast Cancer Screening
+Cervical Cancer Screening
+Colorectal Cancer Screening
+Endometrial Cancer Screening
+Liver Cancer Screening
+Lung Cancer Screening
+Mobile Mammography
+Ovarian Cancer Screening
+Prostate Cancer Screening
+Skin Cancer Screening
+Women's Cancer Screening
+Men's Cancer Screening
+Cancer Prevention Center
+The Lyda Hill Cancer Prevention Center provides cancer risk assessment, screening and diagnostic services.
+Donors & Volunteers
+Donate
+Donate
+Donate
+Home
+Raise Money
+Honor Loved Ones
+Create Your Legacy
+Endowments
+Caring Fund
+Matching Gifts
+Volunteer
+Volunteer
+Volunteer
+Home
+On-Site Volunteers
+Volunteer Endowment
+Patient Experience
+Teen Volunteer Leadership Program
+Children's Cancer Hospital Councils
+Other Ways to Help
+Other Ways to Help
+Other Ways to Help
+Home
+Give Blood
+Shop MD Anderson
+Children's Art Project
+Donate Goods or Services
+Attend Events
+Cord Blood Bank
+Corporate Alliances
+Corporate Alliances
+Corporate Alliances
+Home
+Current Alliances
+Donate Today
+Your gift will help support our mission to end cancer and make a difference in the lives of our patients.
+For Physicians
+Refer a Patient
+Refer a Patient
+Refer a Patient
+Home
+Health Care Provider Resource Center
+Referring Provider Team
+Insurance Information
+International Referrals
+myMDAnderson for Physicians
+Second Opinion Pathology
+Clinical Trials
+Clinical Trials
+Clinical Trials
+Home
+Clinical Tools & Resources
+Clinical Tools & Resources
+Clinical Tools & Resources
+Home
+Clinical Calculators
+Clinical Practice Algorithms
+myMDAnderson for Physicians
+Our personalized portal helps you refer your patients and communicate with their MD Anderson care team.
+Research
+Departments, Labs and Institutes
+Departments, Labs and Institutes
+Departments, Labs and Institutes
+Home
+Departments and Divisions
+Labs
+Research Centers and Programs
+Institutes
+Specialized Programs of Research Excellence (SPORE) Grants
+Research Areas
+Research Areas
+Research Areas
+Home
+Basic Science
+Translational Research
+Clinical Research
+Prevention & Personalized Risk Assessment
+Research Resources
+Research Resources
+Research Resources
+Home
+Excellence in Science
+Core Facilities and Services
+Office of Clinical Research
+Office of Sponsored Programs
+Office of Research Administration
+Conferences & Seminars
+Clinical Trials
+As part of our mission to eliminate cancer, MD Anderson researchers conduct hundreds of clinical trials to test new treatments for both common and rare cancers.
+Education & Training
+Degree-Granting Schools
+Degree-Granting Schools
+Degree-Granting Schools
+Home
+School of Health Professions
+MD Anderson UTHealth Houston Graduate School
+Research Training
+Research Training
+Research Training
+Home
+Early Career Pathway Programs
+Predoctoral Training
+Postdoctoral Training
+Mentored Faculty Programs
+Career Development
+Clinical Training
+Clinical Training
+Clinical Training
+Home
+Graduate Medical Education
+Clinical Education for Non-Physicians
+Nursing Education & Training
+Certificate Programs & Review Courses
+Skills Training & Simulation
+Continuing Education & Professional Development
+Continuing Education & Professional Development
+Continuing Education & Professional Development
+Home
+Continuing Professional Education/Conferences
+Administrative Internships & Fellowships
+Cancer Survivorship Professional Education
+Leadership Institute
+Education Resources
+Education Resources
+Education Resources
+Home
+Alumni Relations
+TIPS Education Center
+Awards & Recognitions
+Academic Mentoring Council
+Why MD Anderson & Houston
+Outreach Programs
+Outreach Programs
+Outreach Programs
+Home
+Project ECHO
+Observer Programs
+Comparative Effectiveness Training (CERTaIN)
+Apply to SHP
+Choose from 12 allied health programs at School of Health Professions.
+Research Trainees
+View open postdoctoral and other research trainee positions.
+GME Fellowships
+Learn about our graduate medical education residency and fellowship opportunities.
+Top
+Life After Cancer
+Surviving cancer is a lifelong commitment.
+Create a follow-up plan
+Life After Cancer
+Surviving cancer is a lifelong commitment.
+Create a follow-up plan
+Scroll Ahead
+Congratulations! You have completed cancer treatment and have a new outlook on life. At MD Anderson, we know that being a cancer survivor brings its own set of challenges that affect every aspect of your life. It's our goal to make life after cancer the best it can be, and we have the resources to help get you there.
+Congratulations! You have completed cancer treatment and have a new outlook on life. At MD Anderson, we know that being a cancer survivor brings its own set of challenges that affect every aspect of your life. It's our goal to make life after cancer the best it can be, and we have the resources to help get you there.
+Social and Emotional Changes
+Life is different after cancer. Find a support strategy that helps you cope with emotional issues and learn new ways to relate to family, co-workers and loved ones.
+Read about the social and emotional impact of cancer
+Resources
+Support groups
+Support groups provide patients and family a caring atmosphere.
+Read More
+Survivorship clinics
+Our survivorship clinics are here to help you develop a plan for your ongoing health care.
+Read More
+myCancerConnection
+You are not alone. Connect with fellow survivors who share your diagnosis.
+Read More
+Volunteer
+Do you want to help others who have been diagnosed with cancer? Become an MD Anderson volunteer.
+Read More
+MD Anderson merchandise
+Show your support of our mission to #EndCancer by purchasing
+MD Anderson
+apparel and accessories.
+Shop now
+Opens a new window
+Oral cancer survivor: 5 quality of life hacks that I didn’t learn until survivorship
+When I was still in active
+treatment
+for stage IV
+squamous cell carcinoma
+of the tongue, a type of
+oral cancer
+, I was so focused on
+staying alive
+that I couldn’t think too far into the future.
+But after five years of being
+cancer-free
+, I finally transitioned to
+survivorship
+. That meant I only needed to come back to
+MD Anderson
+once a year for check-ups. It also meant I’d meet with a nurse or a physician assistant instead of a doctor. And finally, it meant I could start focusing on things related more to my quality of life than my survival.
+Still, before my first survivorship visit in November 2022, I remember thinking, “Do I really need to go to this thing?” Now, I know that the answer is “YES!” Because my case manager offered solutions to problems I didn’t even know I had. And, he is helping me prevent future complications that I never realized were potential issues.
+Here are five of my biggest a-ha moments since entering survivorship.
+Small adjustment to swallowing exercise enabled me to gulp again
+Swallowing
+was really hard for a long time after I finished my treatments. It took me almost a year to pass the swallowing test that allowed me to stop receiving all my nourishment
+through a feeding tube
+.
+Even then, eating or drinking anything was a very slow process. I could only take one small bite of food or sip of liquid at a time, then chew or swallow it. And sometimes, when you’re really hot and thirsty, you just want to chug down a cold drink. If I’d done that back then, though, I would’ve choked and spit it right back up.
+It wasn’t until physician assistant Shawn Terry showed me a slightly different approach to one of my swallowing exercises that I learned this ability might not be out of my reach forever. And within three weeks of making the adjustment he suggested, I was gulping down water in a way that I hadn’t been able to in five years. I was so excited that I called
+my family
+over to watch me!
+Minor tweak to mouthwash formula significantly reduced my ‘salty days’
+Until my cancer diagnosis, I’d never had a single cavity. But since finishing oral cancer treatment, I’ve had at least four. Part of that is due to
+radiation therapy
+and part of it is due to changes in my saliva.
+I get a really dramatic
+dry mouth
+now. And sometimes, my saliva is thick and much more acidic than normal. I call those my “salty days” because they make everything I eat or drink taste like salt — even milk and water. It completely
+kills my appetite
+.
+To neutralize the acid, Shawn suggested that I increase the ratio of baking soda to salt in the mouthwash I already use several times a day to keep my mouth moist. It worked! Now, instead of enduring that awful salty taste for four days every three months, it’s gone by the next day. The relief is not immediate, but it’s still a huge improvement.
+Clear, fitted teeth-aligning system may help me preserve my smile
+Another thing I learned from Shawn was that while I couldn’t use one of those clear, fitted teeth-aligning systems to fix anything that was already crooked after treatment, I
+could
+use it to prevent my teeth from getting any worse.
+That turned out to be useful information since I had four lower teeth pulled during my surgery. They’d been a little crowded to begin with, so I’d thought those remaining would naturally just kind of space themselves out. They ended up doing the exact opposite.
+All of my teeth have shifted now in a way that makes my smile less aesthetically pleasing. But it doesn’t bother me too much. It’s not a big deal, compared to the alternative. Still, I’m glad to have an option to preserve the smile that I have now.
+Posture-correcting device is helping prevent future problems
+The scarring in my neck tends to make me lean forward a lot. That will only get worse as I get older. I didn’t want to develop a hunchback, so Shawn suggested a simple posture corrector that I could buy online for about $15.
+I put it on, tightened the straps, and started wearing it for about an hour every night. I’ve only been using that device since Christmas, and it’s already helping me hold my head up straighter.
+It turns out that’s pretty important. Scar tissue can harden and thicken over time. If that happens, it could pinch or squeeze my carotid artery, causing serious circulation problems. That’s why one of the first things Shawn did as my case manager was to order an ultrasound of my neck to establish a baseline. I hadn’t even thought of that. But Shawn did.
+Simple massage trick resolved my painful oral ‘charley horses’
+Shawn also helped me with the terrible pain I experienced when I yawned really hard. I was driving the first time it happened. It was so bad that I had to pull over. I thought I was going to die. It was like having a charley horse in the bottom of my mouth.
+Shawn explained that the pain was caused by a nerve spasm due to surgery and radiation. The floor of my mouth and tongue were
+rebuilt using a muscle from my arm
+, and when it spasms, it twists so hard that the bottom of it pops down and I can actually feel it under my chin.
+Shawn taught me how to make it stop by massaging the area for a few seconds and then forcing a swallow. Before that, it would take several painful minutes for the nerve to finally relax. Now, I know exactly where to press to make it stop, and the muscle pops right back into place.
+Lesson learned: Simple solutions can yield big payoffs
+All of these things might seem really minor. But they don’t feel minor when they’re happening to you. And collectively, having such small tweaks result in such huge quality of life improvements is a really big deal. It makes me more grateful than ever for
+MD Anderson
+.
+It’s so reassuring to know that even now that I’ve transitioned to survivorship, I still have people at
+MD Anderson
+who care about me and know what they’re talking about. Even when they don’t have the answers to my questions, I know I can trust them to find out and not lead me down the wrong path. I know they care.
+MD Anderson
+has already saved my life once. Nobody knows my mouth better. I appreciate that they’re still trying to help me live well. And, they’re just a phone call or a MyChart message away when I’m not.
+Until my first survivorship appointment, I’d never even thought about the concept of “after-care” as something I should want. I didn’t know what that meant or what it would look like. But it’s wonderful to know that my care didn’t stop just because my cancer did.
+Request an appointment at
+MD Anderson
+online
+or call 1-877-632-6789.
+Read more
+Physical activity program helps breast cancer survivor get active
+Breast cancer
+treatment took a toll on Debbie Mendoza, but she regained her strength and energy with the help of
+Active Living After Cancer
+, an
+MD Anderson
+program for cancer survivors.
+The retired bilingual teacher was diagnosed with metastatic breast cancer in February 2019. At her family’s urging, she traveled from her Austin, Texas home to seek a second opinion at
+MD Anderson
+. Here, she met with a multidisciplinary team of experts who recommended a treatment plan involving
+chemotherapy
+, a
+mastectomy
+and
+radiation therapy
+.
+Between
+side effects
+from the cancer and treatment, Debbie was using a walker and supplementary oxygen daily by the time she completed breast cancer treatment in March 2020.
+“My energy felt sapped, the lowest it has ever been,” Debbie says. “If I attempted to do anything physical, I would find myself needing to rest the next day. I wanted to do things, but my body was unable to keep up.”
+A physical activity program designed for cancer survivors
+Eventually, Debbie was able to stop using additional oxygen, but she tired easily and found herself exhausted by cleaning up the kitchen and other household chores. That’s when she heard about Active Living After Cancer.
+The free 12-week program is offered online through community organizations. It gives cancer survivors a virtual support group-like atmosphere as they learn how to increase their physical activity, build healthier habits and cope with the challenges of survivorship.
+MD Anderson
+researcher
+Karen Basen-Engquist, Ph.D.
+, recently
+published a paper in
+Cancer
+that showed the program successfully improves physical functioning, physical activity and health-related quality of life for participants.
+When Debbie enrolled, she wasn’t sure what to expect or how much she’d be able to do, but the facilitator for her group said that even starting small could have a big impact.
+“When I learned that exercise would help keep my cancer away and improve my lungs, I was sold!” Debbie says. “But I still wasn’t sure how I was supposed to exercise if I didn’t have any energy.”
+Yadi, the group facilitator, told her to start with two minutes of exercise a day. “I thought that was rather odd. What could two minutes possibly do?” Debbie recalls. But she listened and set a timer. Before she knew it, two minutes a day slowly crept up to 10 minutes, then 10 minutes turned into 20 minutes.
+Gaining the tools to maintain a healthy lifestyle
+Each week, Debbie’s Active Living After Cancer group would meet online to learn a new exercise and behavioral skill, and to share their experiences with each other. The group gave Debbie something she couldn’t get from family or friends or a traditional exercise class: a sisterhood of survivors who understood the joys and struggles of life after cancer.
+“The camaraderie of talking to other cancer survivors really helped because they understood what I was going through,” Debbie says. “The motivation Yadi gave us also helped. She wouldn’t push us, but she wouldn’t take no for an answer either.”
+By the end of the program, Debbie was taking daily walks around the neighborhood with her dog as a warmup to home exercise videos. She enrolled in a group exercise class at her gym and began to improve her diet as well. The goal-setting and resiliency skills she learned over the 12-week course – plus a continued group text chat with her friends from the program – have helped her keep up the healthy lifestyle changes since she finished the program in July.
+While Debbie is now free from breast cancer, during treatment, her doctors found a
+papillary thyroid tumor
+. It’s not growing quickly or causing side effects, so her care team is monitoring it, but Debbie feels prepared to face it if the situation changes.
+“If I do need to get surgery for my thyroid tumor, I’m stronger now to do that,” she says. “I feel so much better and my confidence is higher. I definitely have more energy now than I did a year ago.”
+Learn more about Active Living After Cancer
+and see upcoming classes.
+Request an appointment at
+MD Anderson
+online
+or by calling 1-877-632-6789.
+Read more
+Remission, cancer-free, no evidence of disease: What’s the difference?
+To a cancer patient, one of the most magical words in the English language may be “remission.” For those fortunate enough to hear it, it imparts not only a much-hoped-for dose of good news, but also a profound sense of relief.
+But what does the term “remission” actually mean? And how does it differ – if at all – from “no evidence of disease,” or even “cancer-free?”
+We asked medical oncologist
+Phat Le, M.D.
+, for insight.
+What’s the difference between remission, cancer-free, and no evidence of disease?
+A lot of people use those terms synonymously, but “remission” and “no evidence of disease” (also known as NEOD or NED) are probably the closest by definition. Officially, both mean that no cancer is currently detectable in the body. That may be based on scans, bloodwork or some other kind of test, such as a
+breast biopsy
+or a bone marrow biopsy.
+“Cancer-free” is a little more complicated, because it’s not based on something we can measure. Instead, it implies that not only is there nothing
+detectable
+in your body as cancer, but we also
+believe
+no residual cancer is left anywhere, so there’s no chance of the cancer ever coming back. And that’s a lot trickier to say, because there’s always at least a very slight risk of recurrence, if you’ve ever had cancer before.
+So, how do doctors determine which term to use with a particular patient?
+That’s really based on the doctor and what they feel comfortable with. Personally, I tend to use “remission” and “no evidence of disease” the most.
+Does the type of cancer influence which term you use?
+No. But it will determine which type of surveillance testing your doctor chooses.
+With solid tumors like
+lung cancer
+, for instance, doctors might order a CT scan. But with
+prostate cancer
+and
+ovarian cancer
+, doctors might use blood tests to look for tumor markers or certain proteins. Doctors also look for evidence of diseased cells in blood or bone marrow samples with
+leukemia
+,
+lymphoma
+and other blood cancers.
+Does the length of time a cancer survivor has gone without a relapse affect which term doctors use?
+No. Not really. There are no special terms used for going 5, 10 or any other number of years without a recurrence.
+But sometimes, doctors will declare a patient “cancer-free” after a certain amount of time has passed without a relapse. It usually coincides with the transition from active surveillance into
+survivorship
+, when patients begin needing fewer or less frequent check-ups.
+What’s the one thing people should know about this topic?
+Though all of these terms are sometimes used interchangeably, it’s important to ask your oncologist specifically what they mean. Because I may use it one way, and another physician might use it another.
+It’s also important for
+all
+cancer survivors to be on some type of surveillance program. Some cancers are considered very low-risk, so if you’ve already gone 5 or 10 years without a recurrence, it’s highly unlikely that you’ll ever have one. But it’s still not impossible. So, you need to keep an eye on it, just to make sure that if the cancer ever does come back, you catch it as soon as possible.
+Request an appointment at
+MD Anderson
+online
+or by calling 1-877-632-6789.
+Read more
+Legal and Financial Impact
+As a cancer survivor, you will face unique legal and financial issues related to your disease. Find out your rights and creative ways to manage your finances.
+Learn about the financial impact of cancer
+I've got a beautiful life to look forward to after cancer, and I plan to make the most of it.
+Gail Morse
+Survivor
+Follow-up Care
+Follow-up care is crucial to the quality of your life after cancer. We can help you develop a plan to make the most out of life.
+Create your follow-up plan
+Long Term Physical Effects
+Some side effects of cancer and cancer therapies can linger for years after treatment. Find out what to expect and how to manage your symptoms.
+Learn more about side effects
+Healthy Eating
+Proper nutrition can aid in recovery after cancer treatment. Download
+our guide for nutrition information, shopping tips, healthy recipes
+and more.
+Download nutrition guide
+Active Living After Cancer
+Quality of life is a key aspect of survivorship. A free program for cancer survivors in Houston and El Paso focuses on promoting physical activity and providing navigation services for survivorship issues.
+Learn how to participate in the active living program
+We're here for you.
+Call us at
+1-877-632-6789
+or
+request an appointment online.
+Let's get started.
+Request an appointment online.
+Call
+Request appointment
+MyChart
+Help #EndCancer
+Give Now
+Your gift will help make a tremendous difference.
+Donate
+Donate Blood
+Our patients depend on blood and platelet donations.
+Make an appointment
+Shop MD Anderson
+Show your support for our mission through branded merchandise.
+View products
+Stay Connected
+Subscribe to Publications
+Explore
+Patients & Family
+Prevention & Screening
+Donors & Volunteers
+For Physicians
+Research
+Education & Training
+Clinical Trials
+Languages
+About
+About MD Anderson
+Careers
+Blog
+Newsroom
+For Employees
+Merchandise
+Title IX Reporting (Sexual Misconduct)
+Price Transparency
+Finding Your Way
+Our Doctors
+Locations
+Directions
+Sitemap
+Digital Accessibility
+Accessibility Policy
+GET IN TOUCH
+Call
+1-877-632-6789
+Ask a question
+More
+Website Privacy Policy
+Legal Statement & Policies
+Reports to the State
+Emergency Alert Information
+State of Texas Links
+MD Anderson Cancer Network®
+Vendors & Suppliers
+© 2024 The University of Texas
+MD Anderson
+Cancer Center

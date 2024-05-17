@@ -1,0 +1,48 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'fac66dd5-a752-4ba1-8fbb-ec4a7942026e'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'df99648c-c4da-43fd-9faf-8fcea7917d0e'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1099'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Home | Chocolate Soul Revival'}
+{'property': 'og:url', 'content': 'https://www.chocolatesoul.org'}
+{'property': 'og:site_name', 'content': 'Chocolate Soul'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'Building, Inside, Movement, Out, Power, from, the'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | Chocolate Soul Revival'}
+
+Body Text:
+Home | Chocolate Soul Revival
+top of page
+Chocolate Soul Revival
+Building Movement Power from the Inside Out
+Home
+About
+The Work
+Support Our Work
+Meet Our Cohort
+More
+Use tab to navigate through the menu items.
+Chocolate Soul Revival
+A Healing Justice Initiative for Black Women & Girls. We are committed to the transformative work of healing, justice and liberation that centers the lives and voices of those most deeply impacted by systemic oppression.
+Home: Welcome
+This Work is a Living Declaration that...
+➢ Mental, emotional, and spiritual wellness, informed by the cultural practices of our Ancestors, is our birthright.
+​
+➢ Culturally specific, trauma informed, politicized healing work led by those from the very communities it's designed for, is essential.
+​
+➢ Healing centered organizing increases our capacity to strategize and co-create freedom, justice, and equity from a place of wholeness and clarity.
+Home: Text
+“I am a feminist, and what that means to me is much the same as the meaning of the fact that I am Black; it means that I must undertake to love myself and to respect myself as though my very life depends upon self-love and self-respect.”
+~ June Jordan
+Home: Quote
+info@chocolatesoul.org
+©2022 by Chocolate Soul Revival
+bottom of page

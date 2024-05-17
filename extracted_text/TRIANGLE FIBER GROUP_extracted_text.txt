@@ -1,0 +1,131 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'name': 'keywords', 'content': 'internet service, wireless internet, landline, broadband'}
+{'name': 'og:title', 'content': 'Triangle Fiber'}
+{'name': 'og:type', 'content': 'article'}
+{'name': 'og:image', 'content': 'https://www.itstriangle.com/images/fiber-map-for-website-2024.jpg'}
+{'name': 'og:url', 'content': 'https://www.itstriangle.com/services/misc/triangle-fiber'}
+{'name': 'og:site_name', 'content': 'Triangle Communications'}
+{'name': 'og:description', 'content': 'We are a telecommunications cooperative providing Internet and Phone service in 16 Montana counties.'}
+{'name': 'description', 'content': 'We are a telecommunications cooperative providing Internet and Phone service in 16 Montana counties.'}
+{'name': 'generator', 'content': 'Joomla! - Open Source Content Management'}
+
+Body Text:
+Triangle Fiber
+DEALS
+PAY MY BILL
+CHECK MY EMAIL
+EMAIL APP PORTAL
+PHOTO CONTEST
+CONTACT US
+Home
+Services
+Residential
+Internet
+Landline
+Business
+Business Solutions
+Misc
+Triangle Fiber
+Advanced Wi-Fi
+Camera Systems
+Community Wifi
+Tech Shop
+Community
+Education Support
+Economic Support
+Community Support
+Support
+News
+ABOUT US
+CAREERS
+ONLINE PHONEBOOK
+SWAP AND SHOP
+CHECK MY SPEED
+SCREEN CONNECT
+BYLAWS
+NET NEUTRALITY AND TRANSPARENCY RULE
+About Us
+|
+ONLINE PHONEBOOK
+|
+BYLAWS
+|
+Careers
+|
+CONTACT
+Home
+Services
+Residential
+Internet
+Landline
+Business
+Business Solutions
+Misc
+Triangle Fiber
+Advanced Wi-Fi
+Camera Systems
+Community Wifi
+Tech Shop
+Community
+Education Support
+Economic Support
+Community Support
+Support
+News
+DEALS
+Quick Links
+Pay my bill
+Check my e-mail
+E-mail App Portal
+Photo Contest
+Check my speed
+Swap and Shop
+View our Videos
+Screen Connect
+We're bringing Fiber to Rural Montana.
+TRIANGLE FIBER
+FIBER IS COMING TO YOUR FRONT DOOR
+We've been busy deploying a Fiber Network across our service area in Montana. In fact, the amount of Fiber we've installed can cross the U.S. more than twice!
+Click the map to track our progress
+What is Fiber?
+Faster Internet
+Fiber unleashes the possibilities of what you can do with the Internet. Upgrade to faster speeds and enjoy!
+Better Experience
+If you upgrade your plan, the experience won’t leave you disappointed! Plus, Fiber is likely to have less static and interference.
+Future Ready
+The average number of devices per home is currently 12. That number will continue to rise. With Fiber, you’ll always have access to the latest technology to support your connected home.
+How It Works
+Exploration
+We work alongside city and county leaders as well as landowners to bring Fiber to our members. This means reviewing infrastructure – roads, underground utility paths, and land ownership, to make sure exchanges are ready to design and build a brand new network.
+Design
+Every mile of this super-fast network has to be planned – we can’t just put it anywhere. We use the data collected to create a map of where we can build (based on existing utility poles and water, gas, and electricity lines).
+Construction
+With our plan in place, we start the hard work of constructing hundreds of miles of state-of-the-art fiber optic cable. You will see our right-of-way team, engineers and contractors in the streets and fields throughout the project.
+Sign up
+All members with existing active service will have Fiber brought to them. Any location in the exchange without active service will need to call in advance to initiate service.
+Installation
+We complete the process by installing electronics and equipment in your home or business!
+Have questions about Triangle Fiber?
+Get in touch with us today!
+CONTACT US
+Montana-sized Internet.
+People-focused service.
+ABOUT
+About Us
+Careers
+News
+RESIDENTIAL
+Internet
+Landline
+BUSINESS
+Business Solutions
+SUPPORT
+My Account
+Contact Us
+Terms and Conditions
+Triangle Communications, 2121 US Hwy 2 NW, Havre, MT 59501. ©
+All Rights Reserved.
+NETWORK AND TRANSPARENCY RULE

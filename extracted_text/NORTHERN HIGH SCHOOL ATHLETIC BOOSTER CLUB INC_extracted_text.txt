@@ -1,0 +1,396 @@
+Meta Information:
+{'property': 'og:type', 'content': 'website'}
+{'property': 'fb:app_id', 'content': '411584262324304'}
+{'property': 'og:url', 'content': 'http%3A%2F%2Fwww.gcsnc.com%2Fsite%2Fdefault.aspx%3FDomainID%3D5903'}
+{'property': 'og:title', 'content': 'Athletic Booster Club / NGHS Athletic Boosters'}
+{'name': 'twitter:card', 'value': 'summary'}
+{'name': 'twitter:title', 'content': 'Athletic Booster Club / NGHS Athletic Boosters'}
+{'itemprop': 'name', 'content': 'Athletic Booster Club / NGHS Athletic Boosters'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'description', 'content': 'Guilford County Schools, the third largest school district in North Carolina and the 50th largest of more than 14,000 in the United States, serves more than 70,000 PK-12 students at 126 schools.'}
+
+Body Text:
+Athletic Booster Club / NGHS Athletic Boosters
+Skip to Main Content
+District Home
+Select a School...
+Select a School
+Alamance Elementary School
+Alderman Elementary School
+Allen Jay Elementary School
+Allen Jay Preparatory Academy
+Allen Middle School
+Andrews High School
+Archer Elementary School
+Bessemer Elementary School
+Bluford STEM Academy
+Bond 2020 and 2022
+Brightwood Elementary School
+Brooks Global Studies
+Brown Summit Middle School
+Christine Joyner Greene Education Center
+Claxton Elementary School
+Colfax Elementary School
+Cone Elementary School
+Dudley High School
+Eastern Guilford High School
+Eastern Guilford Middle School
+Erwin Montessori at Alamance Elementary
+ESSER
+Fairview Elementary School
+Falkener Elementary School
+Ferndale Middle School
+Florence Elementary School
+Foust Elementary School
+Frazier Elementary School
+Gateway Education Center
+GCS Careers
+General Greene Elementary School of Science and Technology
+Gibsonville Elementary School
+Gillespie Park Elementary School
+Greensboro College Middle College
+Grimsley High School
+Guilford eLearning University Prep
+Guilford Elementary School
+Hairston Middle School
+Haynes-Inman Education Center
+Henderson Newcomers
+Herbin-Metz Education Center
+High Point Central High School
+Hunter Elementary School
+Irving Park Elementary School
+Jackson Middle School
+Jamestown Elementary School
+Jamestown Middle School
+Jefferson Elementary School
+Jesse Wharton Elementary School
+Johnson Street Global Studies
+Jones Elementary School
+Joyner Elementary School
+Kernodle Middle School
+Kirkman Park Elementary School
+Kiser Middle School
+Lindley Elementary School
+Madison Elementary School
+McLeansville Elementary School
+McNair Elementary School
+Mendenhall Middle School
+Sylvia Mendez Newcomers
+Millis Road Elementary School
+Monticello-Brown Summit Elementary School
+Montlieu Academy of Technology
+Morehead Elementary School
+Murphey Traditional Academy
+Nathanael Greene Elementary School
+Northeast Guilford High School
+Northeast Guilford Middle School
+Northern Elementary School
+Northern Guilford High School
+Northern Guilford Middle School
+Northwest Guilford High School
+Northwest Guilford Middle School
+Northwood Elementary School
+Oak Hill Elementary School
+Oak Ridge Elementary School
+Oak View Elementary School
+Page High School
+Parkview Village Elementary School
+Pearce Elementary School
+Peck Elementary School
+Peeler Open at Bluford Elementary
+Penn-Griffin School for the Arts
+Pilot Elementary School
+Pleasant Garden Elementary School
+Pruette SCALE Academy
+Ragsdale High School
+Rankin Elementary School
+Reedy Fork Elementary School
+SCALE - Greensboro
+Sedalia Elementary School
+Sedgefield Elementary School
+Shadybrook Elementary School
+Simkins Elementary School
+Smith High School
+Southeast Guilford High School
+Southeast Guilford Middle School
+Southern Elementary School
+Southern Guilford High School
+Southern Guilford Middle School
+Southwest Elementary School
+Southwest Guilford High School
+Southwest Guilford Middle School
+Sternberger Elementary School
+Stokesdale Elementary School
+Summerfield Elementary School
+Sumner Elementary School
+Swann Middle School
+The A&T Four Middle College at NC A&T
+The Academy at Lincoln
+The Academy at Smith
+The Early College at Guilford
+The Kearns Academy
+The Middle College at Bennett
+The Middle College at GTCC-Greensboro
+The Middle College at GTCC-High Point
+The Middle College at GTCC-Jamestown
+The Middle College at UNCG
+The STEM Early College at NC A&T
+Triangle Lake Montessori Elementary School
+Union Hill Elementary School
+Vandalia Elementary School
+Washington Montessori Elementary School
+Weaver Academy
+Welborn Academy of Science and Technology
+Western Guilford High School
+Western Guilford Middle School
+Wiley Elementary School
+Sign In
+Search Our Site
+Home
+About Us
+"
+School Leadership Information
+NGHS School Profile
+Staff Directory & Webpages
+Administration
+Classrooms
+"
+Baer, Joan
+Bah, Souleymane
+Bishop, Matthew
+Black, Ivory
+Bowden, Sheila
+Carter, Kiyoshi
+Christy, Donna
+Clendenin, Monica
+Cook, Khadijah
+del Rosario, Mari Pino
+Dodge, Joshua
+Dorrell, Russell
+Elledge, Amy
+Ely, Carla
+Evans, Josh
+Ficklin, Hannah
+Friedman, Barry
+Greene, Deb
+Grinton, Mart
+Hamer, Greg
+Hankins, Kari
+Harris, Annie
+Hultberg, Andrew
+Inman, Ashley
+Johnsen, Kristi
+Jordan, Nicholas
+Justice, Krista
+Katz, Stu
+Kelly, Mason
+Kenyon, Molly
+King, Aaron
+Kinney, Matt
+MacEldowney, Nichole
+Machak, Emily
+McDowell, Andrew
+Mebane, Matthew
+Mendez, Shally
+Mihai, Magdalena
+Miller, Regina
+Mitchell, Covie
+Montoya, Melania
+Mooney-Flynt, Alicia
+Moore, Jake
+Necas, Leah
+Nosek, Jamie
+O'Dea, Maeve
+Pandak, Kerry
+Parshley, Wendy
+Phillips, Kent
+Polakovic, Ann-Marie
+Ramirez, Lulu
+Riley, Tami
+Roche, Erin
+Rogers, Robert
+Schaedel, Sydney
+Simpson, Jay
+Sims, Jeffery
+Sims, Shuntaria
+Sloyan, Joan
+Squires-Holbrook, Natalie
+Strubinger, Sandra
+Tapley, Steven
+Terrell, Shannon
+Towns-Lymas, Yolanda
+Ward, Dylan
+Westberg, Erik
+Wilkerson, Angela
+Williams, Stephanie
+Woller, TIa
+Zochol, David
+Counseling Department
+"
+Counseling Department
+Students
+"
+Register for Drivers Ed Online
+Seniors
+Student Handbook
+Summer Reading
+Transcript Request
+Travel
+Yearbook Information
+Bell & Lunch Schedule
+Clever
+Clubs and Organizations for Students
+Exams and Testing
+GCS Technology Help Desk
+Learning Hub
+Login Help
+NCEdCloud
+New to the Nest
+NGHS Policies & Procedures
+More
+Media Center
+"
+Library Media Center
+Library Search - Destiny Catalog
+Battle of the Books
+Research Projects
+Parents
+"
+Volunteer Registration
+Bus Transportation Request
+Drivers Ed Online Registration
+Enroll Your Student
+Free & Reduced Lunch Application
+Medication Authorization Form
+New to the Nest
+NGHS Policies & Procedures
+PTSA Newsletter
+Seniors
+Transcript Request
+More
+Athletics
+"
+Football
+Golf (Men)
+Golf (Women)
+Lacrosse (Men)
+Lacrosse (Women)
+Soccer (Men)
+Soccer (Women)
+Softball
+Swimming
+Tennis (Men)
+Tennis (Women)
+Track
+Volleyball
+Wrestling
+Eligibility Meeting agenda and PowerPoint
+Athletic Director/Mr. Chase Cochran
+Eligibility Requirements
+Athletic Summer Camps
+Return to Play Details and Required Documentation
+Sports Tryout Information
+Viking-Nighthawk Golf Challenge
+Today's Sporting Events
+Athletic Website
+Athletic Physical Form
+Athletic Season Passes & Individual Tickets
+DragonFly Instructions/Link
+Baseball
+Basketball (Men)
+Basketball (Women)
+Cheerleading
+Cross Country
+More
+Departments
+"
+Career and Technical Education Department
+Fine Arts Department
+English Department
+Math Department
+Physical Education Department
+Science Department
+Social Studies Department
+World Language Department
+EC Department
+Media Center
+Organizations
+"
+Athletic Booster Club
+Fine Arts Booster Club
+Music Booster Club
+PTSO
+Staff
+"
+GCS Staff Portal
+Office365 Login
+Hawks Nest
+Employees
+"
+Employees
+Search
+Search Input
+Schools
+Close
+Translate
+Northern Guilford High School
+NGHS Athletic Boosters
+Athletic Booster Club
+Page Navigation
+NGHS Athletic Boosters
+Nighthawk Nite
+Concessions
+Sponsors
+Files/Forms
+Welcome to the Northern Guilford High School Athletic Booster Club
+We will meet on the 1st Monday of every month at 7 pm in the Media Center (unless otherwise noted).
+September 5, 2023* NOT A MONDAY
+October 2, 2023 (7:30 pm start time)
+November 6, 2023
+December 4, 2022
+January 8, 2024 * NOT THE FIRST MONDAY
+February 5, 2024
+March 4, 2024
+April 2, 2024 * NOT A MONDAY
+May 6, 2024
+June 3, 2024
+Booster Memberships and Donations for 2023-24 are OPEN! Join us today and support our athletes and the Nighthawk Nation.
+The NGHS Athletic Booster Club is a volunteer group made up of interested adults, which supports all athletic-related activities while promoting leadership, team spirit, and sportsmanship, both in the classroom and on the field. We do this by providing financial support to athletic teams that cannot be provided through the athletic fund for the school. Support is provided to all eligible groups on an equitable basis, J.V. and Varsity alike.
+We look forward to new members and new projects this year.  Boosters are “
+fun raisers”
+, not just
+fundraisers
+. Our "fun" comes from the boosting and social activities we plan throughout the year.  Everyone can be a Booster.  Booster is simply an enthusiastic supporter of NGHS sports programs. This support can be in many ways -- by becoming a member of the booster club, joining committees, volunteering to work during sports events, being a team representative, through financial support, or by simply attending sports events to support our athletes.
+We will be asking for your help and support throughout the year during our fundraising activities, but a significant portion of our funds will come from Booster Club memberships. The more funds generated through memberships, the less additional fundraising is needed. Our goal is 100% membership and representation of all our athletes and their families in the Booster Club. Consider joining and supporting your children and all our athletes at NGHS as Booster Club members.
+Parental involvement is the key to establishing a tradition of successful support provided by the Booster Club. With strong parent and community support, we have been fortunate to assist Northern Guilford High School physically and financially, and we thank all those individuals who have donated their time, talent, and resources to our school.
+Thank you for your support.
+NGHS Athletic Booster Club
+2023-24 Booster Club Officers (Click name for email)
+President
+Matt Whitt
+1st Vice President
+Open
+VP of Concessions
+Vicki Kemp
+Treasurer
+Rob Bayer
+Recording Secretary
+Fiorella De Lisa
+Principal
+Louis Galiotti
+Athletic Director
+Chase Cochran
+Winter Concessions Signup Genius
+BACK TO TOP
+7101 Spencer Dixon Road, Greensboro, NC 27455
+P: 336-643-8449
+F: 336-644-2589
+Site Map
+Questions or Feedback?
+|
+Web Community Manager Privacy Policy (Updated)
+|
+Copyright © 2024 Finalsite - all rights reserved.
+CLOSE
+CLOSE

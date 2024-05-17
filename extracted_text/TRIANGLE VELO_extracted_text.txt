@@ -1,0 +1,110 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, minimum-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Triangle Velo is an elite amateur cycling team based in the Research Triangle (Chapel Hill, Durham, Hillsborough, Raleigh) of North Carolina. We use cycling and our presence in the community to raise awareness of our sponsors and charitable organizations we promote.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Triangle Velo'}
+{'property': 'og:description', 'content': 'Triangle Velo is an elite amateur cycling team based in the Research Triangle (Chapel Hill, Durham, Hillsborough, Raleigh) of North Carolina. We use cycling and our presence in the community to raise awareness of our sponsors and charitable organizations we promote.'}
+{'property': 'og:url', 'content': 'https://trianglevelo.org/'}
+{'property': 'og:site_name', 'content': 'Triangle Velo'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/Triangle-Velo-Cycling-Team-175235281432/'}
+{'property': 'article:modified_time', 'content': '2024-03-26T12:40:53+00:00'}
+{'property': 'og:image', 'content': 'https://trianglevelo.org/wp-content/uploads/2019/01/no_mercy_velo.jpg'}
+{'property': 'og:image:width', 'content': '428'}
+{'property': 'og:image:height', 'content': '265'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@trianglevelo'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://trianglevelo.org/wp-content/uploads/2019/01/cropped-TV-Logos-2aa-270x270.png'}
+
+Body Text:
+Home - Triangle Velo
+Skip to content
+Team
+Sponsors
+Gravel Division
+Events
+Get Notified About Events
+Charitable Works
+Apply for Charitable Support
+Info
+Contact Triangle Velo
+Triangle Velo Newsletter
+Local Cycling Links
+Chapel Hill NC Group Rides
+Search for...
+Navigation Menu
+Navigation Menu
+Team
+Sponsors
+Gravel Division
+Events
+Get Notified About Events
+Charitable Works
+Apply for Charitable Support
+Info
+Contact Triangle Velo
+Triangle Velo Newsletter
+Local Cycling Links
+Chapel Hill NC Group Rides
+Search for...
+Summer Rides are Back!
+Twin Peaks, The Hammer ride, Thursday night rides, ALL OF THEM!
+More info here
+#newkitday2024
+The team store is open until 3/31.
+Hurry and order your new kit today!
+Previous
+Next
+About Triangle Velo
+Triangle Velo is an elite amateur cycling team based in the Research Triangle of North Carolina.  We use cycling and our presence in the community to raise awareness of our sponsors and charitable organizations we promote.  Triangle Velo is a 501(c)3 nonprofit organization, and all proceeds generated from our events are used for our mission:
+● Increase awareness and help raise funds for the fight against childhood obesity
+● Provide active, healthy activities for people in the Triangle area
+● Advocate for youth cycling and cycling related initiatives
+Triangle Velo Sponsors
+We are grateful for our sponsors
+ParCycles
+,
+Freedom
+,
+Steel String Brewery
+,
+Schunk
+,
+Infinit
+,
+RoseGroup CPA
+and
+Mojo Coworking
+.
+To learn more about becoming a sponsor,
+click here
+.
+Triangle Velo Supports
+Past Charitable Works Highlights
+Triangle Velo supports local, cycling-related charities that provide active, healthy activities for young people in the Triangle.  Recent charitable support includes:
+Bridge II Sports
+– $2000
+Triangle Off Road Cyclists
+– $2500
+Happy Tooth Summer Kids Camp
+– $7500
+Triangle Spokes Group
+– $3000
+Riding for Focus
+– $1000
+Hammercross
+– $300
+Facebook
+Instagram
+Twitter
+Neve
+| Powered by
+WordPress
+Neve
+| Powered by
+WordPress

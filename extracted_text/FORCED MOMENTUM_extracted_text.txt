@@ -1,0 +1,125 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, viewport-fit=cover'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black'}
+{'name': 'msapplication-navbutton-color', 'content': '#000000'}
+{'name': 'theme-color', 'content': '#000000'}
+
+Body Text:
+Reddit - Dive into anything
+Skip to main content
+Open menu
+Open navigation
+Go to Reddit Home
+r/AskPhysics
+A chip
+A close button
+Get app
+Get the Reddit app
+Log In
+Log in to Reddit
+Expand user menu
+Open settings menu
+Log In / Sign Up
+Advertise on Reddit
+Shop Collectible Avatars
+Get the Reddit app
+Scan this QR code to download the app now
+Or check it out in the app stores
+Go to AskPhysics
+r/AskPhysics
+r/AskPhysics
+Members
+Online
+•
+The_Troupe_Master
+ADMIN
+MOD
+What are the definitions of things like moments, momentum, force, energy
+Hi, recently started learning physics and I'm really confused with what these things are trying to measure exactly and how we know they are equal to the things they way they are. E.g. what exactly is a force, I know it's equal to mass*acceleration and that's it, what is it trying to measure exactly and why does that definition mean it is equal to mass*acceleration. I have the same question for the other things like momentum, moments, and energy. I know these are equal to things, but I don't understand what they are trying to measure and how we know they are equal to what we say they are?
+Read more
+Top 1%
+Rank by size
+Top Posts
+Reddit
+reReddit: Top posts of December 20, 2021
+Reddit
+reReddit: Top posts of December 2021
+Reddit
+reReddit: Top posts of 2021
+&nbsp;
+&nbsp;
+TOPICS
+Internet Culture (Viral)
+Amazing
+Animals & Pets
+Cringe & Facepalm
+Funny
+Interesting
+Memes
+Oddly Satisfying
+Reddit Meta
+Wholesome & Heartwarming
+Games
+Action Games
+Adventure Games
+Esports
+Gaming Consoles & Gear
+Gaming News & Discussion
+Mobile Games
+Other Games
+Role-Playing Games
+Simulation Games
+Sports & Racing Games
+Strategy Games
+Tabletop Games
+Q&As
+Q&As
+Stories & Confessions
+Technology
+3D Printing
+Artificial Intelligence & Machine Learning
+Computers & Hardware
+Consumer Electronics
+DIY Electronics
+Programming
+Software & Apps
+Streaming Services
+Tech News & Discussion
+Virtual & Augmented Reality
+Pop Culture
+Celebrities
+Creators & Influencers
+Generations & Nostalgia
+Podcasts
+Streamers
+Tarot & Astrology
+Movies & TV
+Action Movies & Series
+Animated Movies & Series
+Comedy Movies & Series
+Crime, Mystery, & Thriller Movies & Series
+Documentary Movies & Series
+Drama Movies & Series
+Fantasy Movies & Series
+Horror Movies & Series
+Movie News & Discussion
+Reality TV
+Romance Movies & Series
+Sci-Fi Movies & Series
+Superhero Movies & Series
+TV News & Discussion
+RESOURCES
+About Reddit
+Advertise
+Help
+Blog
+Careers
+Press
+Communities
+Best of Reddit
+Topics
+Content Policy
+Privacy Policy
+User Agreement
+Reddit, Inc. © 2024. All rights reserved.

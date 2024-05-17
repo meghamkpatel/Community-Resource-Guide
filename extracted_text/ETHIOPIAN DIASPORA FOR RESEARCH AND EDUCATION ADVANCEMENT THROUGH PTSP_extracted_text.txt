@@ -1,0 +1,194 @@
+Meta Information:
+{'name': 'pageKey', 'content': 'd_flagship2_pulse_read'}
+{'name': 'robots', 'content': 'max-image-preview:large, noarchive'}
+{'name': 'bingbot', 'content': 'nocache'}
+{'name': 'locale', 'content': 'en_US'}
+{'id': 'config', 'data-app-version': '0.0.3586', 'data-call-tree-id': 'AAYYm4lwlvqtaMogmOuL8g==', 'data-multiproduct-name': 'article-ssr-frontend', 'data-service-name': 'article-ssr-frontend', 'data-browser-id': '46f6cc6b-2818-41e9-83e8-e285ed3eef0c', 'data-enable-page-view-heartbeat-tracking': '', 'data-page-instance': 'urn:li:page:d_flagship2_pulse_read;4cZLwQOpTEWUrlvDodi6Kg==', 'data-theme': 'light', 'data-disable-jsbeacon-pagekey-suffix': 'false', 'data-member-id': '0', 'data-logout-url': 'https://www.linkedin.com/uas/logout?session_full_logout=true&csrfToken=ajax%3A2206787502165453826'}
+{'name': 'description', 'content': 'We were sitting at the Ole Serene hotel in Nairobi, on the veranda. Valentino pointed out the grazing buffalo and zebras in the distance, and after a lot of catching up, I finally came to my agenda, which was his speech to the American Psychological Association.'}
+{'property': 'og:title', 'content': 'The Cultural Context of Trauma and Resilience '}
+{'property': 'og:description', 'content': 'We were sitting at the Ole Serene hotel in Nairobi, on the veranda. Valentino pointed out the grazing buffalo and zebras in the distance, and after a lot of catching up, I finally came to my agenda, which was his speech to the American Psychological Association.'}
+{'property': 'og:image', 'content': 'https://media.licdn.com/dms/image/C5612AQHWxfF8z-92aQ/article-cover_image-shrink_720_1280/0/1644607377036?e=2147483647&v=beta&t=W73NXNszCnpV5X_qM_4nh_pF-Gl7RdpPmMfshpwHtMw'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:url', 'content': 'https://www.linkedin.com/pulse/cultural-context-trauma-resilience-yvonne-chen'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@LinkedInEditors'}
+{'name': 'twitter:title', 'content': 'The Cultural Context of Trauma and Resilience '}
+{'name': 'twitter:description', 'content': 'We were sitting at the Ole Serene hotel in Nairobi, on the veranda. Valentino pointed out the grazing buffalo and zebras in the distance, and after a lot of catching up, I finally came to my agenda, which was his speech to the American Psychological Association.'}
+{'name': 'twitter:image', 'content': 'https://media.licdn.com/dms/image/C5612AQHWxfF8z-92aQ/article-cover_image-shrink_720_1280/0/1644607377036?e=2147483647&v=beta&t=W73NXNszCnpV5X_qM_4nh_pF-Gl7RdpPmMfshpwHtMw'}
+{'name': 'appId'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Yvonne Chen'}
+{'name': 'twitter:label2', 'content': 'Reading time'}
+{'name': 'twitter:data2', 'content': '6 min read'}
+{'name': 'clientSideIngraphs', 'content': '1', 'data-gauge-metric-endpoint': '/pulse/api/ingraphs/gauge', 'data-counter-metric-endpoint': '/pulse/api/ingraphs/counter'}
+
+Body Text:
+The Cultural Context of Trauma and Resilience
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+Welcome back
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Skip to main content
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+The Cultural Context of Trauma and Resilience
+Report this article
+Yvonne Chen
+Yvonne Chen
+Development Director, Fundraising, Climate Person
+Published Nov 7, 2017
++ Follow
+We were sitting at the Ole Serene hotel in Nairobi, on the veranda. Valentino pointed out the grazing buffalo and zebras in the distance, and after a lot of catching up, I finally came to my agenda, which was his speech to the American Psychological Association. He was asked to give a keynote speech, and we were unsure why he, a non-academic, might be invited to speak to a room full of psychologists.
+For those who have read his novelized biography--which launched a young Dave Eggers into literary stardom and created the most famous story about a Lost Boy of Sudan--
+What is the What
+tells the story of a small boy who has seen the unimaginable--at least to those of us in the west who can not imagine. He runs from lions, flees from a village where his relatives have been burned alive in their huts, and travels thousands of miles across an unforgiving Sudan into Ethiopian and then Kenyan refugee camps.
+"When I was seven, I was sent to the cattle camps. When I was in the refugee camps, we played, sang and told stories to each other. The villages that we passed as we walked across the Sudan were filled with mothers who became our mothers, feeding us so that we would not starve. The story that is told of me puts the picture of a small, lost boy in readers' minds. I am now a grown man, with a wife, four kids. I was the minister of education in my state. I built a school in my village, one of the best schools in South Sudan. I have done so much since then. But when I meet people, they still see me as a small boy who has been traumatized by war."
+And predictably, when he took the stage to speak, time and again, audience members and fans of his book asked the one question he dreaded answering, "It's just incredible all you have been through. You are so resilient. Can you tell us how you were able to deal with the everything that you have gone through?"
+Why was Valentino able to move past the murders he saw, the violence against innocents, the starvation and thirst, the years of waiting for a life beyond the walls of Kakuma Refugee Camp? What was special about him? Was there something they, ordinary Americans, could learn from his inspirational story?
+As it turns out, there was not much to the answer. "It's different in Africa," he would say. "They would not understand."
+And when I went to visit Aweil in South Sudan, spent time side-by-side with people who had the same stories of the second Sudanese civil war (but went untold), saw them laugh and recall their long journeys as if they travels, I could start to understand unlike any reader could understand who had never visited these places or would want to.
+Reflecting on this issue from a evidence-based approach, I wanted to see what the literature in cultural psychology and trauma says about people like Valentino, and the thousands of Lost Boys who came to America to become one of the most successful emigrant groups in the history of refugee resettlement in the United States. The science behind how Valentino was able to rise above, survive and succeed.
+Ethan Watters writes, “there is little about the human reaction to trauma that is universal.” This is a crucial observation that is often overlooked in the field of western psychology, particularly when related to refugees from other countries. While Post-Traumatic Stress Disorder and other mental illnesses like anxiety and depression are often found in people who have experienced violence and displacement in their lives, it is not necessarily present. These conditions are a result of both nature and nurture; they are often caused by a combination of severe trauma, previous exposure to stressful situations like abuse, and violence that continues past the initial instance.
+Long-term distress experienced by refugees is often the result of “post-traumatic stressors.” In other words, long-lasting trauma does not occur just as a result of one experience alone. While violent/abusive occurrences can surely be impactful on one’s psychological state, their experiences following the traumatic situation, such as whether or not they have stability, safety, and a tight-knit support system are equally significant factors.
+Studies have shown that people who have experienced many consecutive traumatic instances but have strong communities of people who care about them show less signs of long-lasting trauma than people who have only had only one traumatic experience but are without a close support system. Contrary to popular western belief, only a small percentage of refugees show continuing signs of intense trauma. The majority of people who do experience this are victims of sexual assault or torture.
+Becoming a refugee has the potential to be most psychologically damaging during adolescent years, because as well as having to adapt to new environments, teens are “dealing with normative developmental processes, [such as] identity formation.” Even so, protective actors, defined as “individuals, groups, organizations and systems that can contribute either directly or indirectly to promoting adolescent refugees’ psychosocial well-being,” greatly help adolescent’s adapt to life after trauma and overcome any psychological issues they face as a result. In terms of African refugees specifically, studies have shown that the protective actors with the most success in reducing long-term trauma are education, religion/spirituality, and community support. Professor and counselor B.N. Kiteki writes that “these themes seem to provide a more contextual understanding of resilience in African refugees due to the emphasis on collectivistic and communal cultural aspects that are key features of the majority of refugee populations.”
+The fact that community is such an important and robust aspect of many African societies helps refugees to heal from traumatic experiences. Despite what most Westerners expect and believe, because of the support and close relationships that refugees form, many are able to overcome trauma.
+Psychological Terminology Index
+Trauma: an emotional response to a terrible event like an accident, rape or natural disaster. Immediately after the event, shock and denial are typical.
+Post-Traumatic Stress Disorder (PTSD): a psychological reaction that occurs after an extremely stressful event, such as physical violence or military combat. Those suffering from PTSD have recurring memories of the stressful event and are anxious or scared even in the absence of danger. Flashbacks and nightmares are common symptoms as well.
+Protective Actors: individuals, groups, organizations and systems that can contribute either directly or indirectly to promoting adolescent refugees’ psychosocial well-being.
+Sources
+Kiteki, B. N. "The Case for Resilience in African Refugees: A Literature Review and Suggestions for Future Research." Vistas Online. American Counseling Association, n.d. Web. 18 July 2017.
+Killian, Kyle D. "What Is Resilience? Placing a Buzz Word in Social Context." Psychology Today. Sussex Publishers, 02 Sept. 2015. Web. 18 July 2017.
+Miller, Kenneth E. "5 Myths About Refugees." Psychology Today. Sussex Publishers, 23 Jan. 2017. Web. 18 July 2017.
+Muller, Robert T. "Culture & PTSD: Lessons from the 2004 Tsunami." Psychology Today. Sussex Publishers, 04 Oct. 2013. Web. 18 July 2017.
+"Post-Traumatic Stress Disorder." Psychology Today. Sussex Publishers, n.d. Web. 18 July 2017.
+"Trauma." American Psychological Association. American Psychological Association, n.d. Web. 18 July 2017.
+Help improve contributions
+Mark contributions as unhelpful if you find them irrelevant or not valuable to the article. This feedback is private to you and won’t be shared publicly.
+Got it
+Contribution hidden for you
+This feedback is never shared publicly, we’ll use it to show better contributions to everyone.
+Undo
+Like
+Comment
+Copy
+LinkedIn
+Facebook
+Twitter
+Share
+2
+To view or add a comment,
+sign in
+More articles by this author
+No more previous content
+From the archives: Gas Curtain Divides Europe (2010)
+Mar 11, 2022
+How to Be an Anti-Racist at Home and Abroad
+Feb 20, 2021
+The Importance of Optimism in Finding and Doing Work You Love
+Dec 4, 2020
+The Under-reported Story of Girls in South Sudan
+Nov 7, 2017
+Can the diaspora bring about peace in South Sudan?
+Nov 7, 2017
+No more next content
+See all
+Sign in
+Stay updated on your professional world
+Sign in
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Explore topics
+Sales
+Marketing
+Business Administration
+HR Management
+Content Management
+Engineering
+Soft Skills
+See All
+LinkedIn
+© 2024
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+العربية (Arabic)
+Čeština (Czech)
+Dansk (Danish)
+Deutsch (German)
+English (English)
+Español (Spanish)
+Français (French)
+हिंदी (Hindi)
+Bahasa Indonesia (Indonesian)
+Italiano (Italian)
+日本語 (Japanese)
+한국어 (Korean)
+Bahasa Malaysia (Malay)
+Nederlands (Dutch)
+Norsk (Norwegian)
+Polski (Polish)
+Português (Portuguese)
+Română (Romanian)
+Русский (Russian)
+Svenska (Swedish)
+ภาษาไทย (Thai)
+Tagalog (Tagalog)
+Türkçe (Turkish)
+Українська (Ukrainian)
+简体中文 (Chinese (Simplified))
+正體中文 (Chinese (Traditional))
+Language

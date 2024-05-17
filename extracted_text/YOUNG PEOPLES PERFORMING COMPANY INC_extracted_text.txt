@@ -1,0 +1,35 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'referrer', 'content': 'origin'}
+{'property': 'og:title', 'content': 'YPPC'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://www.yppc.us/'}
+{'itemprop': 'name', 'content': 'YPPC'}
+{'itemprop': 'url', 'content': 'https://www.yppc.us/'}
+{'itemprop': 'thumbnailUrl', 'content': 'https://lh4.googleusercontent.com/IMl59GROSNUjUx1H3uHIamnwMpTDcvCbyQzofLUc3Ws_eU3Jezf5NmvQqxxBdR9MBch9C9Ep5-8MFBwhtogHmac=w16383'}
+{'itemprop': 'image', 'content': 'https://lh4.googleusercontent.com/IMl59GROSNUjUx1H3uHIamnwMpTDcvCbyQzofLUc3Ws_eU3Jezf5NmvQqxxBdR9MBch9C9Ep5-8MFBwhtogHmac=w16383'}
+{'itemprop': 'imageUrl', 'content': 'https://lh4.googleusercontent.com/IMl59GROSNUjUx1H3uHIamnwMpTDcvCbyQzofLUc3Ws_eU3Jezf5NmvQqxxBdR9MBch9C9Ep5-8MFBwhtogHmac=w16383'}
+{'property': 'og:image', 'content': 'https://lh4.googleusercontent.com/IMl59GROSNUjUx1H3uHIamnwMpTDcvCbyQzofLUc3Ws_eU3Jezf5NmvQqxxBdR9MBch9C9Ep5-8MFBwhtogHmac=w16383'}
+
+Body Text:
+YPPC
+Search this site
+Skip to main content
+Skip to navigation
+The YPPC website has moved. *** Find us at www.yppcnc.org
+Go to new website
+YPPC
+Home
+Old Home
+YPPC
+Home
+Old Home
+More
+Home
+Old Home
+Report abuse
+Page details
+Page updated
+Report abuse

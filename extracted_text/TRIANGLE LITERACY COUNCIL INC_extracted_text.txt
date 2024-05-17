@@ -1,0 +1,81 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '85f2d39d-2293-429a-94a7-60da15439352'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'ba843861-6992-4285-9635-ee4bd61afd67'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '291'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | Triangle Literacy Co'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/a0f9c3_c21f21c57c70472a822d5a690ed168e0~mv2.png/v1/fill/w_544,h_512,al_c/a0f9c3_c21f21c57c70472a822d5a690ed168e0~mv2.png'}
+{'property': 'og:image:width', 'content': '544'}
+{'property': 'og:image:height', 'content': '512'}
+{'property': 'og:url', 'content': 'https://www.triangleliteracy.org'}
+{'property': 'og:site_name', 'content': 'Triangle Literacy Co'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | Triangle Literacy Co'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/a0f9c3_c21f21c57c70472a822d5a690ed168e0~mv2.png/v1/fill/w_544,h_512,al_c/a0f9c3_c21f21c57c70472a822d5a690ed168e0~mv2.png'}
+
+Body Text:
+HOME | Triangle Literacy Co
+top of page
+ABOUT
+Our Mission, Vision, and Beliefs
+Our Work
+Our Team
+PROGRAMS
+Youth Programs
+Adult Programs
+Bull City YouthBuild
+VOLUNTEER
+NEWS
+CONTACT
+DONATE
+Volunteer
+Become a Tutor
+GET INVOLVED
+News from Triangle Literacy Council - April 2024
+News from Triangle Literacy Council - December 2023
+News from Triangle Literacy Council - November 2023
+ABOUT
+Learn more about our history and mission for improving the lives of adults, youths, and families of Triangle Literacy Council
+LEARN
+Find information about our various literacy programs and how to become a student
+TEACH
+Make a positive difference in your community by becoming a tutor and mentor
+DONATE
+The generous contributions of concerned citizens like you allow us to continue our services at no cost to our students
+Volunteer with the Triangle Literacy Council and make a difference!
+The Triangle Literacy Council engages approximately 150 volunteers each year. Each of our three main programs relies on help from volunteers in order to meet the growing demand for services. The Family Literacy Program, Youth Literacy Program, and Adult Program all need volunteer tutors and helpers.
+Learn more
+Join our team
+JOIN THE MOVEMENT!
+Get the Latest News & Updates from TLC
+SUBSCRIBE
+Thanks for submitting!
+Contact Us
+First name
+Last name
+Email
+Phone
+Message
+Submit
+DONATE
+Physical Address
+200 Commonwealth Court, Suite 102 Cary, NC 27511
+Mailing Address
+P.O. Box 5246
+Cary, NC 27512
+Phone & Email
+(919) 787-5559
+info@triangleliteracy.org
+© 2023 by Triangle Literacy Council
+​
+Designed by Web Designs by Jackie
+Back to Top
+bottom of page

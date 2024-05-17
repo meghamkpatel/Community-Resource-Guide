@@ -1,0 +1,98 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Paradox Opera'}
+{'property': 'og:title', 'content': 'Paradox Opera'}
+{'property': 'og:url', 'content': 'https://www.paradoxopera.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/62030dcb069d8d2ba0c7a12b/t/651cb3b6af19006033de286c/1696379830158/A+Paradox+Opera+Logo+Crop.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '834'}
+{'itemprop': 'name', 'content': 'Paradox Opera'}
+{'itemprop': 'url', 'content': 'https://www.paradoxopera.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/62030dcb069d8d2ba0c7a12b/t/651cb3b6af19006033de286c/1696379830158/A+Paradox+Opera+Logo+Crop.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/62030dcb069d8d2ba0c7a12b/t/651cb3b6af19006033de286c/1696379830158/A+Paradox+Opera+Logo+Crop.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Paradox Opera'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/62030dcb069d8d2ba0c7a12b/t/651cb3b6af19006033de286c/1696379830158/A+Paradox+Opera+Logo+Crop.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.paradoxopera.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Paradox Opera
+0
+Skip to Content
+Home
+About
+Current Season
+History
+Amahl and the Night Visitors
+Autonomy
+Covid Chronicles
+Shop
+Get Involved
+Volunteer
+Auditions
+Donate
+Open Menu
+Close Menu
+Home
+About
+Current Season
+History
+Amahl and the Night Visitors
+Autonomy
+Covid Chronicles
+Shop
+Get Involved
+Volunteer
+Auditions
+Donate
+Open Menu
+Close Menu
+Home
+About
+Current Season
+Folder:
+History
+Back
+Amahl and the Night Visitors
+Autonomy
+Covid Chronicles
+Shop
+Folder:
+Get Involved
+Back
+Volunteer
+Auditions
+Donate
+2024 and Beyond!
+COMING SOON
+Stay up to date on the new season and more by subscribing to the Paradox Opera Newsletter!
+Subscribe
+“Paradox Opera’s praiseworthy mission to bridge the gap, reinterpret classic operas, and commission new works reflects a commitment to reaching a diverse audience. Joining them was more than a professional collaboration; it was an invitation to a vibrant community where the old and new converge, breathing fresh life into opera!”
+-Christopher Fotis, PXO Artist
+“Paradox Opera is a wonderful young company that treats their artists with respect and pays them fairly. PXO produces shows that push the envelope in an accessible way.”
+- Marissa Simmons, PXO Artist
+“Beautiful costumes and a cozy set provided for a wonderful backdrop to tell the story and the singing was powerful… I was most impressed and can't wait for the next production.  Hats off to everyone involved!”
+- David Edwards, PXO Super Fan!
+“I thoroughly enjoyed the show, great music and audience engagement, opera doesn’t need to be stuffy and can connect with people!”
+- A PXO Fan
+“Alissa Roca had excellent tone and poise as Mother, while Governor Harris (he/him), Gwendolyn Hyland (she/they), and Miguel Pedroza (he/him) were truly the highlights of the show with their well-blended harmonies as the three kings.”
+- Lauren Lisinski, Chatham Life and Style
+“I loved the show. Each performer, and the incredible pianist, are clearly accomplished, talented, committed, and also having a wonderful time both with us as audience members, and with each other. I really loved the format of a mixture of opera and contemporary pieces. I really applaud this exciting endeavor, and feel like it has a really wonderful addition to the local art scene.”
+- A PXO Fan
+Amahl and the Night Visitors
+Take a moment to check out our previous show!
+MORE INFO
+We hold the core belief that opera is a powerful, and emotionally thrilling art form. Our mission is to introduce new audiences to unique and modern perspectives, in a world-class, artist-first experience.
+CONTACT
+paradoxopera@gmail.com
+DONATE
+Donate!
+FOLLOW
+NEWSLETTER
+Subscribe!
+Paradox Opera is a proud 501(c)(3) charitable nonprofit.

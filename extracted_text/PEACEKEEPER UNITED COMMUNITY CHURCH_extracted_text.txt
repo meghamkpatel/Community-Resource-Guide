@@ -1,0 +1,237 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Community Peacemaker Teams builds partnerships to transform violence and oppression. Taking action for peace for over 35 years.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Community Peacemaker Teams'}
+{'property': 'og:description', 'content': 'Community Peacemaker Teams builds partnerships to transform violence and oppression. Taking action for peace for over 35 years.'}
+{'property': 'og:url', 'content': 'https://cpt.org/'}
+{'property': 'og:site_name', 'content': 'Community Peacemaker Teams'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/cpters'}
+{'property': 'article:modified_time', 'content': '2024-05-01T16:58:59+00:00'}
+{'property': 'og:image', 'content': 'https://cpt.org/wp-content/uploads/220112-colombia.5.jpg'}
+{'property': 'og:image:width', 'content': '2000'}
+{'property': 'og:image:height', 'content': '1333'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@cpt_intl'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'WPML ver:4.6.10 stt:1,13,30,2;'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.126.0'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'facebook-domain-verification', 'content': '6w9gofvw1rqyh4q4v0hwfse1ceqmmg'}
+{'name': 'theme-color', 'content': '#F5F5F5'}
+{'name': 'msapplication-TileImage', 'content': 'https://cpt.org/wp-content/uploads/cropped-acronymCPT-red-1-270x270.png'}
+
+Body Text:
+Community Peacemaker Teams
+Skip to content
+About Us
+We’re now Community Peacemaker Teams
+About us
+Where We Work
+Iraqi Kurdistan
+Lesvos, Greece
+Palestine
+Colombia
+Turtle Island
+Get Involved
+Delegations
+CPT Training
+Workshops
+Invite a Speaker
+Host a CPT Supper
+Campaigns
+Give
+Regional Groups
+Resources
+English
+Español
+Menu
+About Us
+We’re now Community Peacemaker Teams
+About us
+Where We Work
+Iraqi Kurdistan
+Lesvos, Greece
+Palestine
+Colombia
+Turtle Island
+Get Involved
+Delegations
+CPT Training
+Workshops
+Invite a Speaker
+Host a CPT Supper
+Campaigns
+Give
+Regional Groups
+Resources
+English
+Español
+Watch Light and attend the premiere
+May 18, 2024
+Book your spot
+Watch the trailer
+We build partnerships to transform violence and oppression
+Latest Stories
+Call for Solidarity at the ‘Pylos 9’ Trial
+CPT Aegean Migrant Solidarity
+The Palestinian Outfit
+Shahd Al Junaidi
+Beyond the Frame: A Filmmaker’s Testimony
+Ahmad Abu Monshar
+Toronto Police Target Indigenous solidarity with Palestine
+CPT Turtle Island Solidarity Network
+Defending our home with CPT
+B.O.S
+Read Previous Stories
+Search
+Search
+Defending our home with CPT
+B.O.S
+April 23, 2024
+Train with us. Join Community Peacemaker Teams.
+APPLY
+Join an on the ground experiment in nonviolence.
+JOIN A DELEGATION
+Prayers for Peacemakers
+We stand in solidarity with the Pylos 9!
+CPT Aegean Migrant Solidarity
+Stop the harassment and killing of spring harvesters in the Zagros Mountains
+CPT Iraqi Kurdistan
+Broken body, transformational action and healing spirits
+CPT Turtle Island Solidarity Network
+Migrant families at risk of extortion or kidnapping
+CPT Borderlands
+Friday Bulletins
+Mothers who resist
+May 10, 2024
+“The power of our love scares them.”
+May 3, 2024
+Finding the light
+April 26, 2024
+Justice will come through people
+April 19, 2024
+Subscribe to the Friday Bulletin
+First Name
+Last Name
+Email
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+Subscribe
+Reports
+Deadly End
+CPT Aegean Migrant Solidarity
+Access previous reports
+Quarterly Newsletter
+Newsletter Archives
+Sustain Peacemaking
+Other ways to give
+People & Sponsors
+Faqs
+Our Story
+Financials
+Contact
+People & Sponsors
+Faqs
+Our Story
+Financials
+Contact
+Building Partnerships to Transform Violence and Oppression
+Facebook
+Twitter
+Instagram
+Community Peacemaker Teams
+is licensed under a
+Creative Commons Attribution-NonCommercial 4.0 International License
+unless noted. Feel free to republish and share widely. For permissions beyond the scope of this license
+contact us
+.
+Manage Cookie Consent
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage Cookie Consent
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent
+Manage consent
+Skip to content
+Open toolbar
+Accessibility Tools
+Accessibility Tools
+Increase Text
+Increase Text
+Decrease Text
+Decrease Text
+Grayscale
+Grayscale
+High Contrast
+High Contrast
+Negative Contrast
+Negative Contrast
+Light Background
+Light Background
+Links Underline
+Links Underline
+Readable Font
+Readable Font
+Reset
+Reset
+Feedback
+Feedback

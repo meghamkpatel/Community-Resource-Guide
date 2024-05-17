@@ -1,0 +1,107 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '85d70805-fefd-4ae8-97bf-898b185c25f1'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'd5bfa85a-0259-44af-ba48-811a066f3e5f'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '2'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Sisters Pushing Sisters International a nonprofit organization that empowers women, men and children through community outreach and collaboration.'}
+{'property': 'og:title', 'content': 'Sisterspushingsisters.org|Encouraging and Pushing Women beyond tragedy'}
+{'property': 'og:description', 'content': 'Sisters Pushing Sisters International a nonprofit organization that empowers women, men and children through community outreach and collaboration.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/ab2139_ea062f64291f47f69be9116bc8e43118.png/v1/fit/w_2500,h_1330,al_c/ab2139_ea062f64291f47f69be9116bc8e43118.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.sisterspushingsisters.org'}
+{'property': 'og:site_name', 'content': 'sisterspushing'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'SistersPushingSistersInternational'}
+{'name': 'keywords', 'content': 'domestic violence, donate, empowers women, sisters pushing sisters'}
+{'property': 'fb:admins', 'content': 'SistersPushingSistersInternational'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Sisterspushingsisters.org|Encouraging and Pushing Women beyond tragedy'}
+{'name': 'twitter:description', 'content': 'Sisters Pushing Sisters International a nonprofit organization that empowers women, men and children through community outreach and collaboration.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/ab2139_ea062f64291f47f69be9116bc8e43118.png/v1/fit/w_2500,h_1330,al_c/ab2139_ea062f64291f47f69be9116bc8e43118.png'}
+
+Body Text:
+Sisterspushingsisters.org|Encouraging and Pushing Women beyond tragedy
+top of page
+Sisters Pushing Sisters International
+Home
+Meet The Founder
+Get Informed
+Get Involved
+Events
+Gallery
+Contact
+Store
+More...
+Use tab to navigate through the menu items.
+Empowering Encouraging and Pushing Women
+Beyond
+Tragedy
+Meet The Founder
+Learn More
+About Us
+Our Mission
+Our Vision
+Our Core Values
+To preserve and strengthen families and communities worldwide on a foundation of love that will last for generations to come.
+Sisters Pushing Sisters International was founded on the core principles Faith, Integrity, and Love.
+To transform broken lives and give domestic violence survivors hope and encouragement for a brighter future.
+Sisters Pushing Sisters International
+fulfills its mission by helping others realize their God given potential to live their best lives possible and have a positive impact on those around them. Sisters Pushing Sisters International supports families and communities by hosting several community events that promote and encourage; education, health, youth development, personal growth and partnerships.
+​
+Education:
+Check out our tutoring program for school aged children, and contact us to learn more about our annual book bag giveaway.
+​
+Health:
+Sisters Pushing Sisters International supports community health organizations.
+​
+Youth Development:
+Sisters Pushing Sisters International believes in investing in our youth. Contact us to learn more about our Etiquette Ball and youth connection groups.
+​
+Personal Growth:
+Join us for our annual Women's  Conference where we focus on providing encouragement and  sisterhood through the powerful message of our guest speakers. Write the Vision and make it plain! Contact us for more  information about our vision parties. Connect with  us in Prayer! We believe in the power  of prayer and lifting each other up in the name of sister and brotherhood.
+​
+Partnerships:
+Sisters Pushing Sisters International works together with other community leaders and organizations. We host an annual gala each October to bring awareness to Domestic Violence. We  also recognize and honor change agents both locally and worldwide to celebrate all of their work and accomplishments for their communities.
+​
+​
+Motivational Monday
+Motivational Monday
+1 Peter 4:8
+Love covers a multitude of sins, according to the scriptures. Love covering sin does not mean we disregard our own emotions or ignore our personal boundaries. We cannot “cover” sin by denying that it hurt us. We cover sin by acknowledging it and then extending the forgiveness God has given us to others. Some sins against us are not worth confronting. Personal slights, snide or ignorant remarks, and minor annoyances can be easily forgiven for the sake of love.
+Another way that love covers over a multitude of sins is choosing not to take offense at everything. This does not give you a free pass to hurt someone and use the clause that "love covers a multitude of sins." Another thing love does is protect (1 Corinthians 13:7). Love does not cover over a multitude of sin by sweeping matters under the rug. Some have appealed to the forgiving nature of love in their attempt to hide indiscretion. For example, rather than report child abuse, a church might cover it up. This is not what true love does. Love protects by helping both the victim and the offender, and it also strives to prevent further offenses. God is concerned about all parties involved. God desire is that we all come into the knowledge of the truth through forgiveness, salvation and healing.
+SPSGALA-57
+SPSGALA-171_edited
+SPSGALA-152
+sps-126
+1/1
+Help us spread love to all
+© 2019 by Sisters Pushing Sisters International
+​
+501(c) Organization
+​
+​
+​
+Contact us
+Email:
+info@sisterspushingsisters.org
+Tel:
+919-391-8481
+Home
+Meet The Founder
+Get Informed
+Get Involved
+Events
+Gallery
+Contact
+Store
+Beyond
+Tragedy
+bottom of page

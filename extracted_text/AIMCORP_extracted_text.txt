@@ -1,0 +1,64 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - AIMCORP'}
+{'property': 'og:description', 'content': 'Want To Help Support The Movement? The Applied Innovation Movment is a 501(c)(3) non-profit organization that is supported in part by the community. Any contribution made is tax deductible, and goes towards building a brighter Read more…'}
+{'property': 'og:url', 'content': 'https://aimcorp.org/'}
+{'property': 'og:site_name', 'content': 'AIMCORP'}
+{'property': 'article:modified_time', 'content': '2024-03-25T02:36:15+00:00'}
+{'property': 'og:image', 'content': 'https://aimcorp.org/wp-content/uploads/2020/08/gradient.png'}
+{'property': 'og:image:width', 'content': '3840'}
+{'property': 'og:image:height', 'content': '2160'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://aimcorp.org/wp-content/uploads/2020/03/cropped-Screen-Shot-2020-03-26-at-8.43.40-PM-1-270x270.png'}
+
+Body Text:
+Home - AIMCORP
+Toggle Navigation
+Home
+About
+Supporters
+Philanthropy
+Winter Programs 2022
+Winter Programs 2021
+Summer Programs 2020
+Spring Math Coaching 2020
+Bidadi Primary School Outreach
+Vijetha Special School Outreach
+Coaching Donation
+Volleyball Cancer Fundraiser
+Digital Slate Outreach
+AIMCORP Computer Drive
+Educational Tablet Outreach
+Join Us
+Contact
+Login
+Catalyzing Impactful Change Through Innovation
+Making a difference through social-impact innovation, and prioritization of diversity, equity, and inclusion.
+Want To Help Support The Movement?
+The Applied Innovation Movment is a 501(c)(3) non-profit organization that is supported in part by the community. Any contribution made is tax deductible, and goes towards building a brighter tommorow.
+Donate to AIMCORP
+Sign up for our Mailing List
+Signup to receive updates from the AIM team about programs, project, and more!
+Signup
+Our Impact
+Philanthropy
+Community based initiatives worldwide centered around education & empowerment.
+Innovation
+Fostering social-impact startup projects and initiatives that emphasize innovation.
+Activism
+Pushing for diversity, equity, and inclusion through innovative approaches.
+Home
+About
+Philanthropy
+Join Us
+Contact
+Login
+Hestia | Developed by
+ThemeIsle

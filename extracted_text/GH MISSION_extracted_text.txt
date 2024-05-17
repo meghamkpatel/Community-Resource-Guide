@@ -1,0 +1,168 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Gravity Heights'}
+{'property': 'og:title', 'content': 'Gravity Heights'}
+{'property': 'og:url', 'content': 'https://www.gravityheights.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': "Gravity Heights is a vibrant brewery and restaurant with locations in San Diego's Sorrento Mesa and Mission Valley neighborhoods. Featuring indoor/outdoor dining, an epic beer garden, private event space and more."}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/62dc42b42ac2da0d602a3cfb/t/62e0b34790d789499daa25fc/1658893127104/GH_logo_GIF6.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '295'}
+{'itemprop': 'name', 'content': 'Gravity Heights'}
+{'itemprop': 'url', 'content': 'https://www.gravityheights.com'}
+{'itemprop': 'description', 'content': "Gravity Heights is a vibrant brewery and restaurant with locations in San Diego's Sorrento Mesa and Mission Valley neighborhoods. Featuring indoor/outdoor dining, an epic beer garden, private event space and more."}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/62dc42b42ac2da0d602a3cfb/t/62e0b34790d789499daa25fc/1658893127104/GH_logo_GIF6.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/62dc42b42ac2da0d602a3cfb/t/62e0b34790d789499daa25fc/1658893127104/GH_logo_GIF6.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'Gravity Heights'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/62dc42b42ac2da0d602a3cfb/t/62e0b34790d789499daa25fc/1658893127104/GH_logo_GIF6.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.gravityheights.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': "Gravity Heights is a vibrant brewery and restaurant with locations in San Diego's Sorrento Mesa and Mission Valley neighborhoods. Featuring indoor/outdoor dining, an epic beer garden, private event space and more."}
+{'name': 'description', 'content': "Gravity Heights is a vibrant brewery and restaurant with locations in San \r\nDiego's Sorrento Mesa and Mission Valley neighborhoods. Featuring \r\nindoor/outdoor dining, an epic beer garden, private event space and more."}
+
+Body Text:
+Gravity Heights
+Make A Reservation
+0
+Skip to Content
+SORRENTO VALLEY
+Visit
+Plan Your Event
+Order Online
+MISSION VALLEY
+Visit
+Plan Your Event
+MENUS
+Lunch
+Brunch
+Dinner
+Beer
+Drinks
+Happy Hour
+ABOUT
+Our Story
+Our Team
+Jobs
+GIFT CARDS
+MAKE A RESERVATION
+Open Menu
+Close Menu
+SORRENTO VALLEY
+Visit
+Plan Your Event
+Order Online
+MISSION VALLEY
+Visit
+Plan Your Event
+MENUS
+Lunch
+Brunch
+Dinner
+Beer
+Drinks
+Happy Hour
+ABOUT
+Our Story
+Our Team
+Jobs
+GIFT CARDS
+MAKE A RESERVATION
+Open Menu
+Close Menu
+Folder:
+SORRENTO VALLEY
+Back
+Visit
+Plan Your Event
+Order Online
+Folder:
+MISSION VALLEY
+Back
+Visit
+Plan Your Event
+Folder:
+MENUS
+Back
+Lunch
+Brunch
+Dinner
+Beer
+Drinks
+Happy Hour
+Folder:
+ABOUT
+Back
+Our Story
+Our Team
+Jobs
+GIFT CARDS
+MAKE A RESERVATION
+GH MISSION VALLEY IS NOW OPEN!
+GH MISSION VALLEY IS NOW OPEN!
+GH MISSION VALLEY IS NOW OPEN!
+FOR EVERYONE
+GRAVITY HEIGHTS IS
+Gravity Heights was born out of a chance encounter between a few passionate and like-minded people having had one (or two) beers too many. We bonded over our belief that using good ingredients and good techniques with the right team will create great food (and beer, oddly enough).
+With locations in Sorrento Mesa and Mission Valley, our brewpubs feature a full-service restaurant, epic event space, and expansive outdoor seating. There’s plenty of space for the kids, pups—or adults, no judging—to enjoy the space to the fullest. Open to walk-ins and reservations
+Our second location is now open in Mission Valley!
+VISIT GH SORRENTO VALLEY
+VISIT GH MISSION VALLEY (NEW!)
+BEYOND THE BEER
+You will love our expansive drinks menu that features curated and expertly made cocktails… But back to the beer, Gravity Heights San Diego offers a rotating beer list of 20 local, domestic and imported options. Our own brewed creations are always changing, so just ask your server what GH beer is on tap! Our beer program is led by legendary local brewmaster Skip Virgilio.
+VIEW MENU
+OUR EPIC MENU
+We will serve you up an unforgettable meal. Gravity Heights was built upon the same foundation as our other concepts including Whisknladle and Catania under the expertise of  partner and culinary director, Chef Ryan Johnston.
+VIEW DRINKS
+THE GH BREWERY
+We are crafting new brews year round to be served on tap at Gravity Heights.
+ON TAP NOW:
+JUNE GLOOM | hazy IPA
+GRAVITY FOR GOOD -CAF  | west coast pilsner
+RICE COLD LAGER | pilsner
+SANDBAR | blonde
+Check our insta for regular brewery information and new release dates.
+@gravityheights
+.
+View Beer
+PRIVATE EVENTS
+What pairs best with a beer? A party. Both our Gravity Heights locations can play amazing private event hosts thanks to our range of space and menu options. See which venue and which option suits your next private event.
+MISSION VALLEY
+SORRENTO VALLEY
+RESERVATIONS
+|
+CONTACT
+|
+ABOUT
+|
+JOBS
+SORRENTO VALLEY
+Location:
+9920 Pacific Heights Blvd.
+San Diego, CA 92121
+Phone:
+(858) 283-8206
+MISSION VALLEY
+Location:
+525 Camino De La Reina 101
+San Diego, CA 92108
+Phone:
+619-539-7833
+HOURS
+Monday  - Wednesday 11:30am  - 8:30pm
+Thursday & Friday 11:30am - 9pm
+Saturday 10am - 9pm
+Sunday 10am - 8:30pm
+HOURS
+Monday 11am  - 7pm                 Tuesday & Wednesday 11am - 8pm
+Thursday & Friday 11am - 9pm
+Saturday 10:30am - 8pm
+Sunday 10:30am - 7pm
+Copyright 2024 | Gravity Heights | WNL Hospitality |
+Accessibility Statement
+|
+Privacy Policy
+|
+Website by Coast Creative

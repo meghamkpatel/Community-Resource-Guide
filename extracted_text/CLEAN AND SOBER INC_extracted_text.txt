@@ -1,0 +1,863 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'description', 'content': 'Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center is a rehabilitation center in West Palm Beach, FL. Find out treatment costs, contact details, ratings and see photos of the facility.'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:url', 'content': 'https://recovered.org/rehabs/clean-and-sober-recovery-center-inc-west-palm-beach-fl'}
+{'property': 'og:site_name', 'content': 'Recovered'}
+{'property': 'og:title', 'content': 'Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center in West Palm Beach, FL'}
+{'property': 'og:description', 'content': 'Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center is a rehabilitation center in West Palm Beach, FL. Find out treatment costs, contact details, ratings and see photos of the facility.'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center in West Palm Beach, FL'}
+{'name': 'twitter:description', 'content': 'Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center is a rehabilitation center in West Palm Beach, FL. Find out treatment costs, contact details, ratings and see photos of the facility.'}
+{'name': 'robots', 'content': 'index,follow'}
+{'name': 'crawl_id', 'content': '10046'}
+{'name': 'csrf-token', 'content': ''}
+{'name': 'msapplication-TileColor', 'content': '#1177d1'}
+{'name': 'msapplication-config', 'content': 'https://recovered.org/img/favicon/browserconfig.xml'}
+{'name': 'theme-color', 'content': '#ffffff'}
+
+Body Text:
+Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center in West Palm Beach, FL
+Addiction
+Addiction
+Behaviors
+Behaviors
+Gambling Addiction
+Food Addiction
+Internet Addiction
+Porn Addiction
+Sex Addiction (Hypersexuality)
+Social Media Addiction
+Video Game Addiction
+Masturbation Addiction
+Addiction Information
+Addiction Information
+Alcohol, Drugs and Crime
+Drugs and Alcohol in The Workplace
+Dangerous Drugs
+Addiction and Genetics
+Addiction and the Brain
+Driving While Impaired (DWI)
+How Cost Affects Addiction
+Warning Signs of Addiction
+Drug Paraphernalia
+Top 10 Common Addictions
+Addiction Vs Dependence
+How Long do Substances Stay in Your System?
+Addiction Advice
+Addiction Advice
+Getting Help With Addiction
+Helping Family & Friends
+Talking to Children About Drugs
+Frequently Asked Questions
+Warning Signs of Addiction and Abuse in Teens
+Teen Substance Abuse Self-Assessment
+Addiction and Communities
+Addiction and Communities
+Veterans - Alcoholism & Dependence
+Alcohol, Drugs & Young People
+Alcohol & Drug Abuse in Seniors
+Addiction and the LGBTQ+ Community
+Legal Information
+Legal Information
+The Controlled Substances Act
+Employment Drug Testing Law 2024
+Rehab & Substance Abuse Confidentiality
+Overdose
+Overdose
+What to do in the event of an overdose
+Overdose Epidemic Reaches 100,000 Annual Deaths
+Withdrawal Symptoms
+Drug Tests
+Polysubstance Abuse
+Drug and Alcohol Resources for Employers
+Substances
+Substances
+Alcohol
+Alcohol
+Treating Alcohol Addiction
+Alcohol Withdrawal & Detox
+Warning Signs of Alcoholism
+Types of Alcohol
+Alcohol Deaths Per Year
+Alcohol Awareness Month
+Alcoholism and Appearance
+Alcohol and Health
+End-Stage Alcoholism
+Alcoholism Self-Assessment Quiz
+Antidepressants
+Antidepressants
+Signs of Antidepressant Abuse
+Treating Antidepressant Abuse
+MAO Inhibitors (MAOIs)
+Selective Serotonin Reuptake Inhibitors (SSRIs)
+Cymbalta (Duloxetine)
+Doxepin (Silenor)
+Elavil (Amitriptyline)
+Lexapro (escitalopram)
+Remeron (Mirtazapine)
+Trazodone
+Zoloft (Sertraline)
+Serotonin Syndrome
+Opioids
+Opioids
+Opioid Withdrawal and Detox
+Treating Opioid Addiction
+Codeine
+Darvocet (propoxyphene/acetaminophen)
+Dilaudid
+Fentanyl
+Heroin
+Hydrocodone
+Lean
+Oxycodone
+Morphine
+Percocet
+Roxicodone
+Synthetic Opioids
+Tramadol
+Vicodin
+Opioid Overdose Crisis
+Hallucinogens
+Hallucinogens
+2C Drugs
+Ayahuasca
+DMT
+Ketamine
+LSD (Lysergic acid diethylamide)
+Mescaline (3,4,5-trimethoxyphenethylamine)
+PCP (Angel Dust)
+Psilocybin (magic mushrooms)
+Microdosing
+Marijuana
+Marijuana
+Marijuana Detox & Treatment
+Legalization by State
+Signs of Marijuana Abuse
+Does Weed Kill Brain Cells?
+Edibles
+Shatter (cannabis concentrate)
+Spice (K2)
+Delta-8 THC
+Hexahydrocannabinol (HHC)
+CBN (Cannabinol)
+Benzodiazepines
+Benzodiazepines
+Benzodiazepines Detox and Withdrawal
+Benzodiazepines Rehab Treatment
+Ativan (Lorazepam)
+Halcion (Triazolam)
+Klonopin (Clonazepam)
+Librium (Chlordiazepoxide)
+Rohypnol
+Valium (Diazepam)
+Xanax (Alprazolam)
+Inhalants
+Inhalants
+Signs of Inhalant Abuse
+Inhalant Withdrawal & Detox
+Whippets
+Stimulants
+Stimulants
+Stimulant Withdrawal and Detox
+Treating a Stimulant Addiction
+Adderall
+Amphetamines
+Bath Salts
+Cocaine
+Concerta (Methylphenidate)
+Crack
+Dexedrine (Dextroamphetamine)
+Flakka (alpha pvp)
+Khat
+MDMA
+Methamphetamine
+Nicotine
+Ritalin (Methylphenidate)
+Vyvanse (lisdexamfetamine)
+Sleeping Pills
+Sleeping Pills
+Sleeping Pill Withdrawal and Detox
+Signs of Sleeping Pill Abuse
+Ambien (zolpidem)
+Belsomra (suvorexant)
+Lunesta (eszopiclone)
+Zaleplon (sonata)
+Zopiclone
+Other Substances
+Other Substances
+Amytal (Amobarbital)
+Baclofen
+Fioricet (butalbital/acetaminophen/caffeine)
+Flexeril
+Gabapentin
+GHB (Gamma-hydroxybutyrate)
+Over the Counter Drug Addiction
+Ozempic
+Xylazine
+Prescription Drugs
+Prescription Drugs
+Pregabalin (Lyrica)
+Drug Classifications
+Drug Addiction Self-Assessment Quiz
+Mental Health
+Mental Health
+Addiction & Mental Health
+Addiction & Mental Health
+Alcohol & Mental Health
+Drugs & Mental Health
+Addiction and Co-occurring Disorders
+Addictive Personality
+Addiction & Suicide
+Addiction Vs Compulsion
+Disorders
+Disorders
+Anger Disorders
+Antisocial Personality Disorder (ASPD)
+Anxiety Disorders
+Bipolar Disorder
+Borderline Personality Disorder (BPD)
+Depression
+Dissociative Disorders
+Eating Disorders
+Insomnia
+Narcissistic Personality Disorder
+Post-Traumatic Stress Disorder (PTSD)
+Schizophrenia
+Sleep Disorders
+Therapy
+Therapy
+Cognitive Behavioral Therapy (CBT)
+Dialectical Behavioral Therapy (DBT)
+EMDR Therapy
+Group Therapy
+Motivational Interviewing
+Rational Emotive Behavior Therapy (REBT)
+Treatment
+Treatment
+Treatment Process
+Treatment Process
+A Typical Day in Rehab
+Drug & Alcohol Detox
+Recovery
+Intervention Guidelines
+Treatment Types
+Treatment Types
+Luxury Rehab Centers
+Outpatient Addiction Treatment
+Remote Addiction Treatment
+Inpatient Rehab
+Court Ordered Rehab
+Sober Living Homes
+Sobriety
+Medication for Treating Addiction
+Medication for Treating Addiction
+Antabuse (Disulfiram)
+Buprenorphine
+Clonidine
+Methadone
+Naloxone
+Naltrexone
+Suboxone
+Rehab information
+Rehab information
+Rehab FAQs
+Paying for Treatment
+Addiction Therapy
+How to Find a Rehab Center
+Support Groups
+Support Groups
+Alcoholics Anonymous (AA)
+Al-Anon
+Narcotics Anonymous (NA)
+Nar-Anon
+SMART Recovery
+Relapse Prevention
+Insurance Coverage
+Blog
+Find a Rehab
+Rehabs
+Florida
+West Palm Beach
+Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center
+Navigate to
+↓
+↑
+About & Important Information
+→
+Payment & Insurance Accepted
+→
+Help offered
+→
+Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center
+901 Northpoint Parkway, West Palm Beach
+FL, 33407
+Unclaimed
+Call Us 24/7
+Free and Confidential
+(855) 648-6409
+Ad
+Waiting for photo
+Important Information
+Age Groups Accepted
+Adults, Young adults
+Special Programs/Groups Offered
+Young adults, Adult women, Pregnant/postpartum women, Adult men, Seniors or older adults,
+Lesbian, gay, bisexual, transgender, or queer/questioning (LGBTQ),
+Veterans,
+Active duty military,
+Members of military families,
+Criminal justice (other than DUI/DWI)/Forensic clients,
+Clients with co-occurring mental and substance use disorders,
+Clients with co-occurring pain and substance use disorders,
+Clients with HIV or AIDS,
+Clients who have experienced sexual abuse,
+Clients who have experienced intimate partner violence, domestic violence,
+Clients who have experienced trauma
+See more ↓
+Specialization
+Substance use treatment, Transitional housing, halfway house, or sober home, Treatment for co-occurring substance use plus either serious mental health illness in adults/serious emotional disturbance in children
+Contact Information
+901 Northpoint Parkway, West Palm Beach
+FL, 33407
+Phone:
+561-828-4140
+Website:
+http://www.bettertomorrowtc.com
+Opening hours
+↓
+Day
+Range
+Monday
+Open all day
+Tuesday
+Open all day
+Wednesday
+Open all day
+Thursday
+Open all day
+Friday
+Open all day
+Saturday
+Open all day
+Sunday
+Open all day
+Claim your listing
+Recovered TrustScore
+5 / 5
+The Recovered Trustscore for Clean and Sober Recovery Center Inc is based on the total amount of key accreditations (2) & publicly available review data (62 reviews for this rehab) online for this rehab center. A Bayesian average is applied to all rehabs to ensure fair visibility.
+Read here
+for more info
+Payment & Insurance Accepted at This Facility
+Accepted
+Federal military insurance (e.g., TRICARE)
+Private health insurance
+Cash or self-payment
+Help offered by Clean and Sober Recovery Center Inc - Better Tomorrow Treatment Center at 901 Northpoint Parkway
+Pharmacotherapies
+Buprenorphine with naloxone
+Buprenorphine is an opioid agonist that reduces the effects of opioid withdrawal. Naloxone rapidly reverses the effects of opioids, preventing overdose and severe withdrawal symptoms
+Buprenorphine without naloxone
+Buprenorphine is an opioid agonist that reduces the effects of opioid withdrawal. This helps those addicted to opioids such as fentanyl, heroin, and painkillers by easing the withdrawal process and is used in conjunction.
+Buprenorphine (extended-release, injectable)
+Naltrexone (oral)
+Naltrexone blocks the pleasure receptors that are interacted with by alcohol and narcotics. This effectively removes any pleasurable sensations the substance offers and reduces the need to take them.
+Naltrexone (extended-release, injectable)
+Naltrexone blocks the pleasure receptors that are interacted with by alcohol and narcotics. This effectively removes any pleasurable sensations the substance offers and reduces the need to take them.
+Medications for HIV treatment
+Medications for Hepatitis C treatment
+Lofexidine
+Lofexidine is used to reduce the symptoms of opioid withdrawal and is primarily used in the detoxification process
+Clonidine
+Clonidine is used to reduce the symptoms of stimulant and opioid withdrawal and is primarily used in the detoxification process
+Medications for pre-exposure to prophylaxis
+Medication for mental disorders
+Nicotine replacement
+Treatment Approaches
+Anger management
+Anger is a powerful emotion and one that is often closely tied to addiction. Many people with behavioral or substance addictions will experience anger in many forms, both internally and externally. Anger management combined with other evidence based treatment can help patients control their emotions and evaluate situations without resorting to anger.
+Cognitive behavioral therapy
+Cognitive behavioral therapy (CBT) is a commonly used type of therapy widely used in addiction treatment, rehab and recovery as a way of identifying emotional triggers that lead to substance abuse and developing methods to control them.
+Contingency management/motivational incentives
+Contingency management is a highly effective treatment for substance use and related disorders. These interventions have been widely tested and evaluated in the context of substance misuse treatment, and they most often involve provision of monetary-based reinforcers for submission of drug-negative urine specimens.
+Motivational interviewing
+Motivational Interviewing (MI) is often recommended as an evidence-based approach to behavior change and is often used in addiction treatment. MI is a more collaborative approach to therapy and requires patient and counselor to explore issues without advice, judgment, or a set path laid out.
+Matrix Model
+The Matrix Model provides a framework for substance abusers in treatment to achieve long-term sobriety. Patients learn about issues critical to addiction and relapse, receive direction and support from a trained therapist, and become familiar with self-help programs.
+Relapse prevention
+The Relapse Prevention (RP) model is widely used in alcohol and drug rehab treatments. It uses CBT practises to prepare those approaching the end of rehab treatment to begin a life of sobriety without falling into old habits of substance abuse.
+Substance use disorder counseling
+Substance use disorder counseling can incorporate a wide variety of therapies and and treatment models.
+Telemedicine/telehealth therapy
+Telehealth has grown in popularity and availability across all forms of treatment in the wake of COVID-19. For those who are unable to leave their homes (such as immunocompromised individuals) telehealth services can provide addiction treatment virtually and provide a support network for people unable to receive normal treatment.
+Trauma-related counseling
+Many people who have experienced trauma will turn to drugs and alcohol as a coping mechanism, which often leads to dependence and addiction. Receiving counseling for trauma in line with addiction treatment can help uncover the connection between them and learn to manage the emotional reactions to trauma that cause substance misuse.
+12-step facilitation
+12-step programs have been helping those suffering from alcohol and drug addictions for nearly 100 years. They offer a guided path toward recovery that is not based on rigidity but practice and self improvement. They can also provide a support network of people who empathise with and understand the challenges of addiction recovery.
+Testing
+Breathalyzer or blood alcohol testing
+Drug and alcohol oral fluid testing
+Drug or alcohol urine screening
+HIV testing
+STD testing
+TB screening
+Metabolic syndrome monitoring
+Testing for Hepatitis B (HBV)
+Testing for Hepatitis C (HCV)
+Counseling
+HIV or AIDS education, counseling, or support
+Hepatitis education, counseling, or support
+Health education services other than HIV/AIDS or hepatitis
+Substance use disorder education
+Individual counseling
+Individual counseling involves patients speaking with a counselor or therapist about their addiction in a one-to-one setting. This type of counseling will often incorporate different forms of behavioral therapies such as CBT in order to help the patient understand their psychological relationship with substance abuse and develop techniques to manage cravings and future temptation.
+Group counseling
+Group counseling can takes place in both inpatient and outpatient settings and involves those afflicted with substances use disorders/behavioral addictions meeting to discuss their issues. This form of counseling can help create a level of empathy and understanding of others journeys with addiction, which can help to give perspective on an individual's addiction. It also helps to build a support network which helps reduce relapse and promotes positive relationships outside of substance abuse.
+Family counseling
+Family counseling for substance use disorders and behavioral addictions helps the patient repair relationships with those close to them through open dialogue around past miss doings that were caused by addiction. This helps reestablish trust and builds a support network for the patient.
+Marital/couples counseling
+Addiction can be devastating to marriages and relationships. Through counseling the addict and their loved one can explore how the addiction has affected their relationship, what needs to change for things to improve, and rebuild trust.
+Setting
+Outpatient
+Outpatient treatment centers offer the same level of care as inpatient settings while also allowing the patient to be able to return home each day
+Outpatient day treatment or partial hospitalization
+Outpatient day treatment or PHP requires patients to attend treatment for up to ten hours a day, most if not all days of the week while living at home.
+Intensive outpatient treatment
+IOP requires patients to attend day treatment for three hours a day, often for five days a week but declining as recovery improves.
+Outpatient methadone/buprenorphine or naltrexone treatment
+Regular outpatient treatment
+Assessment/Pre-treatment
+Comprehensive substance use assessment
+Outreach to persons in the community
+Complete medical history/physical exam
+Screening for substance use
+Screening for mental disorders
+Transitional Services
+Aftercare/continuing care
+Discharge Planning
+Naloxone and overdose education
+Outcome follow-up after discharge
+Recovery Support Services
+Self-help groups
+Housing services
+Mentoring/peer support
+Employment counseling or training
+Type of Opioid Treatment
+Buprenorphine maintenance
+Prescribes buprenorphine
+Prescribes naltrexone
+Relapse prevention with naltrexone
+Ancillary Services
+Case management service
+Social skills development
+Transportation assistance
+Gender Accepted
+Female
+Male
+Opioid Medications used in Treatment
+Buprenorphine used in Treatment
+Naltrexone used in Treatment
+Facility Operation (e.g., Private, Public)
+Private for-profit organization
+Facility Smoking Policy
+Smoking permitted in designated area
+Exclusive Services
+Specially designed program for DUI/DWI clients
+Facility Vaping Policy
+Vaping permitted in designated area
+Type of Alcohol Use Disorder Treatment
+This facility administers/prescribes medication for alcohol use disorder
+External Source of Medications Used for Alcohol Use Disorder Treatment
+In-network prescribing entity
+Review this facility
+Recovered invites user reviews from former attendees, as well as their own loved ones and staff members, for all facilities listed on our site that they have had personal experience with.
+We audit user reviews regularly and any instance of spamming or manipulation will result in content being removed. Only one review is permitted per user. Any reviews considered to be abusive, offensive, or fraudulent will be removed.
+Rate your experience with Clean and Sober Recovery Center Inc
+Note
+Any review considered to be offensive, abusive, fraudulent or spam will be removed and the user blocked.
+Treatment Effectivness
+*
+Accommodations
+*
+Meals & Nutrition
+*
+First Name
+*
+E-mail
+*
+Review
+*
+Yes, I/my loved one attended (OR I am employed by) this facility and acknowledge having read and agreed to the
+Terms of Use
+.
+Submit Review
+Accreditation(s) indicate the organization's national, state, or industry recognition for the treatment of substance use disorders and or mental health conditions.
+Medication designed to help with withdrawal symptoms and cravings may be offered as part of an addiction treatment program.
+Treatment Centers Nearby
+Drug Abuse Foundation of
+West Palm Beach
+FL
+0.39 miles away
+5601 Corporate Way
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+3.85 / 5
+2 accreditations
+MAT
+Co-Occurring Disorder Treatment
+All Addiction Recovery LLC
+West Palm Beach
+FL
+0.39 miles away
+2521 Metrocentre Boulevard
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+4.03 / 5
+Reprieve LLC
+West Palm Beach
+FL
+0.63 miles away
+4700 North Congress Avenue
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+5 / 5
+3 accreditations
+MAT
+Co-Occurring Disorder Treatment
+AISOL LLC
+West Palm Beach
+FL
+0.7 miles away
+4461 Medical Center Way
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+3.85 / 5
+iKare Treatment Center LLC
+West Palm Beach
+FL
+1.01 miles away
+1720 East Tiffany Drive
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+4.2 / 5
+2 accreditations
+MAT
+Co-Occurring Disorder Treatment
+Drug Abuse Treatment Association Inc
+West Palm Beach
+FL
+1.06 miles away
+1720 East Tiffany Drive
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+3.85 / 5
+2 accreditations
+MAT
+Veterans Affairs Medical Center
+Palm Beach Gardens
+FL
+1.61 miles away
+7305 North Military Trail
+,
+Palm Beach Gardens
+,
+FL
+,
+33410
+Recovered TrustScore
+4.02 / 5
+1 accreditation
+MAT
+Co-Occurring Disorder Treatment
+Intrepid Detox Residential
+West Palm Beach
+FL
+1.63 miles away
+1120 48th Street
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+5 / 5
+4 accreditations
+MAT
+Mandala Healing Center
+West Palm Beach
+FL
+1.73 miles away
+5410 East Avenue
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+4.2 / 5
+5 accreditations
+MAT
+Co-Occurring Disorder Treatment
+Alternatives in Treatment LLC
+West Palm Beach
+FL
+1.8 miles away
+5408 East Avenue
+,
+West Palm Beach
+,
+FL
+,
+33407
+Recovered TrustScore
+4.63 / 5
+3 accreditations
+MAT
+Co-Occurring Disorder Treatment
+Phone numbers listed within our directory for individual providers will connect directly to that provider.
+Any calls to numbers marked with (I) symbols will be routed through a trusted partner, more details can be found by visiting
+https://recovered.org/terms
+.
+For any specific questions please email us at
+info@recovered.org
+.
+Get help 24/7
+Free and Confidential
+(855) 648-6409
+Phone numbers listed within our directory for individual providers will connect directly to that provider.
+Any calls to numbers marked with (I) symbols will be routed through a trusted partner, more details can be found by visiting
+https://recovered.org/terms
+.
+For any specific questions please email us at
+info@recovered.org
+.
+Rehabs near you
+Browse rehabs
+by state
+A
+C
+D
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+R
+S
+T
+U
+V
+W
+161
+Rehabs in Alabama
+98
+Rehabs in Alaska
+449
+Rehabs in Arizona
+191
+Rehabs in Arkansas
+1534
+Rehabs in California
+392
+Rehabs in Colorado
+203
+Rehabs in Connecticut
+72
+Rehabs in Delaware
+40
+Rehabs in District of Columbia
+714
+Rehabs in Florida
+344
+Rehabs in Georgia
+106
+Rehabs in Hawaii
+124
+Rehabs in Idaho
+789
+Rehabs in Illinois
+510
+Rehabs in Indiana
+247
+Rehabs in Iowa
+181
+Rehabs in Kansas
+532
+Rehabs in Kentucky
+217
+Rehabs in Louisiana
+219
+Rehabs in Maine
+555
+Rehabs in Maryland
+538
+Rehabs in Massachusetts
+499
+Rehabs in Michigan
+468
+Rehabs in Minnesota
+109
+Rehabs in Mississippi
+302
+Rehabs in Missouri
+147
+Rehabs in Montana
+136
+Rehabs in Nebraska
+93
+Rehabs in Nevada
+129
+Rehabs in New Hampshire
+458
+Rehabs in New Jersey
+142
+Rehabs in New Mexico
+797
+Rehabs in New York
+671
+Rehabs in North Carolina
+93
+Rehabs in North Dakota
+611
+Rehabs in Ohio
+192
+Rehabs in Oklahoma
+236
+Rehabs in Oregon
+635
+Rehabs in Pennsylvania
+92
+Rehabs in Puerto Rico
+74
+Rehabs in Rhode Island
+123
+Rehabs in South Carolina
+53
+Rehabs in South Dakota
+350
+Rehabs in Tennessee
+534
+Rehabs in Texas
+339
+Rehabs in Utah
+45
+Rehabs in Vermont
+2
+Rehabs in Virgin Islands
+253
+Rehabs in Virginia
+464
+Rehabs in Washington
+96
+Rehabs in West Virginia
+290
+Rehabs in Wisconsin
+70
+Rehabs in Wyoming
+Substances
+↓
+↑
+Alcohol
+Opioids
+Benzodiazepines
+Cocaine
+Marijuana
+Heroin
+Crack
+Methamphetamine
+Inhalants
+Prescription Drugs
+Treatment Options
+↓
+↑
+Inpatient Rehab
+Outpatient Rehab
+Luxury Rehab Centers
+Addiction Therapy
+12-Step Programs
+Medication Assisted Treatment
+Sober Living Homes
+Self Assessment
+↓
+↑
+Drug Addiction Quiz
+Am I an Alcoholic Quiz
+Substance Abuse Quiz For Teens
+Addiction Info
+↓
+↑
+Withdrawal Symptoms
+Warning Signs of Addiction
+Drug Paraphernalia
+Drug Tests
+Overdose
+Addiction vs Dependence
+Mental Health
+↓
+↑
+Addiction and Mental Health
+Addiction and Suicide
+Depression
+Therapy
+Co-Occurring Disorders
+Recovered
+↓
+↑
+About Us
+Editorial Process
+Medical Review Process
+Contact
+Recovered Trustscore
+Blog
+224 West 35th Street
+New York, NY 10001
+info@recovered.org
+Copyright © 2024 Recovered
+Stay in touch with us
+Useful information
+Terms
+Privacy
+Cookies
+Recovered is not a medical, healthcare or therapeutic services provider and no medical, psychiatric, psychological or physical treatment or advice is being provided by Recovered. If you are facing a medical emergency or considering suicide or self harm, please call 911 immediately.
+Recovered was previously found on ncadd.org, the home of National Council on Alcoholism and Drug Dependence INC (NCADD).

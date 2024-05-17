@@ -1,0 +1,53 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Truth Education Foundation'}
+{'property': 'og:title', 'content': 'Truth Education Foundation'}
+{'property': 'og:url', 'content': 'https://www.trutheducationfoundation.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/631a24539880027490613f07/t/631f32fdae22a55d42c5bae6/1662989053954/TRUTH+INC+-+BRAND+LOGOS.png?format=1500w'}
+{'property': 'og:image:width', 'content': '500'}
+{'property': 'og:image:height', 'content': '500'}
+{'itemprop': 'name', 'content': 'Truth Education Foundation'}
+{'itemprop': 'url', 'content': 'https://www.trutheducationfoundation.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/631a24539880027490613f07/t/631f32fdae22a55d42c5bae6/1662989053954/TRUTH+INC+-+BRAND+LOGOS.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/631a24539880027490613f07/t/631f32fdae22a55d42c5bae6/1662989053954/TRUTH+INC+-+BRAND+LOGOS.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Truth Education Foundation'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/631a24539880027490613f07/t/631f32fdae22a55d42c5bae6/1662989053954/TRUTH+INC+-+BRAND+LOGOS.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.trutheducationfoundation.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Truth Education Foundation
+0
+Skip to Content
+Our Mission
+Team
+Projects
+Donate Now
+Open Menu
+Close Menu
+Our Mission
+Team
+Projects
+Donate Now
+Open Menu
+Close Menu
+Our Mission
+Team
+Projects
+Donate Now
+A MOVEMENT FOR EDUCATIONAL JUSTICE
+Truth Education Foundation was birthed from a shared passion and commitment to lead a
+MOVEMENT OF EDUCATIONAL JUSTICE.
+We are driven by action that is fueled by a vision to create just educational opportunities for our youngest learners and supported by an advisory board that is committed to roll up their sleeves and do the work!
+Our Vision
+Transform early childhood ecosystems to create JUST LEARNING OPPORTUNITIES for children and eliminate implicit bias in educators’ instructional practices and perspective of child potential.
+Our Mission
+Projects
+Team
+Get Involved
+Donate

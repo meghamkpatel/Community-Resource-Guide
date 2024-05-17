@@ -1,0 +1,137 @@
+Meta Information:
+{'name': 'robots', 'content': 'index, follow'}
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'Canadian seller of Christian books, Bibles, homeschool & church products. Shop In Stock Products Now. Gifts for Christmas. Excellent Value. Fast Shipping. Types: Bibles, Gifts, Homeschool, Church Supplies.'}
+{'name': 'keywords', 'content': ''}
+{'name': 'apple-mobile-web-app-title', 'content': 'Books, Gifts and Inspiration  - Durham Christian Bookstore - Since 1985'}
+{'name': 'mobile-web-app-title', 'content': 'Books, Gifts and Inspiration  - Durham Christian Bookstore - Since 1985'}
+{'name': 'theme-color', 'content': '#FFFFFF'}
+{'name': 'author', 'content': '{Author}'}
+{'name': 'viewport', 'content': 'width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=EDGE;'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black-translucent'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'name': 'mobile-web-app-status-bar-style', 'content': 'black-translucent'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'property': 'og:image', 'content': '{ImageUrl}'}
+{'property': 'og:image', 'width': '{ImageWidth}'}
+{'property': 'og:image', 'height': '{ImageHeight}'}
+{'property': 'og:title', 'content': 'Books, Gifts and Inspiration  - Durham Christian Bookstore - Since 1985'}
+{'property': 'og:description', 'content': 'Canadian seller of Christian books, Bibles, homeschool & church products. Shop In Stock Products Now. Gifts for Christmas. Excellent Value. Fast Shipping. Types: Bibles, Gifts, Homeschool, Church Supplies.'}
+{'property': 'og:locale', 'content': '{Locale}'}
+{'property': 'og:site_name', 'content': ' - Durham Christian Bookstore - Since 1985'}
+{'property': 'og:url', 'content': '/'}
+
+Body Text:
+Books, Gifts and Inspiration  - Durham Christian Bookstore - Since 1985
+Welcome
+Sign in / Register
+Bibles
+Books
+Movies
+Music
+New Arrivals
+Contact
+cancel
+Shop All
+Contact Us
+New Arrivals
+Arriving Soon
+Bibles
+Books
+Accessories
+Apparel
+Art/Home Decor
+Bathroom Stuff
+Bereavement
+Best Sellers
+Bible Accessories
+Bible Covers
+Bible Highlighters
+Calendars
+Children/Baby
+Church Supplies
+Communion
+Movies
+Fiction
+Greeting Cards
+Hats & Caps
+Kitchen Stuff
+Magnetic Bookmarks
+Mugs
+Music
+Pens
+Prayer Shawls
+Shofars
+Stationary
+Stickers
+Juvenile Fiction
+Graphic Novels, Comic books, & Cartoons
+Melissa & Doug
+Planners
+Candles
+Sunday School & VBS
+Welcome!
+Please sit back & relax and browse our selection of over 600,000 Christian titles!
+Search Now
+Durham Christian Bookstore Ltd. is a family owned and operated business.
+We strive to give all of our customers the best & friendliest customer service.
+We love Jesus, and are blessed to have the opportunity to spread his Gospel through each and every product available on this website.
+If you have any questions or concerns, please don't hesitate to
+send us a message
+or give us a call.
+Blessed are those who find wisdom, those who gain understanding
+Proverbs 3:13
+Note: Delivery dates are estimates for Canadian metropolitan shipping addresses. *Free Shipping may not be available to certain areas.
+Returns Policy
+|
+Shipping Policy
+Subscribe
+Copyright © 1985, 2023 Durham Christian Bookstore Ltd. All rights reserved.
+This website is Powered by the
+Argyle Foxâ¢
+enterprise data management platform.
+Proceed To
+Check Out
+browse
+All Products
+Shop All
+Contact Us
+New Arrivals
+Arriving Soon
+Bibles
+Books
+Accessories
+Apparel
+Art/Home Decor
+Bathroom Stuff
+Bereavement
+Best Sellers
+Bible Accessories
+Bible Covers
+Bible Highlighters
+Calendars
+Children/Baby
+Church Supplies
+Communion
+Movies
+Fiction
+Greeting Cards
+Hats & Caps
+Kitchen Stuff
+Magnetic Bookmarks
+Mugs
+Music
+Pens
+Prayer Shawls
+Shofars
+Stationary
+Stickers
+Juvenile Fiction
+Graphic Novels, Comic books, & Cartoons
+Melissa & Doug
+Planners
+Candles
+Sunday School & VBS

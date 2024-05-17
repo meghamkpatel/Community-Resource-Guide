@@ -1,0 +1,146 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'RTC is a 501(c)(3) nonprofit organization empowering a free community of 25,000+ college and early career women in tech. Join us as a member or partner!'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Empowering Women in Tech Globally | Rewriting the Code'}
+{'property': 'og:description', 'content': 'RTC is a 501(c)(3) nonprofit organization empowering a free community of 25,000+ college and early career women in tech. Join us as a member or partner!'}
+{'property': 'og:url', 'content': 'https://rewritingthecode.org/'}
+{'property': 'og:site_name', 'content': 'Rewriting the Code'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/rewritingthecode'}
+{'property': 'article:modified_time', 'content': '2024-05-16T18:15:23+00:00'}
+{'property': 'og:image', 'content': 'https://rewritingthecode.org/app/uploads/2022/09/RTC_share.jpg'}
+{'property': 'og:image:width', 'content': '2191'}
+{'property': 'og:image:height', 'content': '1147'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:image', 'content': 'https://rewritingthecode.org/app/uploads/2022/09/RTC_share.jpg'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'facebook-domain-verification', 'content': '49oo8zdf07fxdnwfevetg0704k4uoy'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://rewritingthecode.org'}
+{'name': 'msapplication-TileImage', 'content': 'https://rewritingthecode.org/app/uploads/2022/09/cropped-Rewriting-the-Code-Icon-270x270.png'}
+
+Body Text:
+Empowering Women in Tech Globally | Rewriting the Code
+Skip to content
+Join Us
+Login
+In College
+In Your Career
+How to Start
+What We Do
+Industry Partners
+Support RTC
+Join Us
+Login
+In College
+Career Summit
+InclYOUsion Day
+Black Wings
+Latinas de RTC
+Tech Natives
+Member Stories
+In Your Career
+Member Stories
+How to Start
+Code of Conduct
+What We Do
+About RTC
+Upcoming Events & Programs
+News
+Contact Us
+Media & Press
+Industry Partners
+Support RTC
+Donate
+RTC Women in Tech Fund
+Volunteer with RTC
+In College
+Career Summit
+InclYOUsion Day
+Black Wings
+Latinas de RTC
+Tech Natives
+Member Stories
+In Your Career
+Member Stories
+How to Start
+Code of Conduct
+What We Do
+About RTC
+Upcoming Events & Programs
+News
+Contact Us
+Media & Press
+Industry Partners
+Support RTC
+Donate
+RTC Women in Tech Fund
+Volunteer with RTC
+I am forging my own path
+Women like you belong in tech. And no matter where you are on your education or career journey, you belong at Rewriting the Code.
+How to start
+I am a woman in tech
+Women like you belong in tech. And no matter where you are on your education or career journey, you belong at Rewriting the Code.
+How to start
+I am rewriting the code
+Women like you belong in tech. And no matter where you are on your education or career journey, you belong at Rewriting the Code.
+How to start
+We power the pursuit of your goals
+Rewriting the Code is the largest peer-to-peer network of women in tech, providing support, mentorship, and education that helps pave the way for sustainable careers, professional advancement, and equal opportunities.
+Community
+In an industry where we’re the underrepresented gender, Rewriting the Code creates a community where, instead, we’re part of a family of like-minded women. Here we support each other’s unique ambitions by sharing ideas, insights, and real-world experiences.
+Mentorship
+Navigate your education and career with support from women who’ve been where you are. Our mentors represent a broad network of company tech leaders and peers.
+Access
+We’re dedicated to correcting inequity in the tech industry. Our accessible memberships are the first step to more equitable workplaces.
+Education
+Earning your degree in a male-dominated field is a unique challenge. We offer guidance, support and community on every step of your path to graduation.
+How RTC supports college women
+We’re here to help you navigate potential career paths, expose you to different tech disciplines, and support you as you develop your skills and seek internship opportunities.
+How RTC boosts your early career
+As you enter the workforce, we make sure you always have a community to fall back on: with a group of supportive women to help you navigate whatever your next step looks like.
+Meet our members
+I am rewriting
+cybersecurity
+Traveler ⁕ Food-Lover ⁕ Organizer
+Meet Rosa
+Meet our members
+I am rewriting
+diabetes technology
+Hiker ⁕ Cook ⁕ Builder
+Meet Anna
+Meet our members
+I am rewriting
+accessible education
+Art Lover ⁕ Creative Developer ⁕ Data Nerd
+Meet Nina
+Our global community spans 100+ countries
+Member Programs
+Discover our events and programming
+August 14, 2024
+A free virtual career fair built for women in tech!
+Learn more
+Year-round
+Our Rise programs help prepare women to be confident, well-rounded engineers and leaders.
+Upcoming Events
+Industry partners
+We partner with leading technology companies to make careers in tech more accessible and inclusive for women.
+Become an Industry Partner
+Rewriting the Code is a registered 501(c)(3) non-profit organization that supports and empowers college, graduate and early career women in tech, through intersectional communities, mentorship, industry experience and educational resources, to become the next generation of engineers and tech leaders.
+Join Us
+Login
+Become a Partner
+Donate
+© Copyright 2024 Rewriting The Code; All Rights Reserved.
+Privacy Policy and Terms & Conditions
+Test Test
+Hire more women in tech with Rewriting the Code
+Together, we can make the tech industry more diverse and inclusive. Becoming an RTC partner demonstrates your company’s commitment to diversity and inclusion while making a positive difference in the lives of underrepresented communities.
+We’d love to connect with your team to learn more about your hiring goals and how to best showcase your company to Rewriting the Code members. Complete the form below to get in touch.
+Are you a student?
+Join Rewriting the Code free
+here

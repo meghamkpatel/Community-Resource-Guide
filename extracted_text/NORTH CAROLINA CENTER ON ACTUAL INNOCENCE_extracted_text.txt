@@ -1,0 +1,206 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Latest News'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.3.2 '}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'North Carolina Center on Actual Innocence - Identify, Investigate and Advance Towards Justice'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - North Carolina Center on Actual Innocence'}
+{'property': 'og:description', 'content': 'Latest News'}
+{'property': 'og:url', 'content': 'https://nccai.org/'}
+{'property': 'og:image', 'content': 'https://nccai.org/wp-content/uploads/2017/07/logo-crop.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://nccai.org/wp-content/uploads/2017/07/logo-crop.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@ncinnocence'}
+{'name': 'twitter:title', 'content': 'Home - North Carolina Center on Actual Innocence'}
+{'name': 'twitter:description', 'content': 'Latest News'}
+{'name': 'twitter:creator', 'content': '@ncinnocence'}
+{'name': 'twitter:image', 'content': 'https://nccai.org/wp-content/uploads/2017/07/logo-crop.jpg'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'twitter:partner', 'content': 'tfwp'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'North Carolina Center on Actual Innocence'}
+{'name': 'twitter:description', 'content': 'Identify, Investigate and Advance Towards Justice'}
+
+Body Text:
+Home - North Carolina Center on Actual Innocence
+Thursday, May 16, 2024
+North Carolina Center on Actual Innocence
+Identify, Investigate and Advance Towards Justice
+Donate Now
+Subscribe
+About Us
+Mission Statement
+History
+Leadership and Staff
+Collaborative Partners
+Center Supporters
+Current Cases
+Terron Chavis
+Alex Trogdon
+Rayshawn Banner
+Charles Wakefield, Jr.
+Daniel Green
+Trial Transcripts for Daniel Green’s Case
+Robert Bragg
+Who We’ve Helped
+Brandon Jones and Leroy Spruill
+Abdul Rasheed
+Mark Carver
+Edward McInnis
+Johnny Small
+Joseph Sledge
+Larry Lamb
+Willie Grimes
+Ghost of the Innocent Man, a book about Willie Grimes’ Exoneration
+Greg Taylor
+Joseph Abbitt
+Dwayne Dail
+Issues
+Eyewitness Identification
+Evidentiary Errors
+False Confessions
+Inadequate Defense
+Tunnel Vision
+Informant Testimony
+News
+Events
+Submit a Claim
+How You Can Help
+Resources
+https://www.traditionrolex.com/4
+Current Cases
+HP Slider
+Terron Chavis awaits DNA testing to prove his innocence
+August 5, 2021
+NC CAI
+Comments Off
+on Terron Chavis awaits DNA testing to prove his innocence
+Current Cases
+HP Slider
+News
+Daniel Green, incarcerated for almost three decades, is appealing the denial of his evidentiary hearing
+July 25, 2018
+admin
+Comments Off
+on Daniel Green, incarcerated for almost three decades, is appealing the denial of his evidentiary hearing
+Current Cases
+HP Slider
+Alex Trogdon has been incarcerated for 11 years for a crime that never happened
+February 22, 2021
+NC CAI
+Comments Off
+on Alex Trogdon has been incarcerated for 11 years for a crime that never happened
+Current Cases
+HP Slider
+Rayshawn Banner awaits three-judge panel to consider innocence
+November 16, 2020
+NC CAI
+Comments Off
+on Rayshawn Banner awaits three-judge panel to consider innocence
+Exoneree
+HP grid
+Abdul Rasheed – Free, but his chance for justice was destroyed
+November 12, 2021
+NC CAI
+Comments Off
+on Abdul Rasheed – Free, but his chance for justice was destroyed
+Exoneree
+HP grid
+Mark Carver, conviction overturned after 8 years
+January 5, 2018
+admin
+Comments Off
+on Mark Carver, conviction overturned after 8 years
+Exoneree
+HP grid
+Brandon Jones and Leroy Spruill – Freedom, but no Justice
+January 9, 2019
+admin
+Comments Off
+on Brandon Jones and Leroy Spruill – Freedom, but no Justice
+Exoneree
+HP grid
+Edward McInnis – 27 years served for a crime he did not commit
+May 26, 2017
+admin
+Comments Off
+on Edward McInnis – 27 years served for a crime he did not commit
+We Need Your Help!
+As a 501(c)(3) nonprofit, we rely on your support.
+Donate Now
+or you can support us through
+Amazon Smile
+.
+Updates on our Exonerees
+Exoneree
+HP grid
+Abdul Rasheed – Free, but his chance for justice was destroyed
+November 12, 2021
+NC CAI
+Comments Off
+on Abdul Rasheed – Free, but his chance for justice was destroyed
+Between December 1998 and January 1999, three armed robberies occurred at restaurants in Durham  located relatively close to one another, and similarities in the robberies indicated that they were committed by the same person. A month later, a victim from the robberies picked Abdul Rasheed’s picture out of a mug book.
+Exoneree
+HP grid
+Mark Carver, conviction overturned after 8 years
+January 5, 2018
+admin
+Comments Off
+on Mark Carver, conviction overturned after 8 years
+Exoneree
+HP grid
+Brandon Jones and Leroy Spruill – Freedom, but no Justice
+January 9, 2019
+admin
+Comments Off
+on Brandon Jones and Leroy Spruill – Freedom, but no Justice
+Latest from Twitter
+Tweets by ncinnocence
+Join Our Newsletter!
+Please enable JavaScript
+Email Marketing Services
+by Benchmark
+Newsletter and Center Updates
+News
+Newsletter
+Center Statement Regarding the Chicago Tribune Article July 20, 2018
+July 20, 2018
+admin
+Comments Off
+on Center Statement Regarding the Chicago Tribune Article July 20, 2018
+Newsletter
+Attorney At Law Feature on the Center
+October 19, 2017
+admin
+Comments Off
+on Attorney At Law Feature on the Center
+Exoneree
+Newsletter
+Ghost of the Innocent Man, a book about Willie Grimes’ Exoneration
+August 3, 2017
+admin
+Comments Off
+on Ghost of the Innocent Man, a book about Willie Grimes’ Exoneration
+Newsletter
+July 2017 Statement on Robert Bragg
+July 30, 2017
+admin
+Comments Off
+on July 2017 Statement on Robert Bragg
+About Us
+Who We’ve Helped
+Issues
+News
+Events
+Submit a Claim
+How You Can Help
+Resources
+Contact Us:
+Email: admin@nccai.org
+Phone: 919-489-3268
+Copyright © 2017
+North Carolina Center on Actual Innocence
+. All rights reserved.

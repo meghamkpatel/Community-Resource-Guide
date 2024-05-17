@@ -1,0 +1,88 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://unclineberger.org/community-outreach'}
+{'name': 'msapplication-TileColor', 'content': '#4b9bd3'}
+{'name': 'msapplication-config', 'content': 'https://unclineberger.org/community-outreach/wp-content/themes/heelium-white-coat/assets/favicons/browserconfig.xml'}
+{'name': 'theme-color', 'content': '#4b9bd3'}
+
+Body Text:
+Community Outreach and Engagement
+Skip to the end of the utility bar
+UNC School
+of
+Medicine
+UNC Chapel Hill
+UNC Health
+Intranet
+Login
+Skip to main content
+UNC Lineberger Comprehensive Cancer Center
+Community Outreach and Engagement
+Search_for:
+Search
+Search this site
+Search UNC School of Medicine
+Toggle navigation
+Community Outreach and Engagement
+Home
+About Us
+Programs and Partnerships
+Who We Serve
+Working With Us
+Our Team
+Contact Us
+Community Outreach and Engagement
+Meaningful engagement with the community in our cancer research, clinical care and programmatic efforts to better understand and serve the population’s needs.
+Quick Links
+Get Involved
+Learn about our Community Advisory Board
+Working with COE for Researchers
+Explore NC Cancer-Related Data
+About COE
+The Office of Community Outreach and Engagement (COE) meaningfully engages the community in UNC Lineberger’s research, clinical care, and programmatic and policy efforts to better understand and serve the population’s needs. Infusing community perspectives helps ensure Lineberger’s efforts are timely, relevant, and responsive to cancer patients and caregivers, community providers and public health practitioners, policy makers, and the public at large.
+Community and Collaboration
+COE helps Lineberger researchers infuse the community’s perspective across the research lifespan in several ways. The office
+monitors cancer burden data and identifies disparities in North Carolina
+, informing the direction and priorities of the center’s research. Using its robust relational database, COE connects researchers to each other and to community partners and patient advocates across the state to foster meaningful collaborations.
+Expertise and Outreach
+The office supports
+UNC Lineberger’s Community Advisory Board
+and its
+Patient Advocates for Research Council
+, which can advise on program development, review materials, train and educate researchers, review grant applications, and represent the community and patient voice on committees.
+Our
+staff team
+has a broad range of expertise and can advise on topics such as health literacy, best practices in engaging patients and community organizations, and cultural sensitivity in working with populations disproportionately affected by cancer.
+Through the
+UNC Lineberger Equity Council
+, researchers have access to expertise and resources to grow and sustain a more diverse and inclusive research, clinical, and working environment.
+Other resources supported by the COE office include our
+community pilot funding program
+and the
+UNC Lineberger Cancer Network
+, which delivers oncology-related educational and outreach programs to healthcare practitioners, trainees, researchers and the public.
+Download copy of COE overview without formatting (for research grants
+).
+Events
+View All Events
+Bringing together exceptional physicians and scientists to investigate and improve the prevention, detection and treatment of cancer in North Carolina and across the globe
+UNC Lineberger
+Patient Care
+Research
+University Cancer Research Fund
+Faculty Services
+Web Privacy Policy
+© 2024 Community Outreach and Engagement
+Accessibility
+Privacy Statement
+Intranet
+Notice of Privacy Practices
+Aviso de Practicas Privadas
+Nondiscrimination Notice
+Aviso de no Discriminacion
+Surprise Billing and Good Faith Estimate Notices
+Avisos de facturas médicas sorpresas y avisos de presupuestos de buena fe

@@ -1,0 +1,523 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'property': 'fb:app_id', 'content': '3927319740668442'}
+{'property': 'og:title', 'content': '5 sentenced to prison in $12M theology school fraud headquartered in Durham'}
+{'property': 'og:url', 'content': 'https://www.wunc.org/news/2022-12-19/5-sentenced-to-prison-in-12m-theology-school-fraud-headquartered-in-durham'}
+{'property': 'og:image', 'content': 'https://npr.brightspotcdn.com/dims4/default/977acb9/2147483647/strip/true/crop/600x315+0+42/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201708%2Fgavel_0.png'}
+{'property': 'og:image:url', 'content': 'https://npr.brightspotcdn.com/dims4/default/977acb9/2147483647/strip/true/crop/600x315+0+42/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201708%2Fgavel_0.png'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'property': 'og:image:alt', 'content': 'gavel'}
+{'property': 'og:description', 'content': 'The defendants admitted they recruited fake students to the Columbus, Georgia, campus of Apex School of Theology. The students were promised they would not have to do any work. The employees took all or part of the money from federal grants and loans.'}
+{'property': 'og:site_name', 'content': 'WUNC'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'article:author', 'content': 'https://www.wunc.org/people/associated-press-1'}
+{'property': 'article:published_time', 'content': '2022-12-19T15:33:39.717'}
+{'property': 'article:modified_time', 'content': '2022-12-19T15:33:39.717'}
+{'property': 'article:section', 'content': 'News'}
+{'property': 'article:tag', 'content': 'Durham'}
+{'property': 'article:tag', 'content': 'Fraud'}
+{'property': 'article:tag', 'content': 'Theology'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:description', 'content': 'The defendants admitted they recruited fake students to the Columbus, Georgia, campus of Apex School of Theology. The students were promised they would not have to do any work. The employees took all or part of the money from federal grants and loans.'}
+{'name': 'twitter:image', 'content': 'https://npr.brightspotcdn.com/dims4/default/9952e39/2147483647/strip/true/crop/600x338+0+31/resize/1200x675!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fwunc%2Ffiles%2F201708%2Fgavel_0.png'}
+{'name': 'twitter:image:alt', 'content': 'gavel'}
+{'name': 'twitter:site', 'content': '@wunc'}
+{'name': 'twitter:title', 'content': '5 sentenced to prison in $12M theology school fraud headquartered in Durham'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, viewport-fit=cover'}
+{'name': 'description', 'content': 'Defendants admitted they recruited fake students to the Columbus, Georgia, campus of Apex School of Theology. The students were promised they would not have to do any work. The employees took all or part of the money from federal grants and loans.'}
+{'name': 'keywords', 'content': 'Apex School of Theology,Fraud,Theology school'}
+{'name': 'brightspot.contentId', 'content': '00000185-2aff-db33-a7ff-2bff73bf0000'}
+{'name': 'brightspot-dataLayer', 'content': '{\n  "author" : "Associated Press",\n  "bspStoryId" : "00000185-2aff-db33-a7ff-2bff73bf0000",\n  "category" : "News",\n  "inlineAudio" : 0,\n  "keywords" : "Durham,Fraud,Theology",\n  "nprCmsSite" : true,\n  "nprStoryId" : "1144117702",\n  "pageType" : "news-story",\n  "program" : "",\n  "publishedDate" : "2022-12-19T10:33:39Z",\n  "siteName" : "WUNC",\n  "station" : "WUNC",\n  "stationOrgId" : "661",\n  "storyOrgId" : "0",\n  "storyTheme" : "news-story",\n  "storyTitle" : "5 sentenced to prison in $12M theology school fraud headquartered in Durham",\n  "timezone" : "America/New_York",\n  "wordCount" : 0,\n  "series" : ""\n}'}
+{'name': 'gtm-dataLayer', 'content': '{\n  "gtmAuthor" : "Associated Press",\n  "gtmBspStoryId" : "00000185-2aff-db33-a7ff-2bff73bf0000",\n  "gtmCategory" : "News",\n  "gtmInlineAudio" : 0,\n  "gtmKeywords" : "Durham,Fraud,Theology",\n  "gtmNprCmsSite" : true,\n  "gtmNprStoryId" : "1144117702",\n  "gtmPageType" : "news-story",\n  "gtmProgram" : "",\n  "gtmPublishedDate" : "2022-12-19T10:33:39Z",\n  "gtmSiteName" : "WUNC",\n  "gtmStation" : "WUNC",\n  "gtmStationOrgId" : "661",\n  "gtmStoryOrgId" : "0",\n  "gtmStoryTheme" : "news-story",\n  "gtmStoryTitle" : "5 sentenced to prison in $12M theology school fraud headquartered in Durham",\n  "gtmTimezone" : "America/New_York",\n  "gtmWordCount" : 0,\n  "gtmSeries" : ""\n}'}
+{'content': '2022-12-19T15:33:39.717Z'}
+
+Body Text:
+5 sentenced to prison in $12M theology school fraud headquartered in Durham, NC | WUNC
+Search Query
+Show Search
+News
+North Carolina News
+NPR News
+Politics
+Arts & Culture
+Race, Class & Communities
+Business & Economy
+Education
+Environment
+Health
+Science & Technology
+Military
+Sports
+Weather
+Ethics
+Corrections & Clarifications
+North Carolina News
+NPR News
+Politics
+Arts & Culture
+Race, Class & Communities
+Business & Economy
+Education
+Environment
+Health
+Science & Technology
+Military
+Sports
+Weather
+Ethics
+Corrections & Clarifications
+Regions
+Triangle News
+Triad News
+Fayetteville Area News
+Eastern NC News
+Southeastern NC News
+Charlotte Area News
+Western NC News
+Triangle News
+Triad News
+Fayetteville Area News
+Eastern NC News
+Southeastern NC News
+Charlotte Area News
+Western NC News
+Special Coverage
+2024 Election
+Main Street NC
+2023 UNC-Chapel Hill Shooting
+2022 Raleigh Shooting
+A Teacher in Every Class
+Behind The Lines
+Tested: Beyond The Pod
+The Lives Lost
+The Killing of Andrew Brown Jr.
+Calling for Change
+Lumberton Undeterred
+Southern Witness
+Coronavirus Coverage
+The Cost of Summer
+2024 Election
+Main Street NC
+2023 UNC-Chapel Hill Shooting
+2022 Raleigh Shooting
+A Teacher in Every Class
+Behind The Lines
+Tested: Beyond The Pod
+The Lives Lost
+The Killing of Andrew Brown Jr.
+Calling for Change
+Lumberton Undeterred
+Southern Witness
+Coronavirus Coverage
+The Cost of Summer
+Due South
+About Due South
+Shows
+Contact Due South
+About Due South
+Shows
+Contact Due South
+Programs
+WUNC Radio Schedule
+Programs A-Z
+Due South
+Embodied
+All Things Considered
+Morning Edition
+Back Porch Music
+Sound Opinions
+The Thistle and Shamrock
+Youth Reporting Institute
+The People's Pharmacy
+American Homefront Project
+Fresh Air
+NPR Music & Concerts
+WUNC Radio Schedule
+Programs A-Z
+Due South
+Embodied
+All Things Considered
+Morning Edition
+Back Porch Music
+Sound Opinions
+The Thistle and Shamrock
+Youth Reporting Institute
+The People's Pharmacy
+American Homefront Project
+Fresh Air
+NPR Music & Concerts
+Podcasts
+Podcasts From WUNC
+The Broadside
+Embodied
+WUNC Politics
+Me & My Muslim Friends
+Podcasts From WUNC
+The Broadside
+Embodied
+WUNC Politics
+Me & My Muslim Friends
+About
+About WUNC
+Ways To Listen To WUNC Online
+About HD Radio
+Station Policies & Financial Documents
+Committee on Inclusion Diversity Equity Accountability
+WUNC Public Radio, LLC Board of Directors
+People
+Ways to Connect
+WUNC Jobs
+WUNC Community Discussion Rules
+Telling Public Radio’s Story
+Ethics
+Contact Us
+About WUNC
+Ways To Listen To WUNC Online
+About HD Radio
+Station Policies & Financial Documents
+Committee on Inclusion Diversity Equity Accountability
+WUNC Public Radio, LLC Board of Directors
+People
+Ways to Connect
+WUNC Jobs
+WUNC Community Discussion Rules
+Telling Public Radio’s Story
+Ethics
+Contact Us
+Support
+Ways to Give to WUNC
+WUNC Thank You Gifts
+Drawing Rules & Entry Form
+WUNC Sustainer Program
+Update Sustainer Information
+Increase Sustainer Gift
+Join WUNC's Leadership Circle
+Donate Your Vehicle to WUNC
+Be a WUNC Volunteer
+Include WUNC in Your Will
+Business Sponsors & Underwriting
+Community Sponsor Circle
+Other Ways To Give
+Ways to Give to WUNC
+WUNC Thank You Gifts
+Drawing Rules & Entry Form
+WUNC Sustainer Program
+Update Sustainer Information
+Increase Sustainer Gift
+Join WUNC's Leadership Circle
+Donate Your Vehicle to WUNC
+Be a WUNC Volunteer
+Include WUNC in Your Will
+Business Sponsors & Underwriting
+Community Sponsor Circle
+Other Ways To Give
+WUNC Music
+Search
+Bringing The World Home To You
+© 2024 WUNC North Carolina Public Radio
+120 Friday Center Dr
+Chapel Hill, NC 27517
+919.445.9150 | 800.962.9862
+Menu
+Show Search
+Search Query
+Donate
+Play Live Radio
+Next Up:
+0:00
+0:00
+0:00
+0:00
+Available On Air Stations
+On Air
+Now Playing
+WUNC
+On Air
+Now Playing
+WUNC Music
+All Streams
+News
+North Carolina News
+NPR News
+Politics
+Arts & Culture
+Race, Class & Communities
+Business & Economy
+Education
+Environment
+Health
+Science & Technology
+Military
+Sports
+Weather
+Ethics
+Corrections & Clarifications
+North Carolina News
+NPR News
+Politics
+Arts & Culture
+Race, Class & Communities
+Business & Economy
+Education
+Environment
+Health
+Science & Technology
+Military
+Sports
+Weather
+Ethics
+Corrections & Clarifications
+Regions
+Triangle News
+Triad News
+Fayetteville Area News
+Eastern NC News
+Southeastern NC News
+Charlotte Area News
+Western NC News
+Triangle News
+Triad News
+Fayetteville Area News
+Eastern NC News
+Southeastern NC News
+Charlotte Area News
+Western NC News
+Special Coverage
+2024 Election
+Main Street NC
+2023 UNC-Chapel Hill Shooting
+2022 Raleigh Shooting
+A Teacher in Every Class
+Behind The Lines
+Tested: Beyond The Pod
+The Lives Lost
+The Killing of Andrew Brown Jr.
+Calling for Change
+Lumberton Undeterred
+Southern Witness
+Coronavirus Coverage
+The Cost of Summer
+2024 Election
+Main Street NC
+2023 UNC-Chapel Hill Shooting
+2022 Raleigh Shooting
+A Teacher in Every Class
+Behind The Lines
+Tested: Beyond The Pod
+The Lives Lost
+The Killing of Andrew Brown Jr.
+Calling for Change
+Lumberton Undeterred
+Southern Witness
+Coronavirus Coverage
+The Cost of Summer
+Due South
+About Due South
+Shows
+Contact Due South
+About Due South
+Shows
+Contact Due South
+Programs
+WUNC Radio Schedule
+Programs A-Z
+Due South
+Embodied
+All Things Considered
+Morning Edition
+Back Porch Music
+Sound Opinions
+The Thistle and Shamrock
+Youth Reporting Institute
+The People's Pharmacy
+American Homefront Project
+Fresh Air
+NPR Music & Concerts
+WUNC Radio Schedule
+Programs A-Z
+Due South
+Embodied
+All Things Considered
+Morning Edition
+Back Porch Music
+Sound Opinions
+The Thistle and Shamrock
+Youth Reporting Institute
+The People's Pharmacy
+American Homefront Project
+Fresh Air
+NPR Music & Concerts
+Podcasts
+Podcasts From WUNC
+The Broadside
+Embodied
+WUNC Politics
+Me & My Muslim Friends
+Podcasts From WUNC
+The Broadside
+Embodied
+WUNC Politics
+Me & My Muslim Friends
+About
+About WUNC
+Ways To Listen To WUNC Online
+About HD Radio
+Station Policies & Financial Documents
+Committee on Inclusion Diversity Equity Accountability
+WUNC Public Radio, LLC Board of Directors
+People
+Ways to Connect
+WUNC Jobs
+WUNC Community Discussion Rules
+Telling Public Radio’s Story
+Ethics
+Contact Us
+About WUNC
+Ways To Listen To WUNC Online
+About HD Radio
+Station Policies & Financial Documents
+Committee on Inclusion Diversity Equity Accountability
+WUNC Public Radio, LLC Board of Directors
+People
+Ways to Connect
+WUNC Jobs
+WUNC Community Discussion Rules
+Telling Public Radio’s Story
+Ethics
+Contact Us
+Support
+Ways to Give to WUNC
+WUNC Thank You Gifts
+Drawing Rules & Entry Form
+WUNC Sustainer Program
+Update Sustainer Information
+Increase Sustainer Gift
+Join WUNC's Leadership Circle
+Donate Your Vehicle to WUNC
+Be a WUNC Volunteer
+Include WUNC in Your Will
+Business Sponsors & Underwriting
+Community Sponsor Circle
+Other Ways To Give
+Ways to Give to WUNC
+WUNC Thank You Gifts
+Drawing Rules & Entry Form
+WUNC Sustainer Program
+Update Sustainer Information
+Increase Sustainer Gift
+Join WUNC's Leadership Circle
+Donate Your Vehicle to WUNC
+Be a WUNC Volunteer
+Include WUNC in Your Will
+Business Sponsors & Underwriting
+Community Sponsor Circle
+Other Ways To Give
+WUNC Music
+Search
+News
+5 sentenced to prison in $12M theology school fraud headquartered in Durham
+WUNC | 
+                    By
+Associated Press
+Published December 19, 2022 at 10:33 AM EST
+Facebook
+Twitter
+LinkedIn
+Email
+wp paarz
+/
+Flickr - Creative Commons -https://flic.kr/p/GDRLvC
+Five people who pleaded guilty to defrauding $12 million in federal student aid by enrolling students into a theology school without requiring classwork were sentenced Thursday in Georgia to prison terms ranging from three to nine years.
+The defendants admitted they
+recruited fake students
+to the Columbus, Georgia, campus of Apex School of Theology. The students were promised they would not have to do any work. The employees took all or part of the money from federal grants and loans.
+The defendants then faked applications, grades, course work and even the students’ spiritual autobiographies meant to reflect a student’s spiritual journey. Prosecutors said employees took tests and logged on to the school’s course management system to make it appear the students were real.
+The Ledger-Enquirer of Columbus
+reports that of 602 students enrolled in the branch from August 2010 to May 2018, testimony showed 241 were involved in the fraud.
+Apex was headquartered in Durham, North Carolina, with 20 satellite campuses. The U.S. Department of Education stopped providing financial aid to the school’s students as it investigated Apex. The school sued, but has since shut down.
+U.S. District Judge Clay Land sentenced Sandra Anderson of Hampton, Georgia, the 64-year-old who directed the Columbus campus, to nine years in prison.
+Instructor Yolanda Brown Thomas, 51, of Columbus, was sentenced to five years and three months.
+Fort Mitchell, Alabama, resident Erica Montgomery, 49 who used a tax preparation business to recruit students, was sentenced to four years and three months.
+Administrative assistant Kristina Parker, 35, of Stone Mountain, Georgia, was sentenced to four years in prison.
+Instructor Leo Frank Thomas, 56, of Phenix City, Alabama, was sentenced to three years in prison.
+Montgomery and Thomas pleaded guilty to conspiracy to commit wire fraud. The other three pleaded guilty to conspiracy, five counts of wire fraud and four counts of financial aid fraud.
+A sixth person who had been indicted — Dorothy Webb — died while charges were pending.
+Although defense attorneys argued the loss amount was lower, Land ordered the defendants to pay $11.8 million in restitution.
+Tags
+News
+Durham
+Fraud
+Theology
+Facebook
+Twitter
+LinkedIn
+Email
+Associated Press
+The Associated Press is one of the largest and most trusted sources of independent newsgathering, supplying a steady stream of news to its members, international subscribers and commercial customers. AP is neither privately owned nor government-funded; instead, it's a not-for-profit news cooperative owned by its American newspaper and broadcast members.
+See stories by Associated Press
+LATEST STORIES
+Canton paper mill has prospective new owner, but Pactiv Evergreen ‘still on the hook,’ mayor says
+Trump lost Minnesota twice. Here's why he's making an effort in the state this year
+The brown pelican crisis of 2024 is here
+This week in science: baobab trees, lizard-inspired building and stretching eyeballs
+Biden blocks the release of recordings of his classified documents interview
+A look at Slovakian PM Robert Fico's politics after yesterday's assassination attempt
+Discuss North Carolina politics. Analyze how and why you love the way you do. Quiz yourself on Black history. Hear poetry from NC's poet laureate. Meet NPR hosts and reporters. You never know where WUNC's events will take you. Join us for this ride! See our upcoming events and sign up to attend.
+SEE OUR EVENTS
+More Stories
+Education
+Study finds North Carolina public schools are growing more segregated
+Liz Schlemmer
+North Carolina public schools are becoming more segregated by race, even as the overall student population is becoming more racially diverse. This trend comes as students of color now make up the majority of public school students.
+Sports
+The impact of legalized sports betting on college athletes, gamblers and North Carolina
+Jessica Walker | UNC Media Hub
+NCAA President Charlie Baker recently posted a statement urging lawmakers to ban collegiate-level prop betting, where bets are based on the individual accomplishments of individual players. In the statement, he mentioned his concern over prop betting’s effect on the integrity of games and athlete harassment.
+Arts & Culture
+Q&A: Shirlette Ammons on her eastern North Carolina roots and speaking truth to power
+Eric Hodge
+With her latest album, "Spectacles," Shirlette Ammons talks about what it means to gaze versus being gazed at, the influence of her eastern North Carolina roots and her collaborators in Durham, paying homage to Prince and how a path to a better future is to "trouble" important issues.
+Listen
+•
+8:23
+News
+Lawsuit against Durham County Sheriff’s Office over jail policy records continues despite hurdles
+Aaron Sánchez-Guerra
+A lawsuit against the Durham Sheriff over redacted public records will continue to be fought in the courts by Emancipate NC.
+Environment
+A North Carolina company is trying to make a fungus-proof banana
+Bradley George
+A deadly fungus could destroy most of the world’s supply of Cavendish bananas, but a company in North Carolina's Research Triangle Park is trying to save the banana through gene editing.
+Listen
+•
+4:05
+Stay Connected
+twitter
+instagram
+youtube
+facebook
+linkedin
+Bringing The World Home To You
+© 2024 WUNC North Carolina Public Radio
+120 Friday Center Dr
+Chapel Hill, NC 27517
+919.445.9150 | 800.962.9862
+Listen Live
+Podcasts From WUNC
+Events
+About
+Contact Us
+Employment
+Privacy
+FCC Applications
+WUNC FCC Public File
+WBUX FCC Public File
+WFSS FCC Public File
+WRQM FCC Public File
+WUND-FM FCC Public File
+WURI FCC Public File
+WUNW FCC Public File
+WZCO FCC Public File
+WUNC Drawing Rules

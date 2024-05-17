@@ -1,0 +1,34 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'id', 'content': '258'}
+{'name': 'msapplication-TileImage', 'content': 'https://uncmc.unc.edu/wp-content/uploads/sites/478/2021/04/cropped-UNCMC-Shield-Logo-270x270.jpg'}
+
+Body Text:
+The UNC Management Company
+UNCMC
+The Fund
+Partner
+Join
+Contact
+Login
+UNC-Chapel Hill
+NC State University
+Western Carolina University
+Winston Salem State University
+UNC Wilmington
+Previous
+Next
+UNC Management Company
+UNC Management Company, Inc. (“UNCMC”) is a nonprofit organization that provides investment management services to the University of North Carolina System, its constituent institutions and their affiliated endowments and foundations. UNCMC manages the long-term assets of its investors through the UNC Investment Fund, a commingled investment vehicle with assets of over $10.6 billion.
+(1)
+UNCMC also provides investment management and administrative services to other investment vehicles that support the University of North Carolina at Chapel Hill.
+(1)
+As of December 31, 2023
+© 2024 UNC Management Company, Inc.
+Have an issue with accessibility on this website? Report it
+here
+.

@@ -1,0 +1,19 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'Cache-Control', 'content': 'no-cache, no-store, must-revalidate'}
+{'http-equiv': 'Pragma', 'content': 'no-cache'}
+{'http-equiv': 'Expires', 'content': '0'}
+{'property': 'og:title', 'content': 'Order Online | Jack in the Box'}
+{'property': 'og:site_name', 'content': 'Jack in the Box'}
+{'property': 'og:description', 'content': 'Jack in the Box'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': '/assets/images/blank-product.jpg'}
+{'property': 'og:url', 'content': 'https://www.jackinthebox.com/'}
+{'name': 'version', 'content': '3.0.7'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'msapplication-tap-highlight', 'content': 'no'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black'}
+
+Body Text:
+Jack in the Box

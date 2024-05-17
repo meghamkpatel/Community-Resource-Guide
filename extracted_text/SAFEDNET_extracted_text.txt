@@ -1,0 +1,32 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress 6.4.4'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://safednet.org'}
+{'name': 'msapplication-TileImage', 'content': 'https://safednet.org/wp-content/uploads/2021/01/logo1.png'}
+
+Body Text:
+Skip to content
+Friday, May 17, 2024
+Contact Us
+Donation Confirmation
+Donation Failed
+Events
+Home
+Mission
+News
+Partners
+Save Our Homes
+What We Do
+Home
+SAFE-D Net
+Meeting since 2018, SAFE-D Net is a group of health & housing advocacy agencies that work together to address racial disparities in Durham and beyond.
+Advocating for equity, justice and fair treatment for people and agencies founded with the focus of  primarily serving people of color.
+Safednet.org - All Rights Reserved 2020.
+Proudly powered by WordPress
+|
+Theme: Mag and News by
+Candid Themes
+.

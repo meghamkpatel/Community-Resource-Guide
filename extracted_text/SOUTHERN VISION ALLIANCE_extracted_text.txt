@@ -1,0 +1,79 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Southern Vision Alliance'}
+{'property': 'og:url', 'content': 'https://southernvision.org/'}
+{'property': 'og:site_name', 'content': 'Southern Vision Alliance'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/SouthernVisionAlliance/'}
+{'property': 'article:modified_time', 'content': '2024-05-06T17:54:01+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@SouthernVision_'}
+{'content': 'Divi v.4.24.2', 'name': 'generator'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'}
+{'name': 'msapplication-TileImage', 'content': 'https://southernvision.org/wp-content/uploads/2016/08/cropped-logo-600x300-270x270.png'}
+
+Body Text:
+Home - Southern Vision Alliance
+Home
+About
+Staff
+Board of Directors
+Vision & Values
+Our History
+What We Do
+Annual Reports
+Movement Glossary
+Programs
+Sponsored Projects
+Programs and Special Projects
+Mini Grants
+Jobs
+Blog
+Organizing Beyond Survival
+Toppling Racism Map
+Contact
+Press
+Donate
+Select Page
+Register for Southern Summit – June 26-29, 2024
+Build the Movement in the South
+The Southern Vision Alliance supports leadership development and base-building work for social, racial, and environmental justice, along with gender equity, LGBTQ rights, and education justice in the US South.
+Learn More
+Celebrating a Decade of Impact
+As Southern Vision Alliance celebrates its 10th birthday, we’ve created the 10 Year Impact Report to share the events, grants, grassroots groups, community spaces, and wins that make up our decade of impact.
+View Our Impact Report
+From the Frontlines
+Meet Torrianna Foster, Organizing and Communications Manager for Queer Mobilization Fund
+Where are you from? I am a North Carolina native. I'm originally from Winston Salem, North Carolina. But I grew up in Lewisville-Clemmons, North Carolina.   Tell...
+read more
+Meet Priya Sreenivasan, SVA’s Finance Associate
+Where are you from? I was originally born in New York, but I grew up in North Carolina. North Carolina is definitely home for me. And my parents are from Sri Lanka and...
+read more
+NCOE Calls Upon University Presidents to Listen to Students
+The National Council of Elders calls upon all people to embrace the courageous students demanding a ceasefire in Gaza, an end to the occupation of Palestine by the...
+read more
+Meet Kameron Southerland, SVA’s Digital Infrastructure Associate
+Where are you from? Jacksonville, Florida   How did you get into movement work? I got into movement work kind of through an unconventional path. In college, I was...
+read more
+See more
+Learn More About Our Work
+Partners & Fiscally Sponsored Projects
+Click Here
+Frontlines Funds
+Strategic Direction: 2025 and Beyond
+Support
+Southern Vision Alliance
+Follow
+Follow
+Follow
+
+info@southernvision.org
+
+P.O. Box 51698 Durham, NC 27717
+Privacy Policy
+Translate »
+Pin It on Pinterest

@@ -1,0 +1,146 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Communities In Partnership'}
+{'property': 'og:title', 'content': 'Communities In Partnership'}
+{'property': 'og:url', 'content': 'https://communitiesinpartnership.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'We are a majority Black women-led organization. Of our members, 95% are African American and over 80% live at or below 60% of the Area Median Income (AMI).'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5d5c173bf0260a0001d6bde9/t/5d5d5a4de3bc4c000197f546/1566399055759/cip-logo-color.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '281'}
+{'itemprop': 'name', 'content': 'Communities In Partnership'}
+{'itemprop': 'url', 'content': 'https://communitiesinpartnership.org'}
+{'itemprop': 'description', 'content': 'We are a majority Black women-led organization. Of our members, 95% are African American and over 80% live at or below 60% of the Area Median Income (AMI).'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5d5c173bf0260a0001d6bde9/t/5d5d5a4de3bc4c000197f546/1566399055759/cip-logo-color.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5d5c173bf0260a0001d6bde9/t/5d5d5a4de3bc4c000197f546/1566399055759/cip-logo-color.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Communities In Partnership'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5d5c173bf0260a0001d6bde9/t/5d5d5a4de3bc4c000197f546/1566399055759/cip-logo-color.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://communitiesinpartnership.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'We are a majority Black women-led organization. Of our members, 95% are African American and over 80% live at or below 60% of the Area Median Income (AMI).'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Communities In Partnership
+Who We Are
+What We Do
+Our Approach
+Upcoming Events
+Grants and Funding
+Contact Us
+Volunteer Sign-Up
+Culinary Femme Collective
+East Durham Market
+COVID Food Fund
+Thriving Community Fund
+Back
+About East Durham Market
+Contact Us EDM
+Who We Are
+What We Do
+Our Approach
+Upcoming Events
+Grants and Funding
+Contact Us
+Volunteer Sign-Up
+Culinary Femme Collective
+East Durham Market
+About East Durham Market
+Contact Us EDM
+COVID Food Fund
+Thriving Community Fund
+Scroll
+Now featured in Metropolitics!
+Community-Rooted Organizations: Enhanced Accountability and Capacity Building for Community Development
+Read
+our first co-authored piece
+where we define our community-rooted approach to building community and liberation featured in the peer-reviewed journal, Metropolitics.
+Read it here!
+Thriving
+Community Fund
+A Durham response to Covid-19
+The
+Equitable Economic Advancement Collaborative
+includes
+Communities in Partnership
+(CIP),
+End Poverty Durham
+(EPD),
+Episcopalians United Against Racism
+(EUAR),
+Professor Henry McKoy PhD.
+of
+North Carolina Central University School of Business
+(NCCU), and
+Keith Daniel PhD. of
+Resilient Ventures, LLC
+(RV).
+Donations are tax deductible.
+For Donor Advised Fund donations,
+MAILING ADDRESS:
+Communities In Partnership
+PO Box 11247
+Durham, NC 27703
+EIN: 47-5567396
+Make checks payable to and mail to. Please designate Thriving Community Fund in the memo line
+Invest ➜
+$125000
+Gross Donations
+Nothing About Us, Without Us
+We are a majority Black women-led organization. Of our members, 95% are African American and over 80% live at or below 60% of the average household income.
+who we are ➜
+VISION
+We envision East Durham and the surrounding area as a vibrant place where all residents have an exceptional quality of life with the economic and political power to impact decision making that affects their community.
+MISSION
+Our mission is to organize and cultivate long-term residents, especially residents of color and low wealth, to work towards racial, economic, and social liberation.
+What We Do ➜
+We have been cultivating grassroots leadership and fighting racial injustice in East Durham since 2011.
+Join us today.
+OUR APPROACH ➜
+Our Partners
+Funding Partners
+Organizational Partners
+Participatory Defense
+All of Us or None
+Village of Wisdom
+DTCC's Department of Continuing Education Division
+Tierra Negra Farm at Earthseed Land Collective
+Self Help Credit Union
+Maureen Joy Charter School
+Farmer Foodshare
+Eastern Cooperative Organics
+Community Success Initiative
+RAFI Farmers of Color Network
+PAC-1
+Conetoe Family Life Center
+Sankofa Farm
+Episcopalians United Against Racism
+Kenan Collaboratory
+Join us in building an equitable durham.
+Invest Today ➜
+Metropolitics Article
+Equitable Economic COVID
+Landing
+Vision and Mission
+See Our Impact
+Sponsors
+Sign up for updates
+First Name
+Last Name
+Email Address
+Sign Up
+Thank you!
+Support our work
+Donate ➜
+Get in touch
+Contact ➜
+Follow
+Address
+PO. Box 11247
+Durham, NC 27703
+Contact
+866.867.6935
+cip.oldeastdurham@gmail.com

@@ -1,0 +1,173 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Improving quality of care and outcomes for every mother and every newborn.'}
+{'name': 'robots', 'content': 'index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Jacaranda Health'}
+{'property': 'og:description', 'content': 'Improving quality of care and outcomes for every mother and every newborn.'}
+{'property': 'og:url', 'content': 'https://jacarandahealth.org/'}
+{'property': 'og:site_name', 'content': 'Jacaranda Health'}
+{'property': 'og:updated_time', 'content': '2024-05-12T10:46:08+00:00'}
+{'property': 'og:image', 'content': 'https://jacarandahealth.org/ypoagriw/2023/11/JJUM5176-1024x683.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://jacarandahealth.org/ypoagriw/2023/11/JJUM5176-1024x683.jpg'}
+{'property': 'og:image:width', 'content': '800'}
+{'property': 'og:image:height', 'content': '534'}
+{'property': 'og:image:alt', 'content': 'Home'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'property': 'article:published_time', 'content': '2023-09-08T10:37:41+00:00'}
+{'property': 'article:modified_time', 'content': '2024-05-12T10:46:08+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home - Jacaranda Health'}
+{'name': 'twitter:description', 'content': 'Improving quality of care and outcomes for every mother and every newborn.'}
+{'name': 'twitter:image', 'content': 'https://jacarandahealth.org/ypoagriw/2023/11/JJUM5176-1024x683.jpg'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'admin@Samah'}
+{'name': 'twitter:label2', 'content': 'Time to read'}
+{'name': 'twitter:data2', 'content': '2 minutes'}
+{'name': 'google-site-verification', 'content': 'RgqQjfy0z3s4C-unG0VRQsmXuWo0ilLgT-NH26ZF2dI'}
+{'name': 'msapplication-TileImage', 'content': 'https://jacarandahealth.org/ypoagriw/2023/09/jh-logo-02-300x300.png'}
+
+Body Text:
+Home - Jacaranda Health
+Skip to content
+Our Work
+Our Model
+Prompts
+Mentors
+Pulse
+Sustainability
+Where we work
+Impact & Insights
+Impact at a Glance
+Impact by Area
+Data-driven Impact
+Impact Reports
+About us
+Mission & Vision
+Our Team
+Leadership Team
+Board of Directors
+Partners
+News & Resources
+X
+NEWSLETTER
+CAREERS
+NEWSLETTER
+CAREERS
+Edit Content
+Our Work
+Our Model
+Prompts
+Mentors
+Pulse
+Sustainability
+Where we work
+Impact & Insights
+Impact at a Glance
+Impact by Area
+Data-driven Impact
+Impact Reports
+About us
+Mission & Vision
+Our Team
+Leadership Team
+Board of Directors
+Partners
+News & Resources
+NEWSLETTER
+CAREERS
+Improving quality of care and outcomes for every mother and every newborn
+Who we are
+All mothers should experience a
+dignified childbirth,
+and all newborns should get a
+safe start in life
+We partner with governments across Sub Saharan Africa to deploy affordable, scalable solutions that sustainably improve quality of care and outcomes in public hospitals, where the majority of underserved mothers and babies receive care.
+Our Model
+Digital Empowerment
+We support new and expecting mothers to seek timely, quality care.
+Discover PROMPTS
+Skilled, Respectful Care
+We train frontline providers to ensure quality care for mothers and babies.
+Discover MENTORS
+Data-driven improvement
+We use data to drive improvements in maternal health systems.
+Discover PULSE
+Digital Empowerment
+We support new and expecting mothers to seek timely, quality
+care.
+Discover PROMPTS
+Skilled, Respectful Care
+We train frontline providers to ensure quality care for mothers and
+babies.
+Discover MENTORS
+Data-driven improvement
+We use data to drive improvements in maternal health
+systems.
+Discover PULSE
+Impact at a Glance
+We drive impact by empowering mothers, the frontline nurses that serve them, and the governments that sustain the systems that support them. We rely on real-time data, human insights, and a growing body of evidence to expand access to and quality of the services and systems that support mothers and babies in different contexts.
+Our Impact
+0
++
+mothers supported with information and targeted referral
+Learn more
+0
++
+health providers equipped with lifesaving skills and knowledge
+Learn more
+0
++
+hospitals and health centers deploying Jacaranda's solutions
+Learn more
+0
++
+facility-based deliveries impacted through our solutions
+Learn more
+where we work
+Our mission is to transform health outcomes for
+all
+mothers and babies.
+We partner with governments and local implementing partners to support mothers and babies access quality care in different contexts and geographies. Our roots are in Kenya, improving quality of care and outcomes for mothers and babies in partnership with 22 county governments and the national Ministry of Health. More recently, our impact has caught the attention of other country partners, including Eswatini and Ghana, paving the way for future scale-up across Africa.
+WHERE WE WORK
+News and
+Resources
+Our latest research, toolkits, stories from the field, and other updates from across the organization.
+Blog
+Jacaranda Health and IDRC launch a new partnership centered on using AI for proactive maternal risk screening
+Blog
+Jacaranda launches a Google.org Fellowship aimed at advancing AI-driven support in low-resourced settings
+Blog
+Jacaranda Health appoints Cynthia Kahumbura as Co-Executive Director
+Blog
+3 principles for scaling technology, from Director of Technology, Jay Patel
+Technical Resource
+Climate Change and Health: What PROMPTS tells us about how millions of Kenyan mothers experience extreme heat
+1
+2
+…
+12
+Sign up to our
+Newsletter
+Submit
+Featured in
+Jacaranda Health
+Interested in learning more, sharing insights, or looking to partner?  We want to hear from you.
+Contact Us
+Go To
+Our Work
+Impact &  Insights
+About Us
+News &  Resources
+Careers
+Privacy Policy
+Find Us
+788 Jabavu Rd Nairobi Nairobi County Kenya
+Contact Us
+[email protected]
++254 748 322 535
+Disclaimer
+This website discusses pregnancy and motherhood. While we use the term “mother” to mirror the language of the community we are collaborating with, we also acknowledge that not all pregnant people identify as “mothers.” We would like to recognize that pregnancy and motherhood can be experienced by people of all genders.
+2025 Strategic Plan

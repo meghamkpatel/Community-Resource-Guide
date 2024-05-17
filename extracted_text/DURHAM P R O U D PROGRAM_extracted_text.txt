@@ -1,0 +1,82 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '12f74e5a-da04-ba54-98f9-265dc2a72a8f'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '98cd75c2-35a2-4861-a935-cdbe88188bc2'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '270'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Durham PROUD Program for Youth'}
+{'property': 'og:title', 'content': 'PROUD Program'}
+{'property': 'og:description', 'content': 'Durham PROUD Program for Youth'}
+{'property': 'og:url', 'content': 'https://www.proudprogram.org'}
+{'property': 'og:site_name', 'content': 'PROUD'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'adjudication, hope, juvenile justice, skills, training, youth'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'PROUD Program'}
+{'name': 'twitter:description', 'content': 'Durham PROUD Program for Youth'}
+
+Body Text:
+PROUD Program
+top of page
+HOME
+ABOUT
+PROGRAMS
+Young Men's Program
+Young Women's Program
+MDP
+Court-Based Programs
+School-Based Programs
+WAYS TO GIVE
+CONTACT
+INTERNSHIP
+PODCAST
+REFERRALS
+More
+Use tab to navigate through the menu items.
+​
+P
+ersonal
+R
+esponsibility to
+O
+vercome with
+U
+nderstanding &
+D
+etermination
+Our Successes
+For over 26 years, The PROUD Program has been a leader in providing guided growth activities for disconnected youth.﻿
+In 2018, The PROUD Program received the Glaxo Impact Award for our exceptional achievements in the community.
+PROUD Referral
+SRO/LEO Referral Form
+Intake Packet
+In 2019, The PROUD Program received the Making a Difference Award from Alliance Health for our committed quality care in the Durham Community.
+In January 2021, The MLK Steering Committee awarded the PROUD Program with the "Keeping the Dream Alive" Award.
+​​YOUNG MEN'S PROGRAM
+Our signature program for young men ages 13-17 to learn life-skills to encourage responsible behavior and personal leadership.
+Offered over a 16-week period with 2 sessions per week with facilitators.
+READ MORE
+​​YOUNG WOMEN'S PROGRAM
+For young women ages 13-17 to learn life-skills to encourage personal growth and prevent negative choices. This program is o
+ffered over a 16-week period with 2 sessions per week with facilitators.
+READ MORE
+​
+SUMMER
+CAMP
+An 8-week summer enrichment program that provides cultural, recreational and development activities to children 7-12 years old.
+READ MORE
+Latest News
+PROUD is back operating groups in-person
+Newsletter
+﻿
+﻿
+​
+© 584media. all rights reserved. Reprint by permission only.
+Webmaster Login
+bottom of page

@@ -1,0 +1,97 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '016633fd-3afa-4b5e-8548-95860dc09eec'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '96e614b4-9b29-4b0d-a908-49b618913273'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '3583'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "Welcome to Connect Church. We're a church based in the Sevierville, Pigeon Forge, and Gatlinburg area of East Tennessee. We desire for everyone to be connected to the life changing gospel of Jesus Christ. We are so excited you stopped by."}
+{'property': 'og:title', 'content': 'Connect Church | Church in Sevierville, TN'}
+{'property': 'og:description', 'content': "Welcome to Connect Church. We're a church based in the Sevierville, Pigeon Forge, and Gatlinburg area of East Tennessee. We desire for everyone to be connected to the life changing gospel of Jesus Christ. We are so excited you stopped by."}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/8d6005_2a0290d5047d45899276d00cfb6a6b93~mv2.jpg/v1/fill/w_2400,h_1000,al_c/8d6005_2a0290d5047d45899276d00cfb6a6b93~mv2.jpg'}
+{'property': 'og:image:width', 'content': '2400'}
+{'property': 'og:image:height', 'content': '1000'}
+{'property': 'og:url', 'content': 'https://www.cchurch.org'}
+{'property': 'og:site_name', 'content': 'Connect Church'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'connectchurchpf'}
+{'name': 'google-site-verification', 'content': '35O14NbyFLAZr-JWlKwVpJqfjz7WQuzwHnqwIxz10hI'}
+{'property': 'fb:admins', 'content': 'connectchurchpf'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Connect Church | Church in Sevierville, TN'}
+{'name': 'twitter:description', 'content': "Welcome to Connect Church. We're a church based in the Sevierville, Pigeon Forge, and Gatlinburg area of East Tennessee. We desire for everyone to be connected to the life changing gospel of Jesus Christ. We are so excited you stopped by."}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/8d6005_2a0290d5047d45899276d00cfb6a6b93~mv2.jpg/v1/fill/w_2400,h_1000,al_c/8d6005_2a0290d5047d45899276d00cfb6a6b93~mv2.jpg'}
+{'name': 'google-site-verification', 'content': 'u5KOyutwjarJwOmB2Yr-HTql4TNE1-a-nTv5A2KcEAc'}
+
+Body Text:
+Connect Church | Church in Sevierville, TN
+top of page
+ABOUT
+I'M NEW
+OUR BELIEFS
+LEADERSHIP
+MINISTRIES
+KIDZ
+PRETEENS
+STUDENTS
+YOUNG ADULTS
+ADULTS
+GROUPS
+MISSIONS
+SPECIAL NEEDS
+GET INVOLVED
+WATCH
+GIVING
+Watch Services
+We want to help you connect!
+I'm new to Connect Church
+I'm already involved at Connect Church
+FIVE YEAR VISION
+The future of
+Connect Church
+EVENTS
+See what's going on at Connect Church
+Get Involved
+Connecting everyone with
+the life changing gospel
+of Jesus Christ
+Giving
+Groups
+Serve
+Missions
+For Your Family
+Connecting your family with the life changing gospel of Jesus Christ
+Babies-6th grade
+6th-12th grade
+Follow Connect Church
+Facebook
+Instagram
+Youtube
+About
+I'm New
+Ministries
+Kidz
+Contact Us
+Our Beliefs
+Leadership
+Students
+Finance
+Giving
+My Giving Profile
+Young Adults
+Adults
+Groups
+Missions
+Special Needs
+Office
+628 Wall St. Sevierville, TN 37862  |
+865-365-1750
+Connect Church 2024 - All Rights Reserved
+Pretee
+ns
+bottom of page

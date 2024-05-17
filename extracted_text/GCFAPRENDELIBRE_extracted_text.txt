@@ -1,0 +1,192 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'description', 'content': 'GCFGlobal - ¡La libertad de aprender cómo quieras y cuándo quieras. completamente gratis! ¡Explora nuestros cursos de tecnología, inglés, matemáticas y vida diaria hoy mismo!'}
+{'property': 'og:title', 'content': 'Cursos gratis en línea en GCFGlobal'}
+{'property': 'og:type', 'content': 'gcfglobal.home'}
+{'property': 'og:url', 'content': 'https://edu.gcfglobal.org/es/'}
+{'property': 'og:image', 'content': 'https://media.gcflearnfree.org/global/layout/social/gcf-website-image.png'}
+{'property': 'og:site_name', 'content': 'GCFGlobal.org'}
+{'property': 'fb:admins', 'content': '100002095670400'}
+{'property': 'fb:page_id', 'content': '198172680436'}
+{'property': 'og:description', 'content': 'GCFGlobal - ¡La libertad de aprender cómo quieras y cuándo quieras. completamente gratis! ¡Explora nuestros cursos de tecnología, inglés, matemáticas y vida diaria hoy mismo!'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Cursos gratis en línea en GCFGlobal'}
+{'name': 'twitter:site', 'content': 'GCFGlobal.org'}
+{'name': 'twitter:description', 'content': 'GCFGlobal - ¡La libertad de aprender cómo quieras y cuándo quieras. completamente gratis! ¡Explora nuestros cursos de tecnología, inglés, matemáticas y vida diaria hoy mismo!'}
+{'name': 'twitter:url', 'content': 'https://edu.gcfglobal.org/en/'}
+{'name': 'google-site-verification', 'content': 'URAaubQ85PXVs_YqlFscP9PL-RZT-h1Aibtg8U4roMY'}
+
+Body Text:
+Cursos gratis en línea en GCFGlobal
+close
+search
+search
+menu
+Menú
+close
+Tecnología
+Informática básica
+Correo electrónico
+Word 2013
+Excel 2010
+Facebook
+Más cursos...
+Matemáticas
+Los conjuntos
+Fraccionarios
+Los números
+Sumar y restar
+Divisores y múltiplos
+Álgebra
+Más cursos...
+Formación profesional
+Crédito
+Emprendimiento
+Mundo laboral
+Acceso a la educación superior
+Finanzas personales
+Curso de fotografía digital
+Más cursos...
+Inglés
+Beginner
+Basic
+Intermediate
+Upper intermediate
+Advanced
+Juegos
+Todos los cursos
+Español
+expand_more
+expand_less
+Español
+expand_more
+expand_less
+Português
+English
+info
+Bienvenido al curso. En este menú verás todas las lecciones que hemos preparado para ti. Para iniciar, solamente, haz clic en la lección que más te interese.
+close
+search
+person_outline
+arrow_drop_down
+menu
+Todos los cursos
+¿Quiénes somos?
+Preguntas frecuentes
+Contáctanos
+EN
+ES
+PT
+Ingresar
+¡Crear cuenta!
+Panel de usuario
+Perfil
+Cerrar sesión
+search
++ 2700 lecciones | + 100 cursos
+¿Estás dispuesto a aprender? Nosotros estamos preparados para enseñarte en cualquier momento y lugar.
+Nuestros cursos
+Construye tu futuro
+Aprende y desarrolla las habilidades básicas para avanzar en tu vida y en tu trabajo.
+Ver video
+Si quieres aprender, ¡llegaste al lugar correcto!
+Únete a los más de 100 millones de personas que han acudido a nosotros para aprender las habilidades básicas que necesitan para vivir y trabajar en el siglo XXI. Conoce todo nuestro contenido:
+TECNOLOGÍA
+FORMACIÓN PROFESIONAL
+CIENCIAS
+INGLÉS
+Todos los cursos
+¿Quiénes somos?
+¿Qué es
+GCF Global
+?
+Durante casi 20 años, GCFGlobal.org ha ayudado a millones de personas de todo el mundo a aprender las habilidades básicas que necesitan para vivir y trabajar en el siglo XXI, ofreciendo cursos gratuitos en línea.
+Te invitamos a aprender con nosotros, aquí y en YouTube, y te recomendamos crear una cuenta para acceder a todos nuestros servicios, incluido el seguimiento de las lecciones, el historial de visitas, el Coaching y mucho más. Aprende a tu propio ritmo.
+Asóciate con nosotros
+Sobre nosotros
+¿Qué te ofrece
+GCF Global
+?
+Aprendizaje en línea
+Asesoramiento profesional
+Credenciales apilables
+Desde Microsoft Office y el correo electrónico, hasta la lectura, las matemáticas y mucho más, GCFGlobal.org te ofrece más de 100 cursos, 2.700 lecciones, 2.000 videos y 50 interactivos y juegos completamente gratis.
+Entendemos que tienes muchas responsabilidades externas, por eso queremos facilitarte el cumplimiento de tus compromisos, al mismo tiempo que fortaleces tus conocimientos.
+Únete a los más de 100 millones de personas que han acudido a nosotros para aprender las habilidades básicas que necesitan para proyectar sus sueños.
+Aprende con nosotros
+Contenido destacado
+CURSO MÁS RECIENTE
+¡Aprende a usar TikTok!
+Realiza videos cortos y entretenidos.
+Ver Curso
+VIDEO
+Cómo buscar trabajo
+Descubre cuál es la mejor estrategia para conseguir el empleo ideal.
+Ver Curso
+Visita nuestro canal para ver todos nuestros videos.
+Criptomonedas
+Aprende cómo funciona esta moneda virtual y sus diferencias con el dinero tradicional.
+Ver Curso
+VIDEO MÁS RECIENTE
+Programación básica
+¡Prepárate para el futuro! Conoce las bases del código de programación y sus lenguajes.
+Ver Curso
+NUEVO
+Álgebra
+Resuelve operaciones con expresiones algebraicas. Aquí te enseñamos a hacerlo.
+Ver Curso
+Curso de inglés
+Comienza hoy tu curso de inglés y aprende algo nuevo todos los días.
+Ver Curso
+Correo electrónico
+Si aún no tienes un correo electrónico aprovecha para crearlo y aprender a enviar emails.
+Ver Curso
+¡Aprende a usar TikTok!
+Realiza videos cortos y entretenidos.
+Ver Curso
+VIDEO
+Cómo buscar trabajo
+Descubre cuál es la mejor estrategia para conseguir el empleo ideal.
+Ver Curso
+Visita nuestro canal para ver todos nuestros videos.
+Criptomonedas
+Aprende cómo funciona esta moneda virtual y sus diferencias con el dinero tradicional.
+Ver Curso
+Programación básica
+¡Prepárate para el futuro! Conoce las bases del código de programación y sus lenguajes.
+Ver Curso
+NUEVO
+Álgebra
+Resuelve operaciones con expresiones algebraicas. Aquí te enseñamos a hacerlo.
+Ver Curso
+Curso de inglés
+Comienza hoy tu curso de inglés y aprende algo nuevo todos los días.
+Ver Curso
+Correo electrónico
+Si aún no tienes un correo electrónico aprovecha para crearlo y aprender a enviar emails.
+Ver Curso
+Testimonios
+Señor amé ese video. Yo no sabía dividir bien, no le entendia ni a mi maestro ni compañeras, vi su video en una pagina y aprendí a dividir super rapido. Practiqué otros ejercicios como usted enseñó y sí me daban los resultados. Muchass gracias, me hizo un super favor .... Usted es el mejor, ya habia visto otros videos y no entendía nada pero usted sabe explicar muy bien. ¡Se los recomiendo! Es el mejor video para aprender a dividir por 2 y 3 cifras.
+Anónimo.
+Qué falta hacía un vídeo así, donde no sólo se explique cómo se hace sino por qué se hace así. Bravo. Mi más sincera enhorabuena. ¡Me ha encantado!
+Lionel Martínez.
+La verdad quedé encantado con su página de enseñanza. La verdad me siento muy bien con éste contenido. Me ha ayudado para dar clases y para ofrecer mejores clases. Doy clases de inglés y su página me ha ayudado a trabajar.
+Mary Suazo.
+Comparte tu historia
+Asóciate con nosotros
+keyboard_arrow_up
+keyboard_arrow_down
+Acerca De Nosotros
+¿Quiénes somos?
+Equipo de trabajo
+Trabaja con nosotros
+Asóciate con nosotros
+Recursos Educativos
+Espacio docente
+Ayuda y Soporte
+Preguntas frecuentes
+Condiciones de Servicio
+Política de Privacidad
+Política de Cookies
+Contáctanos

@@ -1,0 +1,130 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'csrf-token', 'content': 'XgkDjbSFD9NI60drsrv77HZ3iUxiTvIbP4l5wzbm'}
+{'content': 'Bethel is a nondenominational church located at 3518 Rose of Sharon Rd Durham, NC 27712. (919) 383-5433 We hope you will join us for Sunday Worship at 10:30am.', 'name': 'description'}
+{'property': 'og:title', 'content': 'Bethel Christian Center'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://nucleus-production.s3.amazonaws.com/uploads/1uy3HpePiwLIztXVyXlVnGVYPubGlWXQaf1j8Oxd.jpeg'}
+{'property': 'og:image:secure_url', 'content': '//nucleus-production.s3.amazonaws.com/uploads/1uy3HpePiwLIztXVyXlVnGVYPubGlWXQaf1j8Oxd.jpeg'}
+{'property': 'og:url', 'content': 'https://betheldurham.com/'}
+{'property': 'og:description', 'content': 'Transforming Lives through Christ'}
+
+Body Text:
+Bethel Christian Center
+3518 Rose of Sharon Rd Durham, NC 27712
+Join us in-person on Sun. 10:30AM and Wed. 7PM and check out our YouTube and Facebook!
+Subscribe on YouTube here
+Home
+I'm New
+Start Here
+Beliefs
+Values & Ministry
+Giving
+Contact Us
+Contact Us
+Need Prayer?
+Update Info
+I want to be baptized!
+Resources
+Watch Live
+Sermons
+Bible Plan
+Spiritual Gifts Test
+Announcements
+More
+Home
+I'm New
+Contact Us
+Resources
+Announcements
+Start Here
+Beliefs
+Values & Ministry
+Giving
+Contact Us
+Need Prayer?
+Update Info
+I want to be baptized!
+Watch Live
+Sermons
+Bible Plan
+Spiritual Gifts Test
+Home
+I'm New
+Start Here
+Beliefs
+Values & Ministry
+Giving
+Contact Us
+Contact Us
+Need Prayer?
+Update Info
+I want to be baptized!
+Resources
+Watch Live
+Sermons
+Bible Plan
+Spiritual Gifts Test
+Announcements
+Bethel Christian Center
+Transforming Lives through Christ
+Upcoming Stream
+Watch online Sunday 10:30am EST
+Watch Live
+Upcoming Stream
+Watch online Sunday 10:30am EST
+Watch Live
+I'm New
+New to Bethel Christian Center? We have a free welcome gift for you.
+Get Started
+What's Happening?
+Check here regularly for major announcements
+Find out more!
+Prayer
+Priority, Purpose, and Power
+Learn more
+Beliefs
+What we believe at Bethel Christian Center about Jesus, the Bible, and the Church
+Learn More
+Ministry
+Some detail between the rubber and the road.
+Learn more
+Giving
+What Why How
+Learn more
+betheldurham.com Property of Bethel Christian Center
+A nondenominational church in Durham, North Carolina all about Christ transforming individual lives through lifting up Jesus, bringing in the broken, building up the weak, and going out into the triangle community and beyond.
+Contact Us
+tresa.hilliard@betheldurham.com
+(919) 383-5433
+
+Join us!
+3518 Rose of Sharon Road Durham, NC 27712 
+
+Sunday
+Worship Service  - 10:30 am
+
+Tuesday
+Prayer for Durham - 9:30 am
+(Newpath Durham Church 
+922 9th St, Durham, NC 27705)
+ 
+Wednesday
+Family Bible Study - 7:00 pm
+-Adults
+-Young Adults
+-Teens
+-K-5 Boys
+-K-5 Girls
+-Toddlers
+
+Friday
+Friday Night Prayer - 7:00 pm
+
+We have been called to pray for the Kingdom to be realized in Durham, NC, and around the world!
+The church vision is that everyone would make time for prayer sometime at least once a month, with leaders especially encouraged to make this effort.
+tresa.hilliard@betheldurham.com
+(919) 383-5433
+Copyright 2024, Bethel Christian Center. All Rights Reserved.

@@ -1,0 +1,146 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+{'name': 'description', 'content': 'Investing in arts and K-12 education'}
+{'property': 'og:image', 'content': ''}
+{'name': 'twitter:image', 'content': ''}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'msapplication-TileImage', 'content': 'https://mdbf.org/wordpress/wp-content/uploads/2023/03/favicon-3.png'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'https://mdbf.org/k-12-education/latinxed/', 'content': 'LatinxEd'}
+{'itemprop': 'datePublished', 'content': '2023-11-28'}
+{'itemprop': 'dateModified', 'content': '2024-02-14'}
+{'itemprop': 'name', 'content': 'Mary Duke Biddle Foundation'}
+{'itemprop': 'url', 'content': 'https://mdbf.org/author/kcollier/'}
+{'itemprop': 'name', 'content': 'Kathleen Collier'}
+{'itemprop': 'url', 'content': 'https://mdbf.org/wordpress/wp-content/uploads/2023/01/2021_AR_LatinxEd_SomosCarolina.jpg'}
+{'itemprop': 'width', 'content': '1200'}
+{'itemprop': 'height', 'content': '800'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'https://mdbf.org/k-12-education/latinxed/', 'content': 'LatinxEd'}
+{'itemprop': 'datePublished', 'content': '2023-11-28'}
+{'itemprop': 'dateModified', 'content': '2024-02-14'}
+{'itemprop': 'name', 'content': 'Mary Duke Biddle Foundation'}
+{'itemprop': 'url', 'content': 'https://mdbf.org/author/kcollier/'}
+{'itemprop': 'name', 'content': 'Kathleen Collier'}
+{'itemprop': 'url', 'content': 'https://mdbf.org/wordpress/wp-content/uploads/2023/01/2021_AR_LatinxEd_SomosCarolina.jpg'}
+{'itemprop': 'width', 'content': '1200'}
+{'itemprop': 'height', 'content': '800'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'https://mdbf.org/the-arts/raleigh-camerata/', 'content': 'Raleigh Camerata'}
+{'itemprop': 'datePublished', 'content': '2023-11-28'}
+{'itemprop': 'dateModified', 'content': '2024-02-14'}
+{'itemprop': 'name', 'content': 'Mary Duke Biddle Foundation'}
+{'itemprop': 'url', 'content': 'https://mdbf.org/author/kcollier/'}
+{'itemprop': 'name', 'content': 'Kathleen Collier'}
+{'itemprop': 'url', 'content': 'https://mdbf.org/wordpress/wp-content/uploads/2023/02/2021_AR_RaleighCamerata_violins.jpg'}
+{'itemprop': 'width', 'content': '1900'}
+{'itemprop': 'height', 'content': '1267'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+
+Body Text:
+Mary Duke Biddle Foundation
+Add ‘show’ in  CSS class field to show the announcement
+We’re expanding our team!
+Learn More
+x
+Who We Are
+Staff
+Trustees
+About Us
+Annual Reports
+Nonprofits at Work
+What We Do
+PreK-12 Education
+The Arts
+Duke University
+FAQ
+Contact
+Apply
+Application
+Grantmaking Guidelines
+×
+Who We Are
+Staff
+Trustees
+About Us
+Annual Reports
+Nonprofits at Work
+What We Do
+PreK-12 Education
+The Arts
+Duke University
+FAQ
+Contact
+Apply
+Application
+Grantmaking Guidelines
+Who We Are
+Staff
+Trustees
+About Us
+Annual Reports
+Nonprofits at Work
+What We Do
+PreK-12 Education
+The Arts
+Duke University
+FAQ
+Contact
+Apply
+Application
+Grantmaking Guidelines
+Home
+Fostering creativity, innovation, and learning in the Triangle
+2024 Grantmaking Announcement
+Artist JP Jermaine Powell paints a mural for The ArtsCenter, Carrboro
+TheGifted Arts, Raleigh
+UNC School of the Arts, Winston-Salem
+About Us
+For nearly 70 years, we have remained committed to a tradition of carrying out Mary Duke Biddle’s goal of sharing resources in a way that
+improves people’s lives and responds to evolving community needs.
+The Mary Duke Biddle Foundation supports arts nonprofits and PreK-12 education organizations in the Triangle region of North Carolina. Additionally, we support Duke University and other institutions of great importance to Mary Duke Biddle's family.
+Learn More
+LatinxEd
+Nov 28, 2023
+PreK-12 Education
+Striving to expand Latinx leadership and educational equity and opportunity in North Carolina Serving Latinx immigrant families across the state […]
+Read More.
+LatinxEd
+Nov 28, 2023
+PreK-12 Education
+Striving to expand Latinx leadership and educational equity and opportunity in North Carolina Serving Latinx immigrant families across the state […]
+Read More.
+Raleigh Camerata
+Nov 28, 2023
+The Arts
+“Essentially, we’re breathing life into music that hasn’t readily been heard in a long time. There’s a cool factor in […]
+Read More.
+“We are actively planning a more robust year and are thrilled to have our AfterSchool Arts Immersion program up and running."
+Wendy Smith, The ArtsCenter, Carrboro
+PreK-12 Education
+The Mary Duke Biddle Foundation has a longstanding commitment to youth education. We focus this grantmaking on two areas: Student Success and Learning and Arts education. In both areas, the foundation makes grants to help children, especially those in underserved communities, acquire the knowledge, skills, and behaviors they need to succeed in school, career pathways, and life.
+We make grants to organizations located in and serving students in Chatham, Durham, Orange, and Wake Counties in North Carolina.
+Learn More
+The Walking Classroom, Chapel Hill
+The ArtsCenter Art Camp, Carrboro
+The Chamber Orchestra of the Triangle, Durham
+Durham Symphony Orchestra
+The Arts
+The arts are essential to strong, vibrant communities. A dynamic cultural sector is a catalyst for growth, attracting and retaining businesses and visitors. They strengthen neighborhoods and communities by preserving the culture and memories of specific places and have a positive impact on health and well-being. The arts provide spaces to allow people from different backgrounds to engage with one another and opportunities to build community. Perhaps most importantly, they offer personal enjoyment to individuals, groups, and families, and give voice to the human condition.
+The Mary Duke Biddle Foundation focuses its arts grantmaking on efforts that strengthen arts organizations and nurture artistic talent.  This program focuses on adult artists. Please see the PreK-12 Education grant program for guidelines for projects that engage school-aged participants.
+Learn More
+Contact Us
+318 Blackwell Street, Suite 130
+Durham, NC 27701
+919-493-5591
+info@mdbf.org
+PreK-12 Education
+The Arts
+Duke University
+FAQ
+Apply
+© 2024 Mary Duke Biddle Foundation

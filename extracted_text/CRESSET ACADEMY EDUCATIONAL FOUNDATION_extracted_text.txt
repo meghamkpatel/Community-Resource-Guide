@@ -1,0 +1,57 @@
+Meta Information:
+{'data-n-head': 'ssr', 'charset': 'utf-8'}
+{'data-n-head': 'ssr', 'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'data-n-head': 'ssr', 'http-equiv': 'x-ua-compatiable', 'content': 'ie=edge'}
+{'data-n-head': 'ssr', 'data-hid': 'description', 'name': 'description', 'content': 'Home · Heart · Mind'}
+{'data-n-head': 'ssr', 'data-hid': 'og:type', 'property': 'og:type', 'content': 'website'}
+{'data-n-head': 'ssr', 'data-hid': 'og:title', 'property': 'og:title', 'content': 'Cresset Christian Academy'}
+{'data-n-head': 'ssr', 'data-hid': 'og:description', 'property': 'og:description', 'content': 'Home · Heart · Mind'}
+{'data-n-head': 'ssr', 'data-hid': 'og:image', 'property': 'og:image', 'content': 'https://cmsv2-assets.apptegy.net/uploads/4117/logo/3652/logo.png'}
+{'data-n-head': 'ssr', 'data-hid': 'twitter:card', 'name': 'twitter:card', 'content': 'summary_large_image'}
+{'data-n-head': 'ssr', 'data-hid': 'twitter:title', 'name': 'twitter:title', 'content': 'Cresset Christian Academy'}
+{'data-n-head': 'ssr', 'data-hid': 'twitter:description', 'name': 'twitter:description', 'content': 'Home · Heart · Mind'}
+{'data-n-head': 'ssr', 'data-hid': 'twitter:image', 'name': 'twitter:image', 'content': 'https://cmsv2-assets.apptegy.net/uploads/4117/logo/3652/logo.png'}
+
+Body Text:
+GIVE TO CRESSET | Cresset Christian Academy
+Skip to content
+Payment Portal
+K-12 Calendar 2023-24
+K-12 Calendar 2024-25
+Preschool Calendar 2023-24
+RenWeb
+Schoology
+Search
+Cresset Christian Academy
+Home · Heart · Mind
+Payment Portal
+K-12 Calendar 2023-24
+K-12 Calendar 2024-25
+Preschool Calendar 2023-24
+RenWeb
+Schoology
+Search
+Menu
+Translate
+Menu
+Translate
+THE CRESSET ACADEMY EDUCATIONAL FOUNDATION (CAEF)
+The mission of the Cresset Academy Educational Foundation is to provide the financial foundation that will enhance the distinctly Christian educational opportunity of every student enrolled at Cresset Christian Academy. The Foundation (CAEF) was founded as a charitable, non-profit organization in March 1998 with the Internal Revenue Service granting the CAEF full tax-exempt status under section 501(a) of the Internal Revenue Code.  The Foundation is a tax-exempt organization as described in section 501(c)(3) of the Internal Revenue Code.  As a result, your gifts are tax-deductible for both personal and corporate purposes.
+The foundation accepts donations in support of scholarships, capital improvements, athletics, fine arts, building improvements, transportation and related needs through:
+Outright Gifts: cash, stock gifts, personal property, real estate, donated equipment and matching funds.
+Planned Gifts: wills, bequests, codicils, Life Insurance, Life Income Plans, and Charitable Lead Trusts.
+Funds from scholarship endowments are transferred to the Academy scholarship fund, and designated funds are also transferable to the Academy as needed for specific projects.
+We welcome your support of Cresset Christian Academy and its students through the CAEF.
+To give, please click
+here
+.
+Find Us
+Cresset Christian Academy
+3707 Garrett Road
+Durham, NC 27707
+919.354.8000
+919.354.8009
+Stay Connected
+Copyright © 2024 Cresset Christian Academy. All rights reserved.
+Powered By
+Thrillshare

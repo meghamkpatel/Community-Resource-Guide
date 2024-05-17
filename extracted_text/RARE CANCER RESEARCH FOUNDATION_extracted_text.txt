@@ -1,0 +1,170 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Rare Cancer Research Foundation'}
+{'property': 'og:title', 'content': 'Rare Cancer Research Foundation'}
+{'property': 'og:url', 'content': 'https://rarecancer.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/62506ceb6f9cfb3a9059ec11/t/62f454b581c566757e1d3937/1660179637605/RCRF.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '500'}
+{'property': 'og:image:height', 'content': '340'}
+{'itemprop': 'name', 'content': 'Rare Cancer Research Foundation'}
+{'itemprop': 'url', 'content': 'https://rarecancer.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/62506ceb6f9cfb3a9059ec11/t/62f454b581c566757e1d3937/1660179637605/RCRF.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/62506ceb6f9cfb3a9059ec11/t/62f454b581c566757e1d3937/1660179637605/RCRF.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'Rare Cancer Research Foundation'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/62506ceb6f9cfb3a9059ec11/t/62f454b581c566757e1d3937/1660179637605/RCRF.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://rarecancer.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Rare Cancer Research Foundation
+0
+Skip to Content
+About
+About RCRF
+Our Team
+Memberships & Coalitions
+News & Updates
+Financials
+FAQs
+For Patients
+Patient Programs
+Patient Advocacy Partners
+Resources
+Researchers
+Initiatives
+Research Partners
+Publications
+Get Involved
+Ways To Help
+Newsletter Sign Up
+Share Your Story
+Events
+Shop
+Contact Us
+Donate
+Open Menu
+Close Menu
+About
+About RCRF
+Our Team
+Memberships & Coalitions
+News & Updates
+Financials
+FAQs
+For Patients
+Patient Programs
+Patient Advocacy Partners
+Resources
+Researchers
+Initiatives
+Research Partners
+Publications
+Get Involved
+Ways To Help
+Newsletter Sign Up
+Share Your Story
+Events
+Shop
+Contact Us
+Donate
+Open Menu
+Close Menu
+Folder:
+About
+Back
+About RCRF
+Our Team
+Memberships & Coalitions
+News & Updates
+Financials
+FAQs
+Folder:
+For Patients
+Back
+Patient Programs
+Patient Advocacy Partners
+Resources
+Folder:
+Researchers
+Back
+Initiatives
+Research Partners
+Publications
+Folder:
+Get Involved
+Back
+Ways To Help
+Newsletter Sign Up
+Share Your Story
+Events
+Shop
+Contact Us
+Donate
+Accelerating Cures Through
+Patient-Powered Collaboration
+For Patients
+For Researchers
+Our Mission
+The Rare Cancer Research Foundation (RCRF) is a 501(c)3 dedicated to curing rare cancers through strategic investments and innovative collaborations that facilitate effective research and accelerate deployment of promising therapies.
+Our Story
+The Rare Cancer Research Foundation was started by
+Mark Laabs,
+who started RCRF and envisioned a future of patient-powered research that would accelerate the search for cures
+Our Why
+Over 400,000 people every year are diagnosed with rare cancer in the US, yet most rare cancers do not have effective treatments. With limited information about these diseases and limited access to tissue samples and medical records, researchers are struggling to make progress in improving patient outcomes.
+Our Plan
+Led by a team of multidisciplinary scientists, cancer patients, and clinicians, our work is guided by the experiences, needs, and voices of those with rare cancer and the researchers whose mission it is to one day find a cure for these diseases.
+We are building the tools and infrastructure that empower patients to advocate for their care while directly impacting cancer research. Through our patient-powered platform, Pattern.org, we are changing the way patients drive research and how researchers can advance the development of treatments. Join us and stay updated by
+signing up here
+.
+Tissue Donation
+Donating tissue samples is the most effective way patients can help researchers make medical breakthroughs and advance the development of new treatments. We coordinate the safe transportation of live tissue, post-surgery, to research projects or our biobank.
+Biobank
+Enabling patients anywhere in the country to store their tissue samples safely and give consent for use in clinical or research studies to help advance treatment development.
+Powerful Tools and Resources for Patients
+COMING SOON.
+Building tools for all rare cancer patients to access more information about their cancer and treatment options including
+An online portal for sharing your data and history with clinicians and researchers
+Disease-specific resources including open clinical trials, literature searches, and specialists
+Genomic sequencing for every Pattern.org patient to support patients finding more targeted treatment options
+Rare Cancer Data Commons
+Our open-source data commons is built by the leading experts in data harmonization across cancer centers and research institutions.  It brings together data from across the field of rare cancer research, and provides support in analysis of paired clinical and molecular data support.
+Sign Up for Updates
+News & Updates
+Featured
+Mar 7, 2024
+Read Katie Colman’s Interview with Katie Couric Media
+Mar 7, 2024
+Read More →
+Mar 7, 2024
+Feb 24, 2024
+Mark Laab’s Memorial Announcement
+Feb 24, 2024
+Read More →
+Feb 24, 2024
+Jan 10, 2024
+Chan Zuckerberg Initiative Commits $1 Million to Rare Cancer Research Foundation for Groundbreaking Initiatives
+Jan 10, 2024
+Read More →
+Jan 10, 2024
+Let's Stay in Touch
+Sign up with your name and email address to receive news and updates.
+First Name
+Last Name
+Email Address
+Sign Up Now
+We respect your privacy.
+Thank you!
+The Rare Cancer Research Foundation
+703 Foster St. Durham, NC 27701
+info@rarecancer.org
+| (919) 827-8373
+The Rare Cancer Research Foundation is a 501(c)3 non-profit organization (EIN 46-3405526) registered in North Carolina.
+© 2024 The Rare Cancer Research Foundation.      All rights reserved
+Privacy Policy
+Terms of Use

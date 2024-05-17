@@ -1,0 +1,118 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress 6.1.6'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'TreeCircus'}
+{'property': 'og:url', 'content': 'https://www.thebrittonfund.org/treecircus/'}
+{'property': 'og:description', 'content': 'About the TreeCircus Partnership The Britton Fund is proud to support the work of the TreeCircus by supplying copies of “Treetures Join the TreeCircus”, a coloring, comic book given to …'}
+{'property': 'article:published_time', 'content': '2017-03-16T20:49:26+00:00'}
+{'property': 'article:modified_time', 'content': '2023-07-19T20:38:57+00:00'}
+{'property': 'og:site_name', 'content': 'The Britton Fund, Inc.'}
+{'property': 'og:image', 'content': 'https://www.thebrittonfund.org/wp-content/uploads/2020/04/logo.png'}
+{'property': 'og:image:width', 'content': '655'}
+{'property': 'og:image:height', 'content': '600'}
+{'property': 'og:image:alt', 'content': ''}
+{'name': 'twitter:text:title', 'content': 'TreeCircus'}
+{'name': 'twitter:image', 'content': 'https://www.thebrittonfund.org/wp-content/uploads/2020/04/logo.png?w=640'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+
+Body Text:
+TreeCircus – The Britton Fund, Inc.
+Skip to content
+Follow Us
+The Britton Fund, Inc.
+Together, we care for trees!
+About
+Board of Directors
+Fundraising, Research & Education Milestones
+Our Roots
+Latest News
+Events
+The Britton Fund Ride 2024
+The Britton Fund Silent Auction 2024
+Educational Workshops
+Volunteer Work Day
+Funded Programs
+Technical Information Sheets
+Publications
+Botany for Arborists
+Decay Fungi of Oaks and Associated Hardwoods for Western Arborists
+The Biology and Management of Landscape Palms by Donald R. Hodel
+Oaks in the Urban Landscape
+Reducing Infratructure Damage by Tree Roots
+Tree Care for Wildlife Best Management Practices
+Treetures Join the TreeCircus
+Tree Species Failure Profiles
+Golden Gate Audubon Society Printing Grant
+Harris Scholarship Program
+TreeCircus
+Meet the Treetures®
+My Tree & Me
+Research
+Current Research Projects
+Research Proposal Guidelines
+Contact Us
+Donate
+Ways to Give
+Shop
+Book Store
+About
+- Board of Directors
+- Fundraising, Research & Education Milestones
+- Our Roots
+Latest News
+Events
+- The Britton Fund Ride 2024
+- The Britton Fund Silent Auction 2024
+- Educational Workshops
+- Volunteer Work Day
+Funded Programs
+- Technical Information Sheets
+- Publications
+- Botany for Arborists
+- Decay Fungi of Oaks and Associated Hardwoods for Western Arborists
+- The Biology and Management of Landscape Palms by Donald R. Hodel
+- Oaks in the Urban Landscape
+- Reducing Infratructure Damage by Tree Roots
+- Tree Care for Wildlife Best Management Practices
+- Treetures Join the TreeCircus
+- Tree Species Failure Profiles
+- Golden Gate Audubon Society Printing Grant
+- Harris Scholarship Program
+- TreeCircus
+- Meet the Treetures®
+- My Tree & Me
+Research
+- Current Research Projects
+- Research Proposal Guidelines
+Contact Us
+Donate
+- Ways to Give
+Shop
+- Book Store
+TreeCircus
+About the TreeCircus Partnership
+The Britton Fund is proud to support the work of the TreeCircus by supplying copies of “Treetures Join the TreeCircus”, a coloring, comic book given to children of all ages! This publication promotes a playful but serious message about how important trees are to our lives, our health, and the health of our planet.
+The TreeCircus is an energetic stage show that is interactive, educational and captivating for all ages.  Edutainer Timmy Womick covers it all, from urban particulate pollution to basic tree biology, while keeping the audience in stitches.
+Click here to learn more!
+During their performances, TreeCircus discusses numerous tidbits about biology, showing how trees filter urban particulate pollution.  They help students understand how their local trees can lower the temperature and raise their spirits. Throughout the hour-long program, participants learn many things about trees, including: their value, why we should plant more of them, and even how to climb them like the pros. Those who suddenly find themselves a part of the TreeCircus act, out in front of the audience, generally blossom in their own right. Student participation is what these programs are all about.
+The show is often capped off with a climbing demonstration by world-class tree climbing competitor, Chad Brey and tree climbing instructor,  Grayson Keating  demonstrating an often overlooked gift of trees – jobs!
+Keep an eye on
+treecircus.org
+for current tours in our region!
+Share this:
+Email
+Facebook
+Twitter
+Sponsors of the 17th Annual Britton Fund Ride!
+Platinum
+Gold
+Silver
+Bronze
+Theme by
+Think Up Themes Ltd
+. Powered by
+WordPress
+.

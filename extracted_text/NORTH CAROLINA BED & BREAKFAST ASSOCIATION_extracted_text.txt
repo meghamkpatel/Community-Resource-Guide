@@ -1,0 +1,501 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Shop North Carolina Furniture & Mattress online and in-store for great prices, stylish furniture, mattresses, and home decor.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'North Carolina Furniture & Mattress - Newport News Local Furniture Store'}
+{'property': 'og:description', 'content': 'Shop North Carolina Furniture & Mattress online and in-store for great prices, stylish furniture, mattresses, and home decor.'}
+{'property': 'og:url', 'content': 'https://www.ncfurniture.com/'}
+{'property': 'og:site_name', 'content': 'NC Furniture and Mattress - Newport News, VA Furniture and Mattress Store'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/NCFurnitureAndMattress/'}
+{'property': 'article:modified_time', 'content': '2024-05-07T13:53:03+00:00'}
+{'property': 'og:image', 'content': 'https://www.ncfurniture.com/wp-content/uploads/2023/01/North-Carolina-Furniture-and-Mattress-Share-Image.jpg'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '675'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'omnisend-site-verification', 'content': '65a96bece59441abad565a7a'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'}
+{'name': 'generator', 'content': 'Elementor 3.21.4; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.ncfurniture.com/wp-content/uploads/2023/01/cropped-NF-Furniture-Favicon-270x270.jpg'}
+{'itemprop': 'name', 'content': 'Hours'}
+{'itemprop': 'openingHours', 'content': 'Mo-Sa 10:00-18:00'}
+{'itemprop': 'openingHours', 'content': 'Su 13:00-18:00'}
+
+Body Text:
+North Carolina Furniture & Mattress - Newport News Local Furniture Store
+Call Us
+Today's Hours:
+Wednesday
+10 AM | 6 PM
+Protection Plan
+Reviews
+Promotions
+Delivery
+Brands
+Visit Us
+Reviews
+Delivery
+Brands
+Search
+Login / Register
+Sign in
+Create an Account
+Username or email address
+*
+Password
+*
+Log in
+Lost your password?
+Remember me
+Wishlist
+Compare
+Menu
+Wishlist
+Shop Products
+Living Room
+Sofas
+Sectionals
+Loveseats
+Chairs
+Recliners
+Lift Chairs
+Sleeper Sofas
+Tables
+Entertainment
+Accents
+Stressless
+Bedroom
+Beds
+Nightstands
+Dressers
+Chests
+Home Decor
+Mirrors
+Bedroom Sets
+Dining Room
+Dining Tables
+Chairs & Benches
+Dining Storage
+Home Decor
+Dining Sets
+Custom Dining
+Design Your Way
+Mattresses
+Shop by Size
+Shop By Comfort
+Shop by Type
+Shop Accessories
+Mattress Guide
+Home Office
+Desks
+Office Chairs
+Office Storage
+Bookcases
+Entertainment
+Home Decor
+Home Accents
+Shop Brands
+Clearance
+Save Up To 70% OFF
+Furniture
+Mattresses
+Custom Order
+Free In Home Design
+Stressless
+Financing
+Inspiration
+Blog
+Style Guides
+About Us
+Newport News, VA Furniture & Mattress Store
+North Carolina Furniture & Mattress
+Shop By Room
+Living Room
+(880)
+Bedroom
+(734)
+Dining Room
+(676)
+Home Office
+(177)
+Entertainment
+(88)
+Home Decor
+(705)
+Mattresses
+(47)
+Clearance
+(43)
+Brands You'll Love
+At North Carolina Furniture & Mattress you will find everything beautiful for your home under one roof. We have access to over 75 brands like Stressless, Flexsteel, Mavin, & Canadel. You will be sure to find something you love.
+Flexsteel
+Learn More
+Canadel
+Learn More
+Mavin
+Learn More
+Stressless
+Learn More
+Hooker Furniture
+Learn More
+Shop Our Brands
+You'll Love the Reviews on North Carolina Furniture & Mattress
+Here’s what our customers are saying about their North Carolina Furniture & Mattress shopping experience.
+Share Your Experience With Us >
+Thurman Williams
+January 8th 2024
+Terrific operation. We've purchased two sofas, a bed and a desk; all were represented very thoughtfully. In each case, the sa
+les team took time to understand where & how the furnishings would be used, and proposed solutions that would best suit our needs (and our budget). And the delivery team of Jermain & Michael did their job flawlessly. 100% recommend.
+... Read More
+Cindy Tyminski
+December 22nd 2023
+Katherine and Susan are two great people to work with.They listen to what you are interested in and very helpful in making de
+cisions. l first worked with NC furniture while living in Florida and had furniture shipped to me. Moved back to Virginia and the only store I buy furniture from.
+... Read More
+GladysA
+December 22nd 2023
+The people at North Carolina furniture were a pleasure to deal with. The furniture they carry is first class. They kept in to
+uch and made the transaction easy. I would recommend them if you want good service and quality furniture
+... Read More
+Patti K
+December 12th 2023
+We have purchased many furnishings from North Carolina Furniture & Mattress over the years. Their service has always been exe
+mplary. Very friendly, knowledgeable personnel. Looking forward to the receipt of our most recent purchase.
+... Read More
+molly Dignan
+December 12th 2023
+This store is the absolute best place to buy furniture. They have very high quality pieces that are well priced. We continue
+to decorate our home with their merchandise . Katherine was extremely helpful with design ideas and she took her time making sure we were completely happy with our purchase. I can’t wait to do the next room!!
+... Read More
+Kenneth M Givens Jr
+December 12th 2023
+One of the most enjoyable and pleasant furniture shopping experiences I've had in years. The staff was very professional. Sus
+an's product knowledge and expertise helped my wife and I make an excellent choice.
+... Read More
+Laura Hawkridge
+December 12th 2023
+Selecting furniture recently was made easy for me at NC Furniture…great furniture to choose from and excellent guidance to he
+lp with choices. Thanks Katherine!
+... Read More
+Pam White
+December 12th 2023
+Beautiful well-made furniture with knowledgeable and friendly staff. Sale prices are great!
+Joe Jackson
+December 12th 2023
+The staff was very attentive relative to vision I had for updating an entire room. Susan offered a plan that matched that vis
+ion! Excellent service and the delivery team placed all of the furniture items in exact locations. Great results.
+... Read More
+Robin Thorpe
+December 12th 2023
+I ended up buying two Flexsteel sofas after emailing pictures of my carpet, they sent me back the dimensions of the sofas and
+then helped me pick out fabric that was durable and pet friendly. I’m excited to get my sofas since it has taken me a year to find something I like.
+... Read More
+Harvey Perkins
+December 12th 2023
+Warm, friendly, knowledgeable staff! They always follow through until the customer is satisfied!
+John S
+November 12th 2023
+We were looking for couple of sofas and couple of armchairs, in a mid range price but built to last. We checked several store
+s around and decided to go with NC Furniture. They carry the brand we chose. The price was good. Most importantly, people there are knowledgeable and kind. They went above and beyond to answer all our questions and concerns. Delivery was flawless. Thank you!
+... Read More
+Alice Kranz
+November 12th 2023
+Friendly, professional and very helpful. Not at all pushy. Listened to my needs and helped my find just was I was looking for
+, at a price point that worked for me. Can't wait till my chairs are delivered!
+... Read More
+Richard Serge
+November 12th 2023
+Stephanie made our visit very enjoyable. She was helpful, knowledgeable, polite, good sense of humor and a top notch salesper
+son. Thanks!
+... Read More
+Barbara “Sue” Ivey
+November 12th 2023
+Excellent sales rep and customer service!
+Theresa Mintzer
+November 12th 2023
+We had a really great experience at North Carolina furniture. Wes took great care of us. There are so many decisions to make
+when you order a couch, more than I ever thought. Wes always brought up pros and cons, she is very friendly and patient. I would recommend this business . We also ordered a dining riom table that we could design ourselves , width, height, leaves and color. We got the table we have been looking for but couldn’t find . That was a very easy decision to make. Overall, everyone that works there are so friendly and helpful! Super customer service!
+... Read More
+Mary Leavitt
+November 12th 2023
+Excellent service! I bought a chair a year ago, a couch and an ottoman this year. Katherine was wonderful to work with as she
+helped me find my unicorn of an ottoman. I highly recommend them!
+... Read More
+Mickey Simonds
+October 12th 2023
+The staff is pleasant and knowledgeable.
+Tracie Heslink
+October 12th 2023
+NC Furniture is first class all the way! From the design team which Susan was so easy to work with and so creative with her d
+esigns. The Delivery Team Jermaine & Michael went above the call to make sure we were satisfied with everything before they left my home! Have shopped there for years will continue and recommend!!!!
+... Read More
+Chris G
+October 12th 2023
+Katherine was extremely helpful as we tried to determine the best sofa/loveseat combo for us. Patient, knowledgeable and unde
+rstood our needs and gave great advice.
+... Read More
+Elizabeth Parrish
+September 12th 2023
+Great experience start to delivery!!
+Arthur Jensen
+September 12th 2023
+We were most pleased with the original visit, helpful advice, prodict selection. The delivery of the items was exceptional an
+d EXACTLY on time/date - first time in our lives. We really like and enjoy our new furniture. So do our family and guests. Well done!
+... Read More
+Ann Manazza
+September 12th 2023
+Wes was excellent l! She was patient took her time, explained everything! Susan was Excellent Too, they worked well as a team
+, You could absolutely know they both went the distance to make sure you had every option that was available and really listened to my likes & dislikes!
+... Read More
+Jacqueline Moore
+September 12th 2023
+They were very friendly, helpful and caring about my physical limitations. I found the perfect recliner for my back. Also saw
+other furniture that I would like to purchase in the future.
+... Read More
+Henry Piland
+September 12th 2023
+Great staff.good service
+Previous
+Next
+Thurman Williams
+January 8th 2024
+Terrific operation. We've purchased two sofas, a bed and a desk; all were represented very thoughtfully. In each case, the sa
+les team took time to understand where & how the furnishings would be used, and proposed solutions that would best suit our needs (and our budget). And the delivery team of Jermain & Michael did their job flawlessly. 100% recommend.
+... Read More
+Cindy Tyminski
+December 22nd 2023
+Katherine and Susan are two great people to work with.They listen to what you are interested in and very helpful in making de
+cisions. l first worked with NC furniture while living in Florida and had furniture shipped to me. Moved back to Virginia and the only store I buy furniture from.
+... Read More
+GladysA
+December 22nd 2023
+The people at North Carolina furniture were a pleasure to deal with. The furniture they carry is first class. They kept in to
+uch and made the transaction easy. I would recommend them if you want good service and quality furniture
+... Read More
+Patti K
+December 12th 2023
+We have purchased many furnishings from North Carolina Furniture & Mattress over the years. Their service has always been exe
+mplary. Very friendly, knowledgeable personnel. Looking forward to the receipt of our most recent purchase.
+... Read More
+molly Dignan
+December 12th 2023
+This store is the absolute best place to buy furniture. They have very high quality pieces that are well priced. We continue
+to decorate our home with their merchandise . Katherine was extremely helpful with design ideas and she took her time making sure we were completely happy with our purchase. I can’t wait to do the next room!!
+... Read More
+Kenneth M Givens Jr
+December 12th 2023
+One of the most enjoyable and pleasant furniture shopping experiences I've had in years. The staff was very professional. Sus
+an's product knowledge and expertise helped my wife and I make an excellent choice.
+... Read More
+Laura Hawkridge
+December 12th 2023
+Selecting furniture recently was made easy for me at NC Furniture…great furniture to choose from and excellent guidance to he
+lp with choices. Thanks Katherine!
+... Read More
+Pam White
+December 12th 2023
+Beautiful well-made furniture with knowledgeable and friendly staff. Sale prices are great!
+Joe Jackson
+December 12th 2023
+The staff was very attentive relative to vision I had for updating an entire room. Susan offered a plan that matched that vis
+ion! Excellent service and the delivery team placed all of the furniture items in exact locations. Great results.
+... Read More
+Robin Thorpe
+December 12th 2023
+I ended up buying two Flexsteel sofas after emailing pictures of my carpet, they sent me back the dimensions of the sofas and
+then helped me pick out fabric that was durable and pet friendly. I’m excited to get my sofas since it has taken me a year to find something I like.
+... Read More
+Harvey Perkins
+December 12th 2023
+Warm, friendly, knowledgeable staff! They always follow through until the customer is satisfied!
+John S
+November 12th 2023
+We were looking for couple of sofas and couple of armchairs, in a mid range price but built to last. We checked several store
+s around and decided to go with NC Furniture. They carry the brand we chose. The price was good. Most importantly, people there are knowledgeable and kind. They went above and beyond to answer all our questions and concerns. Delivery was flawless. Thank you!
+... Read More
+Alice Kranz
+November 12th 2023
+Friendly, professional and very helpful. Not at all pushy. Listened to my needs and helped my find just was I was looking for
+, at a price point that worked for me. Can't wait till my chairs are delivered!
+... Read More
+Richard Serge
+November 12th 2023
+Stephanie made our visit very enjoyable. She was helpful, knowledgeable, polite, good sense of humor and a top notch salesper
+son. Thanks!
+... Read More
+Barbara “Sue” Ivey
+November 12th 2023
+Excellent sales rep and customer service!
+Theresa Mintzer
+November 12th 2023
+We had a really great experience at North Carolina furniture. Wes took great care of us. There are so many decisions to make
+when you order a couch, more than I ever thought. Wes always brought up pros and cons, she is very friendly and patient. I would recommend this business . We also ordered a dining riom table that we could design ourselves , width, height, leaves and color. We got the table we have been looking for but couldn’t find . That was a very easy decision to make. Overall, everyone that works there are so friendly and helpful! Super customer service!
+... Read More
+Mary Leavitt
+November 12th 2023
+Excellent service! I bought a chair a year ago, a couch and an ottoman this year. Katherine was wonderful to work with as she
+helped me find my unicorn of an ottoman. I highly recommend them!
+... Read More
+Mickey Simonds
+October 12th 2023
+The staff is pleasant and knowledgeable.
+Tracie Heslink
+October 12th 2023
+NC Furniture is first class all the way! From the design team which Susan was so easy to work with and so creative with her d
+esigns. The Delivery Team Jermaine & Michael went above the call to make sure we were satisfied with everything before they left my home! Have shopped there for years will continue and recommend!!!!
+... Read More
+Chris G
+October 12th 2023
+Katherine was extremely helpful as we tried to determine the best sofa/loveseat combo for us. Patient, knowledgeable and unde
+rstood our needs and gave great advice.
+... Read More
+Elizabeth Parrish
+September 12th 2023
+Great experience start to delivery!!
+Arthur Jensen
+September 12th 2023
+We were most pleased with the original visit, helpful advice, prodict selection. The delivery of the items was exceptional an
+d EXACTLY on time/date - first time in our lives. We really like and enjoy our new furniture. So do our family and guests. Well done!
+... Read More
+Ann Manazza
+September 12th 2023
+Wes was excellent l! She was patient took her time, explained everything! Susan was Excellent Too, they worked well as a team
+, You could absolutely know they both went the distance to make sure you had every option that was available and really listened to my likes & dislikes!
+... Read More
+Jacqueline Moore
+September 12th 2023
+They were very friendly, helpful and caring about my physical limitations. I found the perfect recliner for my back. Also saw
+other furniture that I would like to purchase in the future.
+... Read More
+Henry Piland
+September 12th 2023
+Great staff.good service
+Previous
+Next
+Never Miss A Sale
+Get the latest trends, new products, & design ideas you'll love for your home.
+SIGN UP
+Never Miss A Sale
+"
+*
+" indicates required fields
+Name
+*
+First
+Last
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Δ
+Will be used in accordance with our
+Privacy Policy
+Follow Us
+Connect and follow us on social media for the latest news.
+View Our Showroom Hours
+Address
+421 Denbigh Boulevard
+Newport News, VA 23608
+Phone
+757-877-5642
+Email
+info@ncfurniture.com
+SHOP
+Living Room
+Bedroom
+Dining Room
+Entertainment
+Home Office
+Home Decor
+Mattresses
+Customer Care
+Delivery Info
+Financing Options
+Service Request
+Privacy Statement
+Store Policies
+Contact Us
+Support Hub
+Protection Plan
+About Us
+About Us
+Free In Home Design
+10 Reasons To Shop
+Our Advantage
+Reviews
+Custom Order
+Realtor Incentive Program
+Community
+Community Involvement
+5% Active Military Discount
+Inspiration
+Design Tips
+Style Guides
+© North Carolina Furniture & Mattress - All Rights Reserved
+Made With ♥ R&A Marketing
+Search
+Menu
+Shop Products
+Living Room
+Sofas
+Sectionals
+Loveseats
+Chairs
+Recliners
+Lift Chairs
+Sleeper Sofas
+Tables
+Entertainment
+Accents
+Stressless
+Bedroom
+Beds
+Nightstands
+Dressers
+Chests
+Home Decor
+Mirrors
+Bedroom Sets
+Dining Room
+Dining Tables
+Chairs & Benches
+Dining Storage
+Home Decor
+Dining Sets
+Custom Dining
+Design Your Way
+Mattresses
+Shop by Size
+Shop By Comfort
+Shop by Type
+Shop Accessories
+Mattress Guide
+Home Office
+Desks
+Office Chairs
+Office Storage
+Bookcases
+Entertainment
+Home Decor
+Home Accents
+Shop Brands
+Clearance
+Save Up To 70% OFF
+Free In Home Design
+Custom Order
+Financing
+Realtor Incentive Program
+Military Discount
+Design Quizzes
+Mattress Guide
+Blog
+About Us
+Contact Us
+Wishlist
+Compare
+Login / Register
+Facebook
+Instagram
+Pinterest

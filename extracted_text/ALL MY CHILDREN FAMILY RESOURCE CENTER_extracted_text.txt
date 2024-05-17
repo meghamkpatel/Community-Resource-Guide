@@ -1,0 +1,102 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'All MY Children'}
+{'property': 'og:title', 'content': 'All MY Children'}
+{'property': 'og:url', 'content': 'https://allmychildrennc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5a480dc7914e6b62a1e2e678/t/5d9f4c109b3bd14e10fc3c15/1570720792494/Letter+Head+Logo-01.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '1860'}
+{'itemprop': 'name', 'content': 'All MY Children'}
+{'itemprop': 'url', 'content': 'https://allmychildrennc.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5a480dc7914e6b62a1e2e678/t/5d9f4c109b3bd14e10fc3c15/1570720792494/Letter+Head+Logo-01.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5a480dc7914e6b62a1e2e678/t/5d9f4c109b3bd14e10fc3c15/1570720792494/Letter+Head+Logo-01.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'All MY Children'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5a480dc7914e6b62a1e2e678/t/5d9f4c109b3bd14e10fc3c15/1570720792494/Letter+Head+Logo-01.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://allmychildrennc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+All MY Children
+Cart
+0
+Home
+Curriculum
+Partnerships
+schedule tour
+Cart
+0
+Home
+Curriculum
+Partnerships
+schedule tour
+All My Children
+3011 Academy Road, Durham 27707
+All My Children II
+2101 Angier Ave, Durham NC 27703
+About Us
+The executive director and founder of All My Children Child Care Center, Paulette Muhammad has devoted over 40 years  supporting the early learning and development of children 0-12 years old.  Mrs. Muhammad is not your ordinary child care provider; she has opened her home to care for children and families, since opening her first family child care in New York. Ms. Muhammad has dedicated her entire life to enrich the development of young children and support to families in need  She remains abreast of best practices in early care and education and advocates for all young children served in the early care and education system.
+curriculum
+All My Children Child Care Center provides a child and family centered learning environment. We observe and respond to the unique needs of each child development and learning.
+enrichments
+We use “Play” as an opportunity for children to learn create use their imagination, exploration, and physical, cognitive, language and social-emotional development.
+We value the cultural and linguistic language of each child and their family.
+community
+All My Children focuses on helping family in the following ways free meal service for families, parent night out, and family clothing closet.
+We honor the family and childcare partnership by working  together to support each child and their familiy’s life-long success.
+WHAT PARENTS ARE SAYING
+"Paulette has made a huge difference in the lives of many parents and children.  She is that rare
+blend of competence and kindness that has made All My Children a wonderful environment for
+children, parents and staff.  For myself and my family, we are much the better for having been
+under her protective wing all. These many years."
+— Elaine McMichael
+schedule your tour now
+Name
+*
+First Name
+Last Name
+Reason For Contact
+*
+Schedule Tour
+I want More Information
+Child's Name
+*
+Child's Birthday
+*
+MM
+DD
+YYYY
+Email Address
+*
+Date
+MM
+DD
+YYYY
+Time
+Hour
+Minute
+Second
+AM
+PM
+Phone
+*
+(###)
+###
+####
+Message
+*
+Thank you!
+Locations
+Content
+image
+Copy of schedule tour
+all my children
+3011 ACADEMY RD, DURHAM, NC 27701
+(919) 401-6654
+all my children ii
+2101 ANGIER AVE, DURHAM NC 27703
+(919) 381-5787

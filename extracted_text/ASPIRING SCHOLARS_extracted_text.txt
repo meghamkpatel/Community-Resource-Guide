@@ -1,0 +1,10 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=Edge'}
+{'name': 'robots', 'content': 'noindex,nofollow'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'http-equiv': 'refresh', 'content': '375'}
+
+Body Text:
+Just a moment...
+Enable JavaScript and cookies to continue

@@ -1,0 +1,142 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'NCHSAA - NCHSAA'}
+{'property': 'og:description', 'content': 'Student-Athlete FocusedMembership-Driven'}
+{'property': 'og:url', 'content': 'https://www.nchsaa.org/'}
+{'property': 'og:site_name', 'content': 'NCHSAA'}
+{'property': 'article:publisher', 'content': 'https://facebook.com/NCHSAA/'}
+{'property': 'article:modified_time', 'content': '2024-05-16T15:03:30+00:00'}
+{'property': 'og:image', 'content': 'https://www.nchsaa.org/wp-content/uploads/2024/04/Spring-Championship-Banner.png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@nchsaa'}
+{'name': 'generator', 'content': 'WordPress 6.5.2'}
+{'name': 'generator', 'content': 'SportsPress 2.7.21'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.nchsaa.org/wp-content/uploads/2023/08/cropped-SiteIcon-2023-1-270x270.png'}
+
+Body Text:
+NCHSAA - NCHSAA
+NCHSAA
+#BetterTogetherSince1913
+Inside the NCHSAA
+About the NCHSAA
+Articles of Incorporation and Bylaws
+History of the NCHSAA
+Member Schools
+Realignment Information
+Board of Directors
+Meeting Minutes
+Contact Us
+Employment and Internship Opportunities
+Staff
+Financials
+Hall of Fame
+NCHSAA Foundation, Inc.
+News
+Sports & Activities
+FALL SPORTS
+Cheerleading
+Cross Country
+Football
+Men Soccer
+Volleyball
+Women Golf
+Women Tennis
+WINTER SPORTS
+Basketball
+Indoor Track and Field
+Swimming and Diving
+Wrestling
+SPRING SPORTS
+Baseball
+Lacrosse
+Men Golf
+Men Tennis
+Softball
+Track and Field
+Women Soccer
+Schools
+Annual Forms for Schools
+Awards
+Athletic Directors
+Everything for Game Day
+Student-Athlete Eligibility
+Calendar
+Coaches
+Grant Opportunities
+Handbook
+Health & Safety
+School Directory
+Parents & Students
+Annual Forms for Student-Athletes
+Awards
+Calendar
+Everything for Game Day
+Handbook
+Health & Safety
+Scholarship Opportunities
+Student-Athlete Eligibility
+Student Programs
+Officials
+Becoming An Official
+Clinics, Exams, and Education
+Insurance Programs
+Regional Supervisors
+School Directory
+Media
+Brackets
+Broadcast Request Form
+Media Credentials
+Records Books
+Corporate Support
+Spring Championships
+Lacrosse
+Men’s Tennis
+Dual Team PPD
+Men’s Golf
+Track & Field
+Baseball
+Softball
+Women’s Soccer
+The Latest News
+2024 Men’s Golf Championships
+1A2A3A4A Warren three-peats; Mitchell defends 1A Championship Full Results WEST END – The Mitchell Mountaineers and Connor Warren repeated as…
+Read More
+WEEK 36 | 2023-24 ORTHOCAROLINA PERFORMANCE OF THE WEEK
+­­­Each week two athletes in the North Carolina High School Athletic Association are selected for the Performance of the Week…
+Read More
+2024 Men’s Individual Tennis Champions Crowned
+The North Carolina High School Athletic Association’s Men’s Individual Tennis 2024 Championships were decided on Saturday at four locations across…
+Read More
+2023-24 Commissioner’s Trophy Presented by Truist
+The Commissioner’s Trophy Awards are designed to recognize member schools’ athletic programs that do outstanding work in community service. Schools…
+Read More
+2023-24 Toby Webb Outstanding Coach Award
+The Toby Webb award is made possible through the generosity of gifts from individuals and companies to an endowment fund…
+Read More
+Upcoming Events
+Student-Athlete Focused
+Membership-Driven
+Brackets
+Championship Central
+Record Books
+MAIN
+(919) 240-7401
+FAX
+(919) 240-7399
+PHYSICAL ADDRESS
+222 Finley Golf Course Road
+Chapel Hill, NC 27517
+STAFF HOURS
+Monday thru Friday,
+7:30 am to 4:30 pm
+MAILING ADDRESS
+P.O. Box 3216
+Chapel Hill, NC 27515
+Popular searches:
+concussion
+physical form
+realignment

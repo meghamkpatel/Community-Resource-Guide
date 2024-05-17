@@ -1,0 +1,217 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'PPOs are the most common plan type. Forty-nine percent of covered workers are enrolled in PPOs, followed by HDHP/SOs (29%), HMOs (12%), POS plans (9%), and conventional plans (1%) [Figure 5.1]. All of these percentages are similar to the enrollment percentages in 2021. The percentage of covered workers enrolled in HDHP/SOs is similar to last<span class="readmore-ellipsis">…</span><a href="https://www.kff.org/report-section/ehbs-2022-section-5-market-shares-of-health-plans/" class="see-more light-beige no-float inline-readmore">More</a></p>'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Section 5: Market Shares of Health Plans - 10020 | KFF'}
+{'property': 'og:description', 'content': 'PPOs are the most common plan type. Forty-nine percent of covered workers are enrolled in PPOs, followed by HDHP/SOs (29%), HMOs (12%), POS plans (9%), and conventional plans (1%) [Figure 5.1]. All of these percentages are similar to the enrollment percentages in 2021. The percentage of covered workers enrolled in HDHP/SOs is similar to last…More'}
+{'property': 'og:url', 'content': 'https://www.kff.org/report-section/ehbs-2022-section-5-market-shares-of-health-plans/'}
+{'property': 'og:site_name', 'content': 'KFF'}
+{'property': 'article:modified_time', 'content': '2023-06-05T13:31:44+00:00'}
+{'property': 'og:image', 'content': 'https://www.kff.org/wp-content/uploads/2022/10/Figure-5-1.png?w=698'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:label1', 'content': 'Est. reading time'}
+{'name': 'twitter:data1', 'content': '1 minute'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.kff.org/wp-content/uploads/2023/04/3976_KFF_favicon_256x256_revised.png?w=256'}
+
+Body Text:
+Section 5: Market Shares of Health Plans - 10020 | KFF
+Home
+Topics
+Affordable Care Act
+COVID-19
+Global Health Policy
+Health Costs
+HIV/AIDS
+Medicaid
+Medicare
+Mental Health
+Patient and Consumer Protections
+Private Insurance
+Racial Equity and Health Policy
+Uninsured
+Women’s Health Policy
+Polling
+State Health Facts
+State Health Facts
+Custom State Reports
+KFF Health News
+Social Impact Media
+Peterson-KFF Health System Tracker
+Newsroom
+Newsroom
+News Releases
+Events
+Subscribe to Emails
+Cite Us/Reprint
+Media Contacts
+Join Our Team
+About Us
+About KFF
+From Drew Altman
+Our People
+Our Programs
+KFF Board
+Contact Us
+Support Our Work
+Conference Centers
+San Francisco, CA
+Washington, DC
+The independent source for health policy research, polling, and news.
+menu
+The independent source for health policy research, polling, and news.
+Donate
+Follow us
+Email
+Open Search...
+Search KFF.org
+Election 2024
+Abortion in the U.S.
+Affordable Care Act
+Home
+Mental Health
+2022 Employer Health Benefits Survey
+Section 5: Market Shares of Health Plans
+2022 Employer Health Benefits Survey
+Published:
+Oct 27, 2022
+Facebook
+Twitter
+LinkedIn
+Email
+Print
+Abstract
+Summary of Findings
+Survey Design and Methods
+Report
+Section 5: Market Shares of Health Plans
+PPOs are the most common plan type.
+Forty-nine percent of covered workers are enrolled in PPOs, followed by HDHP/SOs (29%), HMOs (12%), POS plans (9%), and conventional plans (1%) [
+Figure 5.1
+]. All of these percentages are similar to the enrollment percentages in 2021.
+The percentage of covered workers enrolled in HDHP/SOs is similar to last year (28%) and five years ago (28%), but higher than the percentage 10 years ago (19%). The percentage of covered workers enrolled in PPOs has decreased 7% over the past decade [
+Figure 5.1
+].
+The percentage of covered workers enrolled in HMOs (12%) is similar to the percentages last year (16%) and five years ago (14%).
+A larger share of covered workers are enrolled in HDHP/SOs than in HMOs in small and large firms [
+Figure 5.2
+].
+A similar share of covered workers in large firms and small firms are enrolled in HDHP/so plans (30% and 25%) [
+Figure 5.2
+]. Covered workers in small firms are more likely than covered workers in large firms to be enrolled in POS plans (18% vs. 6%) [
+Figure 5.2
+]. Covered workers in small firms are less likely than covered workers in large firms to be enrolled in PPO plans (44% vs. 51%)
+Plan enrollment patterns also differ across regions.
+HMO enrollment is significantly higher in the West (23%), and significantly lower in the Midwest (6%) [
+Figure 5.3
+].
+Covered workers in the Midwest (38%) are more likely to be enrolled in HDHP/SOs than workers in other regions, while covered workers in the West (22%) are less likely to be enrolled in HDHP/SOs [
+Figure 5.3
+].
+Figure 5.1: Distribution of Health Plan Enrollment for Covered Workers, by Plan Type, 1988-2022
+Figure 5.2: Distribution of Health Plan Enrollment for Covered Workers, by Plan Type and Firm Size, 2022
+Figure 5.3: Distribution of Health Plan Enrollment for Covered Workers, by Firm Size, Region, and Industry, 2022
+Section 4: Types of Plans Offered
+Section 6: Worker and Employer Contributions for Premiums
+Topics
+Mental Health
+Health Costs
+Private Insurance
+Coronavirus (COVID-19)
+Tags
+Employer Health
+Premiums
+Cost Sharing
+Telehealth
+Prescription Drugs
+Wellness Programs
+Coverage
+High Deductible Plans
+Retiree Coverage
+Employers
+Sections
+Section 1: Cost of Health Insurance
+Section 2: Health Benefits Offer Rates
+Section 3: Employee Coverage, Eligibility, and Participation
+Section 4: Types of Plans Offered
+Section 5: Market Shares of Health Plans
+Section 6: Worker and Employer Contributions for Premiums
+Section 7: Employee Cost Sharing
+Section 8: High-Deductible Health Plans with Savings Option
+Section 9: Prescription Drug Benefits
+Section 10: Plan Funding
+Section 11: Retiree Health Benefits
+Section 12: Health Screening and Health Promotion and Wellness Programs
+Section 13: Employer Practices, Telehealth, Provider Networks and Coverage for Mental Health Services
+DOWNLOAD
+SUMMARY OF FINDINGS
+REPORT
+TABLES - SECTION 5
+Also of Interest
+2023 Employer Health Benefits Survey
+Employer Health Benefits Annual Survey Archives
+2021 Employer Health Benefits Survey
+Get The Latest On Health Policy
+Sign Up For Email Alerts
+Your Email Address
+Sign Up
+Topics
+Affordable Care Act
+COVID-19
+Global Health Policy
+Health Costs
+HIV/AIDS
+Medicaid
+Medicare
+Mental Health
+Patient and Consumer Protections
+Private Insurance
+Racial Equity and Health Policy
+Uninsured
+Women’s Health Policy
+Sections
+Polling
+State Health Facts
+Graphics & Interactives
+Charts & Slides
+KFF Health News
+Social Impact Media
+Peterson-KFF Health System Tracker
+Newsroom
+News Releases
+Events
+Subscribe to Emails
+Cite Us/Reprint
+Media Contacts
+About Us
+From Drew Altman
+Our People
+Our Programs
+KFF Board
+Contact Us
+Support Our Work
+Join Our Team
+Privacy Policy
+Follow Us
+Email Alerts
+Facebook
+Instagram
+LinkedIn
+Threads
+X
+RSS Feeds
+YouTube
+© 2024 KFF
+Powered by
+WordPress VIP
+Citations and Reprints
+Privacy Policy
+KFF Headquarters: 185 Berry St., Suite 2000, San Francisco, CA 94107 | Phone 650-854-9400
+Washington Offices and Barbara Jordan Conference Center: 1330 G Street, NW, Washington, DC 20005 | Phone 202-347-5270
+www.kff.org | Email Alerts: kff.org/email | facebook.com/KFF | twitter.com/kff
+The independent source for health policy research, polling, and news,
+KFF is a nonprofit organization based in San Francisco, California.

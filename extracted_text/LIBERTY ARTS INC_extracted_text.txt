@@ -1,0 +1,114 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Liberty Arts | Artist Studios & Foundry'}
+{'property': 'og:title', 'content': 'Liberty Arts | Artist Studios & Foundry'}
+{'property': 'og:url', 'content': 'https://www.libertyartsnc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Liberty Arts is a Durham, NC non-profit art space. We offer studio rentals, classes in welding, metal-working, ceramics, and wood-working.'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/53272908e4b0674340819c9c/t/60f6d322fc0cb631bf1125e5/1626788643231/Liberty-Arts-Inline-Logo-COLOR.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '383'}
+{'itemprop': 'name', 'content': 'Liberty Arts | Artist Studios & Foundry'}
+{'itemprop': 'url', 'content': 'https://www.libertyartsnc.org'}
+{'itemprop': 'description', 'content': 'Liberty Arts is a Durham, NC non-profit art space. We offer studio rentals, classes in welding, metal-working, ceramics, and wood-working.'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/53272908e4b0674340819c9c/t/60f6d322fc0cb631bf1125e5/1626788643231/Liberty-Arts-Inline-Logo-COLOR.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/53272908e4b0674340819c9c/t/60f6d322fc0cb631bf1125e5/1626788643231/Liberty-Arts-Inline-Logo-COLOR.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Liberty Arts | Artist Studios & Foundry'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/53272908e4b0674340819c9c/t/60f6d322fc0cb631bf1125e5/1626788643231/Liberty-Arts-Inline-Logo-COLOR.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.libertyartsnc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'Liberty Arts is a Durham, NC non-profit art space. We offer studio rentals, classes in welding, metal-working, ceramics, and wood-working.'}
+{'name': 'description', 'content': 'Liberty Arts is a Durham, NC non-profit art space. We offer studio rentals, \r\nclasses in welding, metal-working, ceramics, and wood-working.'}
+{'name': 'p:domain_verify', 'content': '9b3b15ab533cc78361bf69d9422c2fc4'}
+{'name': 'google-site-verification', 'content': 'Fs3zufhZ4xxvH3b7pYqceEuVZnlXDr2bONY3orVZItQ'}
+{'name': 'google-site-verification', 'content': 'ggKslmDx3eWwnx60WC5Ovs7gobeUwunzifpNhaOCmH0'}
+
+Body Text:
+Liberty Arts | Artist Studios & Foundry
+About
+Studio Artists
+Foundry
+Board Members
+Partners
+Major the Bull
+Iron Heroes
+The little gallery
+Studios
+Glass
+Metal
+Pottery
+Artist Application
+Classes & Rentals
+Current Classes
+Teacher Application
+Studios for Rent
+Rental Application
+Rental Information
+Rental Calendar
+News & Events
+Upcoming Events
+Past Events
+Newsletter Archive
+Donate
+Contact
+Info & Location
+Volunteer
+Sponsor
+About
+Studio Artists
+Foundry
+Board Members
+Partners
+Major the Bull
+Iron Heroes
+The little gallery
+Studios
+Glass
+Metal
+Pottery
+Artist Application
+Classes & Rentals
+Current Classes
+Teacher Application
+Studios for Rent
+Rental Application
+Rental Information
+Rental Calendar
+News & Events
+Upcoming Events
+Past Events
+Newsletter Archive
+Donate
+Contact
+Info & Location
+Volunteer
+Sponsor
+ARTIST STUDIOS & FOUNDRY
+• Durham, NC •
+• GLASSBLOWING • POTTERY • METALWORKING •
+CLASSES + PUBLIC ART EVENTS
+Support Liberty ARts & MAKE A DONATION!
+Liberty Arts is a registered 501(c)(3) nonprofit organization dedicated to creating experiences that enhance artistic growth and community building through creative practice and collaboration.
+ARTIST SPACE AVAILABLE
+TEACHING APPLICATION
+Subscribe to Our Newsletter
+Would you like to know when our next event is happening? Sign up below!
+First Name
+Last Name
+Email Address
+Sign Up
+We will NEVER sell or share your address.
+Thank you!
+ANNUAL  Sponsors
+2023 IRON POUR SPONSORS
+Friends & partnerships
+Support Liberty Arts
+Back to Top
+Artist Portal
+Liberty Arts, 918 Pearl Street, Durham, NC, 27701, United States
+919.294.8006
+info@libertyartsnc.org
+Liberty Arts is a registered 501(c)(3) nonprofit organization
