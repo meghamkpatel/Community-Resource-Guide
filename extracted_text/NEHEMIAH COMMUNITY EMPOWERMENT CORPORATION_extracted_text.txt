@@ -1,0 +1,168 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': ''}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '4212f09a-112f-4c15-8f57-e322c25d3a5f'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'fb9b6b09-0fdb-4073-b299-354eec66b1af'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '2001'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'The Nehemiah Community Empowerment Center is a non-profit offering STEM and robotics exposure. Food pantry services, workforce development and apprenticeship training.'}
+{'property': 'og:title', 'content': 'Non-Profit | Nehemiah Community Empowerment Center Inc | Greensboro'}
+{'property': 'og:description', 'content': 'The Nehemiah Community Empowerment Center is a non-profit offering STEM and robotics exposure. Food pantry services, workforce development and apprenticeship training.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/dbbb00_f9e2ca3ab4a7437692a84e2fd6edb77b%7Emv2.png/v1/fit/w_2500,h_1330,al_c/dbbb00_f9e2ca3ab4a7437692a84e2fd6edb77b%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.nehemiahcec-gso.org'}
+{'property': 'og:site_name', 'content': 'Nehemiah CEC '}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'robotics, camp, summer, computer training, STEM, apprenticeship'}
+{'name': 'google-site-verification', 'content': '-q9Izw6UXsytUsAki6_6MzMz_SZOAU4M56QPElQcAYc'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Non-Profit | Nehemiah Community Empowerment Center Inc | Greensboro'}
+{'name': 'twitter:description', 'content': 'The Nehemiah Community Empowerment Center is a non-profit offering STEM and robotics exposure. Food pantry services, workforce development and apprenticeship training.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/dbbb00_f9e2ca3ab4a7437692a84e2fd6edb77b%7Emv2.png/v1/fit/w_2500,h_1330,al_c/dbbb00_f9e2ca3ab4a7437692a84e2fd6edb77b%7Emv2.png'}
+
+Body Text:
+Non-Profit | Nehemiah Community Empowerment Center Inc | Greensboro
+top of page
+NEHEMIAH COMMUNITY EMPOWERMENT CENTER INC
+Log In
+Donate
+Home
+About Us
+Donors/Partners
+Programs
+STEM Academy
+Teen Apprenticeship
+FRC Robotics
+FLC Robotics
+FLE Robotics
+Phenomenal Women in STEM
+Adult Apprenticeship
+FRC-8757
+Geodebot Shop
+Events
+STEM Birthday Parties
+Fundraisers
+Facility Usage Form
+News
+Success Stories
+Shop IT
+IT Services
+Device Warranty
+Contact Us
+Careers
+Book an Appointment
+Guilford County's 1st
+WozED STEM Career Pathway
+Community Center
+OUR MISSION IS
+TO SERVE THE COMMUNITY
+Nehemiah Empowerment Community Center is a non-profit organization founded in 2008 focused on empowering and enriching the lives of at-risk youth, teens and adults in the communities we serve. Our focus is on STEM, robotic and I.T. career exploration.  We are creating career awareness and diversity in these lucrative fields.  Through our impact, we are changing lives.
+The Nehemiah Center knows that our strength lies not only in the words we stand by, but most importantly through the actions of our initiatives.
+​
+Our STEM motto is:
+EDUCATING FOR THE 21st CENTURY
+& BEYOND!
+Learn More
+Programs We Offer
+STEM ACADEMY
+Spring Break, Summer Camp and After-School Programs for youth
+6-15
+LEARN MORE
+TEEN APPRENTICESHIP
+Basic PC Training Apprenticeship & Robotics for teens 13-17
+LEARN MORE
+150
+YOUTH
+SERVED ANNUALLY
+16
+YEARS SERVING THE COMMUNITY
+20+
+CORPORATE SPONSORS & DONORS
+5
+PROGRAMS WE OFFER FOR ENRICHMENT
+PHENOMENAL WOMEN IN STEM
+CompTIA & GOOGLE-based training for women looking to explore  a career in I.T.
+LEARN MORE
+ADULT APPRENTICESHIP
+CompTIA & Google IT Generalist Training for ages 18+
+LEARN MORE
+FRC ROBOTICS
+Are you a teen and like to tynker, write code or design
+mechanical devices.
+Do we have something for you!
+Join our team
+FRC 8757 Geodebots FIRST Robotics Team.
+Click below to learn more
+LEARN MORE
+HOW WE IMPACT COMMUNITIES
+Enrich
+We found our place in helping our local communities by providing resources to develop soft and hard skills. Our mission is to increase the quality of individuals seeking workforce development.
+Thereby developing more qualified candidates when seeking employment.
+Empower
+Nehemiah's mission is to produce confident skilled talent for the workforce. Our training program ensures you are equipped with the necessary skills to excel and flourish into your desired career.
+​
+CERTIFICATION IS THE KEY!
+Educate
+We are a CompTIA certified
+Academy Partner. Our course of study follows the protocols of modern technology. State-of-the-art learning and hands-on experience to create a intuitive learning experience.
+​
+WE ARE EDUCATING FOR THE 21st CENTURY & BEYOND!
+No upcoming events at the moment
+A BIG THANK YOU TO OUR PROUD PARTNERS & SPONSORS
+(check out our full list on donors/parnter page)
+Join Our Newsletter
+Get updates on how we are REBUILDING & RESTORING lives.
+One community and one family at a time.
+Join
+Thanks for submitting!
+SUPPORT OUR MISSION TO REBUILD AND RESTORE COMMUNITIES
+Nehemiah has been providing STEM and Workforce development training for over 16  years. We have enjoyed watching the growth and success of our youth and adults. We are passionate that with the right support system and the right people in place we can accomplish our mission of rebuilding and restoring our communities and families.
+Support our community builiding initiative by donating from your heart. No matter the amount, your donation will change and impact a child's life - a child's future.
+​
+Thanks for your support!
+PayPal Giving Fund Donation
+Enroll in our programs today!
+Apply Now
+NEHEMIAH COMMUNITY EMPOWERMENT CENTER INC
+@ Copyright 2024. All Rights Reserved.
+Menu
+Home
+About Us
+Donors/Partners
+Programs
+STEM Academy
+Teen Apprenticeship
+FRC Robotics
+FLC Robotics
+FLE Robotics
+Phenomenal Women in STEM
+Adult Apprenticeship
+FRC-8757
+Geodebot Shop
+Events
+STEM Birthday Parties
+Fundraisers
+Facility Usage Form
+News
+Success Stories
+Shop IT
+IT Services
+Device Warranty
+Contact Us
+Careers
+Book an Appointment
+Location
+311 Creek Ridge Road Greensboro NC, 27406
+Opening Hours
+Mon - Fri: 10am - 6pm
+Contact
+336-324-7902
+admin@nehemiahcec-gso.org
+Social Media
+bottom of page

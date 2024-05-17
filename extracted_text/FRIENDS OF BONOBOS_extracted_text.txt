@@ -1,0 +1,153 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'name': 'google-site-verification', 'content': 'APx5NJcsTaXfLtzAjqAswhkABeBeCAfgd0HxlVinicI'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '551e0ca2-1f94-4ba4-973b-f23c88fe4fc9'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'dddf221d-aa67-4753-997e-97ab397f0948'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '3648'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "Friends of Bonobos | Les Amis des Bonobos du Congo (ABC) rescues bonobo orphans and cares for them at Lola ya Bonobo, the only sanctuary for endangered bonobos. You can help! ABC is the only organization that has rewilded bonobos. Bonobos, the gentlest great apes, are humans' closest relatives."}
+{'property': 'og:title', 'content': 'Friends of Bonobos | We save bonobos and their Congo rainforest home'}
+{'property': 'og:description', 'content': "Friends of Bonobos | Les Amis des Bonobos du Congo (ABC) rescues bonobo orphans and cares for them at Lola ya Bonobo, the only sanctuary for endangered bonobos. You can help! ABC is the only organization that has rewilded bonobos. Bonobos, the gentlest great apes, are humans' closest relatives."}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/95bafd_e75944172dc7402fa1fe3c84423695f9%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/95bafd_e75944172dc7402fa1fe3c84423695f9%7Emv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.bonobos.org'}
+{'property': 'og:site_name', 'content': 'Bonobos'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'LolaYaBonobo'}
+{'name': 'google-site-verification', 'content': 'fjaVFF9Hgt3CoxNYnUBElZzX_nApnJmmvKtleupiw-4'}
+{'property': 'fb:admins', 'content': 'LolaYaBonobo'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Friends of Bonobos | We save bonobos and their Congo rainforest home'}
+{'name': 'twitter:description', 'content': "Friends of Bonobos | Les Amis des Bonobos du Congo (ABC) rescues bonobo orphans and cares for them at Lola ya Bonobo, the only sanctuary for endangered bonobos. You can help! ABC is the only organization that has rewilded bonobos. Bonobos, the gentlest great apes, are humans' closest relatives."}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/95bafd_e75944172dc7402fa1fe3c84423695f9%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/95bafd_e75944172dc7402fa1fe3c84423695f9%7Emv2.jpg'}
+
+Body Text:
+Friends of Bonobos | We save bonobos and their Congo rainforest home
+top of page
+BONOBOS
+WHAT'S A BONOBO?
+MEET THE BONOBOS
+BONOBO VIDEOS
+BONOBOS FOR KIDS
+STRATEGY
+THE BIG PICTURE
+RESCUE & CARE
+REWILD & PROTECT
+EDUCATION & AWARENESS
+COMMUNITY DEVELOPMENT
+ABOUT
+MISSION
+TEAM
+VISIT
+YOUR IMPACT
+BLOG
+SHOP
+MORE WAYS TO GIVE
+DONATE MONTHLY
+GIVE FROM YOUR DAF
+DOUBLE YOUR DONATION
+SPONSOR A BONOBO
+GIVE CRYPTO
+MORE WAYS TO GIVE
+More...
+Use tab to navigate through the menu items.
+GIVE
+FR
+We save bonobos and their rainforest home.
+JOIN US
+Bonobos could go extinct in our lifetime. We're on a mission to stop that.
+Bonobos are unique
+These great apes are peaceful, cooperative, and kind. In bonobo society, females are in charge.
+We share 98.7% of our DNA with them and in many ways, they represent the best side of human nature.
+LEARN MORE
+What we do
+​We have a comprehensive and long-term approach to bonobo conservation.
+We provide rescue, sanctuary and rewilding to endangered bonobos. We save rainforest where bonobos live. We work with communities and government to tackle the root causes of bonobo endangerment. We educate and raise awareness for bonobos and their plight locally and globally.
+Rescue & Sanctuary
+At Lola ya Bonobo sanctuary, orphaned bonobos are rescued from the illegal trade in wildlife. Bonobos are nursed back to health and cared for as long as needed, sometimes for the rest of their lives.
+LEARN MORE
+Rewild & Protect
+At Ekolo ya Bonobo Community Reserve, bonobos are released back into the wild and given long-term protection. We conserve their rainforest home and work with local communities to lessen poverty and raise bonobo awareness.
+LEARN MORE
+Tackle Root Causes
+The bushmeat trade is tied to extreme poverty. We help communities build a better future through conservation instead of hunting. We educate people about bonobos and their plight within the DRC and globally.
+LEARN MORE
+Want bonobo videos?
+Sign up to get 6 days of fun and informative videos about our peaceful cousins.
+SIGN ME UP!
+About Us
+World's only bonobo sanctuary.
+650,000 people participated in local education programs
+World's only bonobo rewilding program.
+10 million people reached through global awareness program
+120,000 acres of rainforest saved
+"I am proud to support Friends of Bonobos in their work to protect and rehabilitate Bonobos. When I learned about the incredible beauty, compassion and intellect of Bonobos I was simultaneously in awe and in despair at how little the world knows of these creatures . Thank you FOB for your continued efforts!"
+Amanda Seales
+Join Our Quest to Save Bonobos
+DONATE NOW
+Catch up on the latest
+Aggressive Bonobos? We’re Sticking with ‘Hippie Ape’
+Want a healthy diet? Eat more like a bonobo!
+Exploiting Apes for Entertainment
+Want bonobos in your inbox?
+SIGN ME UP!
+BONOBOS
+What's a Bonobo?
+Meet the Bon
+obos
+Bonobo Videos
+Bonobos for Kid
+s
+Blog
+Visit the Sa
+nctuary
+FA
+Q
+STRATEGY
+The Big Picture
+Rescue & Care
+Rewild & Protect
+Education & Awareness
+Community Development
+ABOUT
+Mission
+Team
+Team-DRC
+Leadership-DRC
+Foun
+der
+Contact
+Work With Us
+TAKE ACTION
+Sponsor a Bonobo
+Donate
+D
+onate Monthly
+Double Your Donation
+Give Crypto
+More Ways to Give
+Your Impact
+GIVE
+SHOP
+Friends of Bonobos
+•
+Address
+P.O. Box 2652 Durham, NC 27715
+•
+Telephone
++1-919-717-9572  •
+E-mail
+info@bonobos.org
+Friends of Bonobos is registered in the United States as a 501(c)(3) charity (EIN: 20-0347301). Donations are tax deductible as permitted by law.
+© 2023 by Friends of Bonobos/Lola ya Bonobo-US
+Contact
+|
+Privacy Policy
+bottom of page

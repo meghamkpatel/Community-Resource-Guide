@@ -1,0 +1,83 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Mary V Taylor Foundation'}
+{'property': 'og:title', 'content': 'Mary V Taylor Foundation'}
+{'property': 'og:url', 'content': 'https://www.maryvtaylorfoundation.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/600a5a9b90fa23772e2d172a/t/6018a126cdbbf2570d61483a/1612226857182/MaryVTaylor_LOGO+in+red.png?format=1500w'}
+{'property': 'og:image:width', 'content': '897'}
+{'property': 'og:image:height', 'content': '591'}
+{'itemprop': 'name', 'content': 'Mary V Taylor Foundation'}
+{'itemprop': 'url', 'content': 'https://www.maryvtaylorfoundation.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/600a5a9b90fa23772e2d172a/t/6018a126cdbbf2570d61483a/1612226857182/MaryVTaylor_LOGO+in+red.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/600a5a9b90fa23772e2d172a/t/6018a126cdbbf2570d61483a/1612226857182/MaryVTaylor_LOGO+in+red.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Mary V Taylor Foundation'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/600a5a9b90fa23772e2d172a/t/6018a126cdbbf2570d61483a/1612226857182/MaryVTaylor_LOGO+in+red.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.maryvtaylorfoundation.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Mary V Taylor Foundation
+Top
+Top
+0
+Skip to Content
+Home
+Building a Vision
+MVT Facility
+Program Services
+About
+Services
+Bull City Blaze
+Donate
+Open Menu
+Close Menu
+Home
+Building a Vision
+MVT Facility
+Program Services
+About
+Services
+Bull City Blaze
+Donate
+Open Menu
+Close Menu
+Home
+Folder:
+Building a Vision
+Back
+MVT Facility
+Program Services
+About
+Folder:
+Services
+Back
+Bull City Blaze
+Donate
+Promote academic excellence. Increase positive social skills. Promote a healthy lifestyle and physical fitness.
+IT STARTS WITH YOU!
+Learn More About Us
+The Mary V. Taylor Foundation is a community organization located in Durham, North Carolina, with a mission to build youth in sportsmanship and leadership through athletics with an emphasis on education, basic fundamentals, and a dedicated work ethic.
+The Future Of North Durham
+This facility will be the hub of all activities such as counseling, a nurse's station, and training offices. MVT's athletes will experience a customized community athletic program that helps them to become the most competitive athletes in their sport.
+Learn More
+Programs Offered
+MVTF extends a safe, structured learning environment that encourages personal growth and development for at-risk youth while placing an emphasis on the student-athlete model.
+Learn More
+Bull City Blaze
+Find out about our mission, methods, and the results of our decades of advocacy.
+Learn More
+Take Action
+Ready to take the next step? You can become a contributor to our cause, or participate yourself.
+Partner with us
+Our holistic approach is to address the
+mind, body, and soul
+to encourage optimal peak performance in the educational, athletic, and social environments.
+P. O. Box 12341 Research Triangle Park, North Carolina 27709
++1 919-730-1594 |
+mvtfoundation@gmail.com
+All Rights Reserved © The Mary V. Taylor Foundation

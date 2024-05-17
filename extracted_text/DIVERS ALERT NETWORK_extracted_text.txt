@@ -1,0 +1,168 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'DAN promotes diver safety worldwide through research, medicine, education & emergency support. Get answers: What should divers do for their own safety?'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home'}
+{'property': 'og:description', 'content': 'DAN promotes diver safety worldwide through research, medicine, education & emergency support. Get answers: What should divers do for their own safety?'}
+{'property': 'og:url', 'content': 'https://dan.org/'}
+{'property': 'og:site_name', 'content': 'Divers Alert Network'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/DiversAlertNetwork'}
+{'property': 'article:modified_time', 'content': '2024-05-01T14:50:43+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@DANglobalsafety'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.126.0'}
+{'name': 'generator', 'content': 'MasterSlider 3.7.8 - Responsive Touch Image Slider'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://dan.org'}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 6.7.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+
+Body Text:
+Home - Divers Alert Network
+Skip to content
+menu
+Divers Alert Network
+DAN Store
+Alert Diver
+Blog
+Join/Renew
+Login
+Donate
+Search
+Membership & Insurance
+Membership
+Dive Accident Insurance
+Travel Insurance
+Liability Insurance
+Equipment Insurance
+Health & Medicine
+Medical Services
+Health Resources
+Travelers Medical Guide
+COVID-19
+Safety & Prevention
+Return To Diving Safely
+Diver Safety
+Dive Operation Safety
+Safety Tips Guide
+Chamber Safety
+Report an Incident
+Research & Reports
+Current Research
+Completed Studies
+Get Involved
+Publication Library
+Grants & Collaboration
+Education & Events
+First Aid Courses
+E-Learning
+Become a DAN Instructor
+Find a DAN Instructor
+Shows and Events
+Professional Programs
+Liability Insurance
+Business Membership
+Student Membership
+Referral Rewards
+Preferred Pricing
+Safety Resources
+Program Resources
+Videos
+About DAN
+The Organization
+News & Media
+Donate
+Contact Us
+Home
+HELP IMPROVE CARE FOR INJURED DIVERS
+Donate Today
+PLEASE DONATE TO DAN
+YOUR DIVE SAFETY ASSOCIATION
+Join Today
+Renew Now
+MEDICAL | SAFETY | RESEARCH | INSURANCE
+DIVE ACCIDENT INSURANCE
+Compare Coverage
+PROVEN PLANS. LOW ANNUAL RATES.
+TRAVEL INSURANCE
+Explore Plans
+TRIP & ANNUAL PLANS FOR ANY ADVENTURE
+INSURANCE FOR PROS
+View Coverage
+SAVE ON YOUR POLICY
+expand_more
+Programs & Services
+Membership
+DAN now offers two levels of membership to give divers more choices than ever before. Select Enhanced Membership with higher coverage limits and a print subscription to Alert Diver magazine or choose Regular membership that provides proven benefits for dive travelers.
+Dive Accident Insurance
+DAN dive accident insurance offers divers an affordable way to protect themselves against unpredictable expenses associated with diving accidents and dive travel. Plans pay 100% of eligible accident medical expenses up to US $500,000, and some cover nondiving and named water sports accidents as well as diving accidents.
+Travel Insurance
+With an option available for one trip or many, DAN ’s travel insurance programs feature good rates, great coverage, an optional cancel-for-any-reason provision and coverage for preexisting medical conditions.
+Liability Insurance
+DAN RRG offers professional, group professional, and general liability insurance plans that provide worldwide coverage at attractive rates. New boat and vessel coverage and commercial property insurance are also available for dive businesses.
+Membership
+Join more than 250,000 of your fellow scuba divers who have already decided to become members.
+Join
+Renew Today
+Health Resources
+7 Mistakes Divers Make & How to Avoid Them
+Smart Guides
+Guidelines for Diabetes and Recreational Diving
+Health & Safety Guidelines
+Inner-Ear Barotrauma (IEBT)
+Diseases & Conditions
+Newsletter Signup
+If you are not a DAN member and want to receive our monthly e-newsletter, signup today!
+Each issue features up-to-date information about diver health and safety.
+Sign-Up
+Recent Posts
+See All Posts
+DAN Emergency Hotline Celebrates Five Years of New Zealand Operations featured image
+DAN Emergency Hotline Celebrates Five Years of New Zealand Operations
+May 15, 2024
+Divers know they can trust the DAN Emergency Hotline to provide crucial support during diving emergencies. Trained medics and physicians are on call 24 hours a day, 365 days a year, ensuring divers never have to face an emergency alone — no matter the time or location.
+SPONSORED: Welcome Back! Thailand Aggressor Offering Two Andaman Sea Itineraries  featured image
+SPONSORED: Welcome Back! Thailand Aggressor Offering Two Andaman Sea Itineraries
+April 15, 2024
+Luxury Liveaboard Cruises Dive Surin, Similan, and Lanta National Parks Augusta, Georgia — Thailand is often called the “land of smiles.” Adventure travelers have a lot to smile about as […]
+Plura Cave Accident: Preliminary Analysis featured image
+Plura Cave Accident: Preliminary Analysis
+April 10, 2024
+As part of its injury and fatality monitoring initiatives, Divers Alert Network is in the process of collecting all necessary information to understand the events leading up to and potentially […]
+Home
+Site Map
+Policies
+Terms & Conditions
+Advertise
+Contact Us
+© DAN, Inc. All rights reserved.
+Facebook
+Instagram
+Twitter
+YouTube
+Open toolbar
+Accessibility Tools
+Accessibility Tools
+Increase Text
+Increase Text
+Decrease Text
+Decrease Text
+Grayscale
+Grayscale
+High Contrast
+High Contrast
+Negative Contrast
+Negative Contrast
+Light Background
+Light Background
+Links Underline
+Links Underline
+Readable Font
+Readable Font
+Reset
+Reset
+Contact Us
+Contact Us

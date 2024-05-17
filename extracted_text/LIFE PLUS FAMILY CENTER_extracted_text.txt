@@ -1,0 +1,55 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'imagetoolbar', 'content': 'no'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=10,chrome=1'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+
+Body Text:
+lifeplusfamily.org
+사역소개
+About
+사역소개(About)
+섬기는 이들(Staff)
+성경적상담 수료과정
+Biblical counseling
+성경적상담 수료과정 (Biblical counseling)
+등록하기 (Registration)
+상담 사역
+counseling
+교육 사역
+Education
+이벤트 안내
+Events
+이벤트 안내(Events)
+이벤트 갤러리(Gallery)
+이벤트 동영상(Video)
+글 모음
+Columns
+칼럼(Columns)
+좋은 글(Columns)
+가정 관련 뉴스(News)
+후원 및 연락처
+Donation&Contact
+연락처(Contact)
+후원안내(Donation)
+협력
+Life Plus Family Center
+address
+Life Plus Family Center
+5045 Chin Page Rd.
+Durham, NC 27703
+Phone:
++1 919-808-1911
+E-mail:
+lifeplusfamilycenter@gmail.com
+contact form
+Name *
+Email Address *
+Phone
+Message
+* required fields
+Copyright ©
+|
+Login
+Life Plus Family Center

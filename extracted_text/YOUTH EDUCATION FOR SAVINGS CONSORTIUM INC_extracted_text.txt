@@ -1,0 +1,45 @@
+Meta Information:
+{'property': 'og:site_name', 'content': 'MY SITE'}
+{'property': 'og:title', 'content': 'MY SITE'}
+{'property': 'og:description', 'content': 'The Youth Education for Savings (YES) Consortium engages youth k-12 and young adults up to age 24 on essential skills focusing on\xa0 money management and life skill development to equip and enable...'}
+{'property': 'og:image', 'content': 'http://yesconsortium.org/uploads/3/4/2/5/34250151/published/yes-logo-rgb.png?1711476598'}
+{'property': 'og:image', 'content': 'http://yesconsortium.org/uploads/3/4/2/5/34250151/published/ig-logo.png?1710869357'}
+{'property': 'og:image', 'content': 'http://yesconsortium.org/uploads/3/4/2/5/34250151/published/x-logo.png?1710869502'}
+{'property': 'og:url', 'content': 'http://yesconsortium.org/'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+MY SITE - Welcome
+MY SITE
+Welcome
+About YES Consortium
+Our 360 Programs
+Ventures In STEM
+Consortium In Action
+Contact
+WELCOME
+The Youth Education for Savings (YES) Consortium engages youth k-12 and young adults up to age 24 on essential skills focusing on
+money management and life skill development to equip and enable them to make sound decisions
+.
+​
+YES’s primary purpose is to combat social-economic inequity and deterioration through financial literacy and enrichment programming.  YES Consortium's balanced and realistic implementation approach creates an environment that offers youth an
+applicable
+skill set for real-life sustainable and enriching lives now and in their future.
+"The YES program has been working and inspiring children just like me to save money and even begin my career as an entrepreneur.
+​
+​- Diamond Estes, HS Grad Class of 2017
+Learn how YES makes an impact in the community.
+See the Consortium in Action.
+Find us on Instagram
+Find us on X
+For more information email programs @yesconsortium.org
+or call 919-809-5896
+Web Hosting
+by FatCow
+Welcome
+About YES Consortium
+Our 360 Programs
+Ventures In STEM
+Consortium In Action
+Contact

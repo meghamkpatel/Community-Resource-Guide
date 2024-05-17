@@ -1,0 +1,247 @@
+Meta Information:
+{'data-react-helmet': 'true', 'name': 'description', 'content': 'A drive-in movie event complete with local food trucks is happening this weekend in the parking lot of Frontier RTP'}
+{'data-react-helmet': 'true', 'name': 'keywords', 'content': 'food truck flix, rtp, frontier rtp food truck flix, frontier rtp drive in movie, drive in movie durham, drive in movie raleigh'}
+{'data-react-helmet': 'true', 'name': 'tags', 'content': 'social-distancing,entertainment,movie,movie-theater,business,Coronavirus,research-triangle-park,AC-restaurant-week,nonprofit'}
+{'data-react-helmet': 'true', 'name': 'apple-itunes-app', 'content': 'app-id=408441304, affiliate-data=ct=wtvd-smart-banner&pt=302756, app-argument=https://abc11.com/story/6264818'}
+{'data-react-helmet': 'true', 'property': 'fb:app_id', 'content': '476025212522972'}
+{'data-react-helmet': 'true', 'property': 'fb:pages', 'content': '57780972549'}
+{'data-react-helmet': 'true', 'property': 'og:site_name', 'content': 'ABC11 Raleigh-Durham'}
+{'data-react-helmet': 'true', 'property': 'og:url', 'content': 'https://abc11.com/food-truck-flix-rtp-frontier-drive-in-movie/6264818/'}
+{'data-react-helmet': 'true', 'property': 'og:title', 'content': "Triangle's first food truck drive-in movie theater opening in RTP this weekend"}
+{'data-react-helmet': 'true', 'property': 'og:description', 'content': 'A drive-in movie event complete with local food trucks is happening this weekend right in RTP! '}
+{'data-react-helmet': 'true', 'property': 'og:image', 'content': 'https://cdn.abcotvs.com/dip/images/6268326_062520-wtvd-Amber-430-drive-in-food-truck-event-vid.jpg?w=1600'}
+{'data-react-helmet': 'true', 'property': 'og:type', 'content': 'article'}
+{'data-react-helmet': 'true', 'name': 'twitter:site', 'content': '@ABC11_WTVD'}
+{'data-react-helmet': 'true', 'name': 'twitter:creator', 'content': '@ABC11_WTVD'}
+{'data-react-helmet': 'true', 'name': 'twitter:url', 'content': 'https://abc11.com/food-truck-flix-rtp-frontier-drive-in-movie/6264818/'}
+{'data-react-helmet': 'true', 'name': 'twitter:title', 'content': "Triangle's first food truck drive-in movie theater opening in RTP this weekend"}
+{'data-react-helmet': 'true', 'name': 'twitter:description', 'content': 'A drive-in movie event complete with local food trucks is happening this weekend right in RTP! '}
+{'data-react-helmet': 'true', 'name': 'twitter:card', 'content': 'summary_large_image'}
+{'data-react-helmet': 'true', 'name': 'twitter:image', 'content': 'https://cdn.abcotvs.com/dip/images/6268326_062520-wtvd-Amber-430-drive-in-food-truck-event-vid.jpg?w=1600'}
+{'data-react-helmet': 'true', 'name': 'twitter:app:name:iphone', 'content': 'wtvd'}
+{'data-react-helmet': 'true', 'name': 'twitter:app:id:iphone', 'content': '408441304'}
+{'data-react-helmet': 'true', 'name': 'twitter:app:name:googleplay', 'content': 'wtvd'}
+{'data-react-helmet': 'true', 'name': 'twitter:app:id:googleplay', 'content': 'com.abclocal.wtvd.news'}
+{'data-react-helmet': 'true', 'property': 'article:published_time', 'content': '2020-06-24T21:56:00Z'}
+{'data-react-helmet': 'true', 'property': 'article:modified_time', 'content': '2020-06-26T00:00:00Z'}
+{'data-react-helmet': 'true', 'property': 'article:section', 'content': 'entertainment'}
+{'data-react-helmet': 'true', 'name': 'title', 'content': "Triangle's first food truck drive-in movie theater opening in RTP this weekend"}
+{'data-react-helmet': 'true', 'name': 'medium', 'content': 'website'}
+{'data-react-helmet': 'true', 'name': 'robots', 'content': 'max-image-preview:large'}
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'initial-scale=1.0, maximum-scale=1.0, user-scalable=no'}
+{'http-equiv': 'x-ua-compatible', 'content': 'IE=edge,chrome=1'}
+{'property': 'og:locale', 'content': 'en_US'}
+
+Body Text:
+Food Truck Flix: Triangle's first food truck drive-in movie event happening at Frontier RTP this weekend - ABC11 Raleigh-Durham
+WATCH
+LIVE
+Raleigh
+Durham
+Fayetteville
+Surrounding Area
+EDIT
+Log In
+Watch
+Apps
+Local News
+Raleigh
+Durham
+Fayetteville
+Surrounding Area
+Categories
+Traffic
+U.S. & World
+North Carolina
+ABC11 I-Team
+ABC11 Troubleshooter
+Entertainment
+Sweepstakes
+Weather
+Sports
+Politics
+Health
+Neighborhood Safety Tracker
+ABC11 Boomtowns
+Shop
+Station Info
+About ABC11
+Contact Us
+Send us your photos & videos
+ABC11 Together
+Events Calendar
+TV Listings
+Jobs
+shows
+ABC11 Live Newscasts
+ABC11 Perspectives
+Raleigh Equity Report
+Durham Equity Report
+LOCALISH
+Our America
+Follow Us:
+Welcome,
+Manage MyDisney Account
+Log Out
+Arts & Entertainment
+Triangle's first food truck drive-in movie theater opening in RTP this weekend
+By
+Emily Padula
+Friday, June 26, 2020
+A drive-in movie event complete with local food trucks is happening this weekend right in RTP!
+DURHAM, N.C.  (WTVD) --
+The Triangle's first food truck drive-in movie theater will open this weekend, right at a parking lot in RTP.
+The parking lot of
+Frontier RTP
+will turn into a socially distanced drive-in movie theater complete with a selection of local food trucks.
+It's all happening in the parking lot of 700 Park Offices Drive in RTP on Friday and Saturday.
+Friday, June 26
+Movie:
+Space Jam
+Food Trucks:
+Chirba Chirba, Gussy's and Bruster's Ice Cream
+Saturday, June 27
+Movie:
+Forrest Gump
+Food Trucks:
+Bulkogi, Chick N Que and Bruster's Ice Cream
+The lot opens at 7 p.m with the flick starting at 9 p.m.
+UP NEXT:
+Friday, July 3
+Movie: Ratatouille
+Location: Focus Church in Raleigh
+Food Trucks: Gussy's and Chick-N-Que
+Saturday, July 4
+Movie: Top Gun
+Location: Focus Church
+Food Trucks: NC Bulkogi and Chick-N-Que
+Friday, July 10
+Movie: Grease
+Location: Frontier RTP
+Saturday, July 11
+Movie: Coco
+Location: Frontier RTP
+The movies are free but you will have the
+buy a parking pass
+for you car. The parking pass fee is $20, no matter the car size or amount of people inside. Those without a parking pass purchased in advance cannot attend.
+All profits from the parking passes will be donated to a different nonprofit each month.
+This month's cause is Emancipate NC, which supports North Carolina's people as they free themselves from mass incarceration and structural racism.
+RELATED: With built-in social distancing, North Carolina drive-in movie theaters see business boom amid COVID-19 pandemic
+You can order food ahead of time online or when you arrive. Any food purchases will be delivered to your car window.
+The event asks guests stay in their cars for the duration of the movie except for using the restroom.
+RELATED: Drive-up movies and to-go DIY art kits: NC businesses get creative with social distancing amid COVID-19 pandemic
+Report a correction or typo
+Copyright © 2024 WTVD-TV. All Rights Reserved.
+Related Topics
+ARTS & ENTERTAINMENT
+DURHAM
+RESEARCH TRIANGLE PARK
+NC
+SOCIAL DISTANCING
+MOVIE
+MOVIE THEATER
+BUSINESS
+CORONAVIRUS
+RESEARCH TRIANGLE PARK
+AC RESTAURANT WEEK
+NONPROFIT
+Entertainment
+Halle Bailey, 'The Little Mermaid' among BET Awards nominees
+3 hours ago
+A look back at 'The Good Doctor' with Freddie Highmore
+3 hours ago
+Two new seasons of 'Shōgun' series are in development
+Venu Sports: Disney, media partners unveil forthcoming stream brand
+Watch Live
+ON NOW
+Top Stories
+Cutting UNC's DEI funding could have widespread effect
+3 hours ago
+Firefighter, wife accused of selling drugs at Raleigh clubs
+UNC releases action recommendations following deadly campus shooting
+Triangle group to host mental health, self-care event for mothers
+2 hours ago
+Fayetteville veteran opens up about overcoming homelessness
+3 hours ago
+Verizon shows off special technology ahead of hurricane season
+Star tennis player barred from high school's Signing Day ceremony
+Justice Department formally moves to reclassify marijuana
+1 minute ago
+Home
+AccuWeather
+Traffic
+Local News
+Raleigh
+Durham
+Fayetteville
+Surrounding Area
+Categories
+Watch
+Apps
+U.S. & World
+North Carolina
+ABC11 I-Team
+ABC11 Troubleshooter
+Entertainment
+Sweepstakes
+Station Info
+About ABC11
+Contact Us
+Send us your photos & videos
+ABC11 Together
+Events Calendar
+TV Listings
+Jobs
+Shows
+ABC11 Live Newscasts
+ABC11 Perspectives
+Raleigh Equity Report
+Durham Equity Report
+LOCALISH
+Our America
+Apps
+Follow Us:
+Home
+Weather
+Traffic
+Watch
+Photos
+Apps
+Raleigh
+Durham
+Fayetteville
+Surrounding Area
+U.S. & World
+North Carolina
+ABC11 I-Team
+ABC11 Troubleshooter
+Entertainment
+Sweepstakes
+About ABC11
+Contact Us
+Send us your photos & videos
+ABC11 Together
+Events Calendar
+TV Listings
+Jobs
+Privacy Policy
+Do Not Sell My Personal Information
+Children's Privacy Policy
+Your US State Privacy Rights
+Terms of Use
+Interest-Based Ads
+Public Inspection File
+FCC Applications
+Privacy Policy
+Do Not Sell My Personal Information
+Children's Privacy Policy
+Your US State Privacy Rights
+Terms of Use
+Interest-Based Ads
+Public Inspection File
+FCC Applications
+Copyright ©
+2024
+ABC, Inc., WTVD-TV Raleigh-Durham.
+All Rights Reserved.

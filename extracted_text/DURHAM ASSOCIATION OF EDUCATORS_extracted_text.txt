@@ -1,0 +1,382 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Durham Association of Educators'}
+{'property': 'og:description', 'content': 'Fight to Win the Schools We All Deserve'}
+{'property': 'og:url', 'content': 'https://daenc.com/'}
+{'property': 'og:site_name', 'content': 'Durham Association of Educators'}
+{'property': 'og:image', 'content': 'https://daenc.files.wordpress.com/2023/12/download-1-1.png'}
+{'property': 'og:image:width', 'content': '426'}
+{'property': 'og:image:height', 'content': '419'}
+{'property': 'og:image:alt', 'content': ''}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/WordPresscom'}
+{'name': 'twitter:text:title', 'content': 'About & Updates'}
+{'name': 'twitter:image', 'content': 'https://daenc.files.wordpress.com/2023/12/download-1-1.png?w=640'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'name': 'application-name', 'content': 'Durham Association of Educators'}
+{'name': 'msapplication-window', 'content': 'width=device-width;height=device-height'}
+{'name': 'msapplication-tooltip', 'content': 'Fight to Win the Schools We All Deserve'}
+{'name': 'description', 'content': 'Updates: May 1: Op-Ed from our President Symone Kiddoo: The DPS School Board Should Adopt a Policy Recognizing Durham Educators’ Rights to Have a Union Voice https://indyweek.com/.../op-ed-the-dps-school-board.../ \xa0 “ Meet and Confer is an alternative framework for honoring workers’ rights in the six states—including Mississippi, Texas, and Arkansas—where full collective bargaining is still banned for…'}
+{'name': 'msapplication-TileImage', 'content': 'https://daenc.files.wordpress.com/2018/03/cropped-in-this-together-campaign-logo-e1579016222761.png?w=270'}
+
+Body Text:
+Durham Association of Educators – Fight to Win the Schools We All Deserve
+Skip to content
+Phone
+919-638-5891
+E-mail
+president@daenc.com
+Durham Association of Educators
+Fight to Win the Schools We All Deserve
+Menu
+Home
+About & Updates
+Archived Updates
+Membership
+Buckets of Work
+Educators of Color
+Professional Development
+Immigrant Justice
+Bull City Community Schools Partnership
+Elections Committee
+Labor Movement & Teacher Unions
+Who’s Who
+Who’s Who of DAE
+Who’s Who in NCAE
+Links
+Organizing Materials
+Calendar
+Media
+Blog Posts
+Leadership Bulletins
+DAE in the Media
+Photo Gallery
+COVID-19
+Anti-Racist Resources
+Endorsements 2024
+Join Us
+About & Updates
+Updates:
+May 1: Op-Ed from our President Symone Kiddoo: The DPS School Board Should Adopt a Policy Recognizing Durham Educators’ Rights to Have a Union Voice
+https://indyweek.com/…/op-ed-the-dps-school-board…/
+“ Meet and Confer is an alternative framework for honoring workers’ rights in the six states—including Mississippi, Texas, and Arkansas—where full collective bargaining is still banned for public school workers. DAE is asking the Board of Education to pass a Meet and Confer policy that recognizes our right as workers to have a collective voice through our union. We have the choice this year: we can make history together and reject that Jim Crow law by becoming the first North Carolina school district in 65 years to formally recognize a union, or we can continue with a status quo that isn’t working.
+Student needs—and the staff responsible for nurturing our students everyday—must be at the center of decision-making for our schools. Meet and Confer would create a context for an employee representative organization, like DAE, to regularly collaborate with administration to improve our schools.”
+April 30: Statement on BOE’s budget request
+Things are changing for public education in Durham. Not by magic, but through the tireless organizing and collective action of workers, students, families and community supporters, voicing the urgency of our schools’ needs. Thursday night, the Board of Education stood boldly and powerfully with us to address those needs by voting unanimously to make an absolutely historic budget request from the County Commissioners — requesting a record $27.5m in new funds. Most of those new funds will be put towards our union’s most pressing priority: staff compensation and retention. Board member Lewis began the budget discussion by speaking to the largest line item in the budget request: “Our classified staff experienced significant harm in the last salary study implementation, and we need to right that wrong. And bottom line, they deserve it.”
+For reference, the highest budget request from DPS to the county in recent memory was $10 million. So it would be hard to overstate the significance of this courageous new orientation: a budget request that more honestly reflects and prioritizes what students need, even in a moment when the county has already signaled a tight budget year.
+The most exciting victory from Thursday’s meeting was how the Board responded to our union’s call for the creation of a $200/month supplement for educators who work with Exceptional Children (EC) and English Language Learners (ELL), as well as other positions that are especially “hard to fill.” These are some of our hardest working staff members who have had to shoulder even more work caused by high turnover in their departments. They deserve to be compensated for the specialized skills they offer our community, and the added responsibility they take on as educators of some of Durham’s most vulnerable and marginalized students. We are heartened and want to commend our Board members for showing their commitment to this priority by voting unanimously to request an additional $1.5m to fund that new EC/ELL Supplement.
+This elevated the budget request beyond the bold $26m proposal the Superintendent presented two weeks ago, which already placed a significant emphasis on our union’s highest priority demands: market based raises for classified staff, a supplement increase for certified staff, and the restoration of Masters Pay.
+We’d like to specifically thank board members Chavez and Carda-Auten for speaking so passionately in favor of these supplements, and board member Beyer for taking care to include “other hard-to-fill positions” in the line item – in order to ensure sufficient flexibility, such that all relevant positions could be included as final decisions are made.
+Altogether, this was a strong act of leadership and honesty from the Board members and from Superintendent Catty Moore to acknowledge the crisis our schools are in and follow the priorities laid out by the dedicated workers who work with our students every single day. It is a bold budget proposal, and a crucial step, but now we all have work to do to go together to the County Commissioners and help them understand how essential this funding is for the future of our public school system.
+Lastly, we wholeheartedly agree with Board Chair Umstead that the pay increases in this budget request are just one part of the solution to stopping the turnover crisis. Chair Umstead noted that educators leave our schools due to low pay, but also many other factors that impact students’ learning conditions, and our working conditions. “I would love to see DAE and other folks get in the room and start thinking about how do we shift the conditions that people are working within,” she said. “Money is one piece, we’ve got to address the other piece at the same time.” We could not agree more, and as a union, we are eager to sit down with district decision-makers to collaborate to improve student learning conditions, our working conditions, and our school communities – in ways that don’t always cost money, but require trust-building, relationship-building, dialogue, hard work, and systems change. In order to take this vital next step together, union recognition through Meet and Confer must be implemented in order to truly empower public school workers to collectively contribute to district decision making and help lead the district into a new era of respect and retention.
+April 18
+Reminder: Public Budget Hearing on the Superintendent’s Proposed Budget is tonight starting at 5:30PM at 511 Cleveland St. — we’ll be picketing out front starting at 5PM
+Our statement on the Superintendent’s Proposed Budget:
+The Durham Association of Educators recognizes that a $26 million budget ask from DPS to the County Commissioners is nothing short of historic, and we are thrilled that the tireless advocacy of organized workers, students, parents and community has resulted in this proposal from Interim Superintendent Catty Moore. We urge our Board of Education to have the courage to pass a budget ask that prioritizes the critical needs of tens of thousands of public school students. And, we are pleased that the priorities of thousands of organized DPS workers and the priorities of our elected Board of Education members are reasonably aligned in this budget.
+Our union is deeply concerned about the declining enrollment projections in the Superintendent’s budget. Every day, we work to build a school culture in which each and every student can thrive academically, socially, and emotionally. Yet we don’t have enough staff to support our students, and the staff we have are underpaid and underappreciated. We see too many families losing trust in Durham Public Schools and opting for charter or private schools. For many workers, especially classified employees, the administrative failures this year broke trust further and pushed us to the brink. So we also must be honest: this remains a moment of crisis, and the sad reality is that this budget proposal only begins to stop the bleeding.
+This budget request directly addresses DAE’s top priority by allocating $8.8 million towards classified staff salary increases: a huge step towards undoing the pay cuts that went into effect in March. We will be continuing to push for clarity and dialogue about the salary schedule for classified staff, how many workers will be restored to the rate of pay they received from October through February, and how different classified staff units will be impacted.
+DPS bus drivers lag almost a dollar behind Durham city bus drivers, and DAE’s priorities for this budget include a $1/hour across the board raise for bus drivers and monitors, which is not included in the current proposal. We commend the city and county for aiming to raise the floor for their own workers, and believe our public sector workers should be on par with one another. Bus monitors are some of the lowest paid government workers in the county. Both deserve more respect for the vital work that they do for our students and they deserve a raise.
+The state legislature stripped teachers of Master’s Pay in 2013, and this budget sends the right message to students and staff by recognizing the value of a masters degree. Beyond the positive impact on educator recruitment and retention, this signals to our students that in Durham we value educators, and are doing all we can to make sure every child has a highly effective teacher. We are thrilled that our local board is taking responsibility for this basic respect and dignity issue in our profession.
+We are encouraged by the proposed increase in the certified supplement and commend DPS for making this a priority. We urge the board to expand that certified supplement increase to 19.5% to remain competitive. We know that surrounding counties will also be increasing their certified supplements this year, and we cannot afford to lose more educators to Wake, Chapel Hill-Carrboro, and elsewhere. North Carolina lags far behind the rest of the country in terms of teacher pay, and unfortunately, our state legislature continues to shift more of the responsibility for funding our public schools to the counties. Until we flip the balance of power in the state legislature, our children are depending on us to find the resources to retain the highest quality educators and stabilize our public schools.
+Our union went through a challenging and intense process to land our top priorities for this year’s budget, and ultimately, a specific supplement for educators working with EC students and English language learners made the list. Wake County already offers such a supplement for EC staff. That supplement is not currently included in the proposed request, and we urge the Board of Education and Superintendent to include it. Our EC departments in particular are some of our most demanding and highest turnover departments, and we simply cannot allow our most vulnerable students to fall through the cracks.
+We have never seen such a year for public education in our community – such a crisis of broken trust and broken promises, and such an overwhelming outpouring of passionate support for stabilizing our public schools and giving Durham’s students all they need and deserve. We call on our School Board and our County Commission to do everything in your power to restore trust and bring stability to our district so that our students, families, and staff can focus on the business of teaching and learning.
+Last year, our County Commission demonstrated strong support for public schools by fully funding the DPS request. DAE is ready to stand strong as we urge the Commission to fully fund this year’s request as well. These are difficult times and we must stand together as a community to support our students and safeguard the future of public education in Durham.
+April 13
+CALLING ALL PUBLIC SCHOOL SUPPORTERS IN AND AROUND DURHAM
+See you Thursday, 4/18, 5:30PM, at the Fuller Building (511 Cleveland St.) to rally before the DPS Public Budget Hearing. Public school workers deserve a budget that shows we are valued and respected, and Durham’s children deserve a budget that will retain staff for next school year!
+April 4
+Over 1500 new union members this year SO FAR, and we aren’t stopping
+Public school coworkers from every worksite and every department are coming together in HISTORIC numbers to stand up for themselves, each other, OUR STUDENTS AND FAMILIES, and to change the future of Durham Public Schools! In the face of extremely challenging working conditions and demoralizing pay cuts for classified, these new union members are choosing HOPE and ACTION instead of despair and overwhelm! We are stronger together, and we are getting stronger every day!
+As we prepare to enter the final months of the school year, we are gearing up and continuing to send the message to the Board of Education and the County Commission that we NEED them to invest in DPS next year in order to prevent historic levels of staff turnover. Our schools and students deserve nothing less.
+March 22
+Last night, 200 union members, DPS families, and community supporters picketed and gave speeches in front of DPS’s Fuller Building and many made public comment in the Board of Education meeting afterwards to send a strong message to the Board: for our public school workers, for our students, and for the future of our public education in Durham, we need them to push the County Commission to invest in DPS next year in order to prevent historic levels of staff turnover.
+Over 1400 DPS classified workers are opening paychecks this week that are significantly less than what they have been earning for months— suddenly throwing their lives into uncertainty and instability. The vast majority of them are losing over $250 per month. Hundreds are losing over $500 a month.
+When the Board voted last month to remove the HIL study raises —that had been promised last summer and that have been in effect since October— they chose to pay for mistakes made by the district’s highest paid administrators by cutting pay for our lowest paid workers.
+Staff turnover and understaffing were already crises for our schools BEFORE these unjust pay cuts, and the Board’s choice is only going to throw gas on the fire. We are already losing essential staff because of them. It is clear to anyone who works in our schools every day that if classified pay is not restored in next year’s budget, we are going to have a mass exodus of essential workers.
+Last night, classified union leaders spoke of the effects the pay cuts have already had on their own lives, their coworkers, and their school community. Anna Benfield, an Occupational Therapist, began by saying “I work everyday with kids with disabilities so they can participate fully in school – but I can’t do my job with the devastating staff turnover that we are facing. And I won’t be able to do my job if half of my OT colleagues leave next year to work for Wake or Chapel Hill schools and I am left covering a crushing caseload.”
+Asia Pope, an Instructional Assistant, said “Today I wanted to cry when I looked at my paystub in the portal because I know how hard we all work for our kids every day.” She added, “People aren’t going to stay at a job where they can feel they are not appreciated or valued.” Both declared that DAE’s vision for the Budget Our Students Deserve— which includes the restoration of HIL raises— is simply the honest truth about what it will take to stabilize DPS and keep staff. Period.
+Andre Rivero, a parent of a DPS Kindergartener and another starting next year, spoke in favor of the Board calling on the County Commission for additional funds in order to meet the needs that our union is naming.. “I know my wife and I would be happy to pay a little more each year in property tax if it meant public school workers at my kid’s school didn’t have to live in poverty or work two or three jobs,” he said.
+Christy Patterson, one of our union’s elected Board members and a middle school EC teacher, closed the outdoor portion of the action with a passionate speech about our budget vision and the need for Durham to protect its own public schools. “If the state is gutting public schools, we can’t just stand by and let it happen,” she said. “We are calling on our Board of Education: ACT with courage and inspire HOPE!. Our public schools and the workers who make them run every day are the heart of this community. Understaffed schools are unacceptable for our kids. LEAD us through this historic staff turnover crisis by creating a budget that prioritizes meaningful raises for all staff. Make the boldest ask of our county commission you possibly can.” Finally, she called on all the staff and community supporters present to mark their calendars and bring their friends out on April 11th, the date of the public hearing for next year’s budget. We’ll see you there.
+March 19
+LOCATION CHANGE
+Rally for the Budget Our Students Deserve!
+Right now, our students are in danger of losing historic numbers of staff. As public school workers, we know what it will take to stabilize our schools, and now we the entire COMMUNITY to help us call on decision makers to make that happen.
+State lawmakers have been working to dismantle our public schools for over a decade, and they have succeeded in creating a crisis of staff burnout and turnover. We do not have time to wait for better leadership at the state level to save us. We have the resources, right here in Durham, to fight back and save our schools. We just need enough people to take action together and convince our decision makers to do the right thing.
+DAE is holding a rally in front of the Fuller Building prior to the next School Board Meeting to deliver our vision for the 2024-2025 DPS Budget to the Board of Education and Superintendent Moore:
+1. Meaningful raises for all staff: A $6,000 salary increase for all certified staff years 0-14, and an $8,000 salary increase for all certified staff years 15+
+The reinstatement of a corrected HIL study, including bus drivers, bus monitors, and before/after school staff, and back pay for March-June paychecks that were cut, in addition to a $3/hr increase for all classified staff
+A $200 per month pay increase for EC and ESL certified and classified staff
+The reinstatement of Masters Pay
+A bi-monthly pay option
+2. More staff in every building: 300 new positions, including but not limited to IAs, bus monitors, custodial and cafeteria worker substitutes, and facilities workers
+3. More time to do our jobs well: 10 teacher workdays free of mandatory PDs or meetings (protected workdays) spread throughout the school year by adding 5 protected workdays in place of instructional days and clearing 5 existing workdays of mandatory PDs and meetings. All classified staff will be paid for a full day’s work on all additional days.
+4. A seat at the table for public school workers:
+Recognition of our union’s right to negotiate with decision-makers about the DPS budget, our duties, and our working conditions (students’ learning conditions) through a Meet & Confer policy
+Financial transparency: DAE has requested district financial records such as state funds and employee per classification count, and we still have not received them
+See you Thursday!
+March 12
+At our historic Meet & Confer policy work session with the entire Board on February 15th, the Board voted to move the process forward by creating an Ad Hoc Committee to finalize the policy. They decided to have that Ad Hoc Committee include 4 DAE members, 4 DPS workers who are not DAE members, 2 Board Members, and 2 members of district administration.
+We continue to be grateful for, and inspired by, the incredible support from parents, families and the Durham community for our priorities during this difficult time, which have always included both meaningful raises to recruit and retain quality staff, and a seat at the table: recognition of our union’s right to meet and confer with our employer. And so, we want to communicate transparently with the broader public about the progress of discussions on a meet & confer policy for DPS.
+Last night, we had our first Ad Hoc Committee meeting to develop the DPS Meet & Confer policy. The bulk of the meeting was about sharing our visions for worker voice and for the future of DPS, and there was alignment from all parties on the need for more authentic worker voice as a means to achieve better working conditions and thus, better learning conditions for our students. No one wants this new Meet & Confer process to be “just another meeting” where workers don’t have any real power in decision making. Board Member Jovonia Lewis even said that Meet & Confer is not just about workers contributing thoughts, but it’s about real power sharing and collaboration. We could not agree more. This emphasis on power sharing between workers and the district was an encouraging start.
+Next steps for the Ad Hoc Committee: everyone will read the packet of documents provided by our DAE delegation, which includes the Meet & Confer planks our members adopted, the policy proposal our union wrote, and an alternate M&C policy that was suggested by Board Member Rogers. We meet next on April 1st to discuss areas of agreement and disagreement with the documents included in that packet. We look forward to that discussion!
+Overall, we came away feeling optimistic about our ability to reach alignment on key policy points with the other 4 DPS workers on the committee. We think that the most important work for us to do right now is to continue building unity among all DPS workers, especially the 8 of us on the Ad Hoc committee, about how essential Meet and Confer is to transforming our schools. We also were encouraged by how productive and harmonious the discussion was between the workers, Board members Lewis and Beyer, and the district administrators. We are excited to continue this work with all of them in the coming weeks.
+We had originally called for an M&C policy to be implemented as quickly as possible to give workers a real seat at the table during the classified pay crisis and during the negotiations around next year’s budget, but, unfortunately, the Board has already made their decision about classified pay for the rest of the year and is just weeks away from finalizing their budget request for the County Commission. This means we must push for our budget priorities now, before Meet & Confer can be implemented, while we continue to push for the best possible Meet & Confer policy through this Ad Hoc Committee.
+February 26
+Sorry for the website hiatus – things have been very busy around here! Look below for a timeline of our campaign over the last 2 months. We’ll be back with more info soon about next steps.
+DAE statement on the School Board’s Feb 22 pay vote:
+From the very beginning of this crisis, the Durham Association of Educators has been very clear in our position: there should be no cuts to classified staff salaries to pay for management’s mistakes.
+Last night, the Board voted 5-2 to take back the raises they gave 1875 classified staff members last year. These long overdue raises were designed to bring DPS worker’s pay up to market rates. They were promised over the summer and took effect in October. Every one of these workers made life decisions and financial commitments based on those new salaries. Finding a new apartment. Quitting a second job. Buying a new car. Unlike DPS, they cannot simply take back these commitments. To replace last year’s raises with an 11% flat increase over last year’s pay means a life-altering pay cut for almost 1400 classified workers starting in March.
+The vast majority of these workers make less than $43,000 a year in a city with a soaring cost of living. The vast majority of affected workers are losing more than $250/month. Over 600 of them are losing more than $500/month. Hundreds will lose over $1,000/month.
+Despite what they would have you think, the Board’s decision last night was not their only option. What they have chosen to do is pay for the mistakes made of our highest paid administrators by cutting pay for our lowest paid workers. Rather than spend any more emergency funds, the Board decided to push the district’s budget crisis onto the backs of classified staff who are now being thrown into far more serious financial crises of their own. This is unconscionable, especially in Durham, a city that takes pride in its progressive values. There was nothing progressive about this choice.
+The district’s multiple crises are not over. Thursday’s decision is only going to exacerbate the staffing crisis and the challenges we have recruiting and retaining good people in our schools. We have already lost irreplaceable classified co-workers because of this and many more will leave, not just because of the lower pay, but because of the disrespect. Staff are leaving because they cannot trust district leadership to treat them with dignity.
+Ultimately, it is the students who will lose most of all. They will lose loving educators in their schools because of this. Their education will suffer. What better use of emergency funds could there be than to stop this from happening?
+Over the past six weeks, the entire Durham community has stood alongside public school workers, fighting for beloved Instructional Assistants, Child Nutrition Services workers, Occupational Therapist, and so many more. This display of solidarity is truly Durham.
+We invite you all to continue to support all Durham educators because there is a lot of work ahead of us. We must find a way to keep good people in our schools, while we look ahead to righting these wrongs in next year’s budget. While there was an increase in the amount of information brought to last night’s presentation than previous weeks, there are still real questions about notification of new salaries, Dr. Moore’s proposal of new salary schedules, and next year’s budget.
+Finally, this decision and the many unanswered questions demonstrate one thing we already knew: that educators must have a genuine voice and a formal seat at the table for decisions that impact our lives this deeply. We need collective membership power if we want to ensure that a handful of decision makers at the top no longer have the power to make these decisions without truly engaging with the thousands of us whose lives and livelihood are directly affected. If we are ever going to move forward together as Durham Public Schools, we need a Meet and Confer policy that recognizes our union’s right to collaborate on decisions for our wages, our working conditions, and our students’ learning conditions.
+February 18
+It has been over 5 weeks since 1300 of our classified staff had their lives thrown into crisis overnight by the district’s decision to cut their pay and years of experience to resolve a $10 million budget deficit that had just come to light. We are still living in uncertainty and waiting for a resolution around what these affected workers will be paid for the rest of the school year. We stand by our members’ democratically decided demands that DPS workers need and deserve a real voice in all decisions of this magnitude. We also continue to demand no mid-year pay cuts, which means honor the pay that classified employees were promised in October 2023. That will remain our demand unless and until we get sufficient requested information about DPS’s budget limitations.
+This past Thursday night, in a historic step forward for labor rights in the South, the Board of Education voted to create a committee to discuss a Meet and Confer policy for Durham Public Schools employees. The Board of Education voted to move this policy proposal forward. This follows multiple other votes in recent weeks where the Board listened and responded to our organizing efforts: keeping January and February paychecks whole, committing to not claw back any money previously paid to classified staff, and scheduling our first work session to discuss Meet and Confer together.
+The Meet and Confer Team policy that DAE members presented Thursday reflects our values of transparency, accountability, collaboration and that our working conditions are our student learning conditions. In practice, this policy will build trust, harness the best ideas among DPS employees, create real transparency, collaboration and accountability among the Board, Administration and employees through their employee organization to improve our District. Thus far, it seems we may be in agreement with the Board that our working conditions are student learning conditions and that we must achieve more transparency and collaboration, but are not fully in agreement on how to achieve accountability. We believe that accountability is only possible through democracy and that employees must be able to elect our own representatives to engage in the process. DAE members know and staff deeply feel that recognizing employees’ voice through an employee representative organization is critically urgent to building trust, addressing budget concerns and achieving the schools our students deserve.
+DAE is the only member-driven democratic organization of DPS employees that can be responsible and held accountable to employees’ voice. We are not only the biggest, most inclusive, and diverse organization in DPS, we also are in every workplace in the district. And over the past year, over 1,000 employees have joined through an expanded workplace representation model. In the past month in particular, DAE members have shown the ability to deeply engage with a super-majority of all staff through real, face to face, conversations.
+The Meet and Confer Team policy proposed creates a new level of transparency, collaboration, and accountability between district administration, the Board of Education, and employee representative organization. The only way for the district and its employees to truly collaborate on decisions in an accountable and equitable way, and share responsibility for decisions, is for there to be a partnership between the district and an accountable Employee Representative Organization. This partnership is the only way that both sides can sit down at the table to problem solve and collaborate on critical decisions impacting our students and schools.
+We want to specifically thank Vice Chair Chavez for acknowledging the importance of an “Employee Representative Organization” in her proposal for the ad-hoc committee. We also want to thank board member Carda-Auten for showing genuine curiosity about, and respect for, the efforts of our members to reach out to every DPS work site, and for acknowledging how an Employee Representative Organization helps ensure democracy and accountability.
+Once we establish this relationship of mutual accountability between administration and the workers’ representative organization, both sides can share responsibility for leading the district as we attempt to rebuild trust between DPS and its employees as we move forward from this pay debacle.
+We look forward to a resolution to the classified pay crisis as quickly as possible, and continuing to develop this policy with Board members.
+DAE Statement on Feb 9 + 12 School Closures:
+DAE did not call for a Day of Protest tomorrow (Monday, February 12th), just as we did not call for one on Friday the 9th.
+Last Saturday, the DAE Organizing Committee— comprised of hundreds of member leaders representing thousands of certified and classified employees across DPS — met for hours to democratically decide how to respond to the classified pay debacle as a union.
+After rigorous debate, we voted to demand three things from the Board of Education at their meeting on Thursday February 8th: 1) Commit to no pay cuts for February paychecks 2) Provide a public explanation of why January checks did not look like people expected and 3) Schedule a Meet and Confer work session with DAE for the week of February 12th. We also voted that if those demands were met at the Board of Education meeting, then we would not call for any Days of Protest, and would begin preparing for our upcoming work session on Meet and Confer.
+We were thrilled that the Board listened to our collective voice and met all three of these demands on Thursday. We also understand the continued frustration and stress workers feel. It is still unknown what classified pay will be from March through June.
+All of us, especially classified staff, deserve to know all the ins and outs of the options that are available for our pay going forward. We look forward to building more transparency, accountability, and collaboration between workers and the district as we continue to problem solve together and do everything possible to avoid mid-year pay cuts.
+Statement on Feb 8 School Board Meeting:
+One month ago, on MLK weekend, 1300 classified workers received emails that unilaterally erased years of their work experience, cut their pay, and left them fearing having to pay back thousands of dollars they had earned in the fall. Tonight we are thrilled that thousands of Durham Public Schools staff have won all of the emergency demands that were democratically voted on by our Organizing Committee. The Board of Education has:
+1. Voted unanimously to keep paychecks whole and steps intact through February for classified staff impacted by the pay debacle. They also voted 4-3 to withhold a decision on March – June paychecks until there is more financial information available and there has been an opportunity for workers to come to the table to discuss options
+2. Scheduled a work session with DAE to discuss a Meet and Confer policy. This meeting is scheduled for next Thursday, February 15th.
+3. Called on district staff to publicly clear up confusion about January supplemental checks.
+This in addition to meeting previous demands last month to keep January paychecks whole and not paying back wages earned in the fall.
+All of this was the direct result of our members taking historic action to organize our collective power. Over the last few weeks, hundreds of union leaders across every building worked late nights, early mornings, and weekends in order to have thousands of conversations with their coworkers about the way forward. It has been an unprecedented effort in building solidarity across all certified and classified workers, and we are stronger than ever as a result.
+We want to express our gratitude to the overwhelming support from families and our community, who have stood in solidarity with public school staff. Their presence and participation has been crucial to achieve these important victories.
+Thank you to the Board of Education: for listening to workers’ voices, committing to transparency and collaboration going forward, and keeping promises around pay. Together we are advancing the meet-and-confer process—this is a long-term solution for rebuilding trust and preventing crises like this in the future. This is the first real step towards Durham overcoming one of the last vestiges of Jim Crow law in our state—the ban on collective bargaining for public sector workers.
+We all have our work cut out for us. DPS is in a very challenging financial situation—our whole community is well aware of that.
+And all of us, especially classified staff, deserve to know all the options that are available. We must continue to do everything possible to avoid mid-year pay cuts, and to ensure that meaningful raises for all staff are included in next year’s budget. We look forward to coming to the table and working together with the Board to continue to build the school system our students deserve.
+February 8
+***Español abajo***
+Last night the Durham Board of Education scheduled a work session with the Durham Association of Educators for next Thursday, centered around instituting a Meet and Confer process in DPS, which would finally give our union a seat at the table. This was the first real step towards Durham overcoming one of the last vestiges of Jim Crow law in our state— the ban on collective bargaining by public sector workers— and it was the direct result of our members taking historic action to organize our collective power!
+In last night’s meeting we also saw the resignation of Dr. Pascal Mubenga as DPS Superintendent. Although we understand why Dr. Mubenga resigned – and district administration clearly must answer for keeping the Board of Education and the Durham community in the dark regarding the district’s financial situation – this was never one of our demands.
+This pay debacle was never about one person, it is about the lack of transparency between DPS workers and administration, and the lack of worker voice at the decision making table. To truly rebuild trust between DPS workers and administration, this meet and confer policy is what we need. We look forward to taking the next step in creating that policy together with Board members in our work session next week.
+Tonight, our focus remains on classified staff in DPS. We await the Board’s explanation for the underpayment many classified staff received in January, and we hope they are prepared to ensure that all February paychecks are whole and correspond to what classified staff were promised in October.
+***
+Anoche la Junta de Educación (el BOE) de Durham programó una sesión de trabajo con la Asociación de Educadores de Durham para el próximo jueves, centrada en la institución de un proceso de Reunir y Conferir en DPS, que finalmente daría a nuestro sindicato un asiento en la mesa. ¡Este fue el primer paso real hacia Durham superando uno de los últimos vestigios de la ley Jim Crow en nuestro estado – la prohibición de la negociación colectiva de los trabajadores del sector público – y fue el resultado directo de las acciones históricas que tomaron nuestros miembros para organizar nuestro poder popular!
+En la reunión de anoche también vimos la renuncia del Dr. Pascal Mubenga como Superintendente de DPS. Aunque entendemos por qué el Dr. Mubenga renunció – y la administración del distrito claramente tiene que dar cuenta por mantener al BOE y la comunidad de Durham a oscuras con respecto a la situación financiera del distrito – su renuncia nunca fue una de nuestras demandas.
+Esta debacle de pago nunca se trató de una sola persona, se trata de la falta de transparencia entre los trabajadores de DPS y la administración, y la falta de voz de los trabajadores a la hora de tomar decisiones. Para reconstruir verdaderamente la confianza entre los trabajadores de DPS y la administración, necesitamos esta política de Reunir y Conferir. Esperamos dar el siguiente paso en la creación de esa política junto con los miembros del BOE en nuestra sesión de trabajo la semana que viene.
+Esta noche, nuestra atención sigue centrada en el personal clasificado de DPS. Esperamos la explicación del BOE por el pago insuficiente que muchos empleados clasificados recibieron en enero, y esperamos que estén preparados para garantizar que todos los cheques de febrero sean completos y que correspondan a lo que se prometió al personal clasificado en octubre.
+February 4 –
+Statement on the Monday, February 5th Day of Protest:
+The Durham Association of Educators, all Durham Schools staff, students, parents, and the Durham community have been watching and waiting this week for the Board of Education to respond to our union’s demands for how to fix the classified pay debacle. Classified staff members are some of the lowest paid in our district, they were given new market-rate salaries last October, and now, the district has pulled the rug out from under 1,300 dedicated educators and support staff – erasing years of their work experience and thereby cutting their pay.
+These workers made life altering decisions based on those raises that they cannot undo. Some upgraded their apartments or cars or childcare. Some quit second and third jobs. Now, they worry if they will be able to pay their bills and feed their families when they get their February paycheck in a few short weeks. Without a resolution immediately, our schools and students risk losing even more essential staff members in the midst of a staffing crisis the district has been suffering for years.
+This is why DAE members have been demanding that the Board of Education restore everyone’s years of experience, commit to no pay cuts, and pass a Meet and Confer policy. On Friday, the Board did take the first step towards a Meet and Confer policy by voting to schedule a work session with us. We look forward to the discussion and the Board passing a policy that codifies transparency, collaboration, and respect for employee agency and voice. However, the Board did not take action on the other two demands, and classified workers remain uncertain of their futures.
+Saturday morning, the DAE Organizing Committee—member leaders from across DPS—comprised of hundreds of DPS staff representing thousands of certified and classified employees, met and diligently compared their assessments of last night’s School Board meeting, reviewed progress thus far, and debated how to move forward. It was union workplace democracy in action. Ultimately, the committee voted to conduct a Day of Protest this Monday to express the urgency to act and keep classified staff whole. The participating schools have an overwhelming majority of their staff committed to participating, and so, we expect DPS officials to close the following schools tomorrow:
+Carrington Middle
+Durham School of the Arts
+Little River Elementary
+Morehead Montessori
+Sandy Ridge Elementary
+EK Powe Elementary
+Bethesda Elementary
+The committee also voted to clarify what educators need from School Board members at this Thursday’s Board meeting:
+1) Restore steps and commit to no pay cuts for February paychecks
+2) Public explanation of why January checks did not look like people expected
+3) Schedule a Meet and Confer work session with DAE for the week of February 12th
+District employees have lost trust in the DPS administration, and remain frustrated by the lack of transparency with the district’s finances. What DPS can afford to pay its employees going forward remains a mystery. It was evident during Friday’s Board meeting that the majority of the Board agrees. On Thursday, the Board has a chance to lead and to start rebuilding trust by taking these three steps.
+February 1
+Urgent Update: Late on Wednesday, DPS provided five options for what to do with the classified pay scale moving forward. The administration recommended two options to the School Board.
+We know the Durham Board of Education plans to consider options during their Friday meeting.
+Two days does not give DAE and other school staff enough time to review and provide feedback to the district. The slides provided don’t even communication how much each option costs and why some are considered feasible and others aren’t. What we do know is that neither option will fully address the staffing crisis.
+We will continue to emphasize loudly and clearly that DPS staff need and deserve a seat at the table, through our union, to address issues like this one moving forward.
+And we also want to hear from all our DPS classified workers about how they feel about these proposed options. Please quickly share your thoughts today by completing our temperature check survey form [link expired].
+January 30
+****Español Abajo****
+Dear Durham Public School Families and Community Members,
+My name is Symone Kiddoo and in April, I was elected the President of the Durham Association of Educators (DAE) – the public school staff union – after serving as a School Social Worker in Durham Public Schools for seven years. Over the summer, I gave birth to my baby. You can imagine how busy my life is right now. But I love both my new jobs, because I love children.
+I’m writing to all DPS parents, who I’m confident share the concerns of Durham Public School employees regarding the ongoing staffing crisis.
+This crisis began years ago with the state’s chronic underfunding of our public schools. Yes, school employees want higher salaries and better working conditions as we all do in this economy, but recent actions by employees to protest pay cuts is in part a result of a chronically underfunded school district. Combine decades of underfunding, a global pandemic that drove many long-time school employees out of the profession, increasingly complex student needs, and years of understaffing – and we get where we are today: A recruitment and retention crisis that will only get worse if DPS does not find a way to keep the promised salaries to staff that they made earlier this fall. Failure to do so will have serious implications for our schools’ ability to address student needs.
+Since the most immediate events of this crisis took place this month, DAE members have asked the district to 1) not introduce pay cuts; 2) reverse the policy to erase years of experience from over 1,300 worker’s salary steps and 3) commit to regular meetings with union members to discuss how to create excellent working conditions and most of all, the learning conditions that our students deserve. Though some progress has been made, there still is a lack of transparency. We are also still waiting for the district’s commitment not to roll back compensation that was promised in October. In response, educators from 11 schools have called out from work on Wednesday to attend a DAE protest.
+We expect DPS officials to close those schools on Wednesday because so many of their employees won’t be there. The affected schools are:
+Riverside High School
+The Whitted School
+Lyons Farm Elementary
+Lakewood Elementary
+Northern High School
+Githens Middle School
+Spring Valley Elementary
+Jordan High School
+Forest View Elementary
+YE Smith Elementary
+Hillside High School
+As a new mom, I understand the anxiety that comes from last minute changes to schedules and the burdens this may cause. But I assure you, we are doing this for our current and future students.
+Durham was right, initially, to increase salaries for long-underpaid staff. There are a lot of employment options in Durham, and our schools need to offer competitive salaries. We only want the best working with our students and you have to pay to attract quality people.
+Now that the administration is backtracking on its promise to staff, trust has been broken, not just with staff, but families across Durham County. We all want our kids to go to schools with the best educators, the best staff, and all the resources our kids need to be successful.
+I invite you to join DAE in our advocacy on behalf of our public schools. For my kid, your kids, and for all the children of Durham, we only want the best.
+Sincerely,
+Symone Kiddoo
+DAE President
+__________________________
+Estimadas familias y miembros de la comunidad de las escuelas públicas de Durham:
+Mi nombre es Symone Kiddoo y en abril fui elegida presidenta de la Asociación de Educadores de Durham (DAE), el sindicato del personal de las escuelas públicas, después de haber trabajado como trabajadora social escolar en las Escuelas Públicas de Durham durante siete años. Durante el verano di a luz a mi bebé. Puedes imaginar lo ocupada que está mi vida en este momento. Pero amo mis dos nuevos trabajos, porque amo a los niños.
+Les escribo a todos los padres de DPS, quienes estoy seguro comparten las preocupaciones de los empleados de las Escuelas Públicas de Durham con respecto a la actual crisis de personal.
+Esta crisis comenzó hace años con la falta crónica de fondos estatales para nuestras escuelas públicas. Sí, los empleados escolares quieren salarios más altos y mejores condiciones laborales como todos queremos en esta economía, pero las acciones recientes de los empleados para protestar por los recortes salariales son en parte el resultado de un distrito escolar con una financiación crónica insuficiente.
+Considere décadas de falta de financiación, una pandemia global que expulsó a muchos empleados escolares de larga trayectoria de la profesión, necesidades estudiantiles cada vez más complejas y años de trabajar con el personal incompleto, y llegamos a donde estamos hoy: una crisis de contratación y retención que solo empeorará si DPS no encuentra una manera de mantener los salarios prometidos al personal que hicieron a principios de este otoño. No hacerlo tendrá serias implicaciones para la capacidad de nuestras escuelas para abordar las necesidades de los estudiantes.
+Desde que los acontecimientos más inmediatos de esta crisis tuvieron lugar este mes, los miembros del DAE han pedido al distrito que 1) no introduzca recortes salariales; 2) revertir la política de borrar años de experiencia de más de 1,300 niveles salariales de los trabajadores y 3) comprometerse a celebrar reuniones periódicas con miembros del sindicato para discutir cómo crear excelentes condiciones laborales y, sobre todo, las condiciones de aprendizaje que nuestros estudiantes merecen. Aunque se han logrado algunos avances, todavía hay una falta de transparencia. También estamos esperando el compromiso del distrito de no revertir la compensación prometida en octubre. En respuesta, los educadores de 11 escuelas saldrán del trabajo el miércoles para asistir a una protesta del DAE.
+Esperamos que los funcionarios del DPS cierren esas escuelas el miércoles porque muchos de sus empleados no estarán allí. Las escuelas afectadas son:
+Riverside High School
+The Whitted School
+Lyons Farm Elementary
+Lakewood Elementary
+Northern High School
+Githens Middle School
+Spring Valley Elementary
+Jordan High School
+Forest View Elementary
+YE Smith Elementary
+Hillside High
+Como madre primeriza, entiendo la ansiedad que surge de los cambios de horario de última hora y las cargas que esto puede causar. Pero les aseguro que estamos haciendo esto por nuestros estudiantes actuales y futuros.
+Durham tenía razón, inicialmente, al aumentar los salarios del personal mal pagado durante mucho tiempo. Hay muchas opciones de empleo en Durham y nuestras escuelas deben ofrecer salarios competitivos. Sólo queremos que los mejores trabajen con nuestros estudiantes y hay que pagar para atraer gente de calidad.
+Ahora que la administración está dando marcha atrás en su promesa al personal, se ha roto la confianza, no sólo con el personal, sino también con las familias de todo el condado de Durham. Todos queremos que nuestros hijos vayan a escuelas con los mejores educadores, el mejor personal y todos los recursos que necesitan para tener éxito.
+Los invito a unirse a DAE en nuestra defensa en nombre de nuestras escuelas públicas. Para mi hijo, sus hijos y todos los niños de Durham, solo queremos lo mejor.
+Atentamente,
+Symone Kiddoo
+Presidenta de la DAE
+January 30
+Until we feel more respected by this district, we can’t start to rebuild trust.
+Last Thursday, the Board of Education took a first step by following through on their promise to meet our first two emergency demands about the classified pay debacle: they voted to leave everyone’s January pay unaffected by their policy changes and to not force workers to pay back money they earned between October and December.
+On Friday, our Organizing Committee of member leaders from worksites from across the district met and agreed that we urgently need more commitments this week.
+As it stands, the district has still erased years of experience for over 1300 workers and will begin pay cuts for those workers in February. On top of that, the district still hasn’t committed to giving workers a seat at the table to participate in the decision making process going forward. We deserve better.
+If workers aren’t respected enough to be at the table with the district, then we can’t even begin to have transparency or trust. If the district leadership can unilaterally, with no discussion, change policies that cut peoples’ years and pay in the middle of the school year, we are going to lose staff members at historic rates. If nothing changes, it’s our students that will be hurt the most by this failure of leadership.
+Restore everyone’s years. No pay cuts. Give us a seat at the table by passing a historic meet and confer policy, and immediately begin the process of negotiating the budget with us as a union. Our union member leaders voted last Friday to bring these demands to the Board of Education, and we asked for their response by this Friday, February 2nd.
+Join us today and be part of standing up for our years, our voice, our union:
+https://www.ncae.org/join
+January 26
+Last night, the Board of Ed felt our power – and met our first two demands. Now it’s time to get organized so we can win our 3rd demand – securing our steps through a permanent worker seat at the table! Join our classified staff DAE mass meeting tomorrow- Saturday 1/27 – from noon-2pm at Eastway Elementry so we can fight and win this together! There will be food, childcare, and interpretation provided. Bring your classified coworkers!
+One thousand educators, parents, students, and community members rallied outside of last night’s Board of Education meeting to hold the district accountable. We see the step forward by the board who kept their promise to not try to clawback the money from October through December and keep January pay the same as December.
+One thing from last night was clear that DPS staff want their voices heard when decisions are being made. The next step is the board must codify a seat at the table for workers — through the union — to restore trust and so that we can begin to create true accountability, collaboration, and transparency in Durham Public Schools.
+We must continue to organize so we can secure our steps through that permanent seat at the table. Remember if were aren’t at the table, we are what’s for dinner.
+January 17
+Public school workers deserve a seat at the table and full transparency when decision makers are considering changes to crucial district policies — especially ones that affect our paychecks. Period.
+Today’s workplace action by members of our transportation department and yesterday’s frustrating DPS town hall meeting, and this entire classified pay debacle, shows exactly why it is so urgent that we build real worker power in DPS immediately.
+Last October, 1300 classified workers in DPS — our instructional assistants, mechanics, cafeteria workers, Occupational Therapists, Behavior Techs and many more — received emails detailing their new salaries, which included raises from the state and the county based on our years of relevant work experience. Earlier in October the district had already committed to maintaining its existing policy about counting workers’ years of relevant experience from the private sector and from working in other states. Naturally, after receiving these raises workers made countless life decisions: to quit second jobs, find new housing, change daycares, adjust their monthly budgets, etc.
+Then, last Friday, just before the long MLK holiday weekend, these same workers received new emails that contradicted their October communications. Now the district is claiming there was a policy change and they will no longer be counting relevant years of experience in the private sector or working outside of NC. Even if workers have received credit for those years of experience for decades, they would now be discounted. Not only would this mean significant pay cuts (of hundreds or even thousand dollars per month) starting this month, there is also the threat that the district will attempt to clawback some of the money workers were paid between October and December.
+These are not overpayments, this is a change in wages. We did nothing wrong. So, it is absolutely clear that the district must immediately ease fears and frustrations by committing to:
+1. No clawbacks of money that was already paid to workers.
+2. No changes to staff members’ January paychecks. The district notified people about this unilateral policy change less than 2 weeks before our next paycheck, which is nowhere near enough time for people to prepare for such a change.
+3. Financial transparency so that workers, through this union, can participate fully in the decision making happening now about our compensation and how our years of work experience will be counted.
+Here’s what DAE is asking members and supporters to do right now:
+-Show up and wear red to the district’s town hall meeting from 9-11 am Thursday at Staff Development Center and demand these immediate actions
+-Show up alongside hundreds of our members and community supporters to the School Board meeting on Thursday January 25th from 5:30-6:30 to continue building worker power.
+-Forward your email from last week about pay changes (especially the 3 column table showing pay and salary grades) and your email from the district from around October 27th about expected changes to compensation to Abeer (abeer.javed@ncae.org) and Symone (president@daenc.com) The union needs to collect our own information from classified staff who are affected by this overpay issue so our lawyer can look it over and assess our options.
+January 16
+OVER ONE THOUSAND new union members since the end of last school year! Historic things are happening in Durham right now!
+In the midst of so much frustration and confusion about incorrect paychecks, it can be hard not to give in to hopelessness. Public schools are in a man-made crisis, and that means that it is harder than ever to work in them. It can be hard to see a future where we have the schools, pay, and respect we all deserve.
+But, in just the last few months, over one thousand more DPS workers have chosen not to give up, but to stay, join our union, and fight for the changes we need ASAP. Over one thousand new union members ready to stand up for public schools, our students, and ourselves! Together we have the power to demand the respect every worker deserves, and we have the power to win!
+January 10
+Durham’s Schools Need DURHAM’S Help! After over a decade of attacks on our public schools from state lawmakers who are trying to privatize the entire education system, DPS is in a crisis of staff burnout and turnover. Our students are suffering as a result, and we cannot wait on state-level leaders to solve the problems that they created.
+Right now, public school workers in Durham are uniting with each other and our DPS students’ families in historic numbers to stand up and fight back. Our union voted on the follow set of four demands to bring to Durham’s local leaders THIS SPRING to create the working and learning coniditions we deserve:
+1. Meaningful raises for all staff: A $6,000 salary increase for all certified staff (certified teachers) years 0-14, and an $8,000 salary increase for all certified staff years 15+ B) A $3/hr increase for all classified staff (e.g. bus drivers, cafeteria staff, custodians) C) A $200 per month pay increase for EC and ESL certified and classified staff D) The reinstatement of Masters Pay E) A bi-monthly pay option
+2. More staff in every building: 300 new positions, including but not limited to IAs, bus monitors, custodial and cafeteria worker substitutes, and facilities workers.
+3. More time to do our jobs well: 10 teacher workdays free of mandatory PD or meetings (protected workdays) spread throughout the school year by adding 5 protected workdays in place of instructional days & clearing 5 existing workdays of mandatory PDs and meetings. All classified staff will be paid for a full day’s work on all additional workdays.
+4. A seat at the table for public school workers: Recognition of our (DPS staff’s) union’s right to negotiate with decision-makers about the DPS budget, our duties, and our working conditions (students’ learning conditions).
+Campaign Progress:
+October 23
+We have launched the second phase of our Majority Strong campaign to build a fighting
+majority
+union for public school workers in Durham! You’ll find more regular updates about our path to majority here soon!
+Come get boooooo-get with us at our Halloween Dance Party!
+Durham Association of Educators
+What is the Durham Association of Educators?
+The Durham Association of Educators (DAE) is a local affiliate of the North Carolina Association of Educators (NCAE) and the National Education Association (NEA), the largest teachers’ union in the country.  We are a member-led organization of educators and allies, committed to leading the fight to defend and transform public schools so that every young person can achieve their full potential and live happy and healthy lives.  We believe that educators, in collaboration with parents, students, and community allies, have the knowledge, skills, and power to build the schools and communities that ALL Durham residents deserve.
+What do we do?
+DAE is committed to developing worker leadership within Durham Public Schools, organizing our school buildings and communities, and winning the schools that our students, parents, and educators deserve.
+Our Culture
+Students at the Center
+We believe in our students and their ability to be happy and healthy, to achieve their fullest potential, and to transform the world.
+Their learning conditions are our working condition,  and our futures are inseparable. Our work centers their lives.
+A Commitment to Racial and Social Justice
+Educators have a special responsibility to understand, and intentionally work to undermine, racism and other forms of injustice in our curricula, our classroom cultures, and our relationships with our students, our parents, and each other.
+Our collective future depends on it.
+Leadership
+Educators, organizing alongside our students and their parents, are the most potentially powerful force in the state of North Carolina.
+We accept the responsibility of rank and file educators to lead, and constantly develop and support new leaders
+, in a movement that unites the majority of the people in this state and wins the schools and communities our students deserve.
+Collective Care
+We are in this together and none of us will get what we need or deserve by acting alone.
+We are committed to caring for, and supporting one another, as a union family, through good times and challenges.
+We Fight to Win
+We believe that change happens when people act together in strategic ways
+, build broad alliances, critically reflect on their successes and the challenges of their work, and contend for power in a variety of ways.  For our students, our co-workers, and ourselves, we take our work seriously and look to be as effective as possible.
+Celebration
+We do the most difficult job on the planet and it is hard to sustain ourselves amidst our challenges.
+We are committed to a culture that consistently recognizes and celebrates victories, big or small, and rejects hopelessness and fear.
+How can you get involved?
+To join the organization, please contact Symone Kiddoo at president@daenc.com.  You can also follow us on Facebook (
+Durham Association of Educators
+), Twitter (@
+DurhamEducators
+), or Instagram (@durhameducators).
+You can also join now online by
+clicking here.
+Leave a comment
+Cancel reply
+Δ
+Upcoming Events
+Ad Hoc Committee Mtg w/ DPS leadership
+May 20, 2024 at 9:00 pm – 10:00 pm
+2107 Hillandale Rd, Durham, NC 27705, USA
+County Comm. Work Session - County Manager brings budget proposal
+May 23, 2024 at 1:00 pm – 9:00 pm
+Durham County Commissioners, 200 E Main St # 2, Durham, NC 27701, USA
+Board of Ed mtg - TURNOUT
+May 23, 2024 at 10:30 pm – 1:30 am
+Search for:
+Blog at WordPress.com.
+Subscribe
+Subscribed
+Durham Association of Educators
+Join 27 other subscribers
+Sign me up
+Already have a WordPress.com account?
+Log in now.
+Durham Association of Educators
+Customize
+Subscribe
+Subscribed
+Sign up
+Log in
+Copy shortlink
+Report this content
+View post in Reader
+Manage subscriptions
+Collapse this bar
+Loading Comments...
+Write a Comment...
+Email (Required)
+Name (Required)
+Website
+search
+previous
+next
+tag
+category
+expand
+menu
+location
+phone
+mail
+time
+cart
+zoom
+edit
+close

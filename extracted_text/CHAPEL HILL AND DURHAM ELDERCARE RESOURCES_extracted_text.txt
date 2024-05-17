@@ -1,0 +1,56 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'CHADER'}
+{'property': 'og:description', 'content': 'Chapel Hill and Durham Eldercare Resources'}
+{'property': 'og:url', 'content': 'https://chader.org/'}
+{'property': 'og:site_name', 'content': 'CHADER'}
+{'property': 'og:image', 'content': 'https://s0.wp.com/i/blank.jpg'}
+{'property': 'og:image:alt', 'content': ''}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/WordPresscom'}
+{'name': 'twitter:text:title', 'content': 'Home'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'application-name', 'content': 'CHADER'}
+{'name': 'msapplication-window', 'content': 'width=device-width;height=device-height'}
+{'name': 'msapplication-tooltip', 'content': 'Chapel Hill and Durham Eldercare Resources'}
+{'name': 'description', 'content': 'OUR MISSION Chapel Hill and Durham Eldercare Resources was created with the mission of providing networking and educational opportunities for senior-focused professionals while positively impacting the aging community in Durham and Orange Counties.'}
+
+Body Text:
+CHADER | Chapel Hill and Durham Eldercare Resources
+CHADER
+Skip to content
+Home
+Meetings
+Officers
+Join Us
+Local Opportunities | Get Involved!
+Members
+Home
+OUR MISSION
+Chapel Hill and Durham Eldercare Resources was created with the mission of providing networking and educational opportunities for senior-focused professionals while positively impacting the aging community in Durham and Orange Counties.
+Share this:
+Twitter
+Facebook
+CHADER
+· Chapel Hill and Durham Eldercare Resources
+Blog at WordPress.com.
+Subscribe
+Subscribed
+CHADER
+Sign me up
+Already have a WordPress.com account?
+Log in now.
+CHADER
+Customize
+Subscribe
+Subscribed
+Sign up
+Log in
+Copy shortlink
+Report this content
+View post in Reader
+Manage subscriptions
+Collapse this bar

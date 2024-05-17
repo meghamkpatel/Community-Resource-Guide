@@ -1,0 +1,111 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'description', 'content': 'TREIA is the largest non-profit REIA in the Triangle. Our mission is to help you build wealth in real estate through networking and education. Find out more!'}
+{'name': 'robots', 'content': 'index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'TREIA - Triangle Real Estate Investors Association'}
+{'property': 'og:description', 'content': 'TREIA is the largest non-profit REIA in the Triangle. Our mission is to help you build wealth in real estate through networking and education. Find out more!'}
+{'property': 'og:url', 'content': 'https://www.treia.com/'}
+{'property': 'og:site_name', 'content': 'TREIA Inc'}
+{'property': 'og:updated_time', 'content': '2023-11-14T21:53:34-05:00'}
+{'property': 'article:published_time', 'content': '2019-08-26T13:31:35-04:00'}
+{'property': 'article:modified_time', 'content': '2023-11-14T21:53:34-05:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'TREIA - Triangle Real Estate Investors Association'}
+{'name': 'twitter:description', 'content': 'TREIA is the largest non-profit REIA in the Triangle. Our mission is to help you build wealth in real estate through networking and education. Find out more!'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'daniel'}
+{'name': 'twitter:label2', 'content': 'Time to read'}
+{'name': 'twitter:data2', 'content': '6 minutes'}
+{'content': 'My Site v.1.0', 'name': 'generator'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.126.0'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.treia.com/wp-content/uploads/2023/02/cropped-treia-favicon-270x270.jpg'}
+
+Body Text:
+TREIA - Triangle Real Estate Investors Association
+Home
+About
+Board of Directors
+Events
+Strategic Partners
+Strategic Partners List
+Become A Strategic Partner
+Contact
+Join
+More
+Member Directory
+Log In
+My Account
+Join
+Home
+About
+Board of Directors
+Events
+Strategic Partners
+Strategic Partners List
+Become A Strategic Partner
+Contact
+Join
+More
+Member Directory
+Log In
+My Account
+Join
+Members Helping Members
+In Real Estate Investing
+Learn More About Joining TREIA!
+Networking     Wholesaling     Buy & Hold     Fix & Flip     Raw Land     New Builds     Residential Assisted Living     Hard Money Lending     Notes     Tax Liens     Airbnb (short-term)     Rental Arbitrage     Vacation Rentals     Commercial (office, retail, warehouse)     Storage Facilities     Agriculture (Foreign / Domestic)     Single Family     Multi-Family     House-Hacking     Student Housing Apartments     Mobile Homes
+Our Mission
+Our Goal, Vision & Commitment
+Our Events
+Register & Learn Together
+Join Us
+Education, Growing & More
+Upcoming Events
+Rocky Mount Subgroup: How to Automate your Flips & Manage 20+ Flips at the Time
+Mon May 20 2024, 06:30pm EDT
+–
+08:30pm EDT
+TREIA Breakfast Club
+Tue May 21 2024, 08:00am EDT
+–
+09:30am EDT
+Lunch & Learn
+Wed May 22 2024, 11:30am EDT
+–
+01:30pm EDT
+Lunch & Learn
+Wed May 29 2024, 11:30am EDT
+–
+01:30pm EDT
+TREIA Breakfast Club
+Tue Jun 4 2024, 08:00am EDT
+–
+09:30am EDT
+View All Events List
+View Event Calendar
+Serving real estate investors for 20 years, TREIA is the largest non-profit real estate investing association in the Triangle.
+Follow
+Follow
+Follow
+Stay in the Know!
+Subscribe to get vaulable updates about Triangle area events, resources and learning opportunities.
+Enter your email here *
+Email
+(Required)
+Comments
+This field is for validation purposes and should be left unchanged.
+Quick Links
+About
+Events
+Contact
+Join Us
+TREIA, a private, non-profit organization, does not give legal, tax, economic, or investment advice. TREIA does not endorse any person, product, literature, organization, company, or advertiser. The programs, materials, and newsletters are designed to be educational, motivational, and enjoyable. TREIA disclaims all liability for any action or inaction taken or not taken as a result of  communications for or to its members, officers, directors, employees, and contractors. Whenever actions involving purchases, sales, or tenant relations are being considered, TREIA strongly urges you to rely upon the advice of your own real estate professionals, lawyers, accountants, and real estate broker. Always seek competent legal advice concerning any purchase of real estate or real property. No investment of any sort shall be organized or endorsed by TREIA.
+© 2023
+Triangle Real Estate
+Investors Association,
+4441 Six Forks Road, Ste 106-177,
+Raleigh, NC 27609

@@ -1,0 +1,133 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Triangle Disability & Autism Services, an affiliated chapter of The Arc, supports children and adults with intellectual and/or developmental disabilities [IDD] and autism in the achievement of their personal goals and dreams in our community through partnership and advocacy.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Triangle Disability & Autism Services'}
+{'property': 'og:description', 'content': 'Triangle Disability & Autism Services, an affiliated chapter of The Arc, supports children and adults with intellectual and/or developmental disabilities [IDD] and autism in the achievement of their personal goals and dreams in our community through partnership and advocacy.'}
+{'property': 'og:url', 'content': 'https://www.arctriangle.org/'}
+{'property': 'og:site_name', 'content': 'Triangle Disability & Autism Services'}
+{'property': 'article:modified_time', 'content': '2023-03-31T16:30:16+00:00'}
+{'property': 'og:image', 'content': 'https://www.arctriangle.org/wp-content/uploads/2022/10/Slider12-scaled.jpg'}
+{'property': 'og:image:width', 'content': '2560'}
+{'property': 'og:image:height', 'content': '676'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'WooCommerce 8.8.3'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+
+Body Text:
+Home - Triangle Disability & Autism Services
+Skip to primary navigation
+Skip to main content
+Skip to footer
+Triangle Disability & Autism Services
+Facebook
+Instagram
+LinkedIn
+Twitter
+Donate ♥
+Home
+About
+Our Stories
+Respect the Space
+Board of Directors
+Staff
+Services & Programs
+Building Abilities Day Program
+Building Abilities Summer Camp
+Community Programs
+Guardianship
+Mental Health Services & Counseling
+Project SEE
+Support Services
+Triangle D&A University Classes
+Vocational Services
+Calendar
+Info & Resources
+Leisure and Recreation
+Acronyms & Abbreviations
+Emergency Readiness
+Volunteer
+Now Hiring
+Shop
+Donate
+Contact
+$
+0.00
+70th_Slider1
+CR_Slider
+BAC_Slider1
+Welcome to Triangle Disability & Autism Services!
+Triangle Disability & Autism Services, an affiliated chapter of The Arc, supports children and adults with intellectual and/or developmental disabilities [IDD] and autism in the achievement of their personal goals and dreams in our community through partnership and advocacy.
+Our Vision is
+… an inclusive, accessible community where every person thrives.
+Donate
+Volunteer
+Merchandise
+Footer
+Federal Tax ID 56-1214133
+Locations
+5121 Hollyridge Drive
+Suite 100
+Raleigh, NC 27612
+5003 Southpark Drive
+Suite 140
+Durham, NC 27713
+7025-5 Kit Creek Road
+Building Abilities Center - Cisco Campus
+Morrisville, NC 27560
+Home
+About
+Services & Programs
+Calendar
+Info & Resources
+Contact
+Volunteer
+Now Hiring
+Donate
+Login Portal
+Facebook
+Instagram
+LinkedIn
+Twitter
+Copyright © 2024 · The Arc of the Triangle
+Designed by
+Spin A Web Designs
+The owner of this website has made a commitment to accessibility and inclusion, please report any problems that you encounter using the contact form on this website. This site uses the WP ADA Compliance Check plugin to enhance accessibility.
+Shopping cart
+0
+There are no products in the cart!
+Continue shopping
+0
+Home
+About
+Our Stories
+Respect the Space
+Board of Directors
+Staff
+Services & Programs
+Building Abilities Day Program
+Building Abilities Summer Camp
+Community Programs
+Guardianship
+Mental Health Services & Counseling
+Project SEE
+Support Services
+Triangle D&A University Classes
+Vocational Services
+Calendar
+Info & Resources
+Leisure and Recreation
+Acronyms & Abbreviations
+Emergency Readiness
+Volunteer
+Now Hiring
+Shop
+Donate
+Contact
+$
+0.00

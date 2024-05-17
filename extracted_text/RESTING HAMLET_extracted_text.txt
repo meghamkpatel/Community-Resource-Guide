@@ -1,0 +1,35 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'e7d02b30-51e2-4b77-95ac-c3e1faa9ced2'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '6c91bd16-4d2b-4dc4-9dfd-5d5c3ae3d640'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '85'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | resting-hamlet'}
+{'property': 'og:url', 'content': 'https://www.restinghamlet.com'}
+{'property': 'og:site_name', 'content': 'resting-hamlet'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | resting-hamlet'}
+
+Body Text:
+HOME | resting-hamlet
+top of page
+The Resting Hamlet
+Assisted Living Pet Care
+HOME
+OUR MISSION
+REQUEST ASSISTANCE
+OUR SERVICES
+OUR NETWORK
+CONTACT US
+More
+Use tab to navigate through the menu items.
+Companionship Ensured
+When we are least able to give our pets the care they need is when we need their comfort and companionship the most.  The Resting Hamlet provides in-home veterinary care, grooming, and exercise services for the pets of physically disabled individuals who might otherwise need to give them up.
+bottom of page

@@ -1,0 +1,14 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1'}
+{'name': 'generator', 'content': 'Square Online'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'default'}
+{'name': 'apple-mobile-web-app-title', 'content': 'Durham School of the Arts Chorus Booster Organization'}
+{'name': 'theme-color', 'content': '#4b6299'}
+{'name': 'msapplication-TileColor', 'content': '#4b6299'}
+{'name': 'msapplication-TileImage', 'content': '/uploads/b/f857c370-2c51-11eb-b400-b390d735c801/icon_180x180_ios.png?width=144'}
+{'property': 'og:type', 'content': 'website'}
+
+Body Text:
+

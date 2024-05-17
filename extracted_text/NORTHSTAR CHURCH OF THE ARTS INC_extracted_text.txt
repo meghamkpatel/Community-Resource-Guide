@@ -1,0 +1,93 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'NorthStar Church of the Arts'}
+{'property': 'og:title', 'content': 'NorthStar Church of the Arts'}
+{'property': 'og:url', 'content': 'https://www.northstardurham.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'What if church was a place where poets were prophets and song was scripture?'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5a678b5129f1878869bd31d4/t/5e9c6b4c8bfd225cafb9cf90/1587309389905/NorthStar_Constellation_Combo_Mark_%28Black%29400x250.png?format=1500w'}
+{'property': 'og:image:width', 'content': '400'}
+{'property': 'og:image:height', 'content': '250'}
+{'itemprop': 'name', 'content': 'NorthStar Church of the Arts'}
+{'itemprop': 'url', 'content': 'https://www.northstardurham.com'}
+{'itemprop': 'description', 'content': 'What if church was a place where poets were prophets and song was scripture?'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5a678b5129f1878869bd31d4/t/5e9c6b4c8bfd225cafb9cf90/1587309389905/NorthStar_Constellation_Combo_Mark_%28Black%29400x250.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5a678b5129f1878869bd31d4/t/5e9c6b4c8bfd225cafb9cf90/1587309389905/NorthStar_Constellation_Combo_Mark_%28Black%29400x250.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'NorthStar Church of the Arts'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5a678b5129f1878869bd31d4/t/5e9c6b4c8bfd225cafb9cf90/1587309389905/NorthStar_Constellation_Combo_Mark_%28Black%29400x250.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.northstardurham.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'What if church was a place where poets were prophets and song was scripture?'}
+{'name': 'description', 'content': 'What if church was a place where poets were prophets and song was \r\nscripture?'}
+
+Body Text:
+NorthStar Church of the Arts
+What We Believe
+Who We Are
+What We Do
+SUPPORT
+CONTACT
+Back
+Upcoming Events
+SUNDAY SERVICE
+PERFORMANCES, WORKSHOPS AND RESIDENCIES
+PUBLIC ART PROJECTS
+PAST COLLABORATIONS
+USE OUR SPACE
+What We Believe
+Who We Are
+What We Do
+Upcoming Events
+SUNDAY SERVICE
+PERFORMANCES, WORKSHOPS AND RESIDENCIES
+PUBLIC ART PROJECTS
+PAST COLLABORATIONS
+USE OUR SPACE
+SUPPORT
+CONTACT
+Scroll
+THE MISSION
+NorthStar Church of the Arts is a multidisciplinary artist led 501(c)3 nonprofit organization. Our mission is to harness the transformative power of art for social change, with a steadfast commitment to centering creative spiritual expression and fostering deep healing for artists of color. Housed in a historic church originally designed for the deaf community, our organization is a sanctuary for marginalized creatives. NorthStar stands as an illuminating nexus that expands its historical roots, providing holistic material support for artists and cultivating a safe haven for cross-cultural collaboration and community engagement.
+In the face of rapid gentrification, we are dedicated to ensuring that Black, working-class, and LGBTQIA+ artists maintain a thriving cultural enclave in the heart of Durham. Through innovative programming and strategic partnerships, NorthStar goes beyond traditional artistic support, offering a community hub where working artists can flourish creatively while making an impact on Durham’s social landscape.
+Our founder Phil Freelon believed that “art is the most powerful force in the universe,” and our mission is rooted in that mantra. By embracing our unique history and adapting to the evolving needs of Durham, NorthStar is a testament to the potential for inclusivity, equity, and social change through the unifying language of art.
+We believe that
+artists have the power to engage, uplift and heal communities.
+WE believe that
+centering the voices of BIPOC & LGBTQIA artists
+is a sacred and vital act.
+we believe that the
+creative process is
+a form of
+spiritual practice
+.
+WE BELIEVE IN
+CELEBRATING
+, THROUGH WORSHIP, THE
+LEGACIES OF  PATRON SAINTS OF DURHAM
+INCLUDING, BABA CHUCK DAVIS, PAULI MURRAY, MARGARET NYGARD, AND ANN ATWATER.
+WE BELIEVE THAT
+ELEVATING THE ARTS
+IN ALL OF THEIR FORMS
+WILL SERVE THE SPIRITUAL NEEDS OF OUR CREATIVE COMMUNITY.
+Beliefs
+Beliefs
+NorthStar Church of the Arts
+220 West Geer Street,
+Durham, NC, 27701,
+United States
+info@northstardurham.com
+Hours
+JOIN OUR MAILING LIST
+Sign up with your email address to receive news and updates.
+First Name
+Last Name
+Email Address
+GET THAT GOOD NEWS.
+Thank you!
+MAP
+CONTACT
+SUPPORT
+RENT NS

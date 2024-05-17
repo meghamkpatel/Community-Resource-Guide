@@ -1,0 +1,42 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'content': 'Home | Triangle Kendo and Iaido', 'property': 'og:title', 'data-el-id': 'og:title'}
+{'content': 'website', 'property': 'og:type', 'data-el-id': 'og:type'}
+{'content': 'https://trianglekendoiaido.org/', 'property': 'og:url', 'data-el-id': 'og:url'}
+{'name': 'twitter:card', 'content': 'summary_large_image', 'data-el-id': 'twitter:card'}
+{'name': 'twitter:title', 'content': 'Home | Triangle Kendo and Iaido', 'data-el-id': 'twitter:title'}
+{'name': 'generator', 'content': 'Hostinger Website builder', 'data-el-id': 'wappalyzer'}
+{'content': 'Triangle Kendo and Iaido', 'data-el-id': 'og:site_name'}
+{'content': 'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/YBggGyDxjrCQ77G8/ogimage.jpg?no-cache=1686411334576', 'property': 'og:image', 'data-el-id': 'og:image'}
+{'content': 'undefined', 'data-el-id': 'og:image:alt'}
+{'name': 'twitter:image', 'content': 'https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1200,h=630,fit=crop,f=jpeg/YBggGyDxjrCQ77G8/ogimage.jpg?no-cache=1686411334576', 'data-el-id': 'twitter:image'}
+{'name': 'twitter:image:alt', 'content': 'undefined', 'data-el-id': 'twitter:image:alt'}
+
+Body Text:
+Home | Triangle Kendo and Iaido
+Home
+UNC dojo
+About TKI
+TRIANGLE KENDO & IAIDO
+Kendo in RTP area of North Carolina
+About Us
+Triangle Kendo & Iaido (TKI) has been teaching kendo in the Raleigh/Durham/Chapel Hill area of North Carolina for approximately 20 years.
+It is our intent to make kendo practice as available as possible to community members.
+We currently have practices open to the public at the Health Trax health club in Raleigh.
+Our UNC Chapel Hill dojo is currently on Spring break. We will restart on Thursday, March 23, 2023
+Contact us if you wish to learn more.
+Head Instructor
+James Kim sensei  6 Dan, renshi
+Dojo Locations
+your text here...
+Raleigh Dojo
+UNC Dojo
+GET IN TOUCH
+Powered by Zyro.com
+Raleigh Dojo contact information:
+Noah Torcasso -
+raleighkendo@gmail.com
+UNC Dojo contact information:
+Mike Watson -
+unckendo@gmail.com

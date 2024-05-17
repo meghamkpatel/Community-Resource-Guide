@@ -1,0 +1,178 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': "Let's talk about sexual health! ASHA believes sexuality is a normal, healthy, and positive aspect of human life."}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.5.9.2'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'American Sexual Health Association  The American Sexual Health Association (a.k.a. ASHA) believes that everyone has the right to information and services that will help them be sexually healthy.  We aim to provide information and resources that are reliable, science-based, and stigma-free.'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - American Sexual Health Association'}
+{'property': 'og:description', 'content': "Let's talk about sexual health! ASHA believes sexuality is a normal, healthy, and positive aspect of human life."}
+{'property': 'og:url', 'content': 'https://www.ashasexualhealth.org/'}
+{'property': 'og:image', 'content': 'https://www.ashasexualhealth.org/wp-content/uploads/2019/04/adult-alone-arms-1437541-e1581537354539.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://www.ashasexualhealth.org/wp-content/uploads/2019/04/adult-alone-arms-1437541-e1581537354539.jpg'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '912'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@infoASHA'}
+{'name': 'twitter:title', 'content': 'Home - American Sexual Health Association'}
+{'name': 'twitter:description', 'content': "Let's talk about sexual health! ASHA believes sexuality is a normal, healthy, and positive aspect of human life."}
+{'name': 'twitter:creator', 'content': '@infoASHA'}
+{'name': 'twitter:image', 'content': 'https://www.ashasexualhealth.org/wp-content/uploads/2019/04/adult-alone-arms-1437541-e1581537354539.jpg'}
+{'name': 'generator', 'content': 'Elementor 3.19.4; features: e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.ashasexualhealth.org/wp-content/uploads/2020/02/site_icon.jpg'}
+
+Body Text:
+Home - American Sexual Health Association
+Skip to content
+DONATE
+YOUR BODY
+Sexual Anatomy
+Sexual Health Care
+Finding the Right Provider
+Reproductive Health
+Vaginal Health
+Self Image
+STIs
+STIs A to Z
+Your Safer Sex Toolbox
+STI Testing
+Oral Sex and STIs
+Ask an Expert about STIs
+Vaccines
+SEXUAL HEALTH
+Understanding Sexual Health
+Relationship Types
+Sexual Pleasure and You
+Talking about Sex
+Understanding Consent
+Sex After 50
+RESOURCES
+Shop
+For Health Care Providers
+Social Media Toolkits
+Patient Education Materials
+Videos
+Podcast
+For Parents
+For Teachers
+Links to Other Sexual Health Resources
+Menu
+YOUR BODY
+Sexual Anatomy
+Sexual Health Care
+Finding the Right Provider
+Reproductive Health
+Vaginal Health
+Self Image
+STIs
+STIs A to Z
+Your Safer Sex Toolbox
+STI Testing
+Oral Sex and STIs
+Ask an Expert about STIs
+Vaccines
+SEXUAL HEALTH
+Understanding Sexual Health
+Relationship Types
+Sexual Pleasure and You
+Talking about Sex
+Understanding Consent
+Sex After 50
+RESOURCES
+Shop
+For Health Care Providers
+Social Media Toolkits
+Patient Education Materials
+Videos
+Podcast
+For Parents
+For Teachers
+Links to Other Sexual Health Resources
+Search
+Search
+Close this search box.
+Learn about Syphilis
+and How to Prevent It
+Sexuality is a normal, healthy, and positive aspect of human life. The American Sexual Health Association (a.k.a. ASHA) believes that everyone has the right to information and services that will help them be sexually healthy.  We aim to provide information and resources that are reliable, science-based, and stigma-free.
+New Guidelines on Syphilis Testing in Pregnancy
+The American College of Obstetricians and Gynecologists released new guidelines recommending that all pregnant people be screened for syphilis three times during pregnancy.
+Vampire Facials Confirmed as Cause of At Least Three HIV Infections
+A joint investigation by the CDC and the New Mexico Health Department has confirmed that an unlicensed medi-spa is responsible for at least three cases of HIV.
+An Experimental Vaccine for Chlamydia Shows Promise in Early Study
+A Phase 1 trail for a possible new chlamydia vaccine had encouraging results. Chlamydia is one of the most common STIs worldwide—a vaccine could dramatically change this landscape.
+Shortage of Only Eye Ointment to Protect Newborns from Gonorrhea-related Eye Infections Requires Alternative Options
+There is a shortage of the only eye ointment to protect newborns from potentially serious eye infection that can be caused by chlamydia, gonorrhea, or other bacteria transmitted from parent-to-infant during birth.
+Oklahoma Bill Would Criminalize STIs
+The Oklahoma House recently passed a bill making it a crime to intentionally or recklessly spread several STIs. Those found guilty would be convicted of a felony and punished with between two and five years in prison.
+Mpox Cases Almost Double from Last Year — Experts Worry Too Few People Are Vaccinated
+Mpox cases in the United States are almost double what they were at this time last year. While rates still remain far lower than during the outbreak of 2022, experts worry too few people are vaccinated.
+Doxy-PEP is a New Strategy to Help Prevent STIs
+Doxy-PEP is the strategy of taking the antibiotic doxycycline after condomless oral or anal sex to prevent chlamydia, gonorrhea, or syphilis.
+New Studies Add to Evidence that Doxy-PEP Works for STI Prevention
+New studies add to our evidence that Doxy-PEP is working to prevent bacterial STIs among transgender women and men who have sex with men.
+March is Sexual Pleasure Month—Celebrate it with Us!
+March is Sexual Pleasure MonthCelebrate it with Us! Sex is good for you! Our bodies thrive on the chemicals released during orgasm, so a healthy
+Talking to a Partner about Condoms
+Don’t be shy to talk with your partner about safer sex and condoms: For both of you, this is one of the most important conversations you can have. It’s also one of the smartest!
+Even More Evidence for the Value of Early HPV Vaccination
+Even More Evidence for the Value of Early HPV Vaccination An exciting new study in Scotland found no cases of invasive cervical cancer in young
+The State of STIs — CDC Reports an Alarming Rise in Syphilis
+CDC released new surveillance data on sexually transmitted infections. There were 2.5 million cases of chlamydia, gonorrhea, and syphilis reported in the United States in 2022. Rates of gonorrhea and chlamydia remain high, and rates of syphilis have gone up an alarming 80% since 2018.
+Drug Shortage Means Pregnant Patients Get Delayed Care
+As rates of congenital syphilis skyrocket, a severe shortage of the only antibiotic approved to treat syphilis in pregnant women is delaying care for pregnant patients.
+CDC Warns About Worrisome New Mpox Outbreak
+An outbreak of mpox in the Democratic Republic of Congo (DRC) is worrying public health officials. This is the largest outbreak in the country’s history and is caused by a deadlier type of the virus than the one that spread across the globe in 2022.
+Keep up to date on sexual health news
+Want to stay up-to-date on the latest news on sexual health? Then subscribe to our eNews list to receive periodic email updates from ASHA. To subscribe, simply enter your email below and click
+subscribe
+. All that is required is a valid e-mail address.
+Email
+Subscribe
+Be a Positive Voice on Social Media
+If you're passionate about sexual health and looking for engaging, sex-positive content to share, ASHA has resources for you—whether you're an individual looking to use your social platforms to educate and advocate or an organization or healthcare agency needing fresh content for your social channels.
+Get Our Social Media Toolkits
+@ashasexualhealth
+American Sexual Health Association
+ASHA believes that all people have the right to the information and services that will help them to have optimum sexual health. We envision a time when stigma is no longer associated with sexual health and our nation is united in its belief that sexuality is a normal, healthy, and positive aspect of human life.
+FOLLOW US
+ABOUT
+Who We Are
+What We Do
+Financial Statements
+ASHA in the News
+Contact Us
+Who We Are
+What We Do
+Financial Statements
+ASHA in the News
+Contact Us
+GET INVOLVED
+Donate
+Become an Ambassador
+Sign up for Updates
+Volunteer Opportunities
+Share Your Story
+Donate
+Become an Ambassador
+Sign up for Updates
+Volunteer Opportunities
+Share Your Story
+ASHA WEBSITES
+I Wanna Know
+National Cervical Cancer Coalition
+YES Means TEST
+I Wanna Know
+National Cervical Cancer Coalition
+YES Means TEST
+GET HELP
+Ask the Experts
+Inspire Support Community
+Ask the Experts
+Inspire Support Community
+© 2024 American Sexual Health Association
+Join us for a discussion of Dr. Tang’s new book,
+It’s Not Hysteria Everything You Need to Know About Your Reproductive Health (but Were Never Told),
+and ask Dr. Tang your questions about reproductive health!
+REGISTER NOW

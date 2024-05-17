@@ -1,0 +1,210 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:site', 'content': '@HealthRAorg'}
+{'name': 'twitter:image', 'content': 'https://www.healthra.org/wp-content/uploads/2022/06/hra_logo_blue_twitter_sq.png?123'}
+{'property': 'og:image', 'content': 'https://www.healthra.org/wp-content/uploads/2022/06/hra_logo_blue_twitter_sq.png?123'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=5, user-scalable=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'dlm-version', 'content': '4.9.13'}
+{'name': 'description', 'content': 'A collaborative member organization of nonprofit research funders committed to maximizing the impact of biomedical research to improve human health.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home Page - Health Research Alliance'}
+{'property': 'og:description', 'content': 'A collaborative member organization of nonprofit research funders committed to maximizing the impact of biomedical research to improve human health.'}
+{'property': 'og:url', 'content': 'https://www.healthra.org/'}
+{'property': 'og:site_name', 'content': 'Health Research Alliance'}
+{'property': 'article:modified_time', 'content': '2024-04-30T15:27:58+00:00'}
+{'property': 'og:image', 'content': 'https://www.healthra.org/wp-content/uploads/2022/01/hra_logo_blue.png'}
+{'property': 'og:image:width', 'content': '564'}
+{'property': 'og:image:height', 'content': '224'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'generator', 'content': 'WordPress 6.3.4'}
+{'name': 'generator', 'content': 'Powered by WPBakery Page Builder - drag and drop page builder for WordPress.'}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 6.7.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+
+Body Text:
+Home Page - Health Research Alliance
+Home Page - Health Research Alliance
+forgot password?
+About
+Overview
+History
+Leadership
+Members
+Overview
+Benefits of HRA Membership
+Member Profiles
+Professional Dev Program
+Peer Circles
+Member’s Only Information
+HRA Organizational Directory
+Member Directory
+HRA Grantmaking Report
+Bias Mitigation Training for Program Staff
+Grants Administration Handbook
+Using the ListServ
+Member Grants Management Systems
+Members Only Documents
+Become a Member
+Members Meetings
+Learning Communities
+AI and Large Language Models (LLM)
+Diversity Equity Inclusion
+Inclusive Grantmaking Initiative (IGI)
+Grants Administration
+Misconduct and Ethics
+Open Science
+Exploring the Value of “Open” (EVO) Program
+Data Sharing
+Program Evaluation
+Registry and Biorepository Community
+Research Workforce & Early Career Development
+Therapeutic Development
+Communications (inactive)
+Funder-Institution RelationS Task (FIRST) Group (inactive)
+NFRI
+NFRI Intellectual Property and Tech Transfer Workgroup
+NFRI Research Project Support Costs Workgroup
+NFRI Streamlining Administrative Requirements Workgroup
+Health Services Research (inactive)
+Events
+Upcoming Events
+Past Meetings
+Platforms
+HRA Analyzer (HRA Members only)
+HRA Open
+ORCID Consortium
+Resources
+Resources for Members
+Bias Mitigation in Peer Review Training
+Jobs & RFA/RFP Listservs
+News
+HRA In The News
+HRA Happenings
+Interest Groups
+Book Club
+Clinical Trials Interest Group
+About
+Overview
+History
+Leadership
+Members
+Overview
+Benefits of HRA Membership
+Member Profiles
+Professional Dev Program
+Peer Circles
+Member’s Only Information
+HRA Organizational Directory
+Member Directory
+HRA Grantmaking Report
+Bias Mitigation Training for Program Staff
+Grants Administration Handbook
+Using the ListServ
+Member Grants Management Systems
+Members Only Documents
+Become a Member
+Members Meetings
+Learning Communities
+AI and Large Language Models (LLM)
+Diversity Equity Inclusion
+Inclusive Grantmaking Initiative (IGI)
+Grants Administration
+Misconduct and Ethics
+Open Science
+Exploring the Value of “Open” (EVO) Program
+Data Sharing
+Program Evaluation
+Registry and Biorepository Community
+Research Workforce & Early Career Development
+Therapeutic Development
+Communications (inactive)
+Funder-Institution RelationS Task (FIRST) Group (inactive)
+NFRI
+NFRI Intellectual Property and Tech Transfer Workgroup
+NFRI Research Project Support Costs Workgroup
+NFRI Streamlining Administrative Requirements Workgroup
+Health Services Research (inactive)
+Events
+Upcoming Events
+Past Meetings
+Platforms
+HRA Analyzer (HRA Members only)
+HRA Open
+ORCID Consortium
+Resources
+Resources for Members
+Bias Mitigation in Peer Review Training
+Jobs & RFA/RFP Listservs
+News
+HRA In The News
+HRA Happenings
+Interest Groups
+Book Club
+Clinical Trials Interest Group
+forgot password?
+OUR MISSION
+Maximizing the impact of biomedical research to improve human health
+News
+HRA Launches:
+Bias Mitigation in Peer Review Training for Reviewers and Program Staff
+HRA Happenings
+HRA Names Christine Riordan, Ph.D. as their new Executive Director
+The Health Research Alliance (HRA) announced today the appointment of its new Executive Director, Dr. Christine Riordan, effective June 17, 2024. Christine Riordan, Ph.D. Dr. Riordan will succeed retiring HRA Executive Director, Dr. Maryrose Franko, and will take on the leadership of the HRA, representing more than 100 nonprofit funders…
+May 13, 2024
+2023 Impact Report
+Dear HRA members, In addition to sharing HRA’s 2023 Impact Report to celebrate our year of collective achievements, Jenna and I want to express our sincere appreciation for your on-going support and dedication to the mission of HRA.  We could not have made the impact we did without you! We…
+January 11, 2024
+HRA Happenings – November 2, 2023
+Dear HRA members, We are packing quite a bit into the last two months of 2023 – hope you can take advantage of the many opportunities listed below. Check it out The new and improved Member Profiles page is live on HRA’s website! This public-facing page displays member organization’s names,…
+November 3, 2023
+HRA Happenings – August 16, 2023
+Dear HRA members, I am starting this newsletter with major HRA staff news! Goodbye Annette ☹ After 13 years helping HRA grow to be the fantastic organization it is today, Annette is stepping down to take advantage of other opportunities.  I am thrilled for Annette, but of course it’s a…
+August 16, 2023
+HRA Happenings – June 27, 2023
+Dear HRA members, Happy Summer!  HRA will continue to host events throughout the summer, though with less frequency. Upcoming events are listed below, as are links to new resources.  Included in those resources are 3 of our newest types of resources – “Key Ideas.”  Check them out! Also – please…
+June 27, 2023
+HRA Happenings – April 13, 2023
+Dear HRA members, As you can tell by the VERY long list below – we have been (and will continue to be) quite busy this spring! It was fantastic to see so many of you (both in-person and on zoom) for the Members Meeting hosted by the Arnold and Mabel…
+April 13, 2023
+Next
+View ALL News
+HRA BY THE NUMBERS
+106
+We are 100+ funders collaborating to impact investment in research
+$25B
+To date, we have provided over $25 billion in research funding
+85,000
+More than 85,000 grantees are beneficiaries of our funding
+Upcoming Events
+Professional Development Workshop: Leading Up, Down, and Across
+5/22/24, 12:00-1:30PM ET; 6/6/24 2:30-4:00PM ET; 6/18/24 1-2:30PM ET
+As part of HRA’s Professional Development Program, we are excited to announce our upcoming virtual workshop titled “Leading Up, Down, and Across,” led by Molly Grisham, an experienced workshop facilitator and executive coach. This workshop is open to all HRA members at every career level and will be interactive, involving both…
+LEARN MORE
+Open Science 101: First Steps to Implementing an Open Science Policy
+5/29/24 1-2PM ET
+The Open Science Learning Community is thrilled to announce a new initiative in collaboration with Greg Tananbaum and Erin McKiernan of the Open Research Community Accelerator (ORCA). We heard loud and clear in our recent survey and at the spring member’s meeting open science session that many of our member organizations are grappling with…
+LEARN MORE
+Upcoming Meetings
+Fall 2024 HRA Members Meeting
+Tuesday, October 1 - Wednesday, October 2
+The Fall 2024 Health Research Alliance Members Meeting will be held on Tuesday, October 1 – Wednesday, October 2 in Alexandria, VA, hosted at the American Society of Clinical Oncology (ASCO) offices. The meeting will also be streamed online. More details will be shared here as they are available! HRA…
+LEARN MORE
+View ALL Upcoming Events and Meetings
+HRA members’ generous support above and beyond dues enables HRA to provide additional value to members and increase our impact.  Thank you!
+Sponsor of the Fall 2024 Members Meeting
+Sponsor of the Fall 2024 Members Meeting
+Anonymous
+Donor
+Sponsor of HRA’s Explore the Value of Open Program (2022-2023)
+Sponsor of the Inclusive Grantmaking Initiative Civic Science Associate (2023)
+Sponsor of the Inclusive Grantmaking Initiative Civic Science Associate (2023), and the 2024 HRA Convening on Bullying and Harassment
+Sponsor of the Inclusive Grantmaking Initiative Civic Science Associate (2023)
+Quick Links
+About HRA
+HRA Platforms
+Upcoming Events
+Members
+Contact
+© Copyright 2005-2024. Health Research Alliance. All Rights Reserved.

@@ -1,0 +1,167 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'initial-scale=1,user-scalable=no,width=device-width'}
+{'name': 'dc.title', 'content': 'New Life Christian Center - San Antonio Church'}
+{'name': 'dc.description', 'content': 'Looking for a church? We welcome you! Plan your first visit online today and experience powerful worship and life teaching principles for you and your family.'}
+{'name': 'dc.relation', 'content': 'https://christiancenter.com/'}
+{'name': 'dc.source', 'content': 'https://christiancenter.com/'}
+{'name': 'dc.language', 'content': 'en_US'}
+{'name': 'description', 'content': 'Looking for a church? We welcome you! Plan your first visit online today and experience powerful worship and life teaching principles for you and your family.'}
+{'name': 'robots', 'content': 'index, follow'}
+{'name': 'googlebot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'name': 'bingbot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'property': 'og:url', 'content': 'https://christiancenter.com/'}
+{'property': 'og:site_name', 'content': 'New Life Christian Center'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'New Life Christian Center - San Antonio Church'}
+{'property': 'og:description', 'content': 'Looking for a church? We welcome you! Plan your first visit online today and experience powerful worship and life teaching principles for you and your family.'}
+{'property': 'og:image', 'content': 'https://christiancenter.com/wp-content/uploads/2020/05/newlife7.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://christiancenter.com/wp-content/uploads/2020/05/newlife7.jpg'}
+{'property': 'og:image:width', 'content': '1849'}
+{'property': 'og:image:height', 'content': '969'}
+{'property': 'fb:pages', 'content': '110774679784'}
+{'property': 'fb:admins', 'content': '110774679784'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'New Life Christian Center - San Antonio Church'}
+{'name': 'twitter:description', 'content': 'Looking for a church? We welcome you! Plan your first visit online today and experience powerful worship and life teaching principles for you and your family.'}
+{'name': 'twitter:image', 'content': 'https://christiancenter.com/wp-content/uploads/2020/12/Austins.jpg'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'title', 'content': 'New Life Christian Center - San Antonio Church'}
+{'name': 'description', 'content': 'Looking for a church? We welcome you! Plan your first visit online today and experience powerful worship and life teaching principles for you and your family.'}
+{'name': 'theme-color', 'content': '#1bb0ce'}
+{'name': 'msapplication-navbutton-color', 'content': '#1bb0ce'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black-translucent'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://christiancenter.com/wp-content/uploads/2020/05/cropped-favicon-270x270.png'}
+
+Body Text:
+New Life Christian Center - San Antonio Church
+SERVICES
+DIRECTIONS
+CONTACT
+Watch Online
+Facebook-f
+Youtube
+Instagram
+Tiktok
+NEW HERE?
+ABOUT
+SERMONS
+NEWS
+EVENTS
+CONNECT
+GIVE
+Menu
+NEW HERE?
+ABOUT
+SERMONS
+NEWS
+EVENTS
+CONNECT
+GIVE
+We're All Discovering...
+Jesus
+Forgiveness
+Love
+Healing
+Change
+Freedom
+Relationships
+Grace
+Community
+New Life
+New Guest Info
+What's Your Story?
+You Belong Here. This Is The Place.
+Latest Sermon by
+Dr. LaSalle R. Vaughn II
+Watch Sermon
+The Latest News
+Upcoming Events
+View Events
+GET NOTIFIED
+Listen Now
+New Life Praise
+See All Albums
+To Be In Your Presence (Reimagined)
+Single
+Listen  Now
+Psalm 91
+Single
+Listen Now
+Christmas
+Album
+Listen  Now
+Follow Us on Social Media
+Facebook
+View Media
+YouTube
+View Media
+Instagram
+View Media
+TikTok
+View Media
+Download the App
+Log in for a
+personalized experience
+. View
+ministry calendar
+events, watch our
+television programs,
+Join a group
+,
+edit your account
+,
+give,
+and more!
+Be the First to Know
+Be notified when new sermons are released, get encouraging messages from Pastor Vaughn, be the first to know about any urgent ministry news, and much more.
+Text Notifications
+We don't spam. Receive 1-2 updates a month.
+Sign Me Up
+NEW
+HOME
+Plan Your Visit
+Latest Sermon
+Latest News
+Directions
+Contact Us
+ABOUT
+Who We Are
+Pastor Vaughn
+Leadership
+Academy
+Daycare
+CONNECT
+Events
+Groups
+Volunteers
+Planning Center
+Giving
+MEDIA
+Music
+Sermons
+Download App
+Livestream
+Daily Devotional
+FOLLOW US
+Facebook-f
+Youtube
+Instagram
+Tiktok
+CHURCH OFFICES
+(210) 679-6050
+Chat provider:
+LiveChat
+© 2024 New Life Christian Ministry, Inc.
+Terms of Use
+Privacy Policy
+Website by
+Shopping Basket
+Please ensure Javascript is enabled for purposes of
+website accessibility
+Register Now
+Free Popcorn & GIveaways

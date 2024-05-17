@@ -1,0 +1,16 @@
+Meta Information:
+{'name': 'application-name', 'content': 'Athletic.net'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'property': 'fb:app_id', 'content': '169507956425670'}
+{'property': 'og:site_name', 'content': 'Athletic.net'}
+{'property': 'og:url', 'content': 'https://www.athletic.net/team/81954/track-and-field-outdoor/2024'}
+{'name': 'twitter:site', 'content': '@AthleticNet'}
+{'id': 'ogImage', 'property': 'og:image', 'content': 'https://www.athletic.net/images/Logo/AthleticNet-OG-Image_1200x630.jpg'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Track & Field and Cross Country Statistics'}
+{'property': 'og:description', 'content': 'Rankings for middle school, high school, and college athletes. Compare yourself against athletes in your district, your state, or the nation.'}
+{'name': 'twitter:card', 'content': 'summary'}
+
+Body Text:
+Cary Athletic Club Club - Track and Field Outdoor 2024

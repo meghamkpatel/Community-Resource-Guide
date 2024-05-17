@@ -1,0 +1,60 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '856ef52c-da8f-410c-a200-9bfadee3c220'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'e5fe0061-2c6a-4eab-b9c2-da518b4a6b48'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '954'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'The Bull City Woodshop is a non-profit youth-centered organization that guides individual development, fosters community connection, and cultivates creativity through woodworking. We are supported financially by our adult DIY and woodworking education workshops. Check us out and support our mission!'}
+{'property': 'og:title', 'content': 'The Bull City Woodshop | Durham'}
+{'property': 'og:description', 'content': 'Founded in 2021, The Bull City Woodshop was created to empower youth in their abilities through woodworking education and mentorship.\nOur goal for every student in our program is that they leave The Woodshop with an increased confidence in their own abilities to be a successful and contributing citizen to our community.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/3dfb77_9bf6b507c43f44219fa3b77d08d5a43e~mv2.jpg/v1/fill/w_850,h_306,al_c/3dfb77_9bf6b507c43f44219fa3b77d08d5a43e~mv2.jpg'}
+{'property': 'og:image:width', 'content': '850'}
+{'property': 'og:image:height', 'content': '306'}
+{'property': 'og:url', 'content': 'https://www.thebullcitywoodshop.com'}
+{'property': 'og:site_name', 'content': 'Bull City Woodshop'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'du-UBzbHOFH4Z3rp_O-GbaRX4_hR5mFp7dQ0OlF9EeE'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'The Bull City Woodshop | Durham'}
+{'name': 'twitter:description', 'content': 'Founded in 2021, The Bull City Woodshop was created to empower youth in their abilities through woodworking education and mentorship.\nOur goal for every student in our program is that they leave The Woodshop with an increased confidence in their own abilities to be a successful and contributing citizen to our community.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/3dfb77_9bf6b507c43f44219fa3b77d08d5a43e~mv2.jpg/v1/fill/w_850,h_306,al_c/3dfb77_9bf6b507c43f44219fa3b77d08d5a43e~mv2.jpg'}
+
+Body Text:
+The Bull City Woodshop | Durham
+top of page
+The Bull City Woodshop is a non-profit youth-centered organization that guides individual development, fosters community connection, and cultivates creativity through woodworking.
+Donate
+Home
+About
+About the BCW
+School Age Programs
+Private Events
+Adult DIYs
+Community Shop Hours
+About the Board
+About the Staff
+Calendar
+Directions to the Shop
+Get Involved
+Community Partnerships
+Volunteer
+Committee Opportunities
+Forms
+Store
+Merchandise
+Gift Card
+Shop Projects
+Private Workshop Events
+Contact Us
+The Bull City Woodshop
+Enroll your student into a class that will teach a skill that will last a lifetime.  Class will teach woodworking safety and the use of hand tools.
+Reserve a Spot
+School-Age
+Programs
+bottom of page

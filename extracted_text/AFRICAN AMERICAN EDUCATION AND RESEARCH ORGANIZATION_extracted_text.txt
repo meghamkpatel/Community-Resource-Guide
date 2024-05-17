@@ -1,0 +1,85 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'Give v3.11.0'}
+{'name': 'description', 'content': '\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 \xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0\xa0 Visit AAERO MISSION: Guided by our commitment to community well-being, the mission of AAERO at Melchor-Quick Meeting House is to enable Black people to have the means to learn and share education of all kinds throughout our lives. VISION: We envision a transnational Black diaspora with healthy, interdependent communities living in harmony with…'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'AAERO@MQMH'}
+{'property': 'og:description', 'content': 'African American Education & Research Organization @ Melchor-Quick Meeting House'}
+{'property': 'og:url', 'content': 'https://aaero-mqmh.org/'}
+{'property': 'og:site_name', 'content': 'AAERO@MQMH'}
+{'property': 'og:image', 'content': 'https://aaero-mqmh.org/wp-content/uploads/2021/08/copy-of-brown-wilson-hall-hall.jpg'}
+{'property': 'og:image:width', 'content': '1500'}
+{'property': 'og:image:height', 'content': '1000'}
+{'property': 'og:image:alt', 'content': ''}
+{'property': 'og:locale', 'content': 'en_US'}
+{'name': 'twitter:text:title', 'content': 'About'}
+{'name': 'twitter:image', 'content': 'https://aaero-mqmh.org/wp-content/uploads/2021/08/copy-of-brown-wilson-hall-hall.jpg?w=640'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'msapplication-TileImage', 'content': 'https://s0.wp.com/i/webclip.png'}
+
+Body Text:
+AAERO@MQMH – African American Education & Research Organization @ Melchor-Quick Meeting House
+Skip to content
+AAERO@MQMH
+African American Education & Research Organization @ Melchor-Quick Meeting House
+Menu
++
+×
+expanded
+collapsed
+About
+Our Team
+Our History
+AAERO
+HBCU Internships
+Oral Histories
+Living Legacy and Memorial Awards
+Teacher Awards
+Black Education Diaspora (BED) Fund
+MQMH
+Rent Melchor-Quick Meeting House
+The Melchor-Quick Family
+Upcoming Events
+Previous Events
+Donate
+Founder’s Corner
+College Choice & Finances
+For-Profit Colleges and Universities
+Free Education
+Cart
++
+×
+expanded
+collapsed
+$
+0.00
+0 items
+About
+Visit AAERO
+MISSION:
+Guided by our commitment to community well-being, the
+mission
+of AAERO at Melchor-Quick Meeting House is to enable Black people to have the means to learn and share education of all kinds throughout our lives.
+VISION:
+We envision a transnational Black diaspora with healthy, interdependent communities living in harmony with people of every identity and with all forms of life in the world that we inhabit.
+Join Us
+We host an annual symposium to review the year’s accomplishments, gather with the African American community of Durham and Fayetteville (North Carolina), have an HBCU past and present intern reunion, and host a Board retreat. Find out about the next symposium and join us!
+Find Out More
+Visit MQMH
+Founded by an African American family, Melchor-Quick Meeting House welcomes people who seek places to talk and share information and ideas that contribute to the quality of life in our community.  We welcome individuals and groups to consider renting the House for small family events, classes, workshops or meetings of civic and community organizations.  Music lessons, tutoring, study sessions, and sharing of local history and culture are especially encouraged.  We aim to be a place for educational enrichment and community building. Read about our history and ongoing activities to decide if this would be a good place for your event.
+Building a community to learn, share and celebrate African American history and culture
+Contact
+Melchor-Quick Meeting House
+669 Country Club Drive
+Fayetteville NC 28301
+AAERO@MQMH
+,
+Powered by WordPress.com
+.
+Loading Comments...
+Write a Comment...
+Email (Required)
+Name (Required)
+Website

@@ -1,0 +1,218 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:site_name', 'content': 'EdReports'}
+{'property': 'twitter:site', 'content': '@EdReports'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'name': 'sharethis-property', 'content': '623d3959cdbe0200193e1a19'}
+{'name': 'title', 'class': ['swiftype'], 'content': 'EdReports.org', 'data-type': 'string'}
+{'name': 'image', 'class': ['swiftype'], 'content': 'https://cdn.edreports.org/pages/edreports-thumbnail.svg', 'data-type': 'enum'}
+{'property': 'og:url', 'content': 'https://edreports.org/'}
+
+Body Text:
+EdReports
+EdReports
+Explore Reports
+Explore Reports
+Explore Reports
+ELA
+Math
+Science
+Upcoming Reviews
+Our Process
+Our Process
+Our Process
+Review Tools
+Become a Reviewer
+Resources
+Resources
+Resources
+Adoption Steps
+Impact
+Impact
+Impact
+Why Materials Matter
+Annual Report
+State of the Market
+About Us
+About Us
+About Us
+Our Team
+Join Our Team
+Services
+Brand Guidelines
+FAQs
+Events
+Contact Us
+Search
+Materials Matter
+We provide free reports that help you evaluate instructional materials because high-quality content
+                  matters to teachers, to kids, and to our collective future.
+Select a subject to browse reports
+ELA
+Math
+Science
+Explore All Reports
+Adoption
+Steps
+What you select and how you select matters. Explore these best practices to ensure your next
+                      adoption delivers meaningful results for students and teachers.
+State of the
+Market
+Learn about the availability of programs aligned to college and career-ready standards and how
+                      regularly they’re being used in classrooms.
+Resources
+Dive into our vast collection of how-to resources, case studies, educator voice blogs, webinars,
+                      videos, and much more highlighting why materials matter for students and teachers.
+Recent Reports
+Explore our latest reviews of K-12 math, English language arts, and science instructional
+                    materials.
+2023
+CommonLit 360 6-8
+Subject
+ELA
+View Report
+2023
+New Visions High School Biology
+Subject
+Science
+View Report
+2022
+Into Science
+Subject
+Science
+View Report
+2021
+Smithsonian Science for the Classroom
+Subject
+Science
+View Report
+2024
+Math Mammoth
+Subject
+Math
+View Report
+2024
+i-Ready Classroom Mathematics
+Subject
+Math
+View Report
+2023
+Carolina Certified Version of OpenSciEd
+Subject
+Science
+View Report
+2023
+Mathspace High School Traditional Series
+Subject
+Math
+View Report
+2022
+Kendall Hunt Certified Version of OpenSciEd
+Subject
+Science
+View Report
+2023
+Activate Learning Certified Version of OpenSciEd
+Subject
+Science
+View Report
+2022
+Snappet Math
+Subject
+Math
+View Report
+2022
+Open Up Resources K-5 Math
+Subject
+Math
+View Report
+2023
+Foundations A-Z
+Subject
+ELA
+View Report
+More reports
+are available
+Explore Reports
+Our Process:
+How Reports Are Developed
+About
+EdReports
+Our mission is to increase the capacity of teachers, administrators, and leaders to
+                        seek,
+                        identify, and demand the highest quality instructional materials. See how our reviews
+                        can lead
+                        to better materials for students.
+Review Criteria and Evidence
+Guides
+Our educator-developed review tools identify criteria for high-quality instructional
+                        materials.
+                        Dive into our review tools for details on what we look for in our substantive review
+                        process.
+Educator Review
+Teams
+Learn more about our educator reviewers which consist of outstanding classroom
+                        educators,
+                        district coaches, and state content leaders who understand the importance of
+                        high-quality
+                        materials.
+The Review
+Process
+At the heart of EdReports is a commitment to a by educator, for educator
+                        instructional
+                        materials review process. See how educators are leading the way to support teachers
+                        with the
+                        tools and resources they need to support students.
+Why We Care
+At EdReports, we know materials matter for kids. Our mission is to increase the
+                capacity of teachers, administrators, and leaders to seek, identify, and demand high-quality
+                instructional materials to ensure students at all levels receive an excellent education.
+1
+Student Learning
+Rigorous college and career-ready standards can improve and deepen student learning.
+                      What is
+                      taught matters.
+2
+High Expectations for All
+Not all students have the same access to high-quality instructional materials and this
+                      perpetuates the opportunity gap.
+3
+Equity
+When teachers are provided with high-quality materials and aligned professional
+                      learning, this
+                      increases the opportunity for all students to learn and grow.
+Related Resources
+PLAY
+video
+EdReports Curriculum Reviewer Spotlight: Science Educator Therese Arsenault
+EdReports reviewer, Therese Arsenault, shares her perspectives on why it’s so important for science teachers to have access to high quality instructional materials and a voice in the adoption process.
+article
+Why Materials Matter to Me: With Science Curriculum Expert Melody Hawkins
+EdReports reviewer Melody Hawkins on her journey in education, what makes science curriculum high quality, and the importance of representation in materials.
+article
+Why Materials Matter to Me: With Math Curriculum Expert Leah Dix, Ph.D.
+EdReports reviewer Leah Dix, Ph.D., on her journey in education, what makes instructional materials high quality, and reviewing high school math curriculum.
+“When you’re adopting instructional materials, it’s easy to think that
+              receiving the
+              textbooks you’ve chosen is the end of the process. But really it’s only the
+              beginning. These
+              tools from EdReports guide us in assessing the strengths and weaknesses of our academic programs
+              so that
+              we can offer teachers targeted, strategic supports and ensure the materials we have will help
+              students
+              thrive.“
+Geoff Dean, Instructional Math Coach, Clovis Unified School District
+edreports.org
+Contact Us
+Become a Reviewer
+Careers
+Resources
+Equity Statement
+Privacy Policy
+Twitter
+Facebook
+LinkedIn
+YouTube
+Copyright 2024. EdReports.org, Inc. All Rights Reserved.

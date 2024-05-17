@@ -1,0 +1,176 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Chi Eta Phi Sorority, Inc. is an ethnically diverse professional nursing organization for registered professional and student nurses (male and female).'}
+{'name': 'robots', 'content': 'follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Chi Eta Phi Sorority, Inc Chi Eta Phi Sorority, Inc'}
+{'property': 'og:description', 'content': 'Chi Eta Phi Sorority, Inc. is an ethnically diverse professional nursing organization for registered professional and student nurses (male and female).'}
+{'property': 'og:url', 'content': 'https://chietaphi.org/'}
+{'property': 'og:site_name', 'content': 'Chi Eta Phi Sorority, Incorporated'}
+{'property': 'og:updated_time', 'content': '2024-03-27T20:04:01-04:00'}
+{'property': 'article:published_time', 'content': '2021-11-30T09:18:27-05:00'}
+{'property': 'article:modified_time', 'content': '2024-03-27T20:04:01-04:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home - Chi Eta Phi Sorority, Inc Chi Eta Phi Sorority, Inc'}
+{'name': 'twitter:description', 'content': 'Chi Eta Phi Sorority, Inc. is an ethnically diverse professional nursing organization for registered professional and student nurses (male and female).'}
+{'name': 'twitter:site', 'content': '@chietaphi_1932?lang=en'}
+{'name': 'twitter:creator', 'content': '@chietaphi_1932?lang=en'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Terry'}
+{'name': 'twitter:label2', 'content': 'Time to read'}
+{'name': 'twitter:data2', 'content': '1 minute'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://chietaphi.org'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://chietaphi.org/wp-content/uploads/2023/08/CEP-emb-white-outline-300x300.png'}
+
+Body Text:
+Home - Chi Eta Phi Sorority, Inc Chi Eta Phi Sorority, Inc
+Skip to content
+…Racism In Nursing
+Racial Reckoning Statement
+Member’s Portal
+Contact Us
+…Racism In Nursing
+Racial Reckoning Statement
+Member’s Portal
+Contact Us
+Home
+About
+National Presidentâs Welcome Message
+About Chi Eta Phi
+Founders
+Mascot
+Publications
+Leadership
+News & Events
+Education
+National Donor Tree
+Scholarships
+Photo Gallery
+Programs
+Programs & Projects
+Partners
+Affilates
+Health Advocacy and Social Policy
+Menu
+Home
+About
+National Presidentâs Welcome Message
+About Chi Eta Phi
+Founders
+Mascot
+Publications
+Leadership
+News & Events
+Education
+National Donor Tree
+Scholarships
+Photo Gallery
+Programs
+Programs & Projects
+Partners
+Affilates
+Health Advocacy and Social Policy
+Previous slide
+Next slide
+Welcome to Chi Eta Phi Sorority, Inc.
+Chi Eta Phi Sorority, Inc. is a professional organization for registered professional nurses and student nurses (male and female) representing many cultures and diverse ethnic backgrounds. More than 8000 Registered Nurses and Student Nurses hold membership in Chi Eta Phi Sorority, Inc.
+Every quarter members are highlighted for their extraordinary work. Click the button below to view the highlighted member(s).
+LEARN MORE
+Our Programs
+Disease Prevention & Health Promotion
+Within the framework of disease prevention and health promotion are health screenings and health education. Health screenings . . .
+LEARN MORE
+Seniors
+Programs for seniors provide various services such as travel assistance, health education, assistance with navigating the health care . . .
+LEARN MORE
+Youth & Young Adults
+These programs may be varied and include a variety of experiences that are offered for youth and young adults. Programs may . . .
+LEARN MORE
+Community Health Outreach
+This program is designed to serve our own (the membership). Programs are designed to assist members who are ill . . .
+LEARN MORE
+VIEW ALL PROGRAMS
+We've built a lot of
+memories over the years.
+Upcoming Events
+VIEW ALL EVENTS
+Our Partners
+Chi Eta Phi Sorority, Inc. is a proud partner with:
+VIEW ALL PARTNERS
+Get in Touch
+Chi Eta Phi Sorority, Inc.
+3029 13th Street NW
+Washington, DC 20009
+Phone:
+(202) 232-3858
+Email:
+info@chietaphi.org
+Home
+About
+National Presidentâs Welcome Message
+About Chi Eta Phi
+Founders
+Mascot
+Publications
+Leadership
+News & Events
+Education
+National Donor Tree
+Scholarships
+Photo Gallery
+Programs
+Programs & Projects
+Partners
+Affilates
+Health Advocacy and Social Policy
+Home
+About
+National Presidentâs Welcome Message
+About Chi Eta Phi
+Founders
+Mascot
+Publications
+Leadership
+News & Events
+Education
+National Donor Tree
+Scholarships
+Photo Gallery
+Programs
+Programs & Projects
+Partners
+Affilates
+Health Advocacy and Social Policy
+Find us on social media
+Twitter
+Facebook-f
+Copyright 2021 Â© Chi Eta Phi Sorority, Inc. Â®. All Rights Reserved
+error:
+CEP Content is protected !!
+Skip to content
+Open toolbar
+Accessibility Tools
+Accessibility Tools
+Increase Text
+Increase Text
+Decrease Text
+Decrease Text
+Grayscale
+Grayscale
+High Contrast
+High Contrast
+Negative Contrast
+Negative Contrast
+Light Background
+Light Background
+Links Underline
+Links Underline
+Readable Font
+Readable Font
+Reset
+Reset

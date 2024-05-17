@@ -1,0 +1,194 @@
+Meta Information:
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'black-translucent'}
+{'name': 'viewport', 'content': 'width=device-width, minimum-scale=1, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'charset': 'UTF-8'}
+{'name': 'distribution', 'content': 'global'}
+{'name': 'rating', 'content': 'general'}
+{'name': 'copyright', 'content': 'Copyright (c) 2024 '}
+{'itemprop': 'description', 'name': 'description', 'content': "It's been more than six years since a student was shot and killed by deputies in his home and UNCW just released a statement relating to the Cape Fear Community College student's death."}
+{'property': 'og:url', 'content': 'https://www.wect.com/story/21763713/uncw-allocates-100000-for-officer-accreditation-following-death-of-peyton-strickland'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'property': 'og:site_name', 'content': 'https://www.wect.com'}
+{'property': 'og:title', 'content': 'UNCW allocates $100,000 for officer accreditation following death of Peyton Strickland'}
+{'name': 'twitter:title', 'content': 'UNCW allocates $100,000 for officer accreditation following death of Peyton Strickland'}
+{'property': 'og:description', 'content': "It's been more than six years since a student was shot and killed by deputies in his home and UNCW just released a statement relating to the Cape Fear Community College student's death."}
+{'name': 'twitter:description', 'content': "It's been more than six years since a student was shot and killed by deputies in his home and UNCW just released a statement relating to the Cape Fear Community College student's death."}
+{'property': 'fb:admins', 'content': '644426401'}
+{'property': 'fb:app_id', 'content': '707274839313944'}
+{'property': 'fb:pages', 'content': '209617969082977'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/WECTNews/'}
+{'name': 'twitter:site', 'content': '@wectnews'}
+{'name': 'twitter:creator', 'content': '@wectnews'}
+{'itemprop': 'image', 'property': 'og:image', 'content': 'https://www.wect.com/pf/resources/images/logo-icons/wect.svg?d=409'}
+{'name': 'twitter:image', 'content': 'https://www.wect.com/pf/resources/images/logo-icons/wect.svg?d=409'}
+{'name': 'apple-itunes-app', 'content': 'app-id=449663517'}
+{'name': 'google-play-app', 'content': 'app-id=com.raycom.wect'}
+{'name': 'robots', 'content': 'index, follow, noarchive, max-snippet:20, max-image-preview:large, max-video-preview:-1'}
+{'name': 'googlebot', 'content': 'index'}
+{'name': 'googlebot-news', 'content': 'index'}
+{'name': 'keywords', 'content': ''}
+{'name': 'news_keywords', 'content': ''}
+{'property': 'article:sections_paths', 'content': '/news'}
+{'property': 'authors', 'content': 'WECT Staff'}
+{'property': 'article:published_time', 'content': '2013-03-22T10:59:21Z'}
+{'property': 'article:modified_time', 'content': '2013-03-26T10:59:08Z'}
+{'property': 'article:distributor_name', 'content': 'gray'}
+{'property': 'article:distributor_category', 'content': 'staff'}
+{'property': 'article:has_video', 'content': 'false'}
+
+Body Text:
+UNCW allocates $100,000 for officer accreditation following death of Peyton Strickland
+Skip to content
+Best of the Cape Fear
+Home Pros
+Contests
+Cape Fear Strong
+Hurricane Center
+Advertise with WECT
+Watch Live
+Bridge Project
+News
+Weather
+Investigate
+Traffic
+Health
+70th Anniversary
+Cape Fear Weekend
+Submit Your Pictures
+Home
+About Us
+Meet the News Team
+Live Online
+See It, Snap It, Send It
+Previous Newscasts
+WECT Anywhere
+Contests
+WECT Jobs
+WECT Internship Program
+News
+Investigate
+Crime
+Back to School
+Here We Grow
+National
+Politics
+Election Results
+Lottery
+Crimes of the Cape Fear
+1-on-1 with Jon Evans
+School Sex Scandal
+Black History Month
+Weather
+First Alert Skycams
+Sky Tracker
+First Alert Action Days FAQs
+Weather Pics
+First Alert Hurricane Center
+Shootin’ the Breeze
+Traffic
+Gas Prices
+Health
+Coronavirus
+Opioid Epidemic
+Senior Connect
+Sports
+UNCW Basketball on WECT, Bounce
+Olympics
+Friday Night Football
+Get Fit With 6
+Stats & Predictions
+How to Watch
+Cape Fear Eats
+Cape Fear Foodie
+Cape Fear Cooking
+Backyard BBQ
+Zeam - News Streams
+Community
+Holiday Smiles & Weller’s Wheels
+Event Calendar
+Community Classroom
+Collector's Calendar
+Cape Fear Weekend
+Pet of the Week
+Highway 6
+Sounds of Summer
+Clear The Shelters
+Community Spotlight
+Home Pros
+Cape Fear Strong
+Birthdays & Anniversaries
+Schedule
+Carolina in the Morning
+First at Four
+Conserve Cape Fear
+Side Hustle
+Telemundo Wilmington
+PowerNation
+Circle Country
+Gray DC Bureau
+InvestigateTV
+Digital Marketing
+UNCW allocates $100,000 for officer accreditation following death of Peyton Strickland
+By
+WECT Staff
+Published
+:
+Mar. 22, 2013 at 6:59 AM EDT
+|
+Updated
+:
+Mar. 26, 2013 at 6:59 AM EDT
+Email This Link
+Share on Facebook
+Share on X (formerly Twitter)
+Share on Pinterest
+Share on LinkedIn
+Peyton Strickland (Source: Nick Kane)
+WILMINGTON, NC (WECT) – It's been more than six years since a student was shot and killed by deputies in his home, and UNCW just released a statement relating to the Cape Fear Community College student's death.
+Peyton Strickland's family
+filed a lawsuit with the State Industrial Commission several years ago
+, blaming UNCW and police for a hasty and over-zealous investigation.
+The statement released by UNCW
+on Thursday says that lawsuit has been resolved.
+The university said in the statement that it would provide money to the charitable work of the Peyton Brooks Strickland Foundation. It also agreed to allocate $100,000 to an account that will be used to provide higher accreditation to the university's police department. It will pay for accreditation from the Accreditation for Law Enforcement Agencies.
+The statement from the university said this will help to set apart the university's accreditation from other institutions.
+Strickland was shot and killed after a sheriff's deputy mistakenly opened fire during a raid
+on his home in December of 2006. Sheriff deputies suspected the teenager had stolen a pair of Playstation 3's.
+Copyright 2013
+WECT
+. All rights reserved.
+Most Read
+NC Senate votes to ban people from wearing masks in public for health reasons
+Man rescued after car plunges into Cape Fear River along Southport waterfront
+NWS confirms four tornadoes touched down during storm in southeastern North Carolina
+One injured in shooting near 10th and Queen Streets
+One dead after shooting by Columbus County deputies
+Home
+News
+Weather
+Sports
+Event Calendar
+See It, Snap It, Send It
+About Us
+Meet the Team
+WECT
+322 Shipyard Blvd.
+Wilmington, NC 28412
+(910) 791-8070
+Public Inspection File
+PUBLICFILE@WECT.COM (910) 791-8070
+Terms of Service
+Privacy Policy
+EEO Report
+Advertising
+Digital Marketing
+Closed Captioning/Audio Description
+At Gray, our journalists report, write, edit and produce the news content that informs the communities we serve.
+Click here
+to learn more about our approach to artificial intelligence.
+A Gray Media Group, Inc. Station -
+©
+2002-2024 Gray Television, Inc.

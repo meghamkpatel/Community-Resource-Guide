@@ -1,0 +1,146 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Families Moving Forward'}
+{'property': 'og:title', 'content': 'Families Moving Forward'}
+{'property': 'og:url', 'content': 'https://fmfnc.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'FINDING THE WAY HOME    Learn More'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5603ebede4b008bd0ada10ad/t/5c409ce27924e82bb99ec9e9/1547738340271/FMF+Logo.png?format=1500w'}
+{'property': 'og:image:width', 'content': '190'}
+{'property': 'og:image:height', 'content': '176'}
+{'itemprop': 'name', 'content': 'Families Moving Forward'}
+{'itemprop': 'url', 'content': 'https://fmfnc.org'}
+{'itemprop': 'description', 'content': 'FINDING THE WAY HOME    Learn More'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5603ebede4b008bd0ada10ad/t/5c409ce27924e82bb99ec9e9/1547738340271/FMF+Logo.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5603ebede4b008bd0ada10ad/t/5c409ce27924e82bb99ec9e9/1547738340271/FMF+Logo.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Families Moving Forward'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5603ebede4b008bd0ada10ad/t/5c409ce27924e82bb99ec9e9/1547738340271/FMF+Logo.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://fmfnc.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'FINDING THE WAY HOME    Learn More'}
+{'name': 'description', 'content': ''}
+{'name': 'google-site-verification', 'content': '08GnNIFLe3uu3VQL_nwclonetSR3l29wvyljKMk3TO0'}
+{'name': 'google-site-verification', 'content': 'UcQb0hVY-rj6nkX8bE2t-Dp9ArPlYQ6XAM0J4nVmuvs'}
+{'name': 'google-site-verification', 'content': 'PtyF57Oc-YyWkr6fFlwNSFEjXcwcBC5fZawwT9gVhQY'}
+
+Body Text:
+Families Moving Forward
+My title
+page contents
+<
+Home
+About
+What We Do
+How We Do It
+Our Team
+Our Board
+Employment
+News
+Contact
+Fair Housing Statement
+Programs
+ELIGIBILITY
+The NEST
+Children's Services
+Branching Out
+Enrichment
+Rapid Rehousing
+Calendar
+Partnerships
+Community Resources
+Volunteers
+Registration
+Partners
+Significant Corporate Support
+SEI Certification
+Chefs for Change
+About CFC
+Tickets
+Photos
+Sponsors
+Sponsorship Opportunities
+Chef Alumni
+Events
+Rock the Block
+Houseware Share
+DONATE NOW
+Home
+About
+What We Do
+How We Do It
+Our Team
+Our Board
+Employment
+News
+Contact
+Fair Housing Statement
+Programs
+ELIGIBILITY
+The NEST
+Children's Services
+Branching Out
+Enrichment
+Rapid Rehousing
+Calendar
+Partnerships
+Community Resources
+Volunteers
+Registration
+Partners
+Significant Corporate Support
+SEI Certification
+Chefs for Change
+About CFC
+Tickets
+Photos
+Sponsors
+Sponsorship Opportunities
+Chef Alumni
+Events
+Rock the Block
+Houseware Share
+DONATE NOW
+FINDING THE WAY HOME
+Learn More
+Right here in Durham, there are families who need our help. Families without a place to live. Families with young children. Families in need.
+Working together, we help provide families with children a stable, safe, and loving environment while they are in the temporary crisis of homelessness. FMF now offers after-school tutoring, educational enrichment programming, and early interventions to children residing in our shelter as part of a multi-generation approach that aims to break the cycle of poverty in our community.
+Thanks to the ongoing teamwork of loving volunteers and professional staff, our families become self-reliant members of the community who can then give back to others in need.
+Featured
+DONATE ITEMS
+Check out the list of accepted items for donation to help make a family moving into the NEST
+feel safe and comfortable in their room
+.
+Give In-Kind →
+SEE FOR YOURSELF
+Listen to families who have experienced homelessness here in Durham tell
+their stories firsthand through our video series.
+Watch Here →
+LEARN HOW WE HELP
+Find out about
+our mission, our services and programs
+that help families end their homelessness.
+Learn More →
+VOLUNTEER YOUR TIME
+Find out about our volunteer opportunities and how
+you can make a difference
+in our community.
+Find Out How →
+MAKE A DONATION
+Homelessness starts at home.
+Make a donation here and give back today.
+Your support makes a difference.
+Donate Now →
+ATTEND CHEFS FOR CHANGE
+L
+ocal chefs from Durham's incredible food scene
+are donating their time and talent to raise funds for FMF. See what all the fuss is about and join us!
+Reserve Your Tickets →
+connect with us
+Featured
+Back to Top
+300 N Queen St, Durham, NC 27701, US
+(919) 683-5878
+contact@fmfnc.org

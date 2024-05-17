@@ -1,0 +1,76 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '68ce8c59-7f53-4b3d-8cb3-5a7bbec337d8'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '60d861dd-77f9-4ee8-ad71-9b70a48dca60'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '199'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Home | Thearicenter'}
+{'property': 'og:url', 'content': 'https://www.thearicenter.org'}
+{'property': 'og:site_name', 'content': 'Thearicenter'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | Thearicenter'}
+
+Body Text:
+Home | Thearicenter
+top of page
+Home
+Who We Are
+What We Believe
+What We Do
+Vision Planning Services
+The FAM-vocates!
+TAC 3C Support
+Family Leadership Network
+Support Us
+Donate
+Volunteer
+Contact
+Shop
+More...
+Use tab to navigate through the menu items.
+Who We Are
+Our Organization
+What We Believe
+Our Philosophy
+What We Do
+Our Services
+“We have a powerful potential in our youth,
+and we must have the courage to change
+old ideas and practices so that
+we may direct their power toward good ends.”
+– Dr. Mary McLeod Bethune
+Support Us
+Donate to Family Engagement in Education
+Donate Now
+The Ari Advocacy Center
+Physical Location
+3917 Fayetteville Street
+Durham, North Carolina 27713
+Mailing Address
+600 Park Offices Drive
+Suite 300, #4
+Durham, North Carolina 27709
+Email
+:
+Support@TheAriCenter.org
+​
+​
+Stay Connected
+Enter your email here
+Sign Up!
+Thanks for submitting!
+Quick Links
+Who We Are
+What We Believe
+What We Do
+Contact
+© 2021 The Ari Center.  All Rights Reserved.
+The Ari Advocacy Center is a 501(c)(3) Tax-Exempt, Non-profit Organization in the United States.
+bottom of page

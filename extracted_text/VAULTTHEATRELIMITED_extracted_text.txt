@@ -1,0 +1,94 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '0030cc2f-3209-483a-a648-2e08271d3936'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'c0a088e9-5a8d-497e-8766-38acee4e36b4'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1107'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Vault Theatre - Performing Arts classes and performances for young people in Durham, NC'}
+{'property': 'og:title', 'content': 'Performing Arts | Vault Theatre | Durham'}
+{'property': 'og:description', 'content': 'Vault Theatre - Performing Arts classes and performances for young people in Durham, NC'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/4f90e7_dd8a9ed2042b40c3a2ddd2c314c9044a~mv2.jpg/v1/fill/w_2500,h_1847,al_c/4f90e7_dd8a9ed2042b40c3a2ddd2c314c9044a~mv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1847'}
+{'property': 'og:url', 'content': 'https://www.vaulttheatre.org'}
+{'property': 'og:site_name', 'content': 'Vault Theatre'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'Yz0PRaHEWFz2I0C0ZXUWWyg4URgx9bd6tEHBpl2leOk'}
+{'name': 'fb_admins_meta_tag', 'content': 'vaulttheatre919'}
+{'name': 'facebook-domain-verification', 'content': 'wwz14ykwdlcdyuiqsngxteygvtzkjb'}
+{'property': 'fb:admins', 'content': 'vaulttheatre919'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Performing Arts | Vault Theatre | Durham'}
+{'name': 'twitter:description', 'content': 'Vault Theatre - Performing Arts classes and performances for young people in Durham, NC'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/4f90e7_dd8a9ed2042b40c3a2ddd2c314c9044a~mv2.jpg/v1/fill/w_2500,h_1847,al_c/4f90e7_dd8a9ed2042b40c3a2ddd2c314c9044a~mv2.jpg'}
+
+Body Text:
+Performing Arts | Vault Theatre | Durham
+top of page
+PERFORMANCE
+PERFORMANCE
+Log In
+Home
+About
+The Team
+Contact
+Support Us
+Work with Us
+Auditions
+The Season
+Classes
+Weekly Classes
+Changemakers Ensemble
+Musical Theatre Workshop
+Industry Prep
+Summer
+Educators
+TYA School Tour
+INTEGRATE
+ENGAGE
+CREATE
+Home
+About
+The Team
+Contact
+Support Us
+Work with Us
+Auditions
+The Season
+Classes
+Weekly Classes
+Changemakers Ensemble
+Musical Theatre Workshop
+Industry Prep
+Summer
+Educators
+TYA School Tour
+INTEGRATE
+ENGAGE
+CREATE
+Classes
+Weekly youth classes for young artists ages 5-12 and teens 13-18!
+Discover classes today
+Performances
+Vault Theatre produces stories that are thematically, educationally, and artistically programmed with young audiences at the heart of the decision making.
+See a Show today
+In-SCHOOL
+Vault Theatre offers comprehensive in-school theatre programming to students of all ages!
+Invite us Today
+support
+Be a Changemaker and invest in the arts today by supporting Vault Theatre!
+Donate Today
+Connect with us!
+(919) 886-4584
+info@vaulttheatre.org
+be a changemaker!
+donate now
+Sign up for our monthly newsletter!
+​
+bottom of page

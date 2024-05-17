@@ -1,0 +1,91 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'http-equiv': 'origin-trial', 'content': 'ApvK67ociHgr2egd6c2ZjrfPuRs8BHcvSggogIOPQNH7GJ3cVlyJ1NOq/COCdj0+zxskqHt9HgLLETc8qqD+vwsAAABteyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJQcml2YWN5U2FuZGJveEFkc0FQSXMiLCJleHBpcnkiOjE2OTUxNjc5OTksImlzU3ViZG9tYWluIjp0cnVlfQ=='}
+{'name': 'theme-color', 'content': 'rgba(255, 255, 255, 0.98)'}
+{'name': 'title', 'content': 'Kronos Quartet: "One Earth, One People, One Love" from Terry Riley\'s Sun Rings'}
+{'name': 'description', 'content': 'Official music video for “One Earth, One People, One Love,” the final movement of Sun Rings, Kronos Quartet’s 2002 collaboration with composer Terry Riley of...'}
+{'name': 'keywords', 'content': 'kronos, kronos quartet, kronosquartet, david harrington, string quartet, violin, viola, cello, terry riley, sun rings, NASA, volti'}
+{'property': 'og:site_name', 'content': 'YouTube'}
+{'property': 'og:url', 'content': 'https://www.youtube.com/watch?v=nX2mLIPh9Kw'}
+{'property': 'og:title', 'content': 'Kronos Quartet: "One Earth, One People, One Love" from Terry Riley\'s Sun Rings'}
+{'property': 'og:image', 'content': 'https://i.ytimg.com/vi/nX2mLIPh9Kw/maxresdefault.jpg'}
+{'property': 'og:image:width', 'content': '1280'}
+{'property': 'og:image:height', 'content': '720'}
+{'property': 'og:description', 'content': 'Official music video for “One Earth, One People, One Love,” the final movement of Sun Rings, Kronos Quartet’s 2002 collaboration with composer Terry Riley of...'}
+{'property': 'al:ios:app_store_id', 'content': '544007664'}
+{'property': 'al:ios:app_name', 'content': 'YouTube'}
+{'property': 'al:ios:url', 'content': 'vnd.youtube://www.youtube.com/watch?v=nX2mLIPh9Kw&feature=applinks'}
+{'property': 'al:android:url', 'content': 'vnd.youtube://www.youtube.com/watch?v=nX2mLIPh9Kw&feature=applinks'}
+{'property': 'al:web:url', 'content': 'http://www.youtube.com/watch?v=nX2mLIPh9Kw&feature=applinks'}
+{'property': 'og:type', 'content': 'video.other'}
+{'property': 'og:video:url', 'content': 'https://www.youtube.com/embed/nX2mLIPh9Kw'}
+{'property': 'og:video:secure_url', 'content': 'https://www.youtube.com/embed/nX2mLIPh9Kw'}
+{'property': 'og:video:type', 'content': 'text/html'}
+{'property': 'og:video:width', 'content': '1280'}
+{'property': 'og:video:height', 'content': '720'}
+{'property': 'al:android:app_name', 'content': 'YouTube'}
+{'property': 'al:android:package', 'content': 'com.google.android.youtube'}
+{'property': 'og:video:tag', 'content': 'kronos'}
+{'property': 'og:video:tag', 'content': 'kronos quartet'}
+{'property': 'og:video:tag', 'content': 'kronosquartet'}
+{'property': 'og:video:tag', 'content': 'david harrington'}
+{'property': 'og:video:tag', 'content': 'string quartet'}
+{'property': 'og:video:tag', 'content': 'violin'}
+{'property': 'og:video:tag', 'content': 'viola'}
+{'property': 'og:video:tag', 'content': 'cello'}
+{'property': 'og:video:tag', 'content': 'terry riley'}
+{'property': 'og:video:tag', 'content': 'sun rings'}
+{'property': 'og:video:tag', 'content': 'NASA'}
+{'property': 'og:video:tag', 'content': 'volti'}
+{'property': 'fb:app_id', 'content': '87741124305'}
+{'name': 'twitter:card', 'content': 'player'}
+{'name': 'twitter:site', 'content': '@youtube'}
+{'name': 'twitter:url', 'content': 'https://www.youtube.com/watch?v=nX2mLIPh9Kw'}
+{'name': 'twitter:title', 'content': 'Kronos Quartet: "One Earth, One People, One Love" from Terry Riley\'s Sun Rings'}
+{'name': 'twitter:description', 'content': 'Official music video for “One Earth, One People, One Love,” the final movement of Sun Rings, Kronos Quartet’s 2002 collaboration with composer Terry Riley of...'}
+{'name': 'twitter:image', 'content': 'https://i.ytimg.com/vi/nX2mLIPh9Kw/maxresdefault.jpg'}
+{'name': 'twitter:app:name:iphone', 'content': 'YouTube'}
+{'name': 'twitter:app:id:iphone', 'content': '544007664'}
+{'name': 'twitter:app:name:ipad', 'content': 'YouTube'}
+{'name': 'twitter:app:id:ipad', 'content': '544007664'}
+{'name': 'twitter:app:url:iphone', 'content': 'vnd.youtube://www.youtube.com/watch?v=nX2mLIPh9Kw&feature=applinks'}
+{'name': 'twitter:app:url:ipad', 'content': 'vnd.youtube://www.youtube.com/watch?v=nX2mLIPh9Kw&feature=applinks'}
+{'name': 'twitter:app:name:googleplay', 'content': 'YouTube'}
+{'name': 'twitter:app:id:googleplay', 'content': 'com.google.android.youtube'}
+{'name': 'twitter:app:url:googleplay', 'content': 'https://www.youtube.com/watch?v=nX2mLIPh9Kw'}
+{'name': 'twitter:player', 'content': 'https://www.youtube.com/embed/nX2mLIPh9Kw'}
+{'name': 'twitter:player:width', 'content': '1280'}
+{'name': 'twitter:player:height', 'content': '720'}
+{'itemprop': 'name', 'content': 'Kronos Quartet: "One Earth, One People, One Love" from Terry Riley\'s Sun Rings'}
+{'itemprop': 'description', 'content': 'Official music video for “One Earth, One People, One Love,” the final movement of Sun Rings, Kronos Quartet’s 2002 collaboration with composer Terry Riley of...'}
+{'itemprop': 'requiresSubscription', 'content': 'False'}
+{'itemprop': 'identifier', 'content': 'nX2mLIPh9Kw'}
+{'itemprop': 'duration', 'content': 'PT9M3S'}
+{'itemprop': 'width', 'content': '1280'}
+{'itemprop': 'height', 'content': '720'}
+{'itemprop': 'playerType', 'content': 'HTML5 Flash'}
+{'itemprop': 'width', 'content': '1280'}
+{'itemprop': 'height', 'content': '720'}
+{'itemprop': 'isFamilyFriendly', 'content': 'true'}
+{'itemprop': 'regionsAllowed', 'content': 'AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW'}
+{'itemprop': 'interactionCount', 'content': '30231'}
+{'itemprop': 'datePublished', 'content': '2019-10-30T05:00:10-07:00'}
+{'itemprop': 'uploadDate', 'content': '2019-10-30T05:00:10-07:00'}
+{'itemprop': 'genre', 'content': 'Music'}
+
+Body Text:
+Kronos Quartet: "One Earth, One People, One Love" from Terry Riley's Sun Rings - YouTube
+About
+Press
+Copyright
+Contact us
+Creators
+Advertise
+Developers
+Terms
+Privacy
+Policy & Safety
+How YouTube works
+Test new features
+NFL Sunday Ticket
+© 2024 Google LLC

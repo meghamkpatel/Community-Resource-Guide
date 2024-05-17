@@ -1,0 +1,177 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'eb722ce1-3bdc-4efd-849b-795525ebf46c'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '82e627da-d2c3-494a-959b-37490832426a'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '759'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Lyme Disease Awareness Month'}
+{'property': 'og:description', 'content': "Eleven years ago this month I was diagnosed with Lyme disease after over fifteen years of undiagnosed illness. Since then, I've experienced enormous healing among two relapses--the most recent this past winter. Still, I'm more functional than I've experienced in the past decade and more optimistic for the future than I've ever been.May is Lyme Disease Awareness Month. It's a time when I usually flood your feeds with quotes and stories of my own personal experiences and facts about this silent ep"}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/658897_4537861a64b44642bfaabda3e0eb9c97~mv2_d_1695_1698_s_2.jpg/v1/fill/w_998,h_1000,al_c,q_85,usm_0.66_1.00_0.01/658897_4537861a64b44642bfaabda3e0eb9c97~mv2_d_1695_1698_s_2.jpg'}
+{'property': 'og:image:width', 'content': '1695'}
+{'property': 'og:image:height', 'content': '1698'}
+{'property': 'og:url', 'content': 'https://www.lymebravefoundation.org/single-post/lyme-disease-awareness-month'}
+{'property': 'og:site_name', 'content': 'lymebrave'}
+{'property': 'og:type', 'content': 'article'}
+{'name': 'fb_admins_meta_tag', 'content': 'LymeBraveFoundation'}
+{'property': 'fb:admins', 'content': 'LymeBraveFoundation'}
+{'property': 'article:author', 'content': 'lymebrave'}
+{'property': 'article:published_time', 'content': '2023-05-01T17:55:08.509Z'}
+{'property': 'article:modified_time', 'content': '2023-05-01T17:55:08.509Z'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Lyme Disease Awareness Month'}
+{'name': 'twitter:description', 'content': "Eleven years ago this month I was diagnosed with Lyme disease after over fifteen years of undiagnosed illness. Since then, I've experienced enormous healing among two relapses--the most recent this past winter. Still, I'm more functional than I've experienced in the past decade and more optimistic for the future than I've ever been.May is Lyme Disease Awareness Month. It's a time when I usually flood your feeds with quotes and stories of my own personal experiences and facts about this silent ep"}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/658897_4537861a64b44642bfaabda3e0eb9c97~mv2_d_1695_1698_s_2.jpg/v1/fill/w_998,h_1000,al_c,q_85,usm_0.66_1.00_0.01/658897_4537861a64b44642bfaabda3e0eb9c97~mv2_d_1695_1698_s_2.jpg'}
+
+Body Text:
+Lyme Disease Awareness Month
+top of page
+DONATE
+THERE'S MORE THAN ONE WAY TO BE BRAVE.
+VOLUNTEER
+HOME
+ABOUT
+NAVIGATION
+FOUNDER'S STORY
+BLOG
+THE MIGHTY BLOG PARTNERSHIP
+EDUCATION
+ALL ABOUT LYME DISEASE
+LYME SYMPTOMS
+LYME PREVENTION
+PHYSICIAN REFERRALS
+LYME RESOURCES
+SUPPORT
+PATIENT PORTAL
+CAREGIVER PORTAL
+PET PORTAL
+AWARENESS
+CAMPAIGNS
+EVENTS
+NEWS & MEDIA
+DONATE
+DONATE DIRECTLY
+SHOP LYMEBRAVE
+LYMEBRAVE AFFILIATES
+VOLUNTEER
+CONTACT
+More
+Use tab to navigate through the menu items.
+Welcome!
+Living with Love, Hope, Lyme
+New Patient Support Forms!
+Lyme Disease Awareness Month
+Forgiving the Doctors Who Misdiagnosed Me
+Believing in Better Days When You Have Lyme Disease
+Happy Birthday, LymeBrave!
+Shop LymeBrave!
+Volunteer Opportunity: Join Our Team!
+A Note From LymeBrave Founder
+Lyme Awareness Month, Day Sixteen: A Letter To My Chronic Lyme Disease
+Search By Category
+Administrative
+Essays
+Events
+Features
+Guest Contributors
+Partnerships
+Press
+Follow Us
+Discussion
+Like a post? Join the discussion on
+Facebook!
+Related Posts
+Featured Posts
+Lyme Disease Awareness Month
+Eleven years ago this month I was diagnosed with Lyme disease after over fifteen years of undiagnosed illness. Since then, I've experienced enormous healing among two relapses--the most recent this past winter. Still, I'm more functional than I've experienced in the past decade and more optimistic for the future than I've ever been.
+May is Lyme Disease Awareness Month. It's a time when I usually flood your feeds with quotes and stories of my own personal experiences and facts about this silent epidemic. For the past decade, I've been a vocal advocate for a community that is too readily ignored, neglected, and gaslit due to the willful ignorance of the medical establishment, particularly for the emotional experience that comes with living with a chronic illness--and a misunderstood one at that. I've written books, given speeches, campaigned on behalf of various Lyme-related non-profits, and even founded my own, LymeBrave Foundation Inc. Most importantly, I've connected with thousands of Lyme patients and caregivers--answering phone calls and emails at all hours of the day and night because I know what it's like to feel alone, scared, and confused during times of great struggle, pain, and challenge. I refuse to let anyone give up, just as so many refused to give up on me.
+When I look back at the past decade, it would be easy to feel grief and anger. I'm going to be 40 in a few months; in essence, I could say that I lost the majority of my 30s to this disease--even my 20s if we want to go back further to those years of misdiagnosis...
+But I can't seem to find anything but gratitude these days. That chapter of my life brought me so much pain and suffering, but it also brought so much teaching. I made a conscious decision in the early stages of my health recovery that I would turn my pain into purpose. Then I turned that purpose into passion, closing one chapter but carrying all of that healing and all of that learning into a new journey of my life.
+Sometimes it takes the shadow to show you where there's light.
+I know there's so many that are still suffering from the horrors of this disease and many more who fill the role of caregivers, friends, family, and loved ones who stand by feeling helpless. I understand. My family and I have been there. To those caregivers: your support, compassion, and love moves mountains. To Lyme patients new and old, please know that there is always hope.
+You are heard. You are seen. You are supported.
+LymeBrave Foundation still exists as a resource of hope with personal essays, quotes, and facts about Lyme disease. Our website,
+www.lymebravefoundation.org
+contains additional resources such as patient and caregiver support portals to help you manage life with Lyme disease.
+While we've taken a step back from frontline advocacy in recent years, we're so happy to see so many picking up the mantle and sharing their experiences to facilitate awareness, education, and change.
+Linked here
+are some of my favorite organizations for Lyme disease advocacy:
+No matter where you are or who you are, stay strong and keep being brave.
+With love,
+Susan
+LymeBrave Founder
+Post not marked as liked
+December 2023
+(1)
+1 post
+August 2023
+(1)
+1 post
+May 2023
+(1)
+1 post
+March 2019
+(1)
+1 post
+December 2018
+(1)
+1 post
+September 2018
+(1)
+1 post
+August 2018
+(1)
+1 post
+July 2018
+(1)
+1 post
+May 2018
+(17)
+17 posts
+January 2018
+(2)
+2 posts
+December 2017
+(4)
+4 posts
+November 2017
+(6)
+6 posts
+September 2017
+(1)
+1 post
+July 2017
+(1)
+1 post
+May 2017
+(15)
+15 posts
+Archive
+Say Something!
+Have something to say?
+Are you a patient or caregiver to someone with Lyme disease?
+Become a contributor to the
+Being LymeBrave Blog
+by submitting your essay to:
+info@lymebravefoundation.org!
+Being LymeBrave Blog
+Crisis Lifeline
+Lyme patients are at-risk of suicide due to the accompanying decrease in quality of life. If you or someone you love is suffering from depression or suicidal ideation, contact your physician immediately or call the
+National Suicide & Crisis Lifeline
+1-800-273-
+TALK
+(1-800-273-8255)
+OR
+988
+Disclaimer
+LymeBrave Foundation, Inc. is an education and support services 501(c)(3) non-profit organization created by patients, for patients. The material found herein is for informational purposes only and is not a substitute for the medical services or advice of professionals. While we aim to provide emotional support resources to patients and caregivers, LymeBrave Foundation, Inc. makes no representation of warranties with respect to the context of the information herein. LymeBrave Foundation, Inc. is not liable for any damages, including the health and wellbeing of individuals, arising herefrom. LymeBrave Foundation, Inc. is not responsible for third-party content, nor does it recommend or endorse third-party content.
+Connect
+Never miss an update!
+Subscribe Now
+© 2024  LymeBrave Foundation, Inc.
+bottom of page

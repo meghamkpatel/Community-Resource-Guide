@@ -1,0 +1,127 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '0fd4e225-07a8-43b9-95da-0ebbcb5f5140'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'ab969cf7-6f71-4d00-b3bc-640719cc261c'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1370'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "Book Harvest is internationally recognized for its work to transform children's literacy. Since 2011, Book Harvest has provided over two million books to families in North Carolina, ensuring that parents have the tools and power to ignite and strengthen their children's literacy. With programs that are grounded in evidence, Book Harvest believes that literacy starts at birth, at home, with parents, and with books. "}
+{'property': 'og:title', 'content': "Home | Book Harvest | Durham, NC | Children's Literacy Nonprofit"}
+{'property': 'og:description', 'content': "Books for every child; support for every parent; literacy for every community. Book Harvest is internationally recognized for its work to transform children's literacy. Since 2011, Book Harvest has provided over two million books to families in North Carolina, ensuring that parents have the tools and power to ignite and strengthen their children's literacy. With programs that are grounded in evidence, Book Harvest believes that literacy starts at birth, at home, with parents, and with books. "}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/b9ef69_d8d7e66cd297458d91c9d66ffcda8da9%7Emv2.png/v1/fit/w_2500,h_1330,al_c/b9ef69_d8d7e66cd297458d91c9d66ffcda8da9%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.bookharvest.org'}
+{'property': 'og:site_name', 'content': 'Book Harvest'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'bookharvestnc'}
+{'name': 'google-site-verification', 'content': 'PW-PHSO0mZ7mP73dOUJvHJnsfaHHdoHK777TEwW7VRQ'}
+{'property': 'fb:admins', 'content': 'bookharvestnc'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': "Home | Book Harvest | Durham, NC | Children's Literacy Nonprofit"}
+{'name': 'twitter:description', 'content': "Books for every child; support for every parent; literacy for every community. Book Harvest is internationally recognized for its work to transform children's literacy. Since 2011, Book Harvest has provided over two million books to families in North Carolina, ensuring that parents have the tools and power to ignite and strengthen their children's literacy. With programs that are grounded in evidence, Book Harvest believes that literacy starts at birth, at home, with parents, and with books. "}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/b9ef69_6cedc7e2ab4a470ea6237247f6be9421~mv2.png'}
+
+Body Text:
+Home | Book Harvest | Durham, NC | Children's Literacy Nonprofit
+top of page
+Donate
+Donate
+Let's Talk
+Home
+Who We Are
+Mission, Vision, and Values
+What We Believe
+Founder's Message
+Leadership
+Locations
+Funding Partners
+Community Partners
+What We Do
+Early Literacy System of Care
+Book Abundance Initiatives
+Community Events
+Advocacy
+Why We Do It
+The Evidence
+Our Research
+Our Impact Reports
+Mirrors, Windows, Sliding Glass Doors
+Get Books
+Find a Book Hub
+Durham Family Space
+Get Books from Book Harvest
+Get Involved
+Give Books
+Volunteer
+Donate
+Careers
+Connect With Us
+Blog, Press Releases, News
+Blog & Press
+Newsletter
+More
+Use tab to navigate through the menu items.
+Books
+for every child.
+books harvested by families since 2011
+2,206,704
+About Book Harvest
+Book Harvest is internationally recognized for its work to transform children's literacy. Since 2011, Book Harvest has provided more than 2 million books to families in North Carolina, ensuring that parents have the tools and power to ignite and strengthen their children's literacy. With programs that are grounded in evidence, Book Harvest believes that literacy starts at birth, at home, with parents, and with books.
+Read More
+Home: About
+The Opportunity
+Eighty percent of brain development happens in the first three years of life. Imagine the possibilities for all children when they grow up surrounded by books and stories, words and ideas — starting at birth.
+​
+It’s a once-in-a-lifetime opportunity.
+More Info
+Our Response
+We nourish young brains by filling their worlds with an abundance of books. And we partner with parents from the time their children are born, to ensure that parents are equipped with everything they need to help their children thrive.
+​
+It’s a response that fuels imagination and sparks joy.
+More Info
+Our Impact
+More than 2,000,000 Book Harvest books have been harvested by children since 2011. Books are the catalyst for robust vocabularies, empathy, curiosity, and creativity – and the foundation for a lifelong love of reading.
+​
+It’s an impact that is transforming lives, book by book.
+More Info
+We love that there is actually structured guidance for teaching our child to read, and the basic foundations of literacy, in addition to getting the tools (books) to do it with.
+Book Babies Parent
+News & Updates
+Joys of Storytime
+Blog
+1 hour ago
+Thank you, Tía
+Blog
+May 9
+Reading together
+Blog
+May 2
+Our Lovely Volunteers
+Apr 24
+Ready for School Resources
+Apr 23
+Civic Engagement and Literacy Go Hand in Hand
+Apr 17
+As Seen on Social (@bookharvestnc)
+About Us
+Since 2011, Book Harvest has provided over 2.2 million books to families, ensuring that parents have the tools and power to ignite and strengthen their children's literacy. With programs that are grounded in evidence, Book Harvest believes that literacy starts at birth, in the home, powered by parents, and nourished with books.
+Book Harvest's 2022 IRS 990 is available
+here
+.
+Book Harvest's most recent audit is
+here
+.
+Connect With Us
+(252) 497-BOOK
+2501 University Drive, Durham, NC 27707
+Tuesday -
+Saturday 9 AM - 5 PM
+Careers
+©2024 by Book Harvest NC.
+bottom of page

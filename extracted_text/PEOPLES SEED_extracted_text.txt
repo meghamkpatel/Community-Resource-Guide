@@ -1,0 +1,325 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'name': 'theme-color', 'content': '#859e72'}
+{'name': 'description', 'content': 'Discover our array of ethical clothing, quality outdoor products, & sustainable home goods. Shop from the best sustainable clothing brands & more here at SEED.'}
+{'property': 'og:site_name', 'content': 'SEED Peoples Market'}
+{'property': 'og:url', 'content': 'https://www.seedpeoplesmarket.com/'}
+{'property': 'og:title', 'content': 'Carefully Curated & Sustainably Driven - Eco-Minded Clothing & Goods'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Discover our array of ethical clothing, quality outdoor products, & sustainable home goods. Shop from the best sustainable clothing brands & more here at SEED.'}
+{'property': 'og:image', 'content': 'http://www.seedpeoplesmarket.com/cdn/shop/files/2022-seed-icon-green_5e49f7a0-1ff9-45cb-b15c-09521bd00f72_1200x1200.png?v=1681323569'}
+{'property': 'og:image:secure_url', 'content': 'https://www.seedpeoplesmarket.com/cdn/shop/files/2022-seed-icon-green_5e49f7a0-1ff9-45cb-b15c-09521bd00f72_1200x1200.png?v=1681323569'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '628'}
+{'name': 'twitter:site', 'content': '@seedpeoplesmkt'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Carefully Curated & Sustainably Driven - Eco-Minded Clothing & Goods'}
+{'name': 'twitter:description', 'content': 'Discover our array of ethical clothing, quality outdoor products, & sustainable home goods. Shop from the best sustainable clothing brands & more here at SEED.'}
+{'name': 'google-site-verification', 'content': 'RcvYvHQNK8wSC9qdysgN0s-l68ZuaXSKd088xusPl6A'}
+{'name': 'google-site-verification', 'content': 'KaVz5SptqNVpTyHUc8Wc8d_CwxEjitnF0JES3Ll1WL4'}
+{'id': 'shopify-digital-wallet', 'name': 'shopify-digital-wallet', 'content': '/10642566/digital_wallets/dialog'}
+{'name': 'shopify-checkout-api-token', 'content': '27f0f5b50ff7e8d26959ff7cfbc00dcd'}
+{'id': 'in-context-paypal-metadata', 'data-shop-id': '10642566', 'data-venmo-supported': 'true', 'data-environment': 'production', 'data-locale': 'en_US', 'data-paypal-v4': 'true', 'data-currency': 'USD'}
+
+Body Text:
+Carefully Curated & Sustainably Driven - Eco-Minded Clothing & Goods – SEED Peoples Market
+VIEW CART
+SAVE 10% OFF YOUR FIRST ONLINE ORDER HERE. FREE SHIPPING AVAILABLE FOR ORDERS OVER $100.
+Search
+Close menu
+Menu
+Search
+Log in
+Create account
+0
+Cart
+Added to Cart
+You have
+items in your cart
+You have
+1
+item in your cart
+Total
+Check Out
+Continue Shopping
+NEW
+WOMEN
+MEN
+OUTDOOR
+TRAVEL
+HOME
+KIDS
+GIFTS
+PATAGONIA
+MORE
+Search
+Close menu
+NEW
+WOMEN
+MEN
+OUTDOOR
+TRAVEL
+HOME
+KIDS
+GIFTS
+PATAGONIA
+MORE
+Log in
+Create account
+CAREFULLY CURATED, SUSTAINABLY DRIVEN.
+PATAGONIA - OUR BEST SELLER
+Whatever and wherever your adventures take you, Patagonia offers a wide range of high-quality, long-lasting, and sustainable products.
+FULL COLLECTION
+PATAGONIA WOMEN'S CAPILENE COOL TRAIL CROPPED TANK TOP
+$ 45.00
+Unit price
+/
+per
+MILKWEED MAUVE
+CHOUINARD CREST: WISPY GREEN
+PATAGONIA DAILY TEE
+$ 49.00
+Unit price
+/
+per
+UNDYED NATURAL
+TIDEPOOL BLUE
+INK BLACK
+PATAGONIA MEN'S NOMADER VOLLEY SHORTS
+$ 89.00
+Unit price
+/
+per
+FORGE GREY
+SLAB KHAKI
+PATAGONIA MEN'S TRANSIT TRAVELER SHORTS 7"
+$ 109.00
+Unit price
+/
+per
+INK BLACK
+OAR TAN
+PATAGONIA MEN'S ESSENTIAL POLO
+$ 69.00
+Unit price
+/
+per
+BLACK
+PUMICE
+PATAGONIA WOMEN'S R1 CROSSSTRADA HOODY
+$ 189.00
+Unit price
+/
+per
+BLACK
+CONIFER GREEN
+PATAGONIA BABY MICRO D SNAP-T FLEECE JACKET
+$ 59.00
+Unit price
+/
+per
+GATHER GREEN
+MILKWEED MAUVE
+PATAGONIA BABY GRAPHIC T-SHIRT
+$ 29.00
+Unit price
+/
+per
+EASY RIDER: GATHER GREEN
+SKUNK TAILS: MILLED YELLOW
+ARC'TERYX - STYLES GO QUICK.
+For all the diverse conditions and demands of outdoor activities, Arc’teryx designs its equipment with performance and durability at the forefront.
+FULL COLLECTION
+ARC'TERYX AERIOS BUCKET HAT
+$ 70.00
+Unit price
+/
+per
+FORAGE
+BLACK
+ARC'TERYX WOMEN'S KYANITE LIGHTWEIGHT ZIP NECK
+$ 140.00
+Unit price
+/
+per
+SOLITUDE
+ARC'TERYX AERIOS 35 BACKPACK
+$ 250.00
+Unit price
+/
+per
+BLACK
+CHLORIS/FORAGE
+ARC'TERYX AERIOS 18 BACKPACK
+$ 180.00
+Unit price
+/
+per
+BLACK
+CHLORIS/FORAGE
+ARC'TERYX MEN'S INCENDO PANT
+$ 140.00
+Unit price
+/
+per
+BLACK
+VOID
+ARC'TERYX WOMEN'S GAMMA LIGHTWEIGHT CREW NECK PULLOVER
+$ 220.00
+Unit price
+/
+per
+BLACK
+TATSU
+ARC'TERYX MEN'S AR-395A HARNESS
+$ 160.00
+Unit price
+/
+per
+YUKON/EDZIZA
+ARC'TERYX WOMEN'S AR-385A HARNESS
+$ 160.00
+Unit price
+/
+per
+YUKON/AMARANTHUS/EDZIZA
+BAGGU - A COMMUNITY FAV.
+BAGGU takes sustainability even further with minimal waste design, recycled materials, eco-friendly packaging, and ethical manufacturing.
+FULL COLLECTION
+BAGGU CARGO SHOULDER BAG
+$ 46.00
+Unit price
+/
+per
+CANDY APPLE
+SEAWEED
+GREEN GINGHAM
+BAGGU HORIZONTAL ZIP DUCK BAG
+From
+$ 42.00
+Unit price
+/
+per
+WAVY GINGHAM BROWN
+CROSS STITCH
+GREEN AWNING STRIPE
+PINK AWNING STRIPE
+BAGGU HORIZONTAL ZIP DUCK BAG
+From
+$ 42.00
+Unit price
+/
+per
+EMBROIDERED DITSY FLORAL
+BLACK & WHITE GINGHAM
+BAGGU MEDIUM CARGO CROSSBODY
+$ 56.00
+Unit price
+/
+per
+AZALEA PINK
+LEMONGRASS
+COCOA
+BAGGU SPORT BACKPACK
+$ 72.00
+Unit price
+/
+per
+SEAWEED
+BLACK & WHITE GINGHAM
+BAGGU SNAP WALLET
+$ 32.00
+Unit price
+/
+per
+AZALEA PINK MIX
+BLACK & WHITE GINGHAM
+PANSY BLUE MIX
+SEAWEED MIX
+BAGGU RIBBED SOCK
+$ 10.00
+Unit price
+/
+per
+BEIGE MIX
+LEMON CURD MIX
+STONE MIX
+BAGGU CLOUD BAG
+$ 56.00
+Unit price
+/
+per
+COCOA
+LEMONGRASS
+SEAWEED
+GOOD BRANDS, GOOD PEOPLE.
+From sustainably-driven staples to fresh-new faces, all brands are carefully curated and offer purpose behind their product. Discover the
+a-to-z
+of our marketplace today.
+LEARN MORE
+"SOMETHING FOR EVERYONE."
+Having the largest curated collection of ethical and eco-minded brands in Orange County, California, we are committed to offering something for everyone; Exclusive lifestyle apparel, quality outdoor products, unique home decor, and other eco-friendly goods.
+LEARN MORE
+WORDS FROM OUR COMMUNITY.
+"Probably one of the nicest, largest, and best-curated shops I can think of in Orange County, California." -
+Ben Y.
+★★★★★
+"Love SEED. A great, simple, whole-earth place with curious gifts of crafts, clothing, jewelry, and more." -
+Rock H.
+★★★★★
+"Staff was so great! Such nice service and a great shopping experience. They have top notch product." -
+Sarah C.
+★★★★★
+"Lots of sustainable, environmentally-responsible clothing and outdoor brands. Great variety too!" - David H.
+★★★★★
+STAY CONNECTED.
+OUR EVENTS
+OUR STORIES
+OUR TESTIMONIALS
+JOIN OUR COMMUNITY
+Subscribe to our newsletter and receive 10% off your first order!
+Exclusions apply
+. Single use.
+Go
+SHOP SEED
+Browse our latest products and collections.
+NEW ARRIVALS
+PATAGONIA
+FJALLRAVEN
+SNOW PEAK
+ROARK
+ARC'TERYX
+PARKS PROJECT
+ALL BRANDS
+ABOUT SEED
+Learn more about us.
+Events
+Blogs
+Search
+Contact
+Returns & Exchanges
+Online Promo Code
+Privacy Policy
+Terms of Service
+let's connect
+714-708-3377
+•
+orders@seedpeoplesmarket.com
+2937 Bristol St. # C100, Costa Mesa, CA
+STORE HOURS
+11AM-6PM DAILY
+Accepted Payments
+American Express
+Apple Pay
+Discover
+Meta Pay
+Google Pay
+Mastercard
+PayPal
+Shop Pay
+Venmo
+Visa
+© 2024,
+SEED Peoples Market

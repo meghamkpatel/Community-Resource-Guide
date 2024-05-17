@@ -1,0 +1,378 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Helius offers mentoring to struggling business owners so that they can earn a fair living wage. '}
+{'property': 'fb:app_id', 'content': '239873926518618'}
+{'property': 'og:site_name', 'content': 'CommitChange'}
+{'property': 'og:url', 'content': 'https://us.commitchange.com/nc/durham/the-helius-foundation'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'The Helius Foundation'}
+{'property': 'og:description', 'content': "Because it's not just a hobby. It's your dream."}
+{'property': 'og:image', 'content': 'https://commitchange.s3.amazonaws.com/uploads/npo/main_image/4513/nonprofit_carousel_7-dog-walker.jpg'}
+{'property': 'twitter:card', 'content': 'summary'}
+{'property': 'twitter:site', 'content': '@CommitChange'}
+{'property': 'twitter:title', 'content': 'The Helius Foundation'}
+{'property': 'twitter:description', 'content': "Because it's not just a hobby. It's your dream."}
+{'property': 'twitter:image', 'content': 'https://commitchange.s3.amazonaws.com/uploads/npo/main_image/4513/nonprofit_carousel_7-dog-walker.jpg'}
+{'name': 'csrf-param', 'content': 'authenticity_token'}
+{'name': 'csrf-token', 'content': 'k/QLUkOA4mj/4QWuVSNDijR8Dn5oRS2XLZhROIqpaqAIOpVSqJI+J0z1amCaVKBxVK1dDZv+VeE4ydJt/XmtRA=='}
+{'name': 'viewport', 'content': 'width=device-width, user-scalable=no'}
+
+Body Text:
+The Helius Foundation - Durham , NC | CommitChange | We help organizations raise more money, more sustainably.
+The Helius Foundation
+Because it's not just a hobby. It's your dream.
+Start a Campaign for The Helius Foundation
+Services & Impact
+Helius is a Durham-based  entrepreneurial consulting company specializing in small businesses and  Necessity-Driven Entrepreneurs (NDEs). NDEs are individuals who are unable to  find traditional, living wage employment. These reasons can range from job  seekers being long-time veterans, single parents with limited available hours,  people with minor criminal records, or individuals from lower socio-economic  backgrounds who lack the social networks needed to find well-paying jobs. These  individuals create work for themselves through entrepreneurship.
+Among the entire  entrepreneur group in the US, 15% are NDEs. These numbers are expected to  increase by another 6.6% in the coming years.   And with Durham’s recent entrepreneurial explosion there are more NDEs  than ever, many of whom will be left behind without assistance.
+Helius has created a means  to arm and protect these NDEs, who fight day in and day out to support  themselves and their families. The Helius Mentorship Program will provide all  of the services that a small business warrior needs in order to create a sustainable  business that provides at least a living wage for themselves and their  employees, all at
+NO COST
+to the NDEs.
+Start a Campaign for The Helius Foundation
+Contact & Location
+www.heliusnc.com
+heliusnc@gmail.com
+919 230 1503
+2208 Collier Drive
+Durham , NC 27707
+Promote this organization
+Share
+Tweet
+Active Campaigns
+Mentorship Program 2016
+Helius provides free, full-service business consulting Necessity-Driven Entrepreneurs.
+$300
+raised
+The Helius Foundation
+Think this cause is cool? Share it with your friends.
+Share
+Tweet
+Donate
+Become a
+sustaining, monthly
+contributor
+Select an amount for your
+monthly
+contribution
+$
+Next
+Contribute
+$
+monthly
+for
+Next
+Shipping address (required)
+United States
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo
+Cook Islands
+Costa Rica
+Cote D'ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guinea
+Guinea-bissau
+Guyana
+Haiti
+Heard Island and Mcdonald Islands
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea (South)
+Kuwait
+Kyrgyzstan
+Lao People's Democratic Republic
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts and Nevis
+Saint Lucia
+Saint Pierre and Miquelon
+Saint Vincent and The Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia and Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia and The South Sandwich Islands
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard and Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syria
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-leste
+Togo
+Tokelau
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Virgin Islands
+Wallis and Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+Make this donation anonymous.
+Next
+$
+sustaining, monthly
+one-time
+contribution
+Month
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Year
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+Submit
+Transactions secured with 256-bit SSL and protected by reCAPTCHA Enterprise. The Google
+Privacy Policy
+and
+Terms of Service
+apply.
+You can add a dedication after submitting your payment
+Your contribution was successful!
+Dedication
+(optional):
+Share
+Finish
+Saving...
+Thank you!
+Tweet
+Sign Up
+Your Name
+Your Email Address
+Password
+Confirm Password
+Next
+Already registered?
+Login.
+Login
+You're now signed in!
+Email
+Password
+Login
+Forgot your password?
+Not registered yet?
+Sign Up.
+Are you sure?
+Yes
+No
+Loading...
+Get Started
+Login
+NPO Signup
+Peer to Peer Campaign
+Help
+© 2024 CommitChange
+About
+Terms & Privacy

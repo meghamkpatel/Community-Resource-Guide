@@ -1,0 +1,69 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'c5573f8a-bb2c-49c6-9703-1d9869e7bbf1'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'dac1e92c-f0bb-41f8-8f31-a0758d1c7ccf'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '2'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Dream Beam Foundation is a global nonprofit to enhance the quality-of-life of children suffering from life-altering skin conditions.'}
+{'property': 'og:title', 'content': 'Education Children | Dream Beam Foundation | Massachusetts'}
+{'property': 'og:description', 'content': 'Dream Beam Foundation is a global nonprofit to enhance the quality-of-life of children suffering from life-altering skin conditions.'}
+{'property': 'og:url', 'content': 'https://www.thedreambeamfoundation.org'}
+{'property': 'og:site_name', 'content': 'Global VAC'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'c0wXzXQ6hPEL2BYsDXkNwYXuEMDMWyWdh2hE2gDxyZE'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Education Children | Dream Beam Foundation | Massachusetts'}
+{'name': 'twitter:description', 'content': 'Dream Beam Foundation is a global nonprofit to enhance the quality-of-life of children suffering from life-altering skin conditions.'}
+
+Body Text:
+Education Children | Dream Beam Foundation | Massachusetts
+top of page
+Home
+Welcome
+About Us
+Our Story
+Mission Statement
+Our Team
+Gallery
+Photos
+Videos
+News
+Contact Us
+Locations
+Opportunities
+Donate
+More
+Use tab to navigate through the menu items.
+DREAM BEAM FOUNDATION
+A NONPROFIT ORGANIZATION
+Welcome
+DREAM BEAM FOUNDATION
+10,000
+children successfully treated for vascular anomalies through modern technology
+200
+trained medical professionals including dermatologists, dermatopathologists, interventional radiologists, nurses, and trainees
+4
+established vascular anomalies centers in developing countries including Armenia, Brazil, Vietnam, and Pakistan
+DONATE TODAY
+Our Mission
+Enhancing health equity, quality of life, and clinical outcomes in underserved children suffering from life altering skin conditions by providing unified support, training, and research capacities for vascular anomalies centers globally
+Learn More
+Latest News
+Explore our latest work and impact in 2020.
+Learn More
+Opportunities
+We have several opportunities to volunteer or partner with our organization.  Click the button below to learn more.
+Learn More
+dream beam foundation
+info@thedreambeamfoundation.org
+© 2021 by Dream Beam Foundation
+Contact Us
+Thanks for submitting!
+Submit
+bottom of page

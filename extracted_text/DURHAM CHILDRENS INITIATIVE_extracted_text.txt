@@ -1,0 +1,110 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, minimum-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': "Home Page - Durham Children's Initiative"}
+{'property': 'og:description', 'content': 'Who We Are DCI builds pathways to equity. We envision a future in which every youth graduates from high school ready for college or career. OUR WORK DCI is the most comprehensive cradle to college and career pipeline of high-quality services for youth and their families in the state of North Carolina. We do this […]'}
+{'property': 'og:url', 'content': 'https://dci-nc.org/'}
+{'property': 'og:site_name', 'content': "Durham Children's Initiative"}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/DCINCKIDS/'}
+{'property': 'article:modified_time', 'content': '2024-02-14T20:42:45+00:00'}
+{'property': 'og:image', 'content': 'https://dci-nc.org/wp-content/uploads/2021/06/cover-for-web-scaled.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@dci_nc'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.125.0'}
+
+Body Text:
+Home Page - Durham Children's Initiative
+Skip to content
+Español
+919-908-8709
+TheDurhamChildrensInitiative@dci-nc.org
+Menu
+About
+Purpose, Mission & Vision
+History
+Board of Directors
+Our Staff
+Ecosystem
+Ecosystem
+Pipeline
+Partners
+Early Childhood
+Get Involved
+Calendar
+Jobs & Internships
+Volunteer
+Results
+News
+Family Resources
+Donate
+Close Menu
+Who We Are
+DCI builds pathways to equity. We envision a future in which every youth graduates from high school ready for college or career.
+OUR WORK
+DCI is the most comprehensive cradle to college and career pipeline of
+high-quality services for youth and their families
+in the state of North Carolina. We do this through our values of:
+Respect
+In all that we do,
+treat everyone as we would want to be treated
+Our History
+Innovation
+Seek the highest quality,
+breakthrough solutions to the inequities that stand in our way
+Latest News
+Collaboration
+Integrate the expertise of our many stakeholders
+to create successes they could not achieve on their own
+Latest News
+Empowerment
+Help our youth and their families develop
+the intrinsic strengths needed to achieve their own goals
+Ecosystem
+Community
+Weave supportive networks tailored to the needs,
+interests and assets of our families, partners and surrounding community
+Volunteer
+Newsletter
+All Are welcome to join the DCI Digest Newsletter
+First Name
+*
+Last Name
+*
+Email (required)
+*
+Select list(s) to subscribe to
+DCI Digest Newsletter
+Example: Yes, I would like to receive emails from Durham Children's Initiative. (You can unsubscribe anytime)
+Constant Contact Use. Please leave this field blank.
+By submitting this form, you are consenting to receive marketing emails from: Durham Children's Initiative. You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.
+Emails are serviced by Constant Contact
+Back To Top
+Durham Children's Initiative
+919-908-8709
+Thedurhamchildrensinitiative@dci-nc.org
+2101 Angier Ave, Suite 200
+Durham, NC 27703
+Copyright © 2024
+Durham Children's Initiative . All rights reserved.
+ABOUT
+Mission & Vision
+History
+Board of Directors
+Staff
+ECOSYSTEM
+The Ecosystem
+The Pipeline
+Partners
+Early Childhood Action Plan
+RESULTS
+Impact
+NEWS
+Blog
+GET INVOLVED
+Calendar
+Jobs & Internships
+Volunteer

@@ -1,0 +1,151 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=EDGE'}
+{'charset': 'UTF-8'}
+{'http-equiv': 'content-type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, user-scalable=1'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Empowering bold founders building transformative companies with the Duke community'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Duke Capital Partners'}
+{'property': 'og:description', 'content': 'Empowering bold founders building transformative companies with the Duke community'}
+{'property': 'og:url', 'content': 'https://dukecapitalpartners.duke.edu/'}
+{'property': 'og:site_name', 'content': 'Duke Capital Partners'}
+{'property': 'article:modified_time', 'content': '2024-03-12T12:29:51+00:00'}
+{'property': 'og:image', 'content': 'https://dukecapitalpartners.duke.edu/wp-content/uploads/2022/11/Screen-Shot-2022-11-09-at-12.27.53-PM-Large.png'}
+{'property': 'og:image:width', 'content': '1280'}
+{'property': 'og:image:height', 'content': '493'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'Elementor 3.21.4; features: e_optimized_assets_loading; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+
+Body Text:
+Duke Capital Partners
+Skip to main content
+Entrepreneurs
+Learn More
+Testimonials
+Investment Criteria
+Apply
+Login
+Students
+Learn More
+Testimonials
+Criteria
+Apply
+Investors
+Learn More
+Testimonials
+Criteria
+Apply
+Login
+Portfolio
+Companies
+Portfolio Jobs
+About
+Team
+By The Numbers
+News
+FAQs
+Contact
+Give
+Duke Capital Partners
+Duke Innovation Fund
+Login
+Seraf
+Entrepreneurs
+Learn More
+Testimonials
+Investment Criteria
+Apply
+Login
+Students
+Learn More
+Testimonials
+Criteria
+Apply
+Investors
+Learn More
+Testimonials
+Criteria
+Apply
+Login
+Duke Capital Partners
+Portfolio
+Companies
+Portfolio Jobs
+About
+Team
+By The Numbers
+News
+FAQs
+Contact
+Give
+Duke Capital Partners
+Duke Innovation Fund
+Login
+Seraf
+Duke Capital Partners
+Empowering bold founders building transformative Duke companies
+Let’s build the future of Duke innovation together
+Duke Capital Partners leverages the power of the Duke network to support the university’s entrepreneurial ecosystem. We seek the most audacious Duke founders, investors, and students to build the boldest startups solving the world’s most pressing challenges.
+Entrepreneurs
+We capitalize on the strength of the global Duke network to provide access to capital, mentorship, and support for Duke-connected portfolio companies.
+Learn More
+Students
+Our Associate program in venture capital is unique among universities, and students complete our two-year program with live investment experience that is difficult to obtain anywhere else in graduate school.
+Learn More
+Investors
+For investors with a Duke connection, we facilitate investment opportunities as well as full-circle engagement with the University.
+Learn More
+About Duke  Capital Partners
+Duke Capital Partners is committed to supporting the Duke entrepreneurial and innovation ecosystem through education and mentorship, access to capital, and connections to a global base of Duke alumni talent.
+Learn More
+We Lead
+Trailblazing uncharted territory isn’t easy, but that’s what leaders do. As one of the largest and oldest university investment entities of its kind, Duke Capital Partners consistently places among the top five in North America. We deploy more capital than any other university investment network, and provide full lifecycle support for our founders and portfolio companies.
+We Build
+Our portfolio companies dream big. They’re working to solve some of the world’s most pressing challenges with outrageous ambition. The 44 companies we’ve invested in have a combined enterprise value exceeding $4 billion, have created more than 2,500 jobs, and are pushing against the outer realms of possibility. Audacious ideas breed next-generation innovation.
+We Educate
+Our Associate program places education at the core of our operations. Since 2015, more than 90 Duke graduate students have completed our program, learning investment sourcing, screening, and diligence.
+Our Portfolio
+Explore our portfolio companies
+Recent News
+Associate Spotlight: Vee Zhu
+Vee Zhu talks about her passion for combining environmental management and economics – and how DCP fits into her journey.
+Read More
+about Associate Spotlight: Vee Zhu
+Investor Spotlight: June S. Almenoff, M.D., Ph.D., F.A.C.P.
+Meet Dr. June Almenoff, a biopharma pioneer and an investor with Duke Capital Partners
+Read More
+about Investor Spotlight: June S. Almenoff, M.D., Ph.D., F.A.C.P.
+How Stefan Roberts and inSoma Bio are upgrading fat grafting with Duke technology and support
+Learn how the Duke community is helping BME Ph.D. graduate Stefan Roberts and his start-up inSoma Bio commercialize technology he developed in the lab of Professor Ashutosh Chilkoti.
+Read More
+about How Stefan Roberts and inSoma Bio are upgrading fat grafting with Duke technology and support
+View All News
+Contribute to Duke Capital Partners
+Duke Capital Partners gratefully accepts gifts in support of our mission to strengthen the university’s entrepreneurial ecosystem.
+learn more
+Duke Capital Partners
+Advancing entrepreneurship as part of
+Duke’s Office for Translation & Commercialization
+2812 Erwin Rd
+Suite 406
+Durham, NC 27705
+Entrepreneurs
+Students
+Investors
+Give
+Portfolio
+About
+Duke OTC
+Privacy Policy
+Contact
+Member Login
+LinkedIn
+Twitter
+© 2022 DUKE UNIVERSITY ALL RIGHTS RESERVED.
+PRIVACY POLICY
+.
+Designed by REVERED

@@ -1,0 +1,129 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Bike Durham'}
+{'property': 'og:title', 'content': 'Bike Durham'}
+{'property': 'og:url', 'content': 'https://bikedurham.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': '\xa0  \xa0'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5848723e4402430583905527/t/5d8a2db2b300fc64e672ea22/1576604943236/Bike+Durham+Color+Logo.png?format=1500w'}
+{'property': 'og:image:width', 'content': '1022'}
+{'property': 'og:image:height', 'content': '1022'}
+{'itemprop': 'name', 'content': 'Bike Durham'}
+{'itemprop': 'url', 'content': 'https://bikedurham.org'}
+{'itemprop': 'description', 'content': '\xa0  \xa0'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5848723e4402430583905527/t/5d8a2db2b300fc64e672ea22/1576604943236/Bike+Durham+Color+Logo.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5848723e4402430583905527/t/5d8a2db2b300fc64e672ea22/1576604943236/Bike+Durham+Color+Logo.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'Bike Durham'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5848723e4402430583905527/t/5d8a2db2b300fc64e672ea22/1576604943236/Bike+Durham+Color+Logo.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://bikedurham.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': '\xa0  \xa0'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Bike Durham
+About
+Purpose & Intention
+Our Team
+Sponsors
+Financial Information
+Contact Us
+Job Opportunities
+Events
+Events
+Bike Month 2024
+Bike to Connections Ride
+Advocacy
+About Advocacy
+Safe & Healthy Streets
+Transit Equity Campaign
+Safe Routes to School
+#Week Without Driving
+Education
+Bike Education Classes
+Blog
+Bike Routes
+Beginner's Guide to Transit
+More Resources
+Give
+Make a Donation
+Become a Member
+Business Sponsorship
+Shop
+Bike Donations
+Engage
+Volunteer
+Email Signup
+Current Newsletter
+Newsletter Archive (pre-5/2020)
+Newsletter Archive (post-5/2020)
+Menu
+Street Address
+Durham, NC
+Phone Number
+We believe in safe, affordable, and sustainable transportation for everyone
+Your Custom Text Here
+About
+Purpose & Intention
+Our Team
+Sponsors
+Financial Information
+Contact Us
+Job Opportunities
+Events
+Events
+Bike Month 2024
+Bike to Connections Ride
+Advocacy
+About Advocacy
+Safe & Healthy Streets
+Transit Equity Campaign
+Safe Routes to School
+#Week Without Driving
+Education
+Bike Education Classes
+Blog
+Bike Routes
+Beginner's Guide to Transit
+More Resources
+Give
+Make a Donation
+Become a Member
+Business Sponsorship
+Shop
+Bike Donations
+Engage
+Volunteer
+Email Signup
+Current Newsletter
+Newsletter Archive (pre-5/2020)
+Newsletter Archive (post-5/2020)
+Events+ Advocacy+ Education= Change
+What we’re all about:
+We believe everyone should have access to safe, affordable, and sustainable transportation regardless of who they are or where they live. Biking and walking are the most healthy and sustainable ways to move. Through events, advocacy and education, Bike Durham empowers all people to walk, bike, and ride transit more often.
+Become a Member
+click to see the events calendar
+Watch the story of the creation and growth of Bike Durham over its first 10 years.
+Read our 10 year history blog post to learn more.
+Latest News
+May 7, 2024
+Durham Residents Want Our Streets to be Safe for Everyone
+May 7, 2024
+May 7, 2024
+Feb 15, 2024
+2024 Durham Candidate Questionnaires
+Feb 15, 2024
+Feb 15, 2024
+Feb 11, 2024
+Dozens gather with community leaders in celebrating Rosa Parks’ legacy with support for expanded bus service free to all in Durham
+Feb 11, 2024
+Feb 11, 2024
+Sign up for our newsletter!
+Sign Up
+Bike Durham is a proud partner of
+©2013-2024 Bike Durham
+Privacy Notice
+| Bike Durham is a registered 501(c)(3) non-profit

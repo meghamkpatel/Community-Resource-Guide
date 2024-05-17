@@ -1,0 +1,30 @@
+Meta Information:
+{'name': 'robots', 'content': 'index, follow'}
+{'http-equiv': 'Content-Type', 'content': 'text/html;charset=iso-8859-1'}
+{'name': 'description', 'content': 'The Foundation is an all-volunteer, nonprofit corporation formed for the sole purpose of promoting public understanding and appreciation of science.'}
+{'name': 'keywords', 'content': 'nature, science education, wildlife, science, astronomy, archaeology'}
+{'http-equiv': 'cache-control', 'content': 'no-cache'}
+{'http-equiv': 'pragma', 'content': 'no-cache'}
+{'http-equiv': 'expires', 'content': '-1'}
+
+Body Text:
+https://friendsofnaturalhistory.org
+Friends of Natural History Foundation
+Home
+About Us
+Contact Us
+Donate
+Home
+About Us
+Contact Us
+Donate
+Home
+Friends of Natural History Foundation is a
+501 (c)(3)
+nonprofit corporation formed for the sole purpose of promoting public understanding and appreciation of the world around us and our place in it. In keeping with its mission, the Foundation provides--through grants to science writers, photographers, and scientists--editorial content to
+Natural History
+. The Foundation also provides gift subscriptions to public libraries that might not otherwise offer the kind of information covered by
+Natural History
+.
+Website
+powered by Network Solutions®

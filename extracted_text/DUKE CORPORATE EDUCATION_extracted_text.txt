@@ -1,0 +1,149 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'name': 'google-site-verification', 'content': 'LH_599t46JC39tXPMmF2AB9WnkBQyXmny_nSr34NyK4'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': '%%sitename%% %%sep%% %%sitedesc%%'}
+{'property': 'og:description', 'content': 'Empower leaders, tackle challenges, and drive transformation with Duke CE. Customized leadership development for a future-ready organization.'}
+{'property': 'og:url', 'content': 'https://www.dukece.com/'}
+{'property': 'og:site_name', 'content': 'Duke Corporate Education'}
+{'property': 'og:updated_time', 'content': '2024-04-18T16:19:09-04:00'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/DukeCorpEd/'}
+{'property': 'og:image', 'content': 'https://www.dukece.com/wp-content/uploads/2023/12/duke-ce-banner-poster.jpg'}
+{'property': 'og:image:width', 'content': '1920'}
+{'property': 'og:image:height', 'content': '1080'}
+{'property': 'article:published_time', 'content': '2023-10-24T10:29:23-04:00'}
+{'property': 'article:modified_time', 'content': '2024-04-18T16:19:09-04:00'}
+{'property': 'fb:app_id', 'content': '1923155921341058'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Duke Corporate Education - The Future of Leadership. Now.'}
+{'name': 'twitter:description', 'content': 'Empower leaders, tackle challenges, and drive transformation with Duke CE. Customized leadership development for a future-ready organization.'}
+{'name': 'twitter:image:src', 'content': 'https://www.dukece.com/wp-content/uploads/2023/12/duke-ce-banner-poster.jpg'}
+{'name': 'description', 'content': 'Empower leaders, tackle challenges, and drive transformation with Duke CE. Customized leadership development for a future-ready organization.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Duke Corporate Education - The Future of Leadership. Now.'}
+{'property': 'og:description', 'content': 'Empower leaders, tackle challenges, and drive transformation with Duke CE. Customized leadership development for a future-ready organization.'}
+{'property': 'og:url', 'content': 'https://www.dukece.com/'}
+{'property': 'og:site_name', 'content': 'Duke Corporate Education'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/DukeCorpEd/'}
+{'property': 'article:modified_time', 'content': '2024-04-18T20:19:09+00:00'}
+{'property': 'og:image', 'content': 'https://www.dukece.com/wp-content/uploads/2023/12/duke-ce-banner-poster.jpg'}
+{'property': 'og:image:width', 'content': '1920'}
+{'property': 'og:image:height', 'content': '1080'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Duke Corporate Education - The Future of Leadership. Now.'}
+{'name': 'twitter:site', 'content': '@DukeCE'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-title', 'content': 'Duke Corporate Education - The Future of Leadership. Now.'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.dukece.com/wp-content/uploads/2023/10/cropped-duke-ce-favicon-1-270x270.png'}
+
+Body Text:
+Duke Corporate Education - The Future of Leadership. Now.
+Main Navigation
+About
+Our People
+Our Educators
+Our Partners
+Work at Duke CE
+Offerings
+Custom Programs
+Advisory Services
+Ready-to-Learn Offerings
+ESG Leadership Academy
+My Duke CE Platform
+Expertise
+Client Stories
+Insights
+Thought Leadership
+Dialogue Subscription
+Locations
+Americas
+Africa
+Asia-Pacific & Middle East
+UK & Europe
+Contact
+Press enter to search
+The future of leadership.
+Now.
+Curious about how the best
+organizations accelerate their leaders?
+Discover Success Stories
+Ready to learn the latest in
+leadership and business?
+Navigate Insights
+Want to know more about what leadership
+development can do for your business?
+Explore Offerings
+Why Choose Duke CE?
+Originating from Duke University’s Fuqua School of Business, Duke Corporate Education was founded with the objective of combining world-class leadership science with a practitioner approach to achieve organization and business impact.
+Ranked #1 Worldwide
+in Custom Executive Education
+by the Financial Times
+Get to know Duke CE
+#1
+Program design
+Teaching methodology
+Customer satisfaction
+Why do we exist?
+The velocity, scope, and unpredictability of change have created a new reality, where organizations must constantly adapt and innovate to thrive. We empower leaders at all levels to be catalysts of change in their organizations and, ultimately, in society.
+What problems do we solve?
+Your problems are our problems. We start with your strategic challenges and co-create customized leadership offerings to ignite transformation by shifting mindsets and empowering leaders. We provide offerings at scale, working at all levels of your organization.
+How can we help you?
+We design and deliver immersive experiences with best-in-class faculty to help reach your strategic outcomes. How? By accelerating your business leaders and your teams — with an emphasis on shifting behaviors. Our offerings help you build the organization you want to see — now, and in the future.
+We partner with business leaders
+to change the world at speed
+Our leadership offerings help you shift mindsets, starting now.
+Custom programs
+Advisory services
+Ready-to-learn programs
+View our work
+Develop your leaders to creatively
+align value with values
+Our sustainability offerings include certificates for company executives, 400+ ESG online
+courses, and custom-designed programming.
+Learn more about the ESG leadership academy
+“Implats has always recognized the importance of strong leadership. But we knew that we were moving into new territory, and that demanded a new approach to how we develop leaders.”
+Lee-Ann Samuel, Group Executive for People, Implats
+View client stories
+Where we operate
+We deliver our services in more than 85 countries, globally. To serve our clients around the world, we have offices in Africa, Asia, Europe, and the United States.
+View our locations
+0+
+Countries Delivered
+0+
+Global Educators
+0+
+Programs Completed
+0+
+Leaders Engaged
+The Latest
+Thought Leadership
+Want to know what’s new in leadership and business? Our robust network of organizational
+and academic experts explores the latest trends, findings and insights in Dialogue.
+Read more
+Ready to start your business transformation journey?
+Contact us today
+LinkedIn
+Instagram
+Facebook
+Duke CE is the lead partner in
+Dialogue
+, a global journal for managers and leaders. The magazine brings you the best in business thinking with fresh thought leadership from around the world.
+Sign up for our Leadership Insights
+About
+Offerings
+Expertise
+Insights
+Locations
+Contact
+©
+Duke Corporate Education.
+All rights reserved.
+Terms of Use
+Sitemap
+Privacy Policy

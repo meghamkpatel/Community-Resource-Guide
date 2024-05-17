@@ -1,0 +1,193 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'robots', 'content': 'index, follow'}
+{'name': 'description', 'content': 'Peter Vardy Foundation | Peter Vardy'}
+{'name': 'author', 'content': 'Peter Vardy'}
+{'name': 'csrf', 'content': 'd548137cd0c02f994874b41e3966f580'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'twitter:card', 'content': 'https://www.petervardy.com/uploads/images/cms/original/1458038299pvfoundationlogo.jpg'}
+{'name': 'twitter:site', 'content': '@PeterVardy'}
+{'name': 'twitter:title', 'content': 'Peter Vardy Foundation | Peter Vardy'}
+{'name': 'twitter:description', 'content': 'Peter Vardy Foundation | Peter Vardy'}
+{'name': 'twitter:creator', 'content': '@PeterVardy'}
+{'name': 'twitter:image:src', 'content': 'https://www.petervardy.com/uploads/images/cms/original/1458038299pvfoundationlogo.jpg'}
+{'property': 'og:title', 'content': 'Peter Vardy Foundation | Peter Vardy'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:url', 'content': 'https://www.petervardy.com/peter-vardy-foundation'}
+{'property': 'og:image', 'content': 'https://www.petervardy.com/uploads/images/cms/original/1458038299pvfoundationlogo.jpg'}
+{'property': 'og:description', 'content': 'Peter Vardy Foundation | Peter Vardy'}
+{'property': 'og:site_name', 'content': 'Peter Vardy'}
+{'property': 'fb:admins', 'content': '100001886918552'}
+
+Body Text:
+Peter Vardy Foundation | Peter Vardy
+OUR BRANDS
+CARZ
+ORA
+BMW
+Mini
+Land Rover
+Jaguar
+Porsche
+OMODA
+Menu
+Menu
+Buy
+Back
+Buy
+Used
+Back
+Used
+Used Cars
+Used Vans
+Used Electric Cars
+Search by Budget
+Back
+Search by Budget
+Under £8,000
+Under £10,000
+Under £12,000
+Under £15,000
+Under £18,000
+Under £20,000
+Popular Used Car Brands
+Back
+Popular Used Car Brands
+CARZ Supermarket
+BMW
+MINI
+Jaguar
+Land Rover
+Audi
+Mercedes
+Volkswagen
+Vauxhall
+Renault
+Ford
+Nissan
+Kia
+Peugeot
+Citroen
+Seat
+MG
+New Cars
+Back
+New Cars
+BMW
+MINI
+Jaguar
+Land Rover
+ORA
+OMODA
+New Car Offers
+Back
+New Car Offers
+BMW Offers
+MINI Offers
+Jaguar Offers
+Land Rover Offers
+ORA Offers
+Electric
+Back
+Electric
+Used Electric Cars
+New BMW Electric Cars
+New MINI Electric Cars
+New Jaguar Electric Cars
+New ORA Elecric Cars
+Sell
+Finance
+Service
+More
+Back
+More
+Motability
+About Us
+Careers
+Find us
+Contact
+Facebook
+Twitter
+YouTube
+Instagram
+Linkedin
+Call us
+Find us
+Menu
+Menu
+The Peter Vardy Foundation
+Donations
+We donate 10% of profits to good causes.
+Find Out More
+Projects
+We fund projects that help children and young people reach their full potential in life.
+Find Out More
+Partners
+We support children and young people who are disadvantaged and face challenges in their lives.
+Find Out More
+Life's most persistent and urgent question is 'What are you doing for others?'
+Martin Luther King Jr
+Peter Vardy Ltd
+Pioneer House, 2 Renshaw Place
+,
+Holytown
+,
+Motherwell
+,
+ML1 4UF
+Peter Vardy
+About Us
+Careers
+Service & MOT
+Peter Vardy Foundation
+News
+Support
+Our Brands & Franchises
+BMW
+MINI
+Jaguar
+Land Rover
+Porsche
+GWM ORA
+Motability
+CARZ
+Goodbye Car
+Carmoney
+Corporate
+Terms & Conditions
+Governance & Compliance
+Modern Slavery Act
+Cookie & Privacy Policy
+Peter Vardy
+About Us
+Careers
+Service & MOT
+Peter Vardy Foundation
+News
+Support
+Our Brands & Franchises
+BMW
+MINI
+Jaguar
+Land Rover
+Porsche
+GWM ORA
+Motability
+CARZ
+Goodbye Car
+Carmoney
+Corporate
+Terms & Conditions
+Governance & Compliance
+Modern Slavery Act
+Cookie & Privacy Policy
+Facebook
+Twitter
+YouTube
+Instagram
+Linkedin
+Registered in Scotland. Reg Company No: SC319442 (Scotland) Vat Reg No: 882944478
+Designed and developed by
+mtc.
+Peter Vardy Limited, Peter Vardy Porsche Perth Limited and Peter Vardy Porsche Limited are regulated by the Financial Conduct Authority (FCA Nos 688190, 797047, 688525).
+We are a Credit broker not a lender. We can introduce you to a limited number of lenders and we do no offer independent financial Advice. You will make no payment to us for the introduction to our panel of lenders. Typically, we will receive a commission payment from the lender if you agree to enter into an agreement this will either be a flat fee or a % of the amount borrowed, the amount of commission we earn does not impact the amount you borrow. At any point you before entering into the agreement you can ask for the commission amount, we will then supply this in writing for you.

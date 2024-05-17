@@ -1,0 +1,96 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '12c6cfdd-60dc-4605-60c8-9fb62b57b3de'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'feda55c2-fd26-4cc2-8ed4-75df9e6a421a'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '473'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Read Seed Inc, child literacy nonprofit to educate, advocate and demonstrate importance of early intervention and book ownership. In Durham North Carolina.'}
+{'property': 'og:title', 'content': 'Read Seed, Inc'}
+{'property': 'og:description', 'content': 'Read Seed Inc, child literacy nonprofit to educate, advocate and demonstrate importance of early intervention and book ownership. In Durham North Carolina.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/bd1645_c8515cc4ad331f4ff8b49c1d644641d1.jpg/v1/fit/w_2500,h_1330,al_c/bd1645_c8515cc4ad331f4ff8b49c1d644641d1.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.readseedinc.org'}
+{'property': 'og:site_name', 'content': 'read-seed-inc'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'readseedinc'}
+{'name': 'keywords', 'content': 'Durham NC, book ownership, child literacy, education, reading'}
+{'property': 'fb:admins', 'content': 'readseedinc'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Read Seed, Inc'}
+{'name': 'twitter:description', 'content': 'Read Seed Inc, child literacy nonprofit to educate, advocate and demonstrate importance of early intervention and book ownership. In Durham North Carolina.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/bd1645_c8515cc4ad331f4ff8b49c1d644641d1.jpg/v1/fit/w_2500,h_1330,al_c/bd1645_c8515cc4ad331f4ff8b49c1d644641d1.jpg'}
+
+Body Text:
+Read Seed, Inc
+top of page
+READ SEED
+TEACH BLACK CHILDREN
+SUPPORT LITERACY
+WHY LITERACY
+BOOK STORY
+Alferd Williams
+RSI HISTROY
+EMAIL ME
+More
+Use tab to navigate through the menu items.
+Read Seed, Inc.
+Because literacy is everybody's business
+Music
+Music
+Every Child Should Own Books
+Preschool Free Book Giving
+Welcome  - We Build A Child's Library
+Understanding that "books in the home"
+makes the difference
+Read Seed Inc.
+Durham's Premier Child Literacy and Book Giving Organization Since 1999
+There is no better time to give books to children
+Read Seed, Inc is giving this amazing book to preschool children authored and illustrated by NCCU professors Pamela George and Walter M. Brown.
+​
+Books are available at Provident 1898 RSI office located at 411 W. Chapel Hill Street, Suite 13. Contact Addi Banksby email to insure the office is open for your arrival.  Find email form page.
+Parents Are Your First Teachers
+Introducing our partner
+ABanks Consulting and Race-Relevant Teaching Materials
+Culturally Relevant Teaching Materials
+Teaching Black Children
+Learn More - Watch The Video
+Currently, products are only available at Read Seed, Inc. located in the Mutual Insurance building at Provident 1898 office suite 13, 411 W. Chapel Hill Street, Durham, NC 27704. Use Email Me form to contact. Leave a telephone number to request a call back.
+​
+We encourage child care centers to participate in our parental involvement poster program where teaching is a matter of displaying how they can create A+ students.
+$20.00                                                   $5.00
+Read Seed Inc on the Move for Literacy
+Reading Books Make the Difference
+Benefits of Reading to Children
+The vast database of child literacy research throughout the world point to early childhood literacy and reading to children as fundamental to their academic success. Teaching your children to acquire
+a love for reading
+is one of the best lifelong gifts a parent and bestow on them.
+​
+A hundred years of research consistently attest to the fact that
+reading with them sows many positive seeds. Parental bonding and 'just us' time together, for one. This reaches generation parenting models.  You open the world to them from home. Babies and young children who handle books and attempt to turn the pages develop motor skills earlier.
+A study at a Rhode Island Hospital compared two groups of eight months old children. One group was read to often as babies, while the other group was not.  It was revealed that children who were read to had “receptive” vocabularies, the number of words they understand. Their vocabularies increased 40 percent since babyhood compared to the non-reading group increased by only 16 percent.
+Read Seed Storytime
+at Provident 1898
+Great books discounted to $1
+Sometimes we will
+have celebrity readers
+Coming soon, reading to preschool children at Read Seed, Inc located at the historic Mutual Insurance building, downtown Durham.
+A Parents First Teachers Event, Open To All Parents of Preschoolers
+ABC Race-Revalent
+Teaching Materials
+Available
+READ MORE
+Their book stories, books make the difference
+Seeding Reading For
+Growth and Healing
+Read Seed, Inc
+Since 1999
+© 2000 Read Seed, Inc.
+P. O. Box 15584, Durham NC 27704
+bottom of page

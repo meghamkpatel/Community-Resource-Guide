@@ -1,0 +1,48 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'a23544ff-edff-4f3f-9647-534e5c8c6072'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'bdcfc2fb-6ae2-4de1-9b54-3351b1e8cd5e'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '381'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Home | MarketBoxx'}
+{'property': 'og:url', 'content': 'https://www.marketboxx.org'}
+{'property': 'og:site_name', 'content': 'MarketBoxx'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'Making, a, better, place, the, world'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | MarketBoxx'}
+
+Body Text:
+Home | MarketBoxx
+top of page
+Home
+Our Mission
+Meet the Founders
+What We Do
+Media
+Get Involved
+Contact Us
+More
+Use tab to navigate through the menu items.
+What is MarketBoxx?
+MarketBoxx is a nonprofit organization created to combat food insecurity on college campuses. As alumni of North Carolina A&T State University, the founders of MarketBoxx understand how a lack of food resources can affect college students. We also see the direct impact of food deserts that surround many college campuses and alter the health and nutrition of college students.
+Experiencing food insecurity as former college students is something we understand and will fight to combat.
+“A life of significance is about serving those who need your gifts, your leadership, your purpose.”
+Kevin Hall
+How we serve college students
+and support them as they thrive through their college journey.
+How we serve college students
+Our Process
+Who are the founders?
+Who are they?
+Support our Mission
+Get Involved
+Partners
+©2020 by MarketBoxx.
+bottom of page

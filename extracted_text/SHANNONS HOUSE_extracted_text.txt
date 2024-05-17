@@ -1,0 +1,94 @@
+Meta Information:
+{'property': 'og:site_name', 'content': "Shannon's House"}
+{'property': 'og:title', 'content': "Shannon's House"}
+{'property': 'og:description', 'content': "Shannon's House Furniture"}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/1354693466.jpg'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/5608830.jpg?1354693417'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/1354692304.jpg'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/1354692486.jpg'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/1354692382.jpg'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/8843716_orig.jpg?0'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/1354692440.jpg'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/5973900_orig.jpg?0'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/1354693583.jpg'}
+{'property': 'og:image', 'content': 'https://www.shannonshouse.net/uploads/1/3/5/2/13522700/3861768_orig.jpg?0'}
+{'property': 'og:url', 'content': 'https://www.shannonshouse.net/'}
+{'name': 'description', 'content': "Shannon's House Furniture"}
+{'name': 'keywords', 'content': 'shannons, house, home, furniture, draperies, reupolstery, sacramento, orangevale'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+
+Body Text:
+Shannon's House - Home
+Phone:   (916) 989-3333
+Fax:       (916) 989-4352
+Home
+Furniture
+Bedroom
+>
+Beds
+Nightstands
+Dressers
+Mirrors
+Benches
+Dining Room
+>
+Tables
+Chairs
+Living & Family Room
+>
+Sofas
+>
+Leather
+Upholstered
+Chairs
+Ottomans
+Benches
+Tables
+>
+Coffee Tables
+End Tables
+Console Tables
+Chests
+Home Office
+Upholstery
+Stores
+Contact
+Search
+Decorating Homes for 4 Generations
+Living & Family Room Furniture
+Leather Sofas
+Upholstered Sofas
+Leather Reclining Chairs
+Chests
+Upholstered Chairs
+End Tables
+Ottomans
+Coffee Tables
+Dining Furniture
+Dining Tables
+Dining Chairs
+Home Office Furniture
+Desks
+Executive Chairs
+Bedroom Furniture
+Beds
+Nightstands
+Dressers
+Benches
+Free Delivery!
+Serving greater Sacramento
+for over 40 years!
+4 store locations throughout the Sacramento Area!
+Want a
+new look?
+Fill out our upholstery
+request form to get started!
+Financing Available!
+Contact Us!
+Furniture
+Upholstery
+Stores
+Contact
+Powered by
+Create your own unique website with customizable templates.
+Get Started

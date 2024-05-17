@@ -1,0 +1,67 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'df5593f5-7d90-40a1-8891-bba7f6894779'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '75c2c55a-9000-487f-83eb-f3804395de9c'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1973'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'You are so welcome to join us at Greater Works, a spirit-filled, full-Gospel church on Sundays and Tuesdays for a time of worship and powerful word by Pastor Gary Mitrik.'}
+{'property': 'og:title', 'content': 'Church | Greater Works PGH | Monroeville'}
+{'property': 'og:description', 'content': 'You are so welcome to join us at Greater Works, a spirit-filled, full-Gospel church on Sundays and Tuesdays for a time of worship and powerful word by Pastor Gary Mitrik.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/ed3d01_72fa48ab69504f1da497bfa6e98dcbc5~mv2.jpg/v1/fill/w_2500,h_1667,al_c/ed3d01_72fa48ab69504f1da497bfa6e98dcbc5~mv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1667'}
+{'property': 'og:url', 'content': 'https://www.greaterworkspgh.com'}
+{'property': 'og:site_name', 'content': 'GreaterWorksPGH'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'mY1mBKRX1q6xvHbtXJSsjxFQa_FzEwrpp9NSj1Q9juA'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Church | Greater Works PGH | Monroeville'}
+{'name': 'twitter:description', 'content': 'You are so welcome to join us at Greater Works, a spirit-filled, full-Gospel church on Sundays and Tuesdays for a time of worship and powerful word by Pastor Gary Mitrik.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/ed3d01_72fa48ab69504f1da497bfa6e98dcbc5~mv2.jpg/v1/fill/w_2500,h_1667,al_c/ed3d01_72fa48ab69504f1da497bfa6e98dcbc5~mv2.jpg'}
+
+Body Text:
+Church - Greater Works PGH - Monroeville
+top of page
+Church
+Welcome
+About
+Vision and Beliefs
+FAQ
+Our Ministries
+Connect
+Give
+Gallery
+Watch
+Shop
+More
+Use tab to navigate through the menu items.
+BIBLE SCHOOL
+GWCS
+spirit filled. spirit sent.
+JOIN US IN PERSON OR WATCH ON YOUTUBE.
+WATCH NOW
+Sunday service at 10:00am
+​
+Tuesday night Bible Study at 7:00pm
+​
+Facebook Live
+click here for more information
+GIVE NOW
+Thank you for partnering with us as we reach out to families, friends, and communities to help them live the victorious life!
+GIVE NOW
+GREATER
+WORKS
+724-327-6500
+contactus@greaterworkspgh.com
+​
+301 College Park Drive
+Monroeville, PA 15146
+©2023 by Greater Works. Proudly created with
+wix.com
+bottom of page

@@ -1,0 +1,66 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'd3ba33e1-f9dc-4509-9c67-4ca047e09633'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'f2bec453-af01-4225-aeb7-eca551d5a5fa'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '488'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | SCOAlbany'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/d75821b3625d16f95dfd8ebff761922d.png/v1/fit/w_2500,h_1330,al_c/d75821b3625d16f95dfd8ebff761922d.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.scoalbany.com'}
+{'property': 'og:site_name', 'content': 'SCOAlbany'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'uSBtXnN7IGTqeYrKnDq9n9UPzoEBNHXJMQUbNToqqHI'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | SCOAlbany'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/d75821b3625d16f95dfd8ebff761922d.png/v1/fit/w_2500,h_1330,al_c/d75821b3625d16f95dfd8ebff761922d.png'}
+
+Body Text:
+HOME | SCOAlbany
+top of page
+HOME
+Recovery Community Center
+FOR-ALBANY
+Annual Events
+Recovery in the Park
+Summer Smith 5k
+Amazing Race to Recovery
+Recovery Bookstore
+Cleaning Services
+About Us
+CONTACT
+DONATE NOW!
+More...
+Use tab to navigate through the menu items.
+Welcome to
+Second Chance Opportunities, Inc.
+Recovery Community Center
+Serving those in recovery, their friends and family members.
+Additional Details >
+Annual
+Events
+Advertising opportunities for upcoming events are available.
+Read More >
+​
+Cleaning Services
+Interested in having your company cleaned? Free quotes available!
+Read More >
+Recovery Bookstore
+A wide array of items available.
+Shop Now >
+Contact Us:
+518-489-1929
+info@SCOAlbany.com
+​
+55 Colvin Ave., Albany, NY 12206
+I accept terms & conditions
+Sign Up!
+Thanks for joining our mailing list!
+bottom of page

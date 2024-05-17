@@ -1,0 +1,170 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Hi there, beautiful soul! We hope you are grounded, connected and grateful towards life and everylittle thing nature brings to you. We, at BrightLife NC, are'}
+{'name': 'robots', 'content': 'index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Bright Life - Brighten Your Life'}
+{'property': 'og:description', 'content': 'Hi there, beautiful soul! We hope you are grounded, connected and grateful towards life and everylittle thing nature brings to you. We, at BrightLife NC, are'}
+{'property': 'og:url', 'content': 'https://brightlifenc.org/'}
+{'property': 'og:site_name', 'content': 'Bright Life'}
+{'property': 'og:updated_time', 'content': '2023-08-07T04:34:07+00:00'}
+{'property': 'og:image', 'content': 'https://brightlifenc.org/wp-content/uploads/2022/01/Bhagvad_Gita.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://brightlifenc.org/wp-content/uploads/2022/01/Bhagvad_Gita.jpg'}
+{'property': 'og:image:width', 'content': '798'}
+{'property': 'og:image:height', 'content': '519'}
+{'property': 'og:image:alt', 'content': 'Bhagvad_Gita'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Bright Life - Brighten Your Life'}
+{'name': 'twitter:description', 'content': 'Hi there, beautiful soul! We hope you are grounded, connected and grateful towards life and everylittle thing nature brings to you. We, at BrightLife NC, are'}
+{'name': 'twitter:image', 'content': 'https://brightlifenc.org/wp-content/uploads/2022/01/Bhagvad_Gita.jpg'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Bright Life'}
+{'name': 'twitter:label2', 'content': 'Time to read'}
+{'name': 'twitter:data2', 'content': '1 minute'}
+{'name': 'generator', 'content': 'WordPress 6.4.4'}
+{'name': 'generator', 'content': 'Give v3.3.0'}
+{'name': 'generator', 'content': 'Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://brightlifenc.org/wp-content/uploads/2021/04/BRIGHT-LIFE-LOGO-Resized.png'}
+
+Body Text:
+Bright Life - Brighten Your Life
+Bright Life
+Home
+Sanatani Fashion Show
+Radio Feeel
+Podcast
+Exclusive Episode Listing
+Blog
+Contact Us
+Donate
+Creating Wisdom, Busting Myths, Helping People, Simplifying the Complicated Humankind
+Hi there, beautiful soul! We hope you are grounded, connected and grateful towards life and every
+little thing nature brings to you. We, at BrightLife NC, are trying to simplify the complicated lives, to
+make life easier and peaceful. We bring together the religious principles of life supported and proven
+by science in order to turn this apocalyptic lifestyle to a calm-minded and peaceful journey to make
+you feel heaven on earth.
+Featured Podcast
+Bhagavad Gita (Hindi)
+Listen Now
+Browse All
+Radio Feeel
+Latest Episodes
+Browse All    >
+January 17, 2022
+All
+Bhagavad Gita (Hindi)
+February 10, 2022
+All
+Gratitude (English)
+February 10, 2022
+All
+Self Talk (English)
+April 13, 2022
+All
+Aatma 4 (Hindi)
+April 14, 2022
+All
+Consious Breathing (English)
+April 14, 2022
+All
+Scriptures 1 (English)
+April 14, 2022
+All
+Yoga 1 (Hindi)
+April 28, 2022
+All
+About Panchatantra (English)
+April 28, 2022
+All
+Benefits of Storytelling (English)
+April 28, 2022
+All
+What is Story? (English)
+April 28, 2022
+All
+Why We Narrate Stories? (English)
+May 16, 2022
+All
+What Is Astrology? (English)
+May 16, 2022
+All
+Historical Values (English)
+May 16, 2022
+All
+Early Lives And Sentimental Values (English)
+July 14, 2022
+All
+Environment Day (English)
+Exclusive Episodes
+Browse All    >
+August 30, 2022
+All
+Say Thank You by RJ Madhuri (Hindi)
+August 30, 2022
+All
+Thank You Covid Warrior by RJ Madhuri (Hindi)
+August 30, 2022
+All
+Law of Attraction by RJ Madhuri (Hindi)
+July 21, 2022
+All
+Sawan Somwar by RJ Alaknanda (Hindi)
+July 20, 2022
+RJ ALAKNANDA
+Shravan Month By RJ ALAKNANDA (Hindi)
+Featured Shows
+Browse All    >
+Make World Happy by RJ Madhuri (Hindi)
+Experience by RJ Madhuri (Hindi)
+Keep Smiling by RJ Madhuri (Hindi)
+Browse All >
+Why We Narrate Stories? (English)
+What is Story? (English)
+Categories of Story and Plots (English)
+Browse All >
+Scriptures 5 (English)
+Scriptures 4 (English)
+Scriptures 3 (English)
+Browse All >
+The Reign of Tutankhamun (English)
+Egyptian Archaeology (English)
+Early Lives And Sentimental Values (English)
+Browse All >
+Aatma 3 (Hindi)
+Aatma 2 (Hindi)
+Aatma 1 (Hindi)
+Browse All >
+Yoga 5 (Hindi)
+Yoga 4(Hindi)
+Yoga 3 (Hindi)
+Browse All >
+Latest Posts
+Browse All    >
+Sign up for our newsletter!
+Get notified about updates and be the first to get early access to new episodes.
+newsletter signup
+Get notified about updates and be the first to get early access to new episodes.
+Leave this field empty if you're human:
+BrightLife NC is a platform curated to bridge religious principles with science, spread solace, fraternity and a feeling of unity.
+QUICK Links
+Home
+Sanatani Fashion Show NYFW
+Radio Feeel
+Episodes
+Exclusive Episode Listing
+Blog
+Disclaimer
+Privacy Policy
+Contact Us
+Office
+Bright Life NC
+Morrisville, NC, 27560
+Get in Touch
+hello@brightlifenc.org
+Donate Now
+© 2022 Bright Life NC
+All rights Reserved.
+Home

@@ -1,0 +1,66 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'b0282ae3-41f7-4fc1-9e4f-fb5bcee72e51'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '67ad49d8-b067-4798-8601-5b531ba6dac9'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1166'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Home | JCI USA'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/56aef4_a71229d967cd47fcb59e48242e82d436%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/56aef4_a71229d967cd47fcb59e48242e82d436%7Emv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.jciusa.org'}
+{'property': 'og:site_name', 'content': 'JCI USA'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'jciusa'}
+{'name': 'keywords', 'content': 'Great, horizon, is, on, success, the'}
+{'property': 'fb:admins', 'content': 'jciusa'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | JCI USA'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/56aef4_a71229d967cd47fcb59e48242e82d436%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/56aef4_a71229d967cd47fcb59e48242e82d436%7Emv2.jpg'}
+
+Body Text:
+Home | JCI USA
+top of page
+Learn More
+About Us
+Action Framework
+History
+Chapters
+2023 Team
+Current Members
+Resources
+Annual Meeting
+Spring Convention & Year End Celebration
+North American Academy
+Swag Shop
+JCI USA Login
+JCI Login
+Blog
+Ten Outstanding Young Americans
+Join
+Contact Us
+More
+Use tab to navigate through the menu items.
+Where tomorrow's leaders are empowered.
+JOIN NOW
+Who are JCI USA members?
+JCI USA's members are bright, diverse, and enterprising young people from around the United States. These ambitious young leaders create positive change across their communities while building professional skills. And as part of an international organization, JCI USA members create long-standing professional relationships and networks with like-minded individuals across the country and world to become tomorrow's leaders.
+JOIN NOW
+82.4%
+of members surveyed received a promotion at work since joining JCI USA.
+58.8%
+of members surveyed said they have noticed a significant change in leadership development since joining JCI USA.
+Carolann Zombro Pickelmann
+Any promotion I have ever received at work has been due to my involvement in JCI. Hands-on experience in project management, volunteer coordination, and other leadership skills has proven to be essential in all of my career moves. JCI bridges the gap between what a young person learns in school and what they need to know to become a successful and active citizen. 10/10 recommend to every young person I see.
+Nikki Schaul
+The opportunity to meet like-minded people, get involved in the community, and participate in the calendar of chapter projects was exciting. The skills in project management and leadership I was learning began to be noticed by my work colleagues and supervisors. I found myself being offered new roles at work. For me, there is a direct correlation between my growth in JCI USA and growth at work. I also became fascinated with how JCI worked around the world and it took me to places like Canada, India, Estonia, Russia, Finland, Aruba, and Curacao for official JCI conferences and tours. Whether your ambition is big or small, JCI USA can provide opportunities to go after the dreams you didn’t even know you had.
+Joseph Martinez
+Soon after joining the Jaycees my chapter president encouraged me to attend North American Academy (NAA). NAA was full of diverse instructors and participants who valued the impacts that JCI makes. During the weekend all of the participants were thoroughly challenged individually and in group settings. I felt like NAA taught me how to overcome challenges that may face me in my professional, social, and personal life. This experience through JCI USA far exceeded any expectations that I had prior. As a member of JCI USA, both my state and local chapters helped provide funds for me to attend NAA.
+©2023 by JCI USA.
+bottom of page

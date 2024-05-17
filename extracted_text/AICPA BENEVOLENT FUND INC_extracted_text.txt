@@ -1,0 +1,105 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'name': 'theme-color', 'content': '#000000'}
+{'name': 'google-site-verification', 'content': 'GBiq6UfFcHJEWvMfI4s-UyZpATXH0a4qMwqP8hexyj0'}
+{'data-react-helmet': 'true', 'name': 'title', 'content': 'AICPA Benevolent Fund'}
+{'data-react-helmet': 'true', 'name': 'description', 'content': 'Learn about the AICPA Benevolent Fund, a benefit that supports active members through temporary periods of financial difficulty.'}
+{'data-react-helmet': 'true', 'property': 'og:title', 'content': 'AICPA Benevolent Fund'}
+{'data-react-helmet': 'true', 'property': 'og:image', 'content': 'https://images.ctfassets.net/rb9cdnjh59cm/43ZKFkefBBGDMM3VoBYWIP/b4d7a47dedb6d7232936e0c8beb6e764/Logo_1200x630.png'}
+{'data-react-helmet': 'true', 'property': 'og:description', 'content': 'Learn about the AICPA Benevolent Fund, a benefit that supports active members through temporary periods of financial difficulty.'}
+{'data-react-helmet': 'true', 'property': 'og:url', 'content': 'https://www.aicpa-cima.com/resources/landing/aicpa-benevolent-fund'}
+{'data-react-helmet': 'true', 'property': 'og:site', 'name': 'AICPA & CIMA'}
+{'data-react-helmet': 'true', 'property': 'fb:app_id', 'content': '288416708186975'}
+{'data-react-helmet': 'true', 'property': 'og:type', 'content': 'Website'}
+{'data-react-helmet': 'true', 'property': 'og:locale', 'content': 'en_US'}
+{'data-react-helmet': 'true', 'name': 'twitter:site', 'content': '@AICPA'}
+{'data-react-helmet': 'true', 'name': 'twitter:card', 'content': 'Summary'}
+{'data-react-helmet': 'true', 'name': 'twitter:url', 'content': 'https://www.aicpa-cima.com/resources/landing/aicpa-benevolent-fund'}
+{'data-react-helmet': 'true', 'name': 'twitter:title', 'content': 'AICPA Benevolent Fund'}
+{'data-react-helmet': 'true', 'name': 'twitter:description', 'content': 'Learn about the AICPA Benevolent Fund, a benefit that supports active members through temporary periods of financial difficulty.'}
+{'data-react-helmet': 'true', 'name': 'twitter:image', 'content': 'https://images.ctfassets.net/rb9cdnjh59cm/7mnrnYZgfxdybtOMGVPQUS/ebecfab9684f277ad4f959a7b4d4257c/Logo_144x144_.png'}
+{'data-react-helmet': 'true', 'property': 'og:image:width', 'content': '1200'}
+{'data-react-helmet': 'true', 'property': 'og:image:height', 'content': '630'}
+
+Body Text:
+AICPA Benevolent Fund | Resources | AICPA & CIMA
+You need to enable JavaScript to run this app.
+AICPA Benevolent Fund
+Learn about the AICPA Benevolent Fund, a benefit that supports active members through temporary periods of financial difficulty.
+Copy Link
+Create shortcut
+Frequently Asked Questions
+Who is eligible to receive assistance?
+Current AICPA members
+Must exhibit evidence of financial need
+Surviving spouse of a member, at the time of their death
+Dependent children (under the age of 21) of a member
+What types of assistance is offered?
+General monthly assistance
+Medical reimbursements
+One-time grants
+Other, as the Board of Trustees deems appropriate
+How do I apply?
+Download or request an application
+Gather support documentation and complete application
+Mail to administrators for review
+Await decision (usually provided within 4–6 weeks)
+I need to request a hard copy of the application.
+If unable to print and you prefer a hard copy of the form, please contact the Fund Administrators and they can assist in arranging for a copy to be mailed to you via post.
+What are qualifying situations to become an AICPA Benevolent Fund recipient?
+Unemployment
+Natural disasters
+Health and medical impacts
+Other, as the Board of Trustees deems appropriate
+When can I apply to the AICPA Benevolent Fund?
+Applicants may apply at any time. Varying on receipt date, in relationship to scheduled meetings, some time may be needed before decision can be made. Please contact the Fund Administrators for details on their next meeting deadlines.
+How long do the awards granted from the AICPA Benevolent Fund last?
+Assistance from the Fund is intended for the short term. Awards may be granted up to a 6-month period or as a one-time grant. Recipients are welcome to reapply if they are still in financial need six months after their last received decision.
+Can I appeal against a decision made on my case?
+You may request to appeal a decision for further consideration by the Board. This does require a full resubmission of the application and support materials, along with support for why the appeal is requested. This does not guarantee an overturn of the initial Board decision.
+Can I still apply if I am no longer a member of the AICPA?
+Your membership will need to be brought up to date to qualify for assistance.
+Do I need to pay back the assistance I received?
+No, the AICPA Benevolent Fund program is grant assistance and not a loan.
+Do I have to pay taxes on my assistance?
+No, the AICPA Benevolent Fund is grant assistance and therefore tax-free.
+Is my donation tax deductible as a charitable contribution?
+Yes, it is tax deductible. Our EIN is 13-6168775.
+Where is my information shared?
+Applications to the AICPA Benevolent Fund program is shared only amongst the Fund Administrators and its Board of Trustees. Applications are then anonymous, but data similar to your case, with your permission, may be used for marketing purposes. Necessary information supporting payment details are required to be shared with Finance partners.
+For more information about how the personal data of applicants is processed see the organisation’s
+Privacy Policy
+.
+How do I become a trustee with the AICPA Benevolent Fund?
+Apply on Volunteer Central or reach out the to the Fund Administrators for more information.
+I’m only interested in having my AICPA General Membership dues waived. Do I need to apply?
+AICPA Benevolent Fund does not directly assist with dues waivers.
+Please contact Global Engagement Services at 1.888.777.7077 Monday to Friday, 9 am to 6 pm EST or for an instant response via chat at
+https://www.aicpa-cima.com/home
+If options provided by Global Engagement Services do not satisfy your request, then you may apply to the AICPA Benevolent Fund to be considered for general financial assistance.
+Our guarantee
+Our guarantee
+Every purchase you make from the AICPA & CIMA is safe and secure. We also guarantee 100% customer satisfaction on most of our products. If you’re not satisfied with your purchase, please contact us.
+Our refund policy
+Our refund policy
+To start the return process, please contact us first. View all products
+eligible for refunds
+.
+This site is brought to you by the Association of International Certified Professional Accountants, the global voice of the accounting and finance profession, founded by the American Institute of CPAs and The Chartered Institute of Management Accountants.
+About
+|
+Terms & Conditions
+|
+Accessibility
+|
+Privacy Policy
+|
+Contact
+|
+Help
+|
+Site Map
+CA Do Not Sell or Share My Personal Information
+Log in
+Register

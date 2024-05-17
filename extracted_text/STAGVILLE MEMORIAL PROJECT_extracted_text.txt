@@ -1,0 +1,109 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'c778fc08-5ca2-414f-b435-36d35b264bbe'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '6da30298-9f09-4cfe-9763-99b0d9ad51d5'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '268'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'A memorial project founded by descendants of Stagville Plantation in Durham, North Carolina'}
+{'property': 'og:title', 'content': 'Stagvillle Memorial Project'}
+{'property': 'og:description', 'content': 'A memorial project founded by descendants of Stagville Plantation in Durham, North Carolina'}
+{'property': 'og:url', 'content': 'https://www.stagvillememorialproject.org'}
+{'property': 'og:site_name', 'content': 'Stag Mem Project'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Stagvillle Memorial Project'}
+{'name': 'twitter:description', 'content': 'A memorial project founded by descendants of Stagville Plantation in Durham, North Carolina'}
+
+Body Text:
+Stagvillle Memorial Project
+top of page
+WELCOME
+TEAM
+OVERVIEW
+SUPPORT
+CONTACT
+EMAIL
+PRESS
+More
+Use tab to navigate through the menu items.
+STAGVILLE
+MEMORIAL
+PROJECT
+THE
+We are a non-profit, 501c3 organization working to bring lesser known histories about formerly enslaved people at Stagville Plantation to wider audiences through public art.
+Through this, we hope to expand our community’s collective understanding of Durham’s unique history, and specifically,  who gets included in that story. We also hope to bring greater awareness to the Stagville State Historic Site, support Stagville’s vast group of descendants in coming together under a common purpose, and help the larger community ponder the ongoing legacies of slavery.
+LEARN MORE
+MAKE A DONATION
+Project President Ricky Hart shares his understanding of the brutal conditions endured by his ancestors who were enslaved at the Stagville Plantation, and expresses his support for the installation of a memorial in downtown Durham, NC, to honor them.
+Courtesy of Casey Toth for
+The News & Observer
+TEAM
+INTRODUCING THE STAGVILLE MEMORIAL PROJECT BOARD
+1/3
+VANESSA HINES
+Executive Director
+RICKY HART
+President
+GEORIE BRYANT
+Secretary
+VANNESSA MASON EVANS
+Treasurer
+The Stagville Memorial Project team was born in the summer of 2019 after a serendipitous meeting of local descendants of the people formerly enslaved at Stagville Plantation, the association president of Bragtown, a historically Black neighborhood, and a former member of Durham’s Racial Equity Task Force.
+In 2019, we were awarded a Durham 150 grant that helped us hold a fundraiser at the Museum of Durham History. Later that year, we also held our first listening session with descendants and Bragtown neighborhood residents at Greater Refuge Church. During the first years of the pandemic, we met in coffee shops, in each other’s homes, and on Zoom. In 2021, we presented to the Durham County Board of Commissioners received unanimous approval for partial funding.  Our work is ongoing  with Durham County's Public Art Department to find suitable locations.
+00:00 / 04:45
+In June 2021, The Stagville Memorial Project team presented a request for approval to the Durham County Board of County Commissioners, which was met with unanimous support. Hear from board members Vannessa Mason Evans, Ricky Hart, and Georie Bryant as they discuss their relationships within the Durham community and their aspirations for the project.
+TEAM
+PROJECT OVERVIEW
+OVERVIEW
+MAPPING A MEMORIAL SITE
+Stagville Historic Site is located approximately 10 miles north of downtown Durham. The site comprises the remnants of one of the largest plantations of the pre-Civil War South. The plantations belonged to the Bennehan-Cameron family, whose combined holdings totaled approximately 900 enslaved people and almost 30,000 acres of land by 1860.
+​
+It is not news that Durham County’s population is increasing and its landscape rapidly changing as developments spring up to house new residents in our downtown area. Many places that once served as cultural landmarks are no longer here. In this time of an ever-evolving landscape, we feel that we have an opportunity to make sure that a more complete story of our community’s history  is told, both for the families who have lived here for generations and for the people newly calling Durham their home.
+​
+The Stagville Memorial Project has partnered with Durham County and the City of Durham to  solidify possible locations for  future memorial sites, engage the community equitably,  and choose artist(s) to fabricate and design the final projects.
+1/4
+Top:
+Images from Stagville State Historic Site
+Courtesy of the Library of Congress
+​
+Left:
+Project Secretary Georie Bryant discovers his connection to Stagville Plantation with former
+ABC11 reporter Tim Pulliam
+Courtesy of Tim
+​
+Below:
+This composite map of the Cameron-Benehan Lands was taken from
+a 1897/1890 map (the
+earliest known map of the Cameron-Benehan holdings), then
+overlaid present-day
+Durham.
+The Cameron -Benehan lands are in gray
+covering large swaths of Orange County,
+what is
+now Durham County, and Wake County.
+Courtesy of Dataworks NC
+The Google map here depicts possible locations for the future memorials.
+By mapping out these sites, we can assess the city’s current preservation strategy and advocate for an addition to this fuller narrative of Durham’s history.
+SITE NAVIGATION
+WELCOME
+TEAM
+OVERVIEW
+SUPPORT
+CONTACT
+EMAIL
+PRESS
+PRESS
+MUSEUM OF DURHAM HISTORY
+NEWS AND OBSERVER
+SPECTRUM NEWS
+TERMS OF USE
+PRIVACY POLICY
+Designed by
+Esencial Creative Co.
+bottom of page

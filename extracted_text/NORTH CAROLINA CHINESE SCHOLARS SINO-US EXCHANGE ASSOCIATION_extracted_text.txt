@@ -1,0 +1,33 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+Lu Liu | DKU Faculty
+Skip to main content
+English
+简体中文
+Main navigation
+DKU Home
+Undergraduate & Language and Culture Center Faculty
+Graduate Faculty
+UG Studies Home
+Graduate Home
+Breadcrumb
+Home
+Lu Liu
+Lu Liu
+Lecturer of Chinese Language, Duke Kunshan University
+Her research focuses on bilingual Chinese culture communication. Previously, she taught in the Chinese Conversation Club at Duke University, tutored Chinese one-on-one at a Chinese school in Durham, U.S., and served as publicity officer for the North Carolina Chinese Scholars Sino-U.S. Exchange Association.
+Liu has a master's degree in teaching Chinese as a foreign language from the Communication University of China.
+Visit Faculty's Scholar page
+Contact
+lu.liu921@dukekunshan.edu.cn
+0512- 36657351
+CC1064
+Contact Us:
+Office of Academic Affairs
+Copyright © 2024 Duke Kunshan University - 苏ICP备16021093号

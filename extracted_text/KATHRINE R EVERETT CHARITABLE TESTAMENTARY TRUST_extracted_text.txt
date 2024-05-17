@@ -1,0 +1,265 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': '“google-site-verification”', 'content': '“danBRLXpnuO1QmDZrXj2Gi_S1i6-rXeaSaySD3-uOcg”'}
+{'name': 'google-site-verification', 'content': 'jtRIvW_emUOpUSiDDbXPqEuSrYIVEyatO8y2E8R_CJA'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'robots', 'content': 'noindex follow'}
+{'name': 'action-cable-url', 'content': '/cable'}
+{'name': 'csrf-param', 'content': 'authenticity_token'}
+{'name': 'csrf-token', 'content': '2kU9xh85PI1bA_GbA3CU-lxA1gchN3kUWrEI3hfqNpDKgDSmEfynNdheOuLytCW52QJ9ioGih_YpAFt90jtrgA'}
+{'name': 'description', 'content': 'Looking for the top foundations who gives grants to nonprofits in the ? Check out these 19613 private foundations giving to nonprofits in the  on Instrumentl. Combined, these foundations have assets of $2.84 Trillion.'}
+{'property': 'og:title', 'content': 'Instrumentl'}
+{'property': 'og:image', 'content': 'https://static-assets.instrumentl.com/assets/open-graph-image-b804042d6cf0ff28cc788d091ffbd10f63cc1fc8e462db9869310887ccdeca9c.jpg'}
+{'property': 'og:description', 'content': 'Looking for the top foundations who gives grants to nonprofits in the ? Check out these 19613 private foundations giving to nonprofits in the  on Instrumentl. Combined, these foundations have assets of $2.84 Trillion.'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@beinstrumentl'}
+{'name': 'twitter:title', 'content': 'Your automated grant assistant'}
+{'name': 'twitter:description', 'content': 'Looking for the top foundations who gives grants to nonprofits in the ? Check out these 19613 private foundations giving to nonprofits in the  on Instrumentl. Combined, these foundations have assets of $2.84 Trillion.'}
+{'name': 'twitter:image', 'content': 'https://s3-us-west-2.amazonaws.com/instrumentl/logo-on-leaf-1024x512new.png'}
+{'name': 'turbolinks-visit-control', 'content': 'reload'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+
+Body Text:
+Instrumentl
+Toggle navigation
+Browse
+Browse Grants
+Browse Foundations
+Who We Serve
+Nonprofits
+Grant Writing Consultants
+Universities
+Testimonials
+About
+Pricing
+Resources
+Education
+Instrumentl Best Practices
+14-Day Free Trial Guide
+Blog
+Grant Writing Classes
+E-Books, Guides & More
+Free Courses
+Nonprofit Templates
+Why Instrumentl?
+How We’re Different
+Our Impact
+Success Stories
+Partners Program
+Partner with Us
+Log In
+Try 14 days free
+Foundation Directory
+|
+Philanthropy, Voluntarism & Grantmaking Foundations
+|
+Philanthropy, Voluntarism & Grantmaking Foundations
+Share
+CONTENTS
+Quick find
+There are
+19,613 foundations
+giving to nonprofits in the  category. Combined, these foundations have assets of
+$2.84 Trillion
+.
+Top Foundations by Total Giving
+for
+Funder Name
+Total Giving
+Location
+Community Solutions International Inc
+$2,018,375
+New York, NY
+Gill Family Foundation
+$2,017,893
+Encino, CA
+Catholic Health Initiatives Colorado
+$2,017,424
+Centennial, CO
+The Stanley H Durwood Foundation Co The Greater Kc Community Foundation
+$2,017,000
+Kansas City, MO
+The United Way Inc
+$2,016,186
+Amarillo, TX
+Navarro Community Foundation
+$2,015,842
+Corsicana, TX
+Kenneth Kendal King Foundation
+$2,014,493
+Denver, CO
+The Crain Foundation
+$2,013,262
+Longview, TX
+Vegas Golden Knights Foundation Inc
+$2,012,969
+Las Vegas, NV
+Donors Capital Fund Inc
+$2,012,054
+Alexandria, VA
+Rattner Family Foundation Inc
+$2,009,115
+New York, NY
+Washington Information Network 2 1 1
+$2,009,044
+Yakima, WA
+The Lemole Family Charitable Trust
+$2,007,450
+Huntingdon Valley, PA
+Peninsula Community Foundation Of Virginia
+$2,006,945
+Hampton, VA
+St Joseph Hospital Of Orange
+$2,006,517
+Orange, CA
+Florida Southwestern State College Foundation Inc
+$2,004,698
+Fort Myers, FL
+Faigen Family Foundation Inc
+$2,001,982
+West Palm Beach, FL
+The John And Wendy Neu Foundation
+$2,000,000
+Kearny, NJ
+The Alro Steel Foundation
+$2,000,000
+Jackson, MI
+Esb Charitable Foundation
+$2,000,000
+San Francisco, CA
+Kathrine R Everett Charitable Testamentary Trust
+$2,000,000
+Durham, NC
+Iowa Hospital Association
+$2,000,000
+Des Moines, IA
+Raymond Family Foundation
+$2,000,000
+Portland, OR
+Jean And Sidney Silber Foundation Inc
+$2,000,000
+Brooklandville, MD
+Thomas P Raley Foundation
+$2,000,000
+Granite Bay, CA
+← Previous
+1
+2
+…
+133
+134
+135
+136
+137
+138
+139
+140
+141
+…
+784
+785
+Next →
+Find and win more grants for your nonprofit!
+Start saving 3 hours a week and increase your grant applications by 78%.
+Try 14 days free
+Related Categories
+for
+Category
+Number of Foundations
+Private Grantmaking Foundations
+52,106
+Private Independent Foundations
+35,322
+Public Foundations
+26,600
+Community Foundations
+24,114
+Federated Giving Programs
+23,749
+See 20 more
+Professional Societies & Associations
+20,865
+Alliances & Advocacy
+20,534
+T00
+20,377
+Management & Technical Assistance
+20,166
+Research Institutes & Public Policy Analysis
+19,989
+T09
+19,948
+T06
+19,948
+T04
+19,948
+T08
+19,948
+T07
+19,948
+TZ5
+19,613
+TZ9
+19,613
+TZ7
+19,613
+TZ1
+19,613
+TZ2
+19,613
+TZ3
+19,613
+TZ0
+19,613
+TZ6
+19,613
+TZ4
+19,613
+TZ8
+19,613
+← Previous
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Next →
+Please refresh the page
+There was a problem processing your request. Please refresh the page and try again.
+Platform
+Pricing
+Explore Grants
+Explore Foundations
+Best Practices
+Customer Help Center
+United States Grant Database
+Why Instrumentl
+How We’re Different
+Success Stories
+Testimonials
+FAQ
+Resources
+Blog
+Ebooks
+Newsletter
+Solutions
+Nonprofits
+Grant Consultants
+Company
+About Us
+Careers
+WE'RE HIRING!
+Partner with Us
+Support
+Email Us
+Terms of Use
+Privacy Policy
+System Status
+© 2024. Instrumentl All rights reserved

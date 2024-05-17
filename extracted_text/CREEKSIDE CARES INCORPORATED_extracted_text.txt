@@ -1,0 +1,290 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'google-site-verification', 'content': 'REdMdoO_v_Y1aNtw4IfWdFZ5LK8YdoDFsWugrI3z8VM'}
+{'name': 'google-site-verification', 'content': '85xgPq_SaSnbiqPXogh8r4hLZAV4BDgax-MC7W9NZo4'}
+{'name': 'google-site-verification', 'content': 'f3WwoSIDJn3cxxXCrFMnHWXc89TOI-c8Ryzk7UDfSsI'}
+{'name': 'description', 'content': 'Set the mood in any room with aromatic Goose Creek candles and wax melts. Discover body care products made with our quality fragrances. Shop now.'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'property': 'og:site_name', 'content': 'Goose Creek Candle'}
+{'property': 'og:url', 'content': 'https://goosecreekcandle.com/'}
+{'property': 'og:title', 'content': 'Scented Candles, Wax Melts and Body Care Fragrances'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Set the mood in any room with aromatic Goose Creek candles and wax melts. Discover body care products made with our quality fragrances. Shop now.'}
+{'property': 'og:image', 'content': 'http://goosecreekcandle.com/cdn/shop/files/Goose-Creek-Candle-Logo_16d6c763-4a86-4ac0-ba18-283e4eb36a09_2_1200x1200.png?v=1658935246'}
+{'property': 'og:image:alt', 'content': 'Goose Creek Candle'}
+{'property': 'og:image:secure_url', 'content': 'https://goosecreekcandle.com/cdn/shop/files/Goose-Creek-Candle-Logo_16d6c763-4a86-4ac0-ba18-283e4eb36a09_2_1200x1200.png?v=1658935246'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Scented Candles, Wax Melts and Body Care Fragrances'}
+{'name': 'twitter:description', 'content': 'Set the mood in any room with aromatic Goose Creek candles and wax melts. Discover body care products made with our quality fragrances. Shop now.'}
+{'name': 'facebook-domain-verification', 'content': 'ootd9ya92bzr6xovw41vco6dgw2bib'}
+{'name': 'facebook-domain-verification', 'content': 'cs0xlde3ktea2vjimbriqul4mubmwv'}
+{'name': 'google-site-verification', 'content': '3YwOYLzQtlLi3GKcdMRRauanG9NyNW4VvLEzu0ka5rc'}
+{'id': 'shopify-digital-wallet', 'name': 'shopify-digital-wallet', 'content': '/1690927179/digital_wallets/dialog'}
+{'name': 'shopify-checkout-api-token', 'content': 'd903a04df4bb1fea85c1eb0c85bd0fb9'}
+{'id': 'in-context-paypal-metadata', 'data-shop-id': '1690927179', 'data-venmo-supported': 'true', 'data-environment': 'production', 'data-locale': 'en_US', 'data-paypal-v4': 'true', 'data-currency': 'USD'}
+{'name': 'shogun-data', 'content': 'page_type=index, page_id=index, site_id=77482a3e-88fd-4445-ac40-4b3ed44fa2d1'}
+
+Body Text:
+Scented Candles, Wax Melts and Body Care Fragrances – Goose Creek Candle
+This store requires javascript to be enabled for some features to work correctly.
+Get
+free shipping
+on orders above
+$100
+$10.99 3-Wick Candles
+$10.99 3-Wick Candles
+X
+Candles & Home Fragrance
+Body Care
+Wax Melts
+Fragrance Plug-ins
+Gift Cards
+SALE
+Shop by Fragrances
+About us
+Log in
+Create Account
+Search our site Goose Creek Candle
+0
+Candles & Home Fragrance
+Candles
+All 3-Wick Candles
+Signature Collection
+World Traveler
+Candles for Men
+Aromatherapy Candles
+Odor Control Candles
+Single Wick Candles
+Care Bears™
+Peter Rabbit™
+Willy Wonka™
+Strawberry Shortcake™
+Little Debbie®
+Candy Land®
+New Arrivals
+Wax Melts
+Fragrance Plug-ins
+Essential Oils
+Room Sprays
+Fragrance Plug-ins
+Trending 3-Wick Candles
+Body Care
+All Body Care
+Lush Foaming Hand Soaps
+Lush Foaming Soaps
+Trending Body Care Items
+Wax Melts
+Fragrance Plug-ins
+Gift Cards
+SALE
+Shop by Fragrances
+About us
+Candles & Home Fragrance
+Candles
+All 3-Wick Candles
+Signature Collection
+World Traveler
+Candles for Men
+Aromatherapy Candles
+Odor Control Candles
+Single Wick Candles
+Care Bears™
+Peter Rabbit™
+Willy Wonka™
+Strawberry Shortcake™
+Little Debbie®
+Candy Land®
+New Arrivals
+Wax Melts
+Fragrance Plug-ins
+Trending 3-Wick Candles
+Body Care
+All Body Care
+Lush Foaming Hand Soaps
+Lush Foaming Soaps
+Trending Body Care Items
+Wax Melts
+Fragrance Plug-ins
+Gift Cards
+SALE
+Shop by Fragrances
+About us
+Candles & Home Fragrance
+Candles
+All 3-Wick Candles
+Signature Collection
+World Traveler
+Candles for Men
+Aromatherapy Candles
+Odor Control Candles
+Single Wick Candles
+Care Bears™
+Peter Rabbit™
+Willy Wonka™
+Strawberry Shortcake™
+Little Debbie®
+Candy Land®
+New Arrivals
+Wax Melts
+Fragrance Plug-ins
+Essential Oils
+Room Sprays
+Body Care
+All Body Care
+Lush Foaming Hand Soaps
+Wax Melts
+Fragrance Plug-ins
+Gift Cards
+SALE
+Shop by Fragrances
+About us
+0
+Candles & Home Fragrance
+Candles
+All 3-Wick Candles
+Signature Collection
+World Traveler
+Candles for Men
+Aromatherapy Candles
+Odor Control Candles
+Single Wick Candles
+Care Bears™
+Peter Rabbit™
+Willy Wonka™
+Strawberry Shortcake™
+Little Debbie®
+Candy Land®
+New Arrivals
+Wax Melts
+Fragrance Plug-ins
+Essential Oils
+Room Sprays
+Fragrance Plug-ins
+Trending 3-Wick Candles
+Body Care
+All Body Care
+Lush Foaming Hand Soaps
+Lush Foaming Soaps
+Trending Body Care Items
+Wax Melts
+Fragrance Plug-ins
+Gift Cards
+SALE
+Shop by Fragrances
+About us
+Candles & Home Fragrance
+Candles
+All 3-Wick Candles
+Signature Collection
+World Traveler
+Candles for Men
+Aromatherapy Candles
+Odor Control Candles
+Single Wick Candles
+Care Bears™
+Peter Rabbit™
+Willy Wonka™
+Strawberry Shortcake™
+Little Debbie®
+Candy Land®
+New Arrivals
+Wax Melts
+Fragrance Plug-ins
+Trending 3-Wick Candles
+Body Care
+All Body Care
+Lush Foaming Hand Soaps
+Lush Foaming Soaps
+Trending Body Care Items
+Wax Melts
+Fragrance Plug-ins
+Gift Cards
+SALE
+Shop by Fragrances
+About us
+Candles & Home Fragrance
+Candles
+All 3-Wick Candles
+Signature Collection
+World Traveler
+Candles for Men
+Aromatherapy Candles
+Odor Control Candles
+Single Wick Candles
+Care Bears™
+Peter Rabbit™
+Willy Wonka™
+Strawberry Shortcake™
+Little Debbie®
+Candy Land®
+New Arrivals
+Wax Melts
+Fragrance Plug-ins
+Essential Oils
+Room Sprays
+Body Care
+All Body Care
+Lush Foaming Hand Soaps
+Wax Melts
+Fragrance Plug-ins
+Gift Cards
+SALE
+Shop by Fragrances
+About us
+TRENDING RIGHT NOW
+Sold out
+Sold out
+Sold out
+Sold out
+Sold out
+3-WICK CANDLES ›
+WAX MELTS ›
+ROOM SPRAYS ›
+FRAGRANCE PLUG-INS ›
+Sold out
+Sold out
+Sold out
+Sold out
+#TRENDING RIGHT NOW
+Sold out
+Sold out
+3-WICK CANDLES ›
+WAX MELTS ›
+FOAMING SOAPS ›
+The Ultimate 3-Wick Candle
+Tired of the same old thing? Our fragrances are made by world-renowned perfumers with some of the world’s most premium fragrances and essential oils. We’re different; you can expect a stronger, longer-lasting fragrance experience throughout your home.
+SHOP NOW
+The Ultimate 3-Wick Candle
+Tired of the same old thing? Our fragrances are made by world-renowned perfumers with some of the world’s most premium fragrances and essential oils. You can expect a strong, long-lasting fragrance experience throughout your home.
+SHOP NOW
+Bold, Room-Filling Fragrance
+Plug-ins are great for adding your favorite fragrance to any space without the worry of a flame. Our fragrance plug-ins provide up to 30 days of continuous fragrance. Perfect for bedrooms, bathrooms, living rooms and kitchens, these plug-ins are convenient and tout a powerful fragrance experience.
+SHOP NOW
+Sold out
+Sold out
+SINGLE WICK CANDLES ›
+FRAGRANCE PLUG-INS ›
+ROOM SPRAYS ›
+Welcome to the Goose Creek Candle Company!
+Keep your home smelling fresh day and night with these candles and other scented products from Goose Creek. Our selection makes it easy to customize the impression your space imparts. With options that range from classic jar candles and wax melts to room sprays and scented plug-ins, you’ll always be able to find something that’s just right for you. Browse through our scented candles and fragrance products to discover a wide variety of scents, sizes and styles to enjoy.
+Goose Creek is not like any other candle company. We design and create our own fragrance formulas for each product, ensuring that you get the most authentic aroma from our highly scented candles and air fresheners. Our products include a wide range of popular aromas, including floral, fruity and nature-inspired fragrances. We go beyond the classic scents to deliver complex and unique blends with top, middle and base fragrance notes that fill your room quickly and effectively. Gourmand, a newer fragrance category, is a scent that’s sweet and edible. It is well represented here with a variety of candles and other fragrance products that feature mouth-watering scents inspired by home-cooked baked goods fresh from the oven.
+In addition to our fragrances inspired by the wonders of nature, we also offer seasonal scents that celebrate time-honored traditions. These luscious aromas invoke such memorable occasions as delicious seasonal treats, enjoyable family vacations to the seashore and favorite holidays.
+All our fragrances ingredients are approved by the IFRA, and our cotton wicks are completely lead-free. Our candles are long lasting and burn clean right down to the last bit of wax with little to no waste. Choose Goose Creek candles, wax melts and room refreshers to get high-quality home fragrance products from a family-owned company.
+Join our Mailing List
+Thanks for Joining!
+Help Center
+Contact Support
+About us
+Terms of Use
+Privacy Policy
+Shipping Costs
+Blog
+Candles
+Wax Melts
+Body Care
+Room Sprays
+Shop by Fragrance
+Accessibility
+© 2024 Goose Creek Candle
+|
+Powered by Shopify

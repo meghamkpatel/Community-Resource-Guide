@@ -1,0 +1,1336 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'keywords', 'content': 'Service'}
+{'name': 'author', 'content': 'Aaron.Sheppard@raleighnc.gov'}
+{'name': 'type', 'content': 'Service'}
+{'property': 'og:type', 'content': 'Service'}
+{'property': 'og:title', 'content': 'Administrative Site Review Cases'}
+{'property': 'og:updated_time', 'content': 'Fri, 05/10/2024 - 14:55'}
+{'property': 'article:author', 'content': 'Aaron.Sheppard@raleighnc.gov'}
+{'property': 'article:tag', 'content': 'Current Development Activity'}
+{'property': 'article:tag', 'content': 'Land / Site Development'}
+{'property': 'article:modified_time', 'content': 'Fri, 05/10/2024 - 14:55'}
+{'name': 'core service', 'content': 'Planning'}
+{'name': 'core service', 'content': 'Permits'}
+{'name': 'department', 'content': 'Planning and Development'}
+{'name': 'division', 'content': 'Land / Site Development'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+
+Body Text:
+Administrative Site Review Cases | Raleighnc.gov
+Skip to main content
+Menu
+Main navigation
+News
+Events
+Services
+Projects
+Departments
+Secondary
+Service categories
+Apps, Maps, and Open Data
+Arts
+Careers, Jobs, and Volunteering
+Climate Action and Sustainability
+Community
+Doing Business
+Education and Learning
+Engage with the City
+Equity Services and Resources
+Fix It, Report It, Request It
+Government
+Grants, Funding, and Relief
+Housing
+Landfill and Reuse
+Make Payments
+Parking
+Parks and Recreation
+Permits
+Planning
+Safety
+Stormwater
+Transportation
+Water and Sewer
+Youth
+Places
+Staff Directory
+Main navigation
+News
+Events
+Services
+Projects
+Departments
+Search
+Search
+Translate
+Thank you for printing this page from the City of Raleigh's Official Website (www.raleighnc.gov)
+https://raleighnc.gov/planning/services/administrative-site-review-cases
+05/10/2024 2:55 pm
+Administrative Site Review Cases
+View site review cases by year below
+Updated: May 10, 2024
+Jump To:
+2023
+2022
+2021
+2020
+2019
+2018
+2017 THRU 2015
+Use the field below to filter administrative site review cases in the table.
+Additional information on all the following project types, as well as information on Tier One site plans and permits, is available on the
+Permit and Development Portal
+.
+Case Number
+Project Name/Location/Description
+Status*
+Contact
+ASR-0001-2024
+The Weld Phase 2/
+1127 Lake Wheeler Rd
+UR
+Walters
+ASR-0002-2024
+Holy Trinity - Phase 2 / 100 E Peace St
+UR
+Gladwin
+ASR-0003-2024
+Budleigh East Flats I / 2538 Bicton Pl
+UR
+Walters
+ASR-0004-2024
+Budleigh East Flats II / 2504 Bicton Pl
+UR
+Walters
+ASR-0005-2024
+702 Bragg St / 702 Bragg St
+UR
+Caines
+ASR-0006-2024
+LOT 5 Rowland Business Park / 7209 Becky Cir
+UR
+Caines
+ASR-0007-2024
+Warehouse/ Office Building /
+3101 Jones Sausage Rd
+UR
+Walters
+ASR-0008-2024
+ANJUMAN JAMLI NC MARKAZ PROJECT / 200 Shelden Dr
+UR
+Gladwin
+ASR-0010-2024
+Lake Haven Affordable Housing Development / 3700 Lake Woodard Dr
+UR
+Gladwin
+ASR-0011-2024
+Tucker Place - Pool Amenity /
+2640 Princess Tree Dr
+UR
+Gladwin
+ASR-0012-2024
+Sheetz at Forestville Rd - Lot 1 / 8601 Louisburg Rd
+UR
+Gladwin
+ASR-0013-2024
+5000 Louisburg Rd / 5000 Louisburg Rd
+UR
+Caines
+ASR-0014-2024
+Glenlake Lot 1 / 4501 Edwards Mill Rd
+UR
+Walters
+ASR-0015-2024
+Mitchell Mill Apartments / 3805 Mitchell Mill Rd
+UR
+Gladwin
+ASR-0016-2024
+Parker/Mayview Condominiums / 1012 Parker St
+UR
+Caines
+ASR-0017-2024
+Paradise Cove Xpress Carwash /
+7103 Louisburg Rd
+UR
+Caines
+ASR-0018-2024
+Capital Ford Truck Center /
+2805 E Millbrook Rd
+UR
+Gladwin
+ASR-0019-2024
+Life Time Living Residential / 1021 Social St
+UR
+Walters
+ASR-0020-0024
+2661 Mellow Field Dr /2661 Mellow Field Dr
+UR
+Gladwin
+ASR-0021-2024
+Atlantic Spas and Billiards /
+8721 Glenwood Ave
+UR
+Walters
+ASR-0022-2024
+Wood Car Club /
+8117 Ebenezer Church Rd
+UR
+Gladwin
+ASR-0023-2024
+Varsity Drive Apartments / 1530 Varsity Dr
+UR
+Walters
+ASR-0024-2024
+Fletcher Academy Expansion /
+400 Cedarview Ct
+UR
+Walters
+ASR-0026-2024
+King Family Condominiums  /
+522 E Whitaker Mill Rd
+UR
+Walters
+ASR-0028-2024
+City Gateway Subdivision II /
+131 Kindley St
+UR
+Walters
+ASR-0030-2024
+Yardly Buffaloe Village - AutoZone /
+5101 Forestville
+UR
+Walters
+2023
+Case Number
+Project Name/Location/Description
+Status*
+Contact
+ASR-0003-2023
+5710 Glenwood / 5710 Glenwood Ave
+UR
+Gladwin
+ASR-0006-2023
+Residence Inn By Marriott / 6300 Triangle Town Blvd
+UR
+Walters
+ASR-0007-2023
+Lofts at Creedmoor / 4900 Creedmoor Rd
+UR
+Purifoy
+ASR-0010-2023
+Moe's and Brunches / 7851 Target Cir
+UR
+Walters
+ASR-0011-2023
+Moxy Hotel / 501 N West St
+UR
+Purifoy
+ASR-0012-2023
+Capital Blvd Parking Lot / 905 Capital Blvd
+UR
+Gladwin
+ASR-0014-2023
+Chailyns Cottages / 2501 Poole Rd
+UR
+Purifoy
+ASR-0016-2023
+NCDEQ - Reedy Creek Campus / 4401 Reedy Creek Rd
+UR
+Purifoy
+ASR-0017-2023
+Raleigh Towing Yard / 4451 Bullock Farm Rd
+UR
+Gladwin
+ASR-0020-2023
+Woodspring Suites / 6420 Capital Blvd
+UR
+Walters
+ASR-0021-2023
+5404 Oak Forest Vehicle Service / 5404 Oak Forest Dr
+UR
+Gladwin
+ASR-0022-2023
+Murphy USA Raleigh Poole Rd / 4501 Poole Rd
+UR
+Purifoy
+ASR-0023-2023
+Nash Square Apartments / 303 S Dawson St
+UR
+Walters
+ASR-0026-2023
+Durant Road Apartments / 10800 Durant Rd
+UR
+Gladwin
+ASR-0027-2023
+Lot 3 Budleigh East / 2550 Oberlin Rd
+UR
+Walters
+ASR-0032-2023
+Old Poole Multifamily / 4900 Old Poole Rd
+UR
+Caines
+ASR-0035-2023
+Focus Church / 3609 Tarheel Club Rd
+UR
+Caines
+ASR-0038-2023
+Glenwood Place III-Phase 1, 2 and 3 / 3725 National Dr
+UR
+Walters
+ASR-0039-2023
+Lot 11 Budleigh East /  2550 Oberlin Rd
+UR
+Purifoy
+ASR-0040-2023
+AJA - Office Building / 4981 Windy Hill Dr
+UR
+Gladwin
+ASR-0041-2023
+COOK OUT / 4112 Lake Boone Trl
+UR
+Walters
+ASR-0044-2023
+Lot 12 Budleigh East / 2550 Oberlin Rd
+UR
+Walters
+ASR-0048-2023
+St. Albans Residential / 500 Hardimont Rd
+UR
+Walters
+ASR-0049-2023
+Buffaloe Bend / 5100 Forestville Rd
+UR
+Purifoy
+ASR-0050-2023
+Caraleigh Substation Expansion / 133 Gilbert Ave
+UR
+Gladwin
+ASR-0052-2023
+Corporate Center Drive Apartments / 1101 Corporate Center Dr
+UR
+Caines
+ASR-0053-2023
+Take 5 Car Wash / 5150 New Bern Ave
+UR
+Gladwin
+ASR-0054-2023
+Whitaker Glen Flats/ 513 E Whitaker Mill Rd
+UR
+Walters
+ASR-0055-2023
+Gannett Multifamily / 620 Gannett St
+UR
+Caines
+ASR-0056-2023
+Wake Med Hospital North Deck Expansion / 10000 Falls Of Neuse Rd
+UR
+Purifoy
+ASR-0058-2023
+201 Hillsborough / 200 W Morgan St
+UR
+Walters
+ASR-0059-2023
+Yardly Buffaloe Village / 5101 Forestville Rd
+UR
+Purifoy
+ASR-0060-2023
+Yardly Buffaloe Village WakeMed / 5101 Forestville Rd
+UR
+Walters
+ASR-0061-2023
+Yardly Buffaloe Village Dunkin Donuts / 5101 Forestville Rd
+UR
+Caines
+ASR-0063-2023
+Rose Lane Townhomes / 409 Rose Ln
+UR
+Walters
+ASR-0064-2023
+Beacon Lake Church / 4008 Virginia St
+UR
+Purifoy
+ASR-0065-2023
+E Lenoir Condos /
+709 E Lenoir St
+UR
+Caines
+ASR-0067-2023
+Yardly Buffaloe Village / 5101 Forestville Rd
+UR
+Purifoy
+ASR-0069-2023
+Razia Shops & Apartments / 4260 Louisburg Rd
+UR
+Caines
+ASR-0079-2023
+Rock Quarry Multifamily Subdivision / 5504 Rock Quarry Rd
+UR
+Gladwin
+ASR-0071-2023
+Korean First Baptist Church of Raleigh / 8905 Ray Rd
+UR
+Caines
+ASR-0072-2023
+5200 Hillsborough / 5200 Hillsborough
+UR
+Walters
+ASR-0074-2023
+Bimmer Performance Center / 5014 Departure Dr
+UR
+Walters
+ASR-0076-2023
+600 N. Person Street / 600 N. Person Street
+UR
+Gladwin
+ASR-0077-2023
+Wilders Grove Retail / 4201 New Bern Ave
+UR
+Purifoy
+ASR-0078-2023
+NC Troopers Association Museum /
+3405 Garner Rd
+UR
+Walters
+ASR-0080-2023
+Chase Bank - New Bern Ave / 5160 New Bern Ave
+UR
+Walters
+ASR-0081-2023
+Anderson Townhomes / 115 Anderson Point Dr
+UR
+Gladwin
+ASR-0082-2023
+Dowling Storage /
+914 Dowling Rd
+UR
+Gladwin
+ASR-0083-2023
+Baptist Grove Church /
+7109 Leesville Rd
+UR
+Purifoy
+ASR-0084-2023
+Holy Trinity Greek Orthodox Church /
+5000 Lead Mine Rd
+UR
+Caines
+ASR-0085-2023
+Johnson Lexus Storage Lot /
+6842 Old Wake Forest Rd
+UR
+Walters
+ASR-0086-2023
+Go Raleigh Park and Ride /
+1451 N New Hope Rd
+UR
+Gladwin
+ASR-0087-2023
+Kent Road Apartments /
+1329 Kent Rd
+UR
+Walters
+ASR-0088-2023
+AKE Electric Corporate Office / 6312 Angus Dr
+UR
+Gladwin
+ASR-0089-2023
+Falcon's Point / 311 N Tarboro St
+UR
+Gladwin
+2022
+Case Number
+Project Name/Location/Description
+Status*
+Contact
+ASR-0005-2022
+Encore at Olde Towne Apartments / 5000 Anamosa St
+UR
+Walters
+ASR-0007-2022
+Crabtree Creek Multifamily / 4501 Creedmoor Rd
+UR
+Purifoy
+ASR-0014-2022
+Park City South Phase 2 A / 1025 S Saunders St
+UR
+Evans
+ASR-0015-2022
+3601 Page Road / 3601 Page Road
+UR
+Purifoy
+ASR-0023-2022
+Falcon's Point / 311 N Tarboro St
+UR
+Evans
+ASR-0029-2022
+Baptist Grove Church / 7011 Leesville Rd
+UR
+Purifoy
+ASR-0032-2022
+Church on the Rock / 6904 Battle Bridge Rd
+UR
+Purifoy
+ASR-0040-2022
+Perry Farm Commercial / 8601 Louisburg Rd
+UR
+Purifoy
+ASR-0043-2022
+Anderson Condominiums / 115 Anderson Point Dr
+UR
+Evans
+ASR-0046-2022
+The Commons of Duraleigh Ridge / 5501 McNeely Dr
+UR
+Walters
+ASR-0055-2022
+401 Cabarrus Apartments / 401 w Cabarrus Apartments
+UR
+Walters
+ASR-0059-2022
+504 E Tryon Project / 504 E Tryon Rd
+UR
+Walters
+ASR-0060-2022
+Pacific Trucking / 651 S New Hope Rd
+UR
+Walters
+ASR-0064-2022
+4200 Virtuous Street Concrete Plant / 4200 Virtuous St
+UR
+Purifoy
+ASR-0065-2022
+Slate Storage Expansion / 210 Newton Rd
+UR
+Walters
+ASR-0069-2022
+McDonald's at Buffaloe Bend Lot 3 / 5100 Forestville Rd
+UR
+Smith
+ASR-0071-2022
+SOHI / 2701 S Wilmington St
+UR
+Gladwin
+ASR-0072-2022
+Multi-Family South / 4006 Market At North Hills St
+UR
+Walters
+ASR-0075-2022
+Barksdale Townhomes / 528 Barksdale Dr
+UR
+Purifoy
+ASR-0079-2022
+Autonation USA / 7523 Glenwood Ave
+UR
+Smith
+ASR-0082-2022
+Logan's Garden Shop / 4020 Tryon Rd
+UR
+Purifoy
+ASR-0086-2022
+Gannett Multi family / 620 Gannett St
+UR
+Gladwin
+ASR-0088-2022
+Sheetz Globe Road / 10856 Globe Rd
+UR
+Smith
+ASR-0089-2022
+Bahnson Warehouse addition / 4412 Tryon Rd
+UR
+Walters
+ASR-0096-2022
+North Ridge Country Club Fitness Center / 6612 Falls Of Neuse Rd
+UR
+Smith
+ASR-0097-2022
+Canvas at Pack Place / 6019 Hillsborough St
+UR
+Purifoy
+ASR-0099-2022
+LCCU New Bern Avenue Branch / 5280 New Bern Ave
+UR
+Purifoy
+ASR-0102-2022
+The Alexan / 5060 Edwards Mill Rd
+UR
+Walters
+ASR-0103-2022
+707 Semart Drive /707 Semart Dr
+UR
+Purifoy
+ASR-0107-2022
+Starbucks Drive Thru Only / 6901 Louisburg Rd
+UR
+Purifoy
+ASR-0108-2022
+The Beautiful Community / 517 Buck Jones Rd
+UR
+Gladwin
+ASR-0112-2022
+USDA Plant Science Research Facility / 3821 Inwood Rd
+UR
+Gladwin
+ASR-0113-2022
+2812 Hillsborough / 6 Bagwell Ave
+UR
+Purifoy
+2021
+Case Number
+Project Name/Location/Description
+CAC
+Status*
+Contact
+No Case #
+No Name
+No CAC
+No Status
+No Contact
+ASR-0003-2021
+Southern Gateway Office Building/ 3510 Olympia Dr/ office
+Southwest
+UR
+Walters
+ASR-0014-2021
+Blount Street Project/ 603 S Blount St/ civic
+Central
+UR
+Purifoy
+ASR-0027-2021
+Thornton Pointe/ 4905 Thornton Rd
+Forestville
+UR
+Russell
+ASR-0033-2021
+Seaboard Block C/ 10 W Franklin St
+Mordecai
+UR
+Purifoy
+ASR-0036-2021
+Speedway/
+2600 S Saunders St
+Southwest
+UR
+Purifoy
+ASR-0041-2021
+Sterling Glenwood/ 3939 Glenwood Ave
+Glenwood
+UR
+Walters
+ASR-0049-2021
+N Square Patel, LLC /
+3401 W Millbrook Rd
+Northwest
+UR
+Evans
+ASR-0055-2021
+Quail Corners Shopping Center / 1200 E Millbrook Rd
+Midtown
+UR
+Evans
+ASR-0058-2021
+501 S New Hope Rd  / 501 S New Hope Rd
+Northeast
+UR
+Purifoy
+ASR-0068-2021
+Wilders Grove /
+4201 New Bern Ave
+Northeast
+UR
+Russell
+ASR-0074-2021
+ETS Office Expansion / 3227 Wellington Ct
+North
+UR
+Walters
+ASR-0085-2021
+Yelverton Athletic Center / 3405 Rock Quarry Rd
+South
+UR
+Walters
+ASR-0086-2021
+Budleigh East Apartments / 2634 Oberlin Rd
+Five Points
+UR
+Purifoy
+ASR-0088-2021
+Bloomsbury Mixed-Use / 121 S Boylan Ave
+Hillsborough-Wade
+UR
+Walters
+ASR-0090-2021
+BLOC83 Tower 3615 W Morgan St
+UR
+Purifoy
+ASR-0097-2021
+Crossroads Veterinary / 1315 Jones Franklin Rd
+UR
+Purifoy
+ASR-0105-2021
+8825 Glenwood Commercial Parking Lot / 8825 Glenwood Ave
+UR
+Russell
+ASR-0107-2021
+East End Market - Phase 2 / 2006 Wake Forest Rd
+UR
+Purifoy
+2020
+Case Number
+Project Name/Location/Description
+CAC
+Status*
+Contact
+ASR-0006-2020
+Wakefield Executive Center/ 2730 Wakefield Pines Dr/ office
+North
+UR
+Evans
+ASR-0008-2020
+City Barbeque Lake Boone Trl/ 4122 Lake Boone Trl/ restaurant
+Northwest
+UR
+Purifoy
+ASR-0009-2020
+Fifth Third Bank at Five Points/ 1641 Glenwood Av/ general
+Five Points
+UR
+Purifoy
+ASR-0015-2020
+Raleigh PS 25866 Expansion/ 4121 Commodity Pkwy/ self storage
+Southeast
+UR
+Purifoy
+ASR-0017-2020
+Hill Street Apartments/ 2309 Hill St/ apartments
+Northeast
+UR
+Evans
+ASR-0028-2020
+South Park 2/ 201,254 Branch St and 1300, 1304 S. Person St
+Central
+UR
+Purifoy
+ASR-0029- 2020
+Sego Court Self Storage/ 1891 & 1908 Sego Ct and 4901 Atlantic Av
+North
+UR
+Evans
+ASR-0036-2020
+Trinity Ridge Office Park - Phase 2/ 5800, 5804 & 5806 Trinity Rd/ office
+West
+UR
+Evans
+ASR-0040-2020
+American Plumbing/ 3800 Auburn Church Rd/ office and warehouse
+South
+UR
+Purifoy
+ASR-0048-2020
+Broadstone Oak City/ 2815 Capital Blvd and 2920 Glenridge Dr/ apartments
+Atlantic
+UR
+Evans
+ASR-0058-2020
+1508 Stovall/ 1508 Stovall Dr/ apartments
+West
+UR
+Evans
+ASR-0059-2020
+Carolina Pines Multi-Family/ 2640 Cherry Cir/ Multi-Family
+Southwest
+UR
+Purifoy
+ASR-0066-2020
+Sycamore Grove Apartments/ 8211 & 8225  Louisburg Rd/ apartments
+Forestville
+UR
+Evans
+ASR-0069-2020
+Dorothea Dix Development/ 1036, 1040, 1044 1048 S Saunders St/ shopping center
+Southwest
+UR
+Purifoy
+ASR-0071-2020
+Biscuitville - Jones Sausage Road/ 3900 Jones Sausage Rd/ restaurant
+South
+UR
+Walters
+ASR-0075-2020
+The Stephens Center/ 3100 Jones Sausage Rd/ office/warehouse
+South
+UR
+Purifoy
+ASR-0077-2020
+Greystone Apartments/ 5020 Rock Quarry Rd/ apartments
+South
+UR
+Walters
+ASR-0079-2020
+Western Boulevard Auto/ 5108 Western Blvd/ general
+West
+UR
+Purifoy
+ASR-0082- 2020
+Hilburn Drive Duplexes/ 7401 Hilburn Dr/ duplexes
+Northeast
+UR
+Evans
+ASR-0083- 2020
+The Flats at Gorman/ 1128, 1130 &1132 Gorman St/ apartments
+East
+UR
+Purifoy
+ASR-0092-2020
+Carolina Coach/ 1208 S Blount St/ apartments
+Central
+UR
+Purifoy
+ASR-0098-2020
+The Commons of Duraleigh Ridge/ 5500 Duraleigh Rd
+Midtown
+UR
+Walters
+ASR-0105-2020
+Sunnybrook Gas Station/ 2418 Sunnybrook Rd/ general
+South
+UR
+Evans
+2019
+Case Number
+Project Name/Location/Description
+CAC
+Status*
+Contact
+SR-6-19
+306 Glenwood Renovations/304 & 306 Glenwood Av/ bar/nightclub
+Hillsborough
+UR
+Boivin
+SR-12-19
+Nexus MXU - Phase 1/ 215 S Mc Dowell St/ mixed-use
+Central
+UR
+Walters
+SR-20-19
+AllPro Window Films/ 1301 Newton Rd/ vehicle repair
+North
+UR
+Purifoy
+SR-22-19
+Bowstring Bar/ 1930 Wake Forest Rd. restaurant, bar
+Five Points
+UR
+Stegall
+SR-23-19
+Wilder's Grove / 4201 New Bern Av/ retail
+Northeast
+UR
+Purifoy
+SR-28-19
+OHO Raleigh/ 3315 Poole Rd/ office
+Southeast
+UR
+Walters
+ASR-0072-2019
+HanDee Hugos 53/ 5101 Capital Blvd/ convenience store
+North
+UR
+Boivin
+ASR-0076-2019
+The Pointe at Town Center/ 3900 Sumner Blvd, 5405 Oak Forest Dr/ apartments
+Northeast
+UR
+Walters
+ASR-0077-2019
+Sumner Business Park Building 203/6550 Meridien Dr/ general
+North
+UR
+Purifoy
+ASR-0079-2019
+AJA Office Building/ 0 Windy Hill Dr/ office
+North
+UR
+Purifoy
+ASR-0080-2019
+Hilton Garden Inn Wade Park/ 5410 Wade Park Blvd/ hotel
+West
+UR
+Walters
+ASR-0082-2019
+ISH Delicatessen/ 200 West Lane St/ general
+North Central
+UR
+Boivin
+ASR-0083-2019
+The Enclave at MLK/ 2020 Martin Luther king Jr Blvd/ apartments
+Southeast
+UR
+Boivin
+ASR-0096-2019
+Crabtree Village Phase II/ 5201 and 5301 Homewood Banks Dr/ apartments
+Northwest
+UR
+Walters
+ASR-0101-2019
+1310 S Person ST/ 1310 S Person St/ shopping center
+Central
+UR
+Purifoy
+ASR-0102-2019
+Cameron Hills Apartments/ 2315 & 2318 Grant Av and 1329 Chester Rd/ apartments
+Hillsborough-Wade
+UR
+Boivin
+ASR-0106-2019
+Deme Motors/ 7209 Becky Cir/ general
+North
+UR
+Evans
+2018
+Case Number
+Project Name/Location/Description
+CAC
+Status*
+Contact
+SR-18-18
+Wake Med Administration/ 3000 New Bern Av/ Administration building
+East Raleigh
+UR
+Stegall
+SR-22-18
+Thales Academy Buffaloe Rd/ 7003 Buffaloe Rd/ Private nonprofit school
+Northeast
+UR
+Boivin
+SR-23-18
+Bingo's Car Wash/ 7103 Louisburg Rd/ Car wash
+Forestville
+UR
+Boivin
+SR-26-18
+Atlantic Plaza/5621 Atlantic Av, 2339 & 2309 Spring Forest Rd/ Commercial/retail
+North
+UR
+Walters
+SR-28-18
+Powerhouse Church/ 3411 Pine Knoll Dr/ church
+Atlantic
+UR
+Boivin
+SR-39-18
+Sterling Glenwood/ 3838 Glenwood Av/ Residential
+Glenwood
+UR
+Walters
+SR-45-18
+901 E. Edenton St/ 901 E. Edenton St/ Apartments
+North Central
+UR
+Walters
+SR-65-18
+North State Street Condos/ 310, 312,314, 320 North State St/ Multi-unit living
+North Central
+UR
+Walters
+SR-74-18
+North Shore lots/ 1101 Capability Dr/ Condos
+Southwest
+UR
+Stegall
+SR-75-18
+Hill Street Apartments/ 2309 Hill St/ Apartments
+Northeast
+UR
+Boivin
+SR-78-18
+Skycrest Crossing/ 2241 N New Hope Rd/ Office
+Northeast
+UR
+Walters
+SR-82-18
+Bee Safe Storage/ 1108 & 1216 Capital Blvd/ Storage facility
+Mordecai
+UR
+Boivin
+SR-91-18
+3020 Highwoods Blvd/ 3020 Highwoods Blvd/ office
+Atlantic
+UR
+Stegall
+SR-92-18
+Hillsborough Pointe/ 2812 Hillsborough St/ retail and apartments
+Wade
+UR
+Walters
+SR-95-18
+313 Cabarrus Commercial Site/ 313 Cabarrus St/ Commercial site
+Central
+UR
+Stegall
+2017 THRU 2015
+Case Number
+Project Name/Location/Description
+CAC
+Status*
+Contact
+SR-7-15 Revision
+The View Condos/ 1912 Hillsborough St/ Condominiums
+Wade
+UR
+Walters
+SR-14-15
+E-28 Elementary School/ 6120 Poole Rd & 1920 Barwell Rd/ Elementary School
+Southeast
+UR
+Walters
+SR-17-16
+Sifen Self Storage Facility/ 1901-1908 Segi Ct/ Self Storage Facility
+North
+UR
+Walters
+SR-23-16
+BNE Transport, LLC/ 2109 Poole Rd/ Car lot and Office
+East Raleigh
+UR
+Walters
+SR-27-16
+The Oasis Community Project/ 5520 Louisburg Rd/ Place of Worship
+Northeast
+UR
+Walters
+SR-31-16
+Mira Mart Convenience Center/ 1700 New Bern Av/ Gas station and Convenience store
+South Central
+UR
+Walters
+SR-44-16
+Wendy's/ Poole Rd & New Hope Rd/ Restaurant
+Southeast
+UR
+Walters
+SR-48-16
+Fred Smith Office/ 6105 Chapel Hill Rd/ Office
+West
+UR
+Walters
+SR-52-16
+Cardinal Charter Academy East/ 2301 & 2309 Old Milburnie Rd/ School
+Northwest
+UR
+Walters
+SR-56-16 Revision
+Stonehenge Place/ 7703 Ray Rd/ single family
+Southeast
+UR
+Boivin
+SR-58-16
+5401 North Amenity/ 7780 Midtown Market Av/ Commercial
+Forestville
+UR
+Rametta
+SR-75-16
+Solferino North/ 2209 Century Dr/ Office
+Midtown
+UR
+Rametta
+SR-83-16
+901 East Edenton/ 901 East Edenton St/ Apartments
+North Central
+UR
+Rametta
+SR-93-16
+301 Hillsborough/ 301 & 327 Hillsborough St/ Mixed-use
+Central
+UR
+Walters
+SR-94-16
+North State Street East/306 & 310 North State St/Townhomes/Single-family
+North Central
+UR
+Rametta
+SR-100-16
+Hillstone Cameron Village/ 305 Oberlin Rd and various other addresses/ Apartments
+Wade
+UR
+Walters
+SR-102-16
+Hilton Garden Inn & Homewood Suites/ 200 W. Davie St/ Hotel
+Central
+UR
+Rametta
+SR-5-17
+Wake Forest Hyundai/ 11555 Commons Oaks Dr/ Vehicles sales
+North
+UR
+Walters
+SR-10-17
+Kent Road/ 1334 Kent Rd/ Duplex Apartments
+West
+UR
+Lobo
+SR-14-17
+Joven Properties Storage Facility/4405 Batts Rd/ Self Storage
+Northeast
+UR
+Lobo
+SR-35-17
+Macedonia Expansion/ 4119 Rocky Quarry Rd/ Religious
+South
+UR
+Stegall
+SR-37-17
+Wake Behavioral Health/ 3309 Durham Dr/ Medical
+Southwest
+UR
+Stegall
+SR-56-17
+FHD-309 N. State/ 309 N. State St/ Duplex
+Central
+UR
+Stegall
+SR-64-17
+Iglesia Cristiana Casa De Restauracion/ 4008 Virginia St/ Church
+Southeast
+UR
+Lobo
+SR-94-17
+1401 S Bloodworth St/ 1401 S Bloodworth St/ Restaurant/bar
+South Central
+UR
+Stegall
+SR-98-17
+Greystone Apartments/ Rock Quarry Rd/ Apartments
+South
+UR
+Walters
+SR-102-17
+Elite Auto/ 3808 S Wilmington St/ Car dealership
+Southwest
+UR
+Boivin
+SR-106-17
+Wakefield United Methodist/ 11001 Forest Pines Dr/ Place of Worship
+North
+UR
+Walters
+Resources
+Current Development Activity
+Development Approvals
+Share
+Twitter
+Facebook
+Email
+Print
+Contact
+currentplanning@raleighnc.gov
+Subscribe
+View all topics
+Back to
+Planning
+Back to
+Permits
+Lead Department:
+Planning and Development
+Service Categories:
+Current Development Activity
+Land / Site Development
+Related News
+All news
+2024 Sir Walter Raleigh Awards Call for Nominations Open
+May 7, 2024
+May is Building Safety Month
+May 1, 2024
+Planning and Development Announces New Assistant Director
+Feb 28, 2024
+Related Events
+All events
+May
+21
+7:45a.m. • Tuesday
+Raleigh Historic Development Commission Meeting
+One Exchange Plaza (OEP)
+May
+23
+3p.m. • Thursday
+Planning Commission Infrastructure and Mobility Committee - CANCELED
+Raleigh Municipal Building (RMB)
+May
+23
+4p.m. • Thursday
+Planning Commission Committee of the Whole
+Raleigh Municipal Building (RMB)
+May
+23
+5p.m. • Thursday
+RHDC Certificate of Appropriateness Committee
+Raleigh Municipal Building (RMB)
+May
+28
+9a.m. • Tuesday
+Planning Commission
+Raleigh Municipal Building
+Jun
+4
+4p.m. • Tuesday
+RHDC Community Awareness Committee
+One Exchange Plaza (OEP)
+Related Projects
+All projects
+Planning
+Station Area Planning: New Bern
+Planning
+LGBTQIA+ Historic Context Study
+Planning
+Station Area Planning: Western
+Planning
+Station Area Planning: Southern
+Was this page helpful?
+Yes
+No
+Email
+Please choose the type of issue you are experiencing with the page from the dropdown.
+- Select -
+Accessibility Issue
+Missing information
+Wrong information
+Design issue
+Something isn’t working as expected
+Customer Service issue (Examples: trouble with paying utility bill, missed garbage collection, permit issues, etc.)
+Comments
+Would you like to be notified by the City about your feedback?
+This feedback widget is not intended for customer service issues.
+This feedback is reviewed
+monthly
+to help us improve our site. For
+immediate customer service
+please refer to our
+staff directory
+.
+Accessibility
+Careers and Jobs
+Employee Access
+Media Kit
+Mission and Vision
+Privacy and Legal Notices
+Staff Directory
+Copyright © 2024 City of Raleigh
+City of Raleigh/s social media accounts
+Twitter
+YouTube
+Facebook
+Instagram
+SEE ALL SOCIAL MEDIA
+×
+Select Language
+English
+Spanish
+Chinese (Simplified)
+Chinese (Traditional)
+Arabic
+Portuguese
+Korean
+Indonesian/Malaysian
+Japanese
+Russian
+French
+German
+Afrikaans
+Albanian
+Amharic
+Armenian
+Azerbaijani
+Basque
+Belarusian
+Bengali
+Bosnian
+Bulgarian
+Catalan
+Cebuano
+Corsican
+Croatian
+Czech
+Danish
+Dutch
+Esperanto
+Estonian
+Finnish
+Frisian
+Galician
+Georgian
+Greek
+Gujarati
+Hausa
+Hawaiian
+Hebrew
+Hindi
+Hmong
+Haitian Creole
+Hungarian
+Icelandic
+Igbo
+Irish
+Italian
+Javanese
+Kannada
+Kazakh
+Khmer
+Kinyarwanda
+Kurdish
+Kyrgyz
+Lao
+Latvian
+Lithuanian
+Luxembourgish
+Macedonian
+Malagasy
+Malay
+Malayalam
+Maltese
+Maori
+Marathi
+Mongolian
+Myanmar (Burmese)
+Nepali
+Norwegian
+Nyanja (Chichewa)
+Odia (Oriya)
+Pashto
+Persian
+Polish
+Punjabi
+Romanian
+Samoan
+Scots Gaelic
+Serbian
+Sesotho
+Shona
+Sindhi
+Sinhala (Sinhalese)
+Slovak
+Slovenian
+Somali
+Sundanese
+Swahili
+Swedish
+Tagalog (Filipino)
+Tajik
+Tamil
+Tatar
+Telugu
+Thai
+Turkish
+Turkmen
+Ukrainian
+Urdu
+Uyghur
+Uzbek
+Vietnamese
+Welsh
+Xhosa
+Yiddish
+Yoruba
+Zulu
+Scroll to top

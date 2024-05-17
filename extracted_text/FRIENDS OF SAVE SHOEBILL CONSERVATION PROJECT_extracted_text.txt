@@ -1,0 +1,150 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-title', 'content': 'Friends of Save Shoebill - '}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'itemprop': 'name', 'content': 'Friends of Save Shoebill'}
+{'itemprop': 'url', 'content': 'https://saveshoebill.org/'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Friends of Save Shoebill'}
+{'property': 'og:description', 'content': 'FRIENDS OF SAVE SHOEBILL How You Can Help There are only 3,300 to 5,300 shoebill storks left in the world, and the number is decreasing. Donate now to support their conservation or shop in our store. Learn More EXECUTIVE SUMMARY Save Shoebill conservation project (SSCP) Save Shoebill conservation project (SSCP) in Murchison falls national park. […]'}
+{'property': 'og:url', 'content': 'https://saveshoebill.org/'}
+{'property': 'og:site_name', 'content': 'Friends of Save Shoebill'}
+{'property': 'article:modified_time', 'content': '2024-03-06T15:35:22+00:00'}
+{'property': 'og:image', 'content': 'https://saveshoebill.org/wp-content/uploads/2024/03/293316177_106404745477265_4791335300516637551_n-2.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'Give v3.12.0'}
+{'name': 'generator', 'content': 'Elementor 3.20.3; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-internal, google_font-enabled, font_display-swap'}
+{'name': 'theme-color', 'content': '#FFFFFF'}
+{'name': 'msapplication-TileImage', 'content': 'https://s0.wp.com/i/webclip.png'}
+
+Body Text:
+Home - Friends of Save Shoebill
+Skip links
+Skip to primary navigation
+Skip to content
+Call Us
+Text Us
+Email: virginia.fitt@gmail.com
+Phone: +19493425184
+Facebook
+Instagram
+Home
+About the Shoebill
+Projects
+Donate
+Shop
+Contact Us
+Contact Us
++19493425184
+Free Consultation
+Toggle navigation
+Home
+About the Shoebill
+Projects
+Donate
+Shop
+Contact Us
+FRIENDS OF SAVE SHOEBILL
+How You Can Help
+There are only 3,300 to 5,300 shoebill storks left in the world, and the number is decreasing. Donate now to support their conservation or shop in our store.
+Learn More
+EXECUTIVE SUMMARY
+Save Shoebill conservation project (SSCP)
+Save Shoebill conservation project (SSCP) in Murchison falls national park. It is a conservation project
+aimed at building mindful community about shoebill importance, value and conserve its habitat together
+with all other birds, cantered in Mubako, Murchison Falls National Park, Ngwedo, Buliisa District Midwestern region of Uganda. It was Started & formed by a team of dedicated ornithologists involved in various
+Environmental conservation activities around Murchison falls national park, a key biodiversity area in
+Uganda with the overall goal of excelling in nature protection and creating opportunities for sustainable
+lives.
+We strive to ensure a sustainable future for shoebills and other wildlife species
+Save the Shoebill is dedicated to conserving the iconic shoebill stork and its wetland habitats through funding locally led projects and promoting community involvement.
+VISION
+To have an engaged and mindful local and global community that cares about shoebill storks, that values and conserves their habitats, that supports adjacent communities, and preserves biodiversity.
+Learn more
+MISSION
+To have a healthy shoebill population, monitor, research and conserve its habitat, save wetlands, and support biodiversity and local communities.
+Learn more
+OBJECTIVES
+To measure and sustain the shoebill population and to educate and support local communities that can directly impact shoebill conservation efforts.
+Learn more
+Kenneth Tumusiime Founder SSCP at the Dam Chobe Safari Lodge in Murchison Falls National
+Park
+What Our Partners Say:
+"Save the Shoebill's dedication to protecting these magnificent birds is truly inspiring. Their work gives me hope for the future of endangered species."
+Sarah H.
+Conservation Enthusiast
+"I support Save the Shoebill because their efforts to conserve shoebills and their habitats are crucial for the survival of these iconic creatures."
+John M.
+Wildlife Photographer
+"Save the Shoebill's educational resources and commitment to community involvement resonate with me deeply. They inspire the next generation to protect our planet's biodiversity."
+Emily R.
+Nature Lover and Educator
+Got Questions?
+Explore our FAQs
+Why are shoebill storks endangered?
+Shoebill storks are endangered primarily due to habitat loss and degradation caused by human activities such as deforestation, wetland drainage, and pollution. Additionally, they are threatened by illegal hunting and capture for the exotic pet trade.
+How does Save the Shoebill plan to conserve shoebill storks?
+Save the Shoebill focuses on funding locally led projects, such as the Save Shoebill Conservation Project in Uganda, which aims to raise awareness about the importance of shoebills and their habitats, conduct research, and implement conservation measures.
+How can I contribute to the conservation of shoebill storks?
+There are several ways to contribute to shoebill conservation efforts. You can make a donation to Save the Shoebill, which supports projects dedicated to shoebill conservation. Additionally, spreading awareness about the plight of shoebills and their habitats, reducing your carbon footprint, and supporting sustainable practices can all help protect these unique birds and their ecosystems.
+Where can I learn more about shoebill storks and their conservation?
+Save the Shoebill provides resources on its website, including information about the projects it supports and the current status of shoebill populations. You can also follow the organization on social media platforms like Facebook and Instagram for updates and news related to shoebill conservation efforts.
+Are there any volunteer opportunities available with Save the Shoebill?
+Save the Shoebill values volunteer contributions to its conservation projects. While specific volunteer opportunities may vary, individuals interested in getting involved can reach out to the organization through its website or contact form to inquire about current volunteer needs and how they can contribute their skills and time to shoebill conservation efforts.
+FRIENDS OF SAVE SHOEBILL
+STRATEGIC PROGRAMS
+Strategic programs are the Key Result Areas where the organization plans to achieve by addressing the
+identified critical issues but also take advantage of the strengths within the organization and opportunities
+that the environment provides to make a positive impact. This Plan has identified the following strategic
+programs through which the critical issues but also other issues and challenges identified during the
+situation analysis will be addressed:
+1. Research and Ecological Monitoring
+2. Capacity Development
+3. Community Conservation and financial sustainability
+Don't miss out
+Stay in the loop with the latest in sustainability and carbon credit solutions.
+Sending
+Subscribe to our newsletter for exclusive content, updates, and insights delivered right to your inbox. Join the community of to make a positive impact.
+News and Updates
+Explore articles, announcements, and industry insights that showcase our dedication to sustainability, innovation, and the ongoing fight against climate change.
+Tags
+Uncategorized
+technosites
+9 months ago
+Join the Mission: Saving the Shoebill Stork
+Tags
+Uncategorized
+technosites
+9 months ago
+Support Shoebill Conservation: Donate Today
+Tags
+Uncategorized
+technosites
+9 months ago
+Get Involved: Take Action for Shoebill Conservation
+View All
+With a focus on raising awareness and supporting research, we strive to ensure a sustainable future for shoebills and other wildlife species dependent on wetland ecosystems.
+QUICK LINKS
+Home
+About the Shoebill
+Projects
+Donate
+Shop
+Contact Us
+CONTACT US
+Toll Free Customer Care
++19493425184
+Need live support?
+virginia.fitt@gmail.com
+KEEP IN TOUCH
+Sending
+Facebook
+Instagram
+Copyright © 2024 SAVE THE SHOEBILL | All Rights Reserved
+Loading...
+×

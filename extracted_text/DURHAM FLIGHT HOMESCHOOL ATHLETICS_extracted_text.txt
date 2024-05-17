@@ -1,0 +1,47 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'csrf-param', 'content': 'authenticity_token'}
+{'name': 'csrf-token', 'content': 'MPqH+WoUXeoq2YOL7bCDx3ECgQNRyKbFCAe25z4anO8z0RJOYaN+3pxvvHIOcdIOAVDjyrCbfDNnJip0DSpYVQ=='}
+{'name': 'trace-id', 'content': '58111630-6fa5-4fc2-90b7-b84f02826726'}
+{'property': 'og:title', 'content': 'Home'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Homeschool sports program offering athletic opportunities to homeschoolers in Durham and surrounding counties. '}
+{'property': 'og:url', 'content': 'http://www.durhamflight.com/page/show/7565290-home'}
+{'property': 'og:site_name', 'content': 'Durham Flight Homeschool Athletics'}
+{'property': 'og:image', 'content': 'https://cdn1.sportngin.com/attachments/logo_graphic/a7e3-182785600/logo-durham-flight-athletics_medium.png'}
+
+Body Text:
+Durham Flight Homeschool Athletics
+skip navigation
+Durham Flight Homeschool Athletics
+Search
+Search
+Durham Flight Homeschool Athletics
+Durham Flight
+is Durham's  NCHEAC (North Carolinians for Home Education Athletic Commission) approved competitive homeschool sports program, offering Basketball and Volleyball for local homeschooled athletes. Through NCHEAC, our teams are eligible to compete for Regional and State Tournament titles.
+Durham Flight
+is centrally located in Durham, NC.
+Durham Flight Homeschool Athletics
+uses athletics as a tool to help young men and women pursue godliness and excellence in every aspect of their lives.
+Philippians 3:13-14
+Press On Towards the Goal!
+Quick links:
+Durham Flight Basketball
+Durham Flight Golf
+Durham Flight Volleyball
+Register:
+Flight Golf 2024
+Register:
+Volleyball Tryouts 2024
+Thank You to Our Local 2023-24 Sponsors
+Check Out Our Sponsors
+Contact
+Us
+Durham Flight Homeschool Athletics
+This website is powered by SportsEngine's
+Sports Relationship Management
+(SRM) software, but is owned by and subject to the  Durham Flight Homeschool Athletics privacy policy.
+©2024 SportsEngine, Inc.
+Privacy Policy
+Page Search

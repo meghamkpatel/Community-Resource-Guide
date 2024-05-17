@@ -1,0 +1,250 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'property': 'og:type', 'content': 'Basic Page'}
+{'property': 'og:title', 'content': 'Smith Career Connect Lazarus Center at Smith College'}
+{'property': 'og:updated_time', 'content': '2023-12-12T16:10:07-0500'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'msapplication-TileColor', 'content': '#da532c'}
+{'name': 'theme-color', 'content': '#ffffff'}
+
+Body Text:
+Smith Career Connect Lazarus Center at Smith College
+Skip to main content
+Search
+Utility
+Search Toggle
+Students
+Faculty & Staff
+Families
+Alums
+Give to Smith
+Smith College logo
+Search Toggle
+main
+Menu
+Discover Smith
+Expand Discover Smith Menu
+Smith in Action
+History & Traditions
+President Sarah Willie-LeBreton
+Visit the Campus
+Governance
+Smith at a Glance
+Contact Smith
+Academics
+Expand Academics Menu
+Programs & Courses
+Our Approach To Learning
+Applied Learning & Research
+Faculty Directory
+Academic Calendar
+Registrar
+Class Deans
+Provost/Dean of the Faculty
+Study Abroad
+Libraries
+Admission & Aid
+Expand Admission & Aid Menu
+Apply to Smith
+Visits & Programs
+Life After Smith: Career Outcomes
+Tuition & Aid for Applicants
+Aid for Current Students
+For Parents & Families
+For School & CBO Counselors
+Your Campus
+Expand Your Campus Menu
+Residence Life
+Dining & Menus
+Community
+Offices & Services
+Health & Wellness
+Clubs & Organizations
+Student Government Association
+Athletics
+For New Students
+SmithArts
+News & Events
+Expand News & Events Menu
+Smith Today
+Events
+Performing Arts
+Smith Alumnae Quarterly
+Show all breadcrumbs
+Offices & Services
+Breadcrumb
+Scroll Left
+Home
+Your Campus
+Offices & Services
+Lazarus Center for Career Development
+Scroll Right
+Smith Career Connect
+Secondary
+Scroll Left
+In This Section
+Smith Career Connect
+Close Secondary Nav
+Advising
+Expand Advising Menu
+Career Advising
+Fellowships & Postgraduate Scholarships Program
+Expand Fellowships & Postgraduate Scholarships Program Menu
+Consider Fellowships
+Principal Fellowships
+Apply for a Fellowship
+Fulbright Focus
+Fellowships Advising
+Deadlines
+Resources
+For Faculty
+Successes & News
+Graduate & Professional School
+Health Professions Advising
+Expand Health Professions Advising Menu
+Explore the Health Professions
+Academic Preparation
+Building Qualifications
+The Application Process
+Funding Your Education
+Career Communities
+Expand Career Communities Menu
+Arts, Media, Communications
+Business, Finance, Consulting, & Entrepreneurship
+Education, Nonprofit, & Social Impact
+Government, Law, Policy, & International Affairs
+Health Professions
+STEM
+Internships
+Expand Internships Menu
+Praxis Funding
+Internship Credit
+Jobs
+Expand Jobs Menu
+Job Search Strategies
+Recruiting
+Career Fairs
+Expand Career Fairs Menu
+Fall Career Fairs
+Spring Career Fairs
+Equity & Inclusion Resources
+International Students
+Smith Career Connect
+Resources
+For Employers
+About Us
+Handshake
+More
+Join Smith Career Connect
+Smith Career Connect is where students and alums come together to talk about careers. You can grow your network, receive tailored mentorship and browse job listings by alums who can help you secure the role—all in one place.
+This platform is
+exclusive
+to the Smith community. It’s a built-in network of Smith alums who are eager to help you navigate the next stage in your career, whether you’re still exploring what path is right for you or need help making connections in the industry of your choice.
+Join Now
+Why should I join?
+A trusted network.
+Everyone in Smith Career Connect is part of our community and has demonstrated a keen interest in the professional growth of our students.
+Simplified interactions.
+Students and alums can make connections, share files, book and attend audio and video calls without leaving the platform—no need to exchange personal information or use third-party apps to participate.
+Meaningful connections.
+More than 1,200 alums have already signed up and are eager to help students and recent graduates explore and succeed in their career journey. Students will spend less time cold calling and more time receiving personalized mentorship.
+Creating an Account
+All Smith students have been preloaded into the platform for a seamless signup experience.
+Go to
+Smith Career Connect
+.
+Select Smith Account Login to continue using the SSO system.
+Add your Smith credentials to gain access.
+After creating your account, you’ll be asked to provide details about your working experience, career interests and goals. This process is relatively brief and we recommend you answer all the questions simultaneously. These answers will inform the connection, career and employment opportunities Smith Career Connects recommends to you.
+Getting Started
+On Smith Career Connect you can:
+Explore career paths based on your interests. Based on your profile, the platform will suggest career paths, show potential salary ranges, and share academic and experience requirements.
+Connect with alums via private messaging, schedule meetings and share files all with the assistance of templates to facilitate and enhance your networking experience.
+Browse open jobs from a curated list of employers (vetted by Lazarus Center staff) and Smith Career Connect will recommend alums who are willing to help you secure these roles.
+Ayana Gonzalez ’98
+Sociology
+Senior Consultant at Technical Assistance Collaborative, Inc.
+I can help with:
+Industry insights.
+Kiera Collins-Joseph ’24
+Math Tutor at America Reads*America Counts
+Key motivators:
+helping others, problem solving, planning/organizing.
+Benay Weintraub, M.S. ’19
+Kinesiology and Exercise Science
+Head Coach, Women’s Tennis at California Institute of Technology
+My key motivators:
+Helping others, working with others.
+Karen Mitchell ’97
+Geology/Earth Science
+Assistant Chief Flight Instructor at Laconia Flight Academy
+My key motivators:
+Helping others
+Kit Wang ’81
+Biochemistry
+Priest-in-Charge at The Episcopal Church
+I can help with:
+Job shadowing, industry insights.
+Jenny Malave ’10
+Sociology
+Director of Data Analytics and Reporting at Holyoke Public Schools
+My key motivators:
+Helping others, problem solving.
+Abbey Harlow ’08
+Arts Administration
+Owner at Harlow Nonprofit Consulting
+I can help with:
+Work-life balance, choosing a career path.
+Patricia Galfano AC’04
+International Relations & Affairs
+Teacher at NYC Department of Education
+My key motivators:
+Being creative.
+Kate Bussard ’98
+Art: History of Art
+Curator of Photography at Princeton University Art Museum
+My key motivators:
+Problem solving.
+The Network
+remains the central virtual hub for alum connections but
+Smith Career Connect
+serves as a space for Smithies of all generations to come together for conversation and mentorship related to careers.
+Smith College logo
+Smith College
+Smith College
+10 Elm Street
+Northampton, MA 01063
+Phone:
+413-584-2700
+Footer
+Portal
+Directory
+Dining Menus
+Campus Map
+Give to Smith
+Employment
+Libraries
+Botanic Garden
+Museum of Art
+Learn the ins and outs of the new smith.edu
+Social Navigation
+Twitter
+Instagram
+Facebook
+Youtube
+©
+				2024
+				Smith College.
+Meta
+Privacy
+Terms of Use
+Title IX
+Nondiscrimination Statement
+Consumer Information
+Contact Us
+Experiencing an accessibility issue on a Smith web page?
+Please let us know.

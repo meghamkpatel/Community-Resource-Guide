@@ -1,0 +1,56 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'be153f5a-7299-4c55-a32b-3ddc4c13b5c6'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '2bf32b91-c91b-48dd-914a-faffe9629bee'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '24'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | Power Church 2023'}
+{'property': 'og:url', 'content': 'https://www.powerchurchamarillo.com'}
+{'property': 'og:site_name', 'content': 'Power Church 2023'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | Power Church 2023'}
+
+Body Text:
+HOME | Power Church 2023
+top of page
+beliefs.
+what we believe
+about.
+connect.
+new here.
+give.
+gcbn.
+More...
+Use tab to navigate through the menu items.
+Welcome Home to Power Church
+Sunday Services at 9:30a, 11a, & 12:30p
+Wednesday Service at 7p
+connect
+connect.
+We believe in community at Power Church, so
+click here
+to get to know more about the many groups we offer.
+about.
+about.
+Power church exists to see people saved, families restored, and God's purpose revealed to every individual.
+​
+Click here for
+what we believe.
+contact.
+contact.
+Name
+Email
+Phone
+Message
+Send
+Thanks for submitting!
+powerchurchama@gmail.com
+​
+bottom of page

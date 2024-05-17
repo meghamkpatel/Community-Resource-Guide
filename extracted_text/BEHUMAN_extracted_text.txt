@@ -1,0 +1,58 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'beHuman'}
+{'property': 'og:title', 'content': 'beHuman'}
+{'property': 'og:url', 'content': 'https://www.behuman.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/59cb510ac027d899c4f6a3e5/t/5a029c28ec212d79d86e7684/1510120488750/logo_b.png?format=1500w'}
+{'property': 'og:image:width', 'content': '564'}
+{'property': 'og:image:height', 'content': '165'}
+{'itemprop': 'name', 'content': 'beHuman'}
+{'itemprop': 'url', 'content': 'https://www.behuman.com'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/59cb510ac027d899c4f6a3e5/t/5a029c28ec212d79d86e7684/1510120488750/logo_b.png?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/59cb510ac027d899c4f6a3e5/t/5a029c28ec212d79d86e7684/1510120488750/logo_b.png?format=1500w'}
+{'name': 'twitter:title', 'content': 'beHuman'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/59cb510ac027d899c4f6a3e5/t/5a029c28ec212d79d86e7684/1510120488750/logo_b.png?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.behuman.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+beHuman
+Home
+About
+How It Works
+Movements
+Home
+About
+How It Works
+Movements
+Scroll
+Inspire
+& Be Inspired
+beHuman has been built to help educate users across the globe about the power of impact behind posting and sharing thoughtful acts. We are here to HUMANIZE social media. Lets go!!
+Learn More
+Communities
+Band together with your community and contribute thoughtful actions. We're rolling out #WeAre campaigns throughout the world!
+Impact
+Let your digital mark on the internet be more than just status updates and selfies! Shake the world with your thoughtful intentions!
+Karma Store
+Your posts builds Tokens in your account that allow you to redeem goods and donate to causes all over the world!
+Play The Social Game
+Our Karma Tokens are the currency for change. Keep posting your acts of good, build points, and inspire your peers! For every 100 Inspires your posts get, 1 Karma Token will be accrued. Redeem your tokens in our Karma Store and score big on exclusive offerings.
+Landing
+Who We Are
+Play The Game
+beHuman
+About
+Movements
+Terms of Service
+Privacy Policy
+Download App Store
+Download Google Play
+747 Front St
+San Francisco, CA 94111
+Info

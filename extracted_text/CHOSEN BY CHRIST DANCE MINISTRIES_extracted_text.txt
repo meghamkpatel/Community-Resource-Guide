@@ -1,0 +1,24 @@
+Meta Information:
+{'name': 'bingbot', 'content': 'noarchive'}
+{'name': 'robots', 'content': 'noarchive, noimageindex'}
+{'charset': 'utf-8'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'default'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'id': 'viewport', 'name': 'viewport', 'content': 'width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, viewport-fit=cover'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'property': 'og:type', 'content': 'profile'}
+{'property': 'og:image', 'content': 'https://scontent-bos5-1.cdninstagram.com/v/t51.2885-19/150967198_276181264021109_2265550794753582724_n.jpg?stp=dst-jpg_s100x100&_nc_cat=107&ccb=1-7&_nc_sid=3fd06f&_nc_ohc=reuYxV8gnP4Q7kNvgElDyFW&_nc_ht=scontent-bos5-1.cdninstagram.com&oh=00_AYBoFOUlbKDIj25eXx6aHwqgkd8-Oq8HhBAfSdyZkPAeOg&oe=664C5EA2'}
+{'property': 'og:title', 'content': 'Chosen By Christ (@chosenbychrist_2016) • Instagram photos and videos'}
+{'property': 'og:url', 'content': 'https://www.instagram.com/chosenbychrist_2016/'}
+{'property': 'og:description', 'content': '964 Followers, 1,356 Following, 230 Posts - See Instagram photos and videos from Chosen By Christ (@chosenbychrist_2016)'}
+{'content': '964 Followers, 1,356 Following, 230 Posts - See Instagram photos and videos from Chosen By Christ (@chosenbychrist_2016)', 'name': 'description'}
+{'property': 'al:ios:app_name', 'content': 'Instagram'}
+{'property': 'al:ios:app_store_id', 'content': '389801252'}
+{'property': 'al:ios:url', 'content': 'instagram://user?username=chosenbychrist_2016'}
+{'property': 'al:android:app_name', 'content': 'Instagram'}
+{'property': 'al:android:package', 'content': 'com.instagram.android'}
+{'property': 'al:android:url', 'content': 'https://instagram.com/_u/chosenbychrist_2016/'}
+{'name': 'color-scheme', 'content': 'light'}
+
+Body Text:
+Chosen By Christ (@chosenbychrist_2016) • Instagram photos and videos

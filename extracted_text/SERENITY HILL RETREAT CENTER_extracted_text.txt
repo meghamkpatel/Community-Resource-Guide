@@ -1,0 +1,69 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'Home'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.6.2'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'Serenity Hill Retreat Center - A nonprofit retreat center in the Central Piedmont region of North Carolina'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Serenity Hill Retreat Center'}
+{'property': 'og:description', 'content': 'Home'}
+{'property': 'og:url', 'content': 'https://www.serenityhill.org/'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Home - Serenity Hill Retreat Center'}
+{'name': 'twitter:description', 'content': 'Home'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Elementor 3.21.5; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+
+Body Text:
+Home - Serenity Hill Retreat Center
+Skip to content
+Serenity Hill Retreat Center
+Cabins
+Community Center & Kitchen
+Exclusive Access
+Contact
+Serenity Hill Retreat Center
+Main Menu
+Bathhouse
+Blog
+Cabin 1
+Cabin 2
+Cabin 3
+Cabin 4
+Cabin 5
+Cabin 6
+Cabin 7
+Cabins
+Community Center & Kitchen
+Contact
+Exclusive Access
+Exclusive Access Payment Form
+Home
+RV Sites
+Tent Campsites
+Serenity Hill Retreat Center
+A nonprofit retreat center in the Central Piedmont region of North Carolina
+Experience the Piedmont
+Serenity Hill Retreat Center is a nonprofit retreat center in the Central Piedmont region of North Carolina. On our private and wooded property, you’ll enjoy seven rustic cabins, a community meeting space, and a well-equipped kitchen. In season, our caretaker grows vegetables and medicinal herbs. Serenity Hill is perfect for groups gathering to build community, conduct business meetings, and escape from the hub-bub.
+Partners of the Southern Vision Alliance may book the space for FREE. For others, we offer a flexible sliding scale based on your ability to pay.
+Amenities & Facilities
+Explore our retreat center
+Cabins
+One room cabins, with and without bath
+Book Now
+Community Center & Kitchen
+Multipurpose room and full-service kitchen for up to 30 people.
+Book Now
+Exclusive Access
+Reserve the entire property for your group's exclusive use!
+Book Now
+Bathhouse
+Learn More
+Kitchen
+Learn More
+Tent Campsite
+Book Now
+RV Site
+Book Now

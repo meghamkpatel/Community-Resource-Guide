@@ -1,0 +1,324 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'name': 'theme-color', 'content': '#000000'}
+{'name': 'google-site-verification', 'content': '19Vb8BODwsXBSeWvlJ2Mkc_P5mMqXPc1dFu1X4brfrk'}
+{'property': 'og:site_name', 'content': 'Lo & Sons'}
+{'property': 'og:url', 'content': 'https://www.loandsons.com/pages/discover-bond'}
+{'property': 'og:title', 'content': 'Discover Bond'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'First class bags designed thoughtfully and sustainably made. Shop Lo & Sons collection of travel bags, weekenders, carry-ons, and more today.'}
+{'name': 'twitter:site', 'content': '@http://bit.ly/loandsonstwitter'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Discover Bond'}
+{'name': 'twitter:description', 'content': 'First class bags designed thoughtfully and sustainably made. Shop Lo & Sons collection of travel bags, weekenders, carry-ons, and more today.'}
+{'name': 'facebook-domain-verification', 'content': 'dsmxhu9idr7dfb1v6mowy2nfc7il1w'}
+{'id': 'shopify-digital-wallet', 'name': 'shopify-digital-wallet', 'content': '/21851497/digital_wallets/dialog'}
+{'name': 'shopify-checkout-api-token', 'content': '94b228e14b723b3658b9e0a4b06f7d33'}
+{'id': 'in-context-paypal-metadata', 'data-shop-id': '21851497', 'data-venmo-supported': 'true', 'data-environment': 'production', 'data-locale': 'en_US', 'data-paypal-v4': 'true', 'data-currency': 'USD'}
+{'property': 'og:image', 'content': 'https://cdn.shopify.com/s/files/1/2185/1497/files/wordmark_logo_square_darkgreybackground_4982fd74-2823-4fb1-99e5-501a6fb1b983.jpg?v=1602173277'}
+{'property': 'og:image:secure_url', 'content': 'https://cdn.shopify.com/s/files/1/2185/1497/files/wordmark_logo_square_darkgreybackground_4982fd74-2823-4fb1-99e5-501a6fb1b983.jpg?v=1602173277'}
+{'property': 'og:image:width', 'content': '200'}
+{'property': 'og:image:height', 'content': '200'}
+
+Body Text:
+Discover Bond
+– Lo & Sons
+Skip to content
+New
+Back
+New
+Shoulder / Totes
+Aoyama
+Four bags in one, this lightweight, buttery soft bag can do anything and go anywhere.
+Discover
+Shop Now
+Springwood Upcycled Canvas Tote
+A versatile tote that's 100% handmade and upcycled from preloved Catalina bags.
+Discover
+Shop Now
+Backpacks
+Hanover Supreme
+An impressively spacious laptop backpack for the minimalist conscious.
+Shop Now
+Crossbody
+Bond
+A sleek fanny pack and sling bag
+Discover
+Shop Now
+Nouvelle
+A lightweight, comfortable, spacious, and eco-friendly crossbody bag to bring with you anywhere, everywhere.
+Discover
+Shop Now
+Hilo Upcycled Sacoche
+An upcycled bag with a detachable strap that converts it from a crossbody to a pouch.
+Discover
+Shop Now
+Accessories
+Compact Wallet
+A compact wallet for all of your necessities.
+Shop Now
+Zodiac Charm
+A collection of zodiac key charms for Lunar New Year
+Shop Now
+Bestsellers
+Back
+Bestsellers
+Weekender Bags
+Catalina Deluxe
+A timeless and super versatile weekender bag designed with premium sustainable materials.
+Discover
+Shop Now
+Catalina Deluxe Tote
+A lightweight, timeless, but super versatile tote that you can use for anything.
+Discover
+Shop Now
+Laptop Bags
+The O.G. 2
+A lightweight yet super functional overnight travel bag designed for the modern traveler.
+Discover
+Shop Now
+Rowledge
+A do-it-all nylon backpack for women that seamlessly converts into a tote.
+Discover
+Shop Now
+Hakuba
+A true triple threat, ideal for traveling, commuting or working out.
+Discover
+Shop Now
+Casual Bags
+Aoyama
+Four bags in one, this lightweight, buttery soft bag can do anything and go anywhere.
+Discover
+Shop Now
+Nouvelle
+A lightweight, comfortable, spacious, and eco-friendly crossbody bag to bring with you anywhere, everywhere.
+Discover
+Shop Now
+Pearl
+A stylish yet functional crossbody bag that seamlessly converts to a shoulder bag or large clutch.
+Discover
+Shop Now
+Accessories
+Magnolia Leather Wallet
+A slim travel wallet that fits all of your essentials.
+Discover
+Shop Now
+Mallorca Small Wallet
+Made with luxury materials, it's a sophisticated wallet that you won't want to leave home without.
+Shop Now
+Womens
+Back
+Womens
+Shop All
+Backpacks
+Belt Bags
+Crossbody
+Laptop Bags
+Totes & Shoulder
+Weekenders
+Wallets
+Accessories
+Compare Bags
+New Products
+Aoyama Bag
+Bond
+Hilo Upcycled Sacoche
+Springwood Upcycled Canvas Tote
+Shop By Feature
+Camera
+Gym
+Travel
+Work
+Shop By Collection
+Catalina - Weekenders / Duffles / Totes
+Hanover - Eco-Friendly Backpacks
+Signature - Laptop Bags
+Seville - Interchangeable Totes
+Plant Based Vegan Leather
+Upcycled
+Mens
+Back
+Mens
+Shop All
+Backpacks
+Belt Bags
+Carry-ons
+Crossbody
+Duffle Bags
+Laptop Bags
+Tote Bags
+Wallets
+Accessories
+Compare Bags
+New Products
+Hilo Upcycled Sacoche
+Springwood Upcycled Canvas Tote
+Shop By Feature
+Gym
+Travel
+Work
+Shop by Collection
+Catalina - Weekenders / Duffles / Totes
+Hanover - Eco Friendly Laptop Backpacks
+Upcycled
+Sale
+About
+Back
+About
+About Us
+Our Story
+Sustainability
+Warranty
+Healthcare Heroes
+Blog
+Help
+Back
+Help
+FAQ
+Bulk Orders / Corporate Gifting
+Wholesale
+Warranty
+Sign in
+Your Cart
+You may also like
+Sherborn Compact Wallet
+Saffiano Leather / Dark Tan
+$78
+Add
+Sherborn Compact Wallet
+Saffiano Leather / Light Grey
+$78
+Add
+Sherborn Compact Wallet
+Saffiano Leather / Red
+$78
+Add
+Mallorca Small Wallet
+Cactus Leather / Black
+$78.40
+Original price
+$98
+Add
+Mallorca Small Wallet
+Embossed Croc Leather / Dark Tan
+$68.60
+Original price
+$98
+Add
+Mallorca Small Wallet
+Saffiano Leather / Red
+$78.40
+Original price
+$98
+Add
+The Signature Medallion
+Nappa Leather / Black
+$7.20
+Original price
+$12
+Add
+The Signature Medallion
+Nappa Leather / Black
+$7.20
+Original price
+$12
+Add
+Magnolia Leather Wallet
+Saffiano Leather / Black
+$94.40
+Original price
+$118
+Add
+Magnolia Leather Wallet
+Nappa Leather / Rose Quartz
+$94.40
+Original price
+$118
+Add
+Magnolia Leather Wallet
+Saffiano Leather / Ivory
+$94.40
+Original price
+$118
+Add
+Subtotal
+$0.00
+Discounts, shipping, and taxes calculated at checkout
+Your cart is currently empty.
+Continue Shopping
+Memorial Day Sale - Up to 40% off! Shop Now
+International shipping available
+Search products
+Begin typing to search, use arrow keys to navigate, Enter to select
+Search
+view wishlist
+Sign in
+0
+items in cart
+Bond
+Choose Your Bag
+Discover The Bond
+A sleek belt bag and sling bag to keep your essentials organized and secure.
+Shop Now
+Thoughtful Features
+We created smart design details to make travel and mobility as seamless as possible.
+1. Convertible and Adjustable Strap
+The Bond converts seamlessly from a fanny pack style to a sling bag for everyday, hands-free use and adjusts to just the length you want it.
+2. Plenty of Pockets
+With plenty of compartments to store cards,a passport or even a pair of AirPods.
+3. Security Features
+A TSA approved lock can fit on the exterior zipper pulls.
+4. Premium Sheepskin
+An extremely supple leather, with a soft and delicate feel intended to keep the bag lightweight.
+1. Convertible and Adjustable Strap
+The Bond converts seamlessly from a fanny pack style to a sling bag for everyday, hands-free use and adjusts to just the length you want it.
+2. Plenty of Pockets
+With plenty of compartments to store cards,a passport or even a pair of AirPods.
+3. Security Features
+A TSA approved lock can fit on the exterior zipper pulls.
+4. Premium Sheepskin
+An extremely supple leather, with a soft and delicate feel intended to keep the bag lightweight.
+Bond Colors
+The Bond - Sheekpskin Leather - Black
+A sleek fanny pack and sling bag in a soft, sheepskin leather in black.
+Shop Now
+The Bond - Sheepskin Leather - Deep Navy
+A sleek fanny pack and sling bag in a soft, sheepskin leather in navy.
+Shop Now
+The Bond - Sheepskin Leather - Cognac
+A sleek fanny pack and sling bag in a soft, sheepskin leather in cognac.
+Shop Now
+The Bond - Sheepskin Leather -
+Ivory
+A sleek fanny pack and sling bag in a soft, sheepskin leather in ivory
+Shop Now
+Get 10% OFF
+Save 10% on full price items when you sign up for our email list. Hear first about deals, new products, and exciting partnerships.
+Sign Up
+Company
+Our Story
+Sustainability
+Careers
+Affiliates
+Help
+FAQ
+Bulk Orders / Corporate Gifting
+Wholesale
+Warranty
+Contact
+Monday-Friday: 8am - 9pm EST
+Saturday-Sunday: 12pm - 9pm EST
+Closed Holidays
+Chat
+Email
+open Lo & Sons on instagram in new tab
+open Lo & Sons on pinterest in new tab
+open Lo & Sons on facebook in new tab
+open Lo & Sons on twitter in new tab
+open Lo & Sons on youtube in new tab
+©2024 Lo & Sons. All rights reserved.
+Privacy & Terms
+|
+Accessibility Statement

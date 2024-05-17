@@ -1,0 +1,82 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'b3d5d380-8485-4cf8-a286-e38ccaf40d13'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '1b2496a8-8585-4d2c-8e4f-06a1d95885b8'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '76'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Shekinah Glory International is an Apostolic and Prophetic ministry birthed and led by God the Holy Spirit. Our mission is to spread the love and grace of Jesus Christ throughout the world, and we are dedicated to serving our local Church community.'}
+{'property': 'og:title', 'content': 'Shekinah Glory International | Pastor Perry Maison'}
+{'property': 'og:description', 'content': 'Shekinah Glory International is an Apostolic and Prophetic ministry birthed and led by God the Holy Spirit. Our mission is to spread the love and grace of Jesus Christ throughout the world, and we are dedicated to serving our local Church community.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/a15f0a_134ed9b7dd7d4e80b7c1fb48b32bd003%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a15f0a_134ed9b7dd7d4e80b7c1fb48b32bd003%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.shekinahgloryint.com'}
+{'property': 'og:site_name', 'content': 'Shekinah Glory Int.'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'shekinahgloryinternationalinc'}
+{'name': 'google-site-verification', 'content': 'mBomQQBE2TPJNKnddx-Q-lNPyABKPlCLpeSyFaBgNmE'}
+{'property': 'fb:admins', 'content': 'shekinahgloryinternationalinc'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Shekinah Glory International | Pastor Perry Maison'}
+{'name': 'twitter:description', 'content': 'Shekinah Glory International is an Apostolic and Prophetic ministry birthed and led by God the Holy Spirit. Our mission is to spread the love and grace of Jesus Christ throughout the world, and we are dedicated to serving our local Church community.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/a15f0a_134ed9b7dd7d4e80b7c1fb48b32bd003%7Emv2.png/v1/fit/w_2500,h_1330,al_c/a15f0a_134ed9b7dd7d4e80b7c1fb48b32bd003%7Emv2.png'}
+
+Body Text:
+Shekinah Glory International | Pastor Perry Maison
+top of page
+Welcome
+About Us
+Events
+Our Leaders
+Media
+Destiny Project Institute
+E Church
+Donate
+Book Online
+More
+Use tab to navigate through the menu items.
+Our ministry team
+Shekinah Glory International
+Bio
+Perry Maison -
+Servant Leader
+Book Appointment
+Michelle Maison
+Servant Leader
+Joanie Chapman -
+Bio
+Executive Director / Minister / Board Member
+Book Appointment
+Book Appointment
+Bio
+Joshua Detwiler -
+Prophetic Voice / Minister / Board Member
+God Aware Ministries
+Catherine Hardy
+Minister / Board Member
+Freedom Encounter Ministries
+Book Appointment
+About
+As a non-profit organization, we rely on the generosity of our community to continue our mission. Your donation will help us spread the message of hope and healing to those in need.
+Proverbs 19:17
+Donate Now
+Be Inspired
+Subscribe
+Thank You for Joining Us!
+contact us!
+Shekinah Glory International
+(919) 908-1210
+shekinahgloryint@gmail.com
+​
+2606 S Miami Blvd,
+Durham, NC 27703
+Submit
+Thanks for submitting!
+©2023 by Shekinah Glory International.
+bottom of page

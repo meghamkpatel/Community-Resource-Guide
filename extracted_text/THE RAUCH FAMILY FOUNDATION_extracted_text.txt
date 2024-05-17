@@ -1,0 +1,67 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'The Rauch Family Foundation'}
+{'property': 'og:title', 'content': 'The Rauch Family Foundation'}
+{'property': 'og:url', 'content': 'https://www.therauchfamilyfoundation.org'}
+{'property': 'og:type', 'content': 'website'}
+{'itemprop': 'name', 'content': 'The Rauch Family Foundation'}
+{'itemprop': 'url', 'content': 'https://www.therauchfamilyfoundation.org'}
+{'name': 'twitter:title', 'content': 'The Rauch Family Foundation'}
+{'name': 'twitter:url', 'content': 'https://www.therauchfamilyfoundation.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+The Rauch Family Foundation
+Home
+About
+Our Story
+Focus Areas
+What We're Learning
+Contact
+The Rauch Family Foundation
+Home
+About
+Our Story
+Focus Areas
+What We're Learning
+Contact
+We support programs that are transformational,
+evidence-based, and cost-effective.
+Established in 1989 by Dudley and Ceci Rauch, the Rauch Family Foundation has invested across a variety of charitable
+focus areas
+with the largest single gift to date going to
+Duke University Medical School
+to establish a needs-based scholarship program for Medical Students, made in honor of the foundation’s late founders.
+Based in Southern California, the Rauch Family Foundation focuses its US domestic grantmaking efforts on California’s Inland Empire.
+our story
+Learn more about our founders
+and our values.
+Learn More
+our focus areas
+Learn more about where we focus our work and who we partner with.
+Learn More
+what we’re learning
+As we grow we are committed to sharing what we’ve learned with the public and those in the field of philanthropy.
+Learn with us
+Featured
+Jan 12, 2024
+2023 Annual Letter
+Jan 12, 2024
+Happy New Year to all our valued partners and friends!
+2023 was a year of progress for the Rauch Family Foundation in our quest to make a positive difference in the lives of vulnerable people. We continued to ask ourselves: what are the greatest needs both at home and far away? What strategies are effective in addressing those needs? What is the role of private philanthropy in funding effective strategies?
+Read More →
+Jan 12, 2024
+Subscribe
+If you’d like to receive occasional news and updates from us, please subscribe below.
+Email Address
+Sign Up
+Thank you
+Back to Top
+Terms of Use
+|
+Privacy Policy
+©2024 by The Rauch Family Foundation

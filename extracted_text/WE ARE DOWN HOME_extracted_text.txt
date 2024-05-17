@@ -1,0 +1,78 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Down Home North Carolina is building power with poor and working-class people in North Carolina’s small towns and rural communities.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'We Are Down Home'}
+{'property': 'og:description', 'content': 'Down Home North Carolina is building power with poor and working-class people in North Carolina’s small towns and rural communities.'}
+{'property': 'og:url', 'content': 'https://downhomenc.org/'}
+{'property': 'og:site_name', 'content': 'Welcome to Down Home!'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/downhomenc'}
+{'property': 'article:modified_time', 'content': '2024-03-26T18:55:28+00:00'}
+{'property': 'og:image', 'content': 'https://downhomenc.org/wp-content/uploads/2024/03/2904B75A-C54C-46A9-B777-84B4EFD9FA48-scaled.jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@downhome_nc'}
+{'name': 'google-site-verification', 'content': 'UA-196847778-1'}
+{'name': 'generator', 'content': 'Elementor 3.20.2; features: e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://downhomenc.org/wp-content/uploads/2021/01/DH-Cardinal-300x300.png'}
+
+Body Text:
+We Are Down Home - Welcome to Down Home!
+BECOME A MEMBER
+DONATE
+2024 PLATFORM
+About Us
+Who We Are
+Membership
+Our Team
+Our Board
+Our Reports
+Organizing Work
+Local Organizing
+Our Wins
+Our Campaigns
+Electoral Work
+Co-Governance
+Voter Registration Information
+Donate
+News
+Blog
+Monthly Newsletter​
+Get Involved
+Events and Meetings
+Job Listings
+Donate
+X
+Rural Organizing in North Carolina
+Down Home North Carolina is building power with poor and working-class people in North Carolina’s small towns and rural communities.
+ALL ARE WELCOME AT DOWN HOME.
+Together, we are taking action to increase democracy, grow the good in our communities, and pass a healthy and just home down to our grandbabies.
+FIND AN EVENT
+WATCH OUR Video
+Play Video
+We are poor and working class and we know that building multiracial power is essential to change.
+By weaving together our  different experiences, we can shape a democracy that serves working people, where our labor is valued, and our food, water, and land is healthy.
+Come on in, y’all we’ve got work to do.
+BECOME A MEMBER
+Our Latest Stories
+A $438 light bill? Our members in JoCo launch campaign to address energy efficiency in our homes.
+Upcoming in May: Candidate Interviews and Endorsements
+Well, we made that clear: 98% of Down Home members vote to oppose Mark Robinson.
+Load More
+The winning combination of local campaigns and electoral politics
+Useful Links
+Home
+Events
+Our Chapters
+Latest Updates
+Voter Registration
+Our Reports
+Jobs
+Come on in y'all.
+We’ve got work to do.
+We want working families to have more than a seat at the political table when decisions about our communities are made – we want to be making the decisions ourselves.
+BECOME A MEMBER
+SIGN UP  FOR UPDATES
+© 2024 Down Home North Carolina

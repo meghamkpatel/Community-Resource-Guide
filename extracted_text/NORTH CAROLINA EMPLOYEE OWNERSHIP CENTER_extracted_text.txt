@@ -1,0 +1,73 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'NCEOC - NCEOC'}
+{'property': 'og:description', 'content': 'Sign up for our newsletter * indicates required Email Address * First Name Last Name Company Modal Popup – ID Click here to edit the "Modal Popup" settings. This text will not be visible on frontend. As a Business Owner What will your legacy be? The North Carolina Employee Ownership Center serves as the central…'}
+{'property': 'og:url', 'content': 'https://nceoc.org/'}
+{'property': 'og:site_name', 'content': 'NCEOC'}
+{'property': 'article:modified_time', 'content': '2024-01-16T20:08:18+00:00'}
+{'property': 'og:image', 'content': 'https://nceoc.org/wp-content/uploads/2020/08/NCEOC-logo-01.jpg'}
+{'property': 'og:image:width', 'content': '1201'}
+{'property': 'og:image:height', 'content': '628'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'msapplication-TileImage', 'content': 'https://nceoc.org/wp-content/uploads/2019/08/cropped-NCEOC-site-icon-512-270x270.png'}
+
+Body Text:
+NCEOC - NCEOC
+Skip to content
+Employee Ownership 101
+North Carolina
+Who We Are
+Stories
+Companies
+Twin Business Crises
+Ambassador Program
+Blog
+Events
+More Info
+Talk to a Professional
+Get Started
+Donate
+Sign up for our newsletter
+*
+indicates required
+Email Address
+*
+First Name
+Last Name
+Company
+As a Business Owner
+What will your legacy be?
+The North Carolina Employee Ownership Center serves as the central hub for information and resources around employee ownership in North Carolina.
+Why is this a key moment for employee ownership in NC?
+Employee ownership is a business model in which employees collectively own a percentage
+of the business for which they work. Two of the main forms are Employee Stock Ownership
+Plans (ESOPs) and worker cooperatives. In both, employees are given a financial stake in
+the business. As the business prospers, employees prosper
+Over the next 10 years, more than 4 million U.S. businesses owned by retiring baby boomers will change hands or dissolve
+More than half of all small business owners do not have a succession plan
+Many businesses will be sold and leave the state of NC, or close their doors permanently, resulting in lost jobs, tax base, and community impacts
+Why consider employee ownership?
+It is an ownership succession plan that preserves jobs and community impacts, while giving the selling shareholders preferred tax treatment
+It is a proven strategy for employee recruitment and retention
+When employees have a stake in the company’s success, everyone benefits
+How can the North Carolina Employee Ownership Center help?
+The NCEOC mission is to educate business owners and their advisors (lawyers, bankers, accountants, wealth advisors) on the benefits of employee ownership via Employee Stock Ownership Plans (ESOPs), worker cooperatives, and Employee Ownership Trusts (EOTs). NCEOC provides resources, case studies and articles, and a list of service providers who can assist with employee ownership transitions. NCEOC serves the entire state of North Carolina.
+Learn more about employee ownership options
+info@nceoc.org
+Donate
+sstorkan@eoxnetwork.org
+Sign Up for Our Mailing List
+Click Here
+We’re on a mission to create jobs and community
+wealth through employee ownership.
+Privacy policy
+English
+Spanish
+English

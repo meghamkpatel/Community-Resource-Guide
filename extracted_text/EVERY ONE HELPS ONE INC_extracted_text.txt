@@ -1,0 +1,220 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'description', 'content': 'Experience Efficiency with Our Digital Insurance Payments Platform. Seamlessly Manage Premiums & Claims Payments.'}
+{'name': 'keywords', 'content': ''}
+{'name': 'author', 'content': ''}
+{'name': 'apple-mobile-web-app-title', 'content': 'OneInc public site'}
+{'name': 'application-name', 'content': 'OneInc public site'}
+{'name': 'msapplication-TileColor', 'content': '#1d4682'}
+{'name': 'msapplication-config', 'content': ''}
+{'name': 'theme-color', 'content': '#1d4682'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'property': 'og:description', 'content': 'Experience Efficiency with Our Digital Insurance Payments Platform. Seamlessly Manage Premiums & Claims Payments.'}
+{'property': 'og:title', 'content': 'Simplifying Premium Payments & Disbursements | Elevate Payments'}
+{'name': 'twitter:description', 'content': 'Experience Efficiency with Our Digital Insurance Payments Platform. Seamlessly Manage Premiums & Claims Payments.'}
+{'name': 'twitter:title', 'content': 'Simplifying Premium Payments & Disbursements | Elevate Payments'}
+{'property': 'og:image', 'content': 'https://www.oneinc.com/hubfs/one-inc-logo%20600x350.png#keepProtocol'}
+{'property': 'og:image:width', 'content': '600'}
+{'property': 'og:image:height', 'content': '350'}
+{'name': 'twitter:image', 'content': 'https://www.oneinc.com/hubfs/one-inc-logo%20600x350.png#keepProtocol'}
+{'property': 'og:url', 'content': 'https://www.oneinc.com'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'HubSpot'}
+
+Body Text:
+Simplifying Premium Payments & Disbursements | Elevate Payments | One Inc
+<img  height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=286651792909821&amp;ev=PageView&amp;noscript=1">
+Client Login
+Vendor-Provider Network Login
+Support
+Developer Hub
+866.343.6940
+Solutions
+Key products
+Pay claims quicker with
+ClaimsPay
+Deliver fast, secure digital claims payments through payees’ preferred channels and methods.
+Collect faster with
+PremiumPay
+Align your payment experience with core systems and securely process payments.
+Features & Capabilities
+Customer Experience
+Connect and engage policyholders through an exceptional and seamless payment experience.
+Digital Engagement
+Engage policyholders via multi-channel digital messaging to enhance payment experience.
+Reporting & Reconciliation
+Reconcile payments automatically and download reports in a variety of formats.
+Security & Compliance
+Remove sensitive payment data off your network and reduce your compliance burden.
+Partner with One Inc
+Partners & Alliances
+Our partnerships and alliances work with us to deliver the ultimate customer payment experience.
+Vendor-Provider Network
+Pay vendors and service providers quickly and efficiently and streamline operations.
+› Auto
+› Healthcare
+› Legal
+› Additional Industries
+Whitepaper
+The ROI of Digital Payments - Part 1
+Use Cases
+Disburse Payments
+The pay anyone, anywhere, any way digital payment disbursement platform.
+Lienholder Payments
+Mortgagee Payments
+Payment Methods
+Single & Multi-party Payments
+Vendor Payments
+Accept Payments
+A flexible payment platform with low/no-code tools that you can easily configure.
+Agents
+Call Center Solution
+IVR
+Mobile SDK
+Pay by Text
+Payment Portals
+Payment Modals
+Line of Business
+Our network is structured to meet the specific needs of the insurance industry.
+Overview
+Auto Insurance
+Commercial Lines
+Life Insurance
+Managing General Agents (MGA)
+Non-Standard Auto (NSA)
+Property Insurance
+Workers Compensation
+Resources
+Overview
+Whatever you’re looking for, find it here.
+Thought Leadership
+Innovative ideas and insights from top industry leaders.
+Whitepapers
+Articles/documents highlighting features, solutions, and products.
+Success Stories
+Success stories detailing user applications and solutions.
+News
+Get up-to-date information on One Inc.
+Events
+Meet the One Inc team at a tradeshow.
+Blog
+An informal feature highlighting specific topics or insight.
+Datasheets
+Informational documents describing products or payment solutions.
+Infographics
+Images and charts communicating information quickly and clearly.
+Webinars
+Informative presentations by industry leaders.
+FAQs
+Short on time, check out our FAQs.
+Company
+About Us
+Careers & Culture
+Certifications
+Contact Us
+Leadership
+Contact Us
+Search
+The Leading Digital Payments Network
+for the Insurance Industry
+The Convenient, Cutting-edge Technology and Secure Payments You Want and Need.
+How can we help?
+Select an option
+One Platform
+Discover the Power of One Inc
+One Inc offers a single platform to process digital payments for premiums and claims. Designed to integrate with an insurer’s core system, including cloud-based solutions, the One Inc Digital Payments Platform engages policyholders through the channels they use most, while securely processing payments through those same channels.
+PremiumPay
+®
+2.0
+Align your premium payment experience with core systems and securely process credit card and ACH payments.
+ClaimsPay
+®
+Deliver fast, secure digital claim payments through payees’ preferred channels and methods.
+Features and Capabilities
+Customer
+Experience
+Connect and engage policyholders through an exceptional, expedient, and seamless payment experience.
+Digital
+Engagement
+Proactively engage policyholders throughout the premium and claim payments experience.
+Reporting &
+Reconciliation
+Reconcile accounts, instantly find discrepancies, analyze and report payment activity.
+Security &
+Compliance
+Remove sensitive payment data from your network and simplify your compliance burden.
+Latest Articles
+blog
+How Insurers Can Harness the Potential of GenAI
+Insurers can't wait; things move fast. They must adopt a holistic, connected enterprise AI approach, define/refine GenAI strategy, and start learning and experimenting.
+Explore This Article ›
+news
+OneShield Announces Partnership with One Inc to Enhance Digital Payment Solution Offering
+OneShield, a leader in insurance technology solutions, is pleased to announce a partnership with...
+Explore This Article ›
+Success Story
+North America Risk Services Success Story
+North American Risk Services Achieves Remarkable Digital Adoption Rates and Delivers Efficiency...
+Explore This Article ›
+Why Choose One Inc for your Digital Payments?
+240+
+Customers & Growing
+700,000+
+Vendor-Providers
+$70 Billion
+Annual Payments Volume
+Featured
+Nordic Capital Bets on Digital Payments Backing InsurTech One Inc
+The buyout shop joins Great Hill Partners in investing in the payments company serving insurers.
+Read This News
+Nordic Capital to invest in leading digital insurance payments network One Inc to drive continued growth and product innovation
+Strategic investment will support One Inc’s mission to digitalize and modernize the insurance industry.
+Read This News
+Emerging Threats: Check Theft and Fraud on the Rise
+Consumer preference for digital payment methods has caused a steady decline in check usage. Over the last 30 years.
+Read This Blog
+Simplify Premium
+and Claim Payments
+with One Inc
+Facebook
+Twitter
+Instagram
+LinkedIn
+YouTube
+Quick Links
+Accept Payments
+Digital Engagement
+Digital Payments Platform
+Disburse Payments
+Reporting & Reconciliation
+Security & Compliance
+Partners & Alliances
+Resources
+Blog
+Customers
+Developers
+News
+Support
+Company
+About
+Careers
+Leadership
+Contact Us
+One Inc
+General Contact:
+866.343.6940
+Email:
+TheTeam@OneInc.com
+Support Number:
+888.774.8020
+Human Resources Contact
+Email:
+HR@oneinc.com
+Copyright ©
+2021
+One Inc | All Rights Reserved. ClaimsPay® and PremiumPay® are registered trademarks of One Inc Software Corporation. 'VISA' is a registered trademark of VISA International Service Association. Mastercard is a registered trademark, and the circles design is a trademark of Mastercard International Incorporated.
+Terms of use
+Privacy Policy
+PCI Compliance

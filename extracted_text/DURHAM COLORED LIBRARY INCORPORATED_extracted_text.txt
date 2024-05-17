@@ -1,0 +1,92 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '73ecc583-b9cf-421b-a591-1b043d6e1887'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '802625f7-30f0-4668-be42-0c9843e8f63d'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '293'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Founded in 1913 by Dr. Aaron McDuffie Moore, The Durham Colored Library, Inc. is one of Durham’s oldest nonprofit organizations. We are dedicated to our mission: lifting up stories of African American figures, both current and historic, to create a more comprehensive picture of the American experience.'}
+{'property': 'og:title', 'content': 'HOME | Durham Colored Library'}
+{'property': 'og:description', 'content': 'Founded in 1913 by Dr. Aaron McDuffie Moore, The Durham Colored Library, Inc. is one of Durham’s oldest nonprofit organizations. We are dedicated to our mission: lifting up stories of African American figures, both current and historic, to create a more comprehensive picture of the American experience.'}
+{'property': 'og:url', 'content': 'https://www.durhamcl.org'}
+{'property': 'og:site_name', 'content': 'DCL'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | Durham Colored Library'}
+{'name': 'twitter:description', 'content': 'Founded in 1913 by Dr. Aaron McDuffie Moore, The Durham Colored Library, Inc. is one of Durham’s oldest nonprofit organizations. We are dedicated to our mission: lifting up stories of African American figures, both current and historic, to create a more comprehensive picture of the American experience.'}
+
+Body Text:
+HOME | Durham Colored Library
+top of page
+HOME
+ABOUT
+BIENNIAL REPORT
+MW MAGAZINE
+TECHIES 4 TOMORROW
+MOORE BIOGRAPHY
+INTERVIEWS
+CONTACT
+DONATE
+of
+Black Culture
+Storytellers
+As one of Durham’s oldest non
+-
+profits, we are dedicated to our mission:
+lifting up stories of African American figures, both current and historic, to create a more comprehensive picture of the American experience.
+Dr. Aaron McDuffie Moore
+incorporated DCL as a nonprofit in 1918, following five years of functioning as a community service organization
+within
+old White Rock Baptist Church, located in the Black section of Durham called Hayti.
+LEARN MORE
+Our Current
+Initiatives
+From the beginning DCL has always worked to address vibrant economies, resiliency, justice, equity, and inclusion. We continue to focus on these core values within all of our initiatives. DCL manages three projects that inform and engage both children and adults in understanding more about African American history and culture that is often absent from mainstream educational materials.
+Merrick Washington Magazine
+The Merrick Washington Magazine Initiative, founded in 1952, collects and presents news articles relating to African American culture, current events, and history to a sight
+-
+challenged population. It was created with those in mind who do not readily have access to Braille or large print editions of major publications.
+SEE OUR LATEST ISSUE
+Techies
+4
+Tomorrow℠
+DCL’s newest project is designed to improve academic preparation of young African American students with the goal of increasing their motivation and interest in STEM
+(
+science, technology, engineering, and math
+)
+school subjects and ultimately careers. Improving educational attainment has long been known to reduce poverty and improve the health of individuals, their families, and entire communities.
+The Moore Biography
+Aaron McDuffie Moore: African American Physician, Educator, and Founder of Durham’s Black Wall Street
+is the biography of the founder of the Durham Colored Library, published in 2020 by UNC Press. DCL promotes the book through author book talks and presentations that inform the community about his important work and how his impact is still being felt throughout Durham and the state of North Carolina.
+LEARN MORE
+GET AN AUTOGRAPHED COPY
+Our
+Supporters
+We are grateful for the local organizations, people, and groups that support DCL
+!
+to
+DCL
+Donate
+We thank you so much for your engagement and support
+!
+As an entirely volunteer
+-
+run organization, your donations help us continue our important work of lifting up the stories of African American figures, increasing access to STEM education for African American youth, and producing our magazine and other publications.
+DONATE TODAY
+HOME
+ABOUT
+BIENNIAL REPORT
+MW MAGAZINE
+TECHIES 4 TOMORROW
+MOORE BIOGRAPHY
+INTERVIEWS
+CONTACT
+DONATE
+© Copyright Durham Colored Library, Inc. 2022
+Designed by Abby Bradetich of IlluminEssence Creations
+bottom of page

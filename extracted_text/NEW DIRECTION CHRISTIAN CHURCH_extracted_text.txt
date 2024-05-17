@@ -1,0 +1,94 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '2b0897d3-67ec-4b16-8b2f-5930c68be9fd'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'fd4a1264-eb9f-48bb-8e28-9058ebfff87e'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '357'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | New Direction Church'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/915994_e3676603ba124c0fa27326f0c1a3a7d7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/915994_e3676603ba124c0fa27326f0c1a3a7d7%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.n2newdirection.org'}
+{'property': 'og:site_name', 'content': 'New Direction Church'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | New Direction Church'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/915994_e3676603ba124c0fa27326f0c1a3a7d7%7Emv2.png/v1/fit/w_2500,h_1330,al_c/915994_e3676603ba124c0fa27326f0c1a3a7d7%7Emv2.png'}
+
+Body Text:
+HOME | New Direction Church
+top of page
+Join Us for Sunday Worship In-Person & online at 9:30am CST!
+HOME
+ABOUT
+CONNECT GROUPS
+WATCH ONLINE
+ALPHA
+EVENTS
+VOLUNTEER
+SHAPE
+SPIRITUAL GIFTS
+COMMUNITY RESOURCES
+NewD UNIVERSITY
+CONTACT
+WE ARE SO GLAD THAT YOU DECIDED TO HEAD IN A
+Join us for worship at 9:30am!
+We're so happy to have you join us at NDCC!
+Get to Know Us
+Take an opportunity to learn more about our connect groups, ministries, and upcoming events!
+LEARN MORE
+CONTACT DETAILS
+Join us at one of our locations.
+6120 Winchester Rd, Memphis, TN 38115
+http://www.n2newdirection.org
+Prayer Line: 901-849-PRAY
+Tel: 901-433-3871
+FIND LOCATION
+Sermons
+Watch Our Sermons Online
+WATCH ONLINE
+About NDCC
+New Direction Christian Church is a life-changing ministry focused on making individuals and the community at large better! All are welcome here!
+LEARN MORE
+Connect Groups
+We make sure that everyone within our church is connected to a group that will assist them in developing their skills or helping them improve themselves.
+GET CONNECTED
+Events
+Stay connected with us with our events!
+REGISTER NOW!
+Next Gen (Kidz, Youth, & Young Adults
+We're invested in our kidz, youth, and young adults! Check us out!
+KIDZ MINISTRY
+YOUTH/YOUNG ADULT MINISTRY
+JOIN OUR FAMILY
+BAPTISM
+PRAYER REQUEST
+FIRST TIME GUEST
+The NDCC App is available on
+both IOS and Android markets!
+Load More
+Quick Links
+HOME
+​
+ABOUT
+CONNECT GROUPS
+EVENTS
+VOLUNTEER
+CONTACT
+Address
+6120 Winchester Rd.
+Memphis, TN 38115
+​
+http://www.n2newdirection.org
+Tel: 901-433-3871
+Prayer Line: 901-849-PRAY
+DONATE ONLINE
+© 2024 by NDCC. All rights reserved. Designed by
+Emmax Digitals.
+bottom of page

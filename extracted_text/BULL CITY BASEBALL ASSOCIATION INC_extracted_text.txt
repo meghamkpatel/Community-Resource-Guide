@@ -1,0 +1,270 @@
+Meta Information:
+{'content': 'text/html; charset=UTF-8', 'http-equiv': 'Content-Type'}
+{'content': 'text/javascript', 'http-equiv': 'Content-Script-Type'}
+{'content': 'text/css', 'http-equiv': 'Content-Style-Type'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'id': 'MetaDescription', 'name': 'DESCRIPTION', 'content': 'Bull City Little League'}
+{'id': 'MetaKeywords', 'name': 'KEYWORDS', 'content': 'Bull City Little League'}
+{'id': 'MetaCopyright', 'name': 'COPYRIGHT', 'content': 'Copyright (c) 2024 by Bull City Little League'}
+{'id': 'MetaAuthor', 'name': 'AUTHOR', 'content': 'Bull City Little League'}
+{'name': 'RESOURCE-TYPE', 'content': 'DOCUMENT'}
+{'name': 'DISTRIBUTION', 'content': 'GLOBAL'}
+{'id': 'MetaRobots', 'name': 'ROBOTS', 'content': 'INDEX, FOLLOW'}
+{'name': 'REVISIT-AFTER', 'content': '1 DAYS'}
+{'name': 'RATING', 'content': 'GENERAL'}
+{'http-equiv': 'PAGE-ENTER', 'content': 'RevealTrans(Duration=0,Transition=1)'}
+{'name': 'PortalId', 'content': '21170'}
+{'name': 'viewport', 'content': 'intial-scale=1.0,width=device-width'}
+
+Body Text:
+Home
+Home
+About Us
+Contact Info
+Our Staff
+Volunteer Opportunities
+Facility & Directions
+BCLL Constitution
+BCLL Ambassadors Program
+Coaches' Corner
+2024 Local Rules
+BCLL Coaches Guide
+BCLL Pitch Count Rules
+Player Development
+Bull City Bat-A-Thon & Auction
+2024 Bat-A-Thon Sponsorship
+2024 Bat-A-Thon Flyer
+Auction & Raffle
+Bull City Stores
+*NEW* BCLL Merch
+*NEW* BCLL Apparel
+Support BCLL
+Sponsorship Opportunities
+All Stars
+Baseball 10/12
+Baseball 9/11
+Baseball 8/10 Red
+Baseball 8/10 White
+Baseball 6/8
+Softball 10/12
+Softball 8/10
+Baseball 2022 10/12 State Champs
+Registration
+Available Programs
+FAQs
+Fall vs. Spring
+BCLL Division Primer
+Login
+Register
+Website Manager
+Login
+Register
+Home of North Carolina's 2022 10-12 state champs!
+Facebook
+Instagram
+Login
+Register
+Home
+About Us
+Contact Info
+Our Staff
+Volunteer Opportunities
+Facility & Directions
+BCLL Constitution
+BCLL Ambassadors Program
+Coaches' Corner
+2024 Local Rules
+BCLL Coaches Guide
+BCLL Pitch Count Rules
+Player Development
+Bull City Bat-A-Thon & Auction
+2024 Bat-A-Thon Sponsorship
+2024 Bat-A-Thon Flyer
+Auction & Raffle
+Bull City Stores
+*NEW* BCLL Merch
+*NEW* BCLL Apparel
+Support BCLL
+Sponsorship Opportunities
+All Stars
+Baseball 10/12
+Baseball 9/11
+Baseball 8/10 Red
+Baseball 8/10 White
+Baseball 6/8
+Softball 10/12
+Softball 8/10
+Baseball 2022 10/12 State Champs
+Registration
+Available Programs
+FAQs
+Fall vs. Spring
+BCLL Division Primer
+Bull City Auction & Raffle
+More
+Spring Bat-A-Thon May 11th
+More
+*NEW* BCLL Apparel
+More
+*New* Bull City Little League Merchandise
+More
+BCLL Text Alerts for Latest League & Weather Info
+More
+Free Riptide Clinic at BCLL March 11
+More
+Previous
+Next
+05.11.24
+Bull City Little League Hits ...
+This past Saturday, Bull City Little League held its annual Bat-A-Thon, raising ov...
+04.25.24
+3rd Annual 147 Challenge
+Witness the excitement as Bull City Little League takes on South Durham Little Lea...
+04.16.24
+Bull City at Savannah Bananas
+Celebrating Bull City's fantastic experience at the recent Savannah Bananas games,...
+03.16.24
+Opening Ceremonies March 16th!
+Get ready for a day to remember at Bull City's Opening Ceremonies tomorrow! Here'...
+Available Programs
+Volunteer Opportunities
+Little League District Finder
+Little League age calculator
+Little League bat standards
+Pitch Smart USA
+ABOUT
+Events
+Social
+Field Status
+Highlights
+ABOUT
+_
++
+Bull City Little League (BCLL) is located in Durham, NC, and is sanctioned by Little League, Inc. of Williamsport, Pa. It offers baseball and softball opportunities for boys and girls aged 4-16.
+Events
+_
++
+May
+16
+06:30PM
+Twins - R @ Royals - R
+BCLL Little League - Bubba Harding Inspirational Challenger field
+May
+16
+06:30PM
+Reds @ Tigers
+BCLL Little League - Field 4
+May
+16
+06:30PM
+Red Sox @ Rays - AAA
+BCLL Little League - Field 2
+May
+16
+06:30PM
+Marlins @ Athletics
+BCLL Little League - Field 3
+May
+17
+06:00PM
+Braves - Majors @ Brewers
+BCLL Little League - Field 3
+May
+17
+06:30PM
+Yankees - Majors @ Blue Jays
+BCLL Little League - Field 2
+May
+17
+06:30PM
+Astros @ Dodgers
+Crest Street Park - Field 1
+May
+17
+06:30PM
+Ponytail Express @ Bull City Sluggers
+BCLL Little League - Bubba Harding Inspirational Challenger field
+May
+17
+06:30PM
+Pirates - R @ Rockies - R
+Valley Springs Park - Field 1
+May
+17
+06:30PM
+Angels @ Giants
+BCLL Little League - Field 4
+View All
+Social
+_
++
+Facebook
+Field Status
+_
++
+Alston Ridge Middle School
+Updated:03.31.2022 09:49AM
+Field 1
+Collins Park
+Updated:04.07.2022 10:07AM
+Field 1
+Rock Athletic Complex
+Updated:04.15.2022 10:44AM
+Field 1
+Field 2
+Herndon Park
+Updated:05.02.2022 09:08PM
+Field 1
+Field 2
+Githens Middle School
+Updated:05.25.2022 01:22PM
+Field 1
+Northwood High School
+Updated:04.20.2023 10:14AM
+Field 1
+Whippoorwill Park
+Updated:05.08.2024 10:21AM
+Field 1
+Field 2
+Valley Springs Park
+Updated:05.14.2024 04:27PM
+Field 1
+Field 2
+Field 3
+View All
+Highlights
+_
++
+Sponsors
+<
+>
+Site Links
+Our Staff
+BCLL FAQs
+BCLL All Stars
+Volunteer
+BCLL News
+Division Primer
+BCLL Local Rules
+Fall vs. Spring
+Bat standards
+District finder
+Pitch Smart
+Bull City Little League
+PO Box 71181
+Durham, North Carolina 27722
+Email :
+[email protected]
+Copyright © 2024 Bull City Little League
+|
+Privacy Policy
+|
+Terms of Use
+|
+License Agreement
+|
+Children's Privacy Policy
+Log In
+Our terms now include the
+License Agreement
+. By continuing to use our Services you agree to all terms.

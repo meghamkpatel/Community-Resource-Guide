@@ -1,0 +1,118 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'name': 'description', 'content': 'The National Humanities Center is a national resource devoted to advancing significant humanistic study.'}
+{'name': 'robots', 'content': 'follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Homepage | National Humanities Center'}
+{'property': 'og:description', 'content': 'The National Humanities Center is a national resource devoted to advancing significant humanistic study.'}
+{'property': 'og:url', 'content': 'https://nationalhumanitiescenter.org/'}
+{'property': 'og:site_name', 'content': 'nationalhumanitiescenter.org'}
+{'property': 'og:updated_time', 'content': '2024-05-14T12:23:10-04:00'}
+{'property': 'og:image', 'content': 'https://nationalhumanitiescenter.org/wp-content/uploads/2021/04/nhc-front-1200x630-1.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://nationalhumanitiescenter.org/wp-content/uploads/2021/04/nhc-front-1200x630-1.jpg'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '630'}
+{'property': 'og:image:alt', 'content': 'Homepage'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'property': 'article:published_time', 'content': '2019-07-31T13:24:07-04:00'}
+{'property': 'article:modified_time', 'content': '2024-05-14T12:23:10-04:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Homepage | National Humanities Center'}
+{'name': 'twitter:description', 'content': 'The National Humanities Center is a national resource devoted to advancing significant humanistic study.'}
+{'name': 'twitter:site', 'content': '@NatlHumanities'}
+{'name': 'twitter:creator', 'content': '@NatlHumanities'}
+{'name': 'twitter:image', 'content': 'https://nationalhumanitiescenter.org/wp-content/uploads/2021/04/nhc-front-1200x630-1.jpg'}
+{'name': 'google-site-verification', 'content': 'ArlMaFMSFkttNuxylAEO1X_3vhSbrI1BAMnP2Jj6hpI'}
+{'name': 'generator', 'content': 'WordPress 6.4.4'}
+
+Body Text:
+Homepage | National Humanities Center
+page
+Search for:
+PROGRAMS
+PROGRAMS
+Scholarly Programs
+Humanities in Class: Resources for Educators
+Institutional Sponsorships
+Public Programs and Events
+RESOURCES
+RESOURCES
+Books by Fellows
+Featured Research
+Humanities in Class: Resources for Educators
+Humanities in Action
+Humanities Moments
+Podcasts
+Public Events
+Videos
+PEOPLE
+PEOPLE
+Current Fellows
+Fellows of the Center, 1978–2023
+National Humanities Leadership Council
+President and Director
+Staff
+Summer Residents
+Teacher Advisory Council
+Trustees
+ABOUT US
+ABOUT US
+Who We Are
+News from the Center
+For the Media
+Careers
+SEARCH
+SEARCH
+Search Our Site
+Search All Fellows
+SEARCH
+SUPPORT US
+Trustee Portal
+Contact Us
+Group
+Created with Sketch.
+Accounting for the Human Element
+“Science can tell us what is possible, but not what goals and values we should seek.” | Science, Technology, and the National Humanities Center
+Read More
+NHC Names New Vice President for Scholarly Programs
+Martha M. F. Kelly comes to the Center from the University of Missouri
+Read More
+Featured Research: Balancing the Scales
+Highlighting 2023–24 Fellows who are considering the pursuit of justice, both criminal and social, in a variety of contexts and through diverse means
+Read More
+Accounting for the Human Element
+“Science can tell us what is possible, but not what goals and values we should seek.” | Science, Technology, and the National Humanities Center
+Read More
+NHC Names New Vice President for Scholarly Programs
+Martha M. F. Kelly comes to the Center from the University of Missouri
+Read More
+Featured Research: Balancing the Scales
+Highlighting 2023–24 Fellows who are considering the pursuit of justice, both criminal and social, in a variety of contexts and through diverse means
+Read More
+<
+>
+NHC President’s Statement on Israel and Hamas
+The National Humanities Center joins much of the world in condemning the ruthless October 7th incursion into Israel by Hamas. That this murderous rampage occurred, not in the occupied West Bank, but was visited upon peaceful citizens in unoccupied territory, renders this act even more senseless. The brutal hostage taking of innocent people, including young children and the elderly, is both barbaric and cynical. We also recognize that zealotry must not be met with equivalent zealotry if the cycle of violence in this fraught region is ever to cease. While we understand Israel’s right to defend itself against such atrocious hostility, we also hope this might be an opportunity to pursue justice and self-determination for the Palestinian people and to rectify the turn toward anti-democratic policies that only exacerbate inequities and distrust. The humanities always have fostered a culture of healthy, respectful debate which seeks to bring disparate perspectives into conversation and reconciliation. We urge the warring parties and their interlocutors to adopt this broader attitude so that violence and hate can be converted to concord and equanimity.
+–Robert D. Newman, President and Director, National Humanities Center
+Who We Are
+The National Humanities Center is unique: a free standing national resource devoted to advancing significant humanistic study and reflection and to making those insights available both inside and outside the academic world.
+Learn More ›
+Featured Research
+Fellows at the National Humanities Center explore a diverse array of topics, touching on people, events, and ideas across time and geography. Here you'll find them sharing a little about how they were inspired to pursue their subjects, the insights they've gained, and how their work contributes to their disciplines and to our understanding of the human experience.
+Read More ›
+What Are the Humanities?
+Humanities research adds to our knowledge of the world, as scholars investigate differences between cultures and communities around the world and across time, consider the ways art is made and received, or unveil the undercurrents that have shaped history.
+Learn More ›
+Path Copy 2
+Created with Sketch.
+Path Copy
+Created with Sketch.
+Shape Copy
+Created with Sketch.
+Shape Copy 2
+Created with Sketch.
+© 2024 National Humanities Center.
+All Rights Reserved.

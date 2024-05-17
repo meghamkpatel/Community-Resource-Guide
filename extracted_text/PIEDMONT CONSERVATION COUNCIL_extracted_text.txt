@@ -1,0 +1,41 @@
+Meta Information:
+{'name': 'generator', 'content': 'Hugo 0.85.0'}
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'Leveraging people and resources for innovative community projects.'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+
+Body Text:
+Piedmont Conservation Council
+Home
+Projects
+About
+Services
+Get
+					Involved
+Catch up on PCC's latest news
+Read our July 2020 Newsletter
+Dream
+Do you have an idea for a project in your community? Let us help you find funding,
+			plan, or
+			manage your project. What are you waiting for?
+Do
+We are always looking for Board Members, volunteers, vendors and all kinds of partners
+			to provide
+			services and support.
+Enjoy
+What's the whole point of an "innovative community project"? For it to be awesome! Keep
+			an eye on our events page to find out how you can reap the benefits of the work we do.
+Leveraging people and resources for innovative community projects
+Serving Alamance, Caswell, Chatham, Durham, Guilford, Orange, Person, Randolph, Rockingham, and Wake
+				counties.
+Piedmont Conservation Council, Inc.
+201 E. Main Street, 5th Floor
+Durham, NC 27701
+484-554-4076
+Email:
+grace@piedmontconservation.org
+Get In Touch
+Name
+Email
+Message
+Submit

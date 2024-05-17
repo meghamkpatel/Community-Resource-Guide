@@ -1,0 +1,67 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '52ffd749-0086-4538-bf9f-ee2421e224a4'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '700271ee-50d9-42be-b5b3-1b462ff9ed29'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '586'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Chapel Hill | Holy Youth Christian Academy | Chapel Hill'}
+{'property': 'og:url', 'content': 'https://www.holyyouthchristianacademy.org'}
+{'property': 'og:site_name', 'content': 'website-1-new'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Chapel Hill | Holy Youth Christian Academy | Chapel Hill'}
+
+Body Text:
+Chapel Hill | Holy Youth Christian Academy | Chapel Hill
+top of page
+Call Us!
+(984) 234-0077
+info@holyyouthacademy.com
+Home
+About HYCA
+What is HYCA?
+Who are the Holy Youth?
+Vision & Beliefs
+Admissions
+Curriculum
+Hymns
+Parents
+Calendar
+School Supplies
+Uniforms
+Transportation
+Scholarships
+Support Us
+Contact Us
+More
+Use tab to navigate through the menu items.
+Train up a child in the way he should go, and when he is old he will not depart from it.
+Proverbs 26:6
+WHO WE ARE
+Clergy, teachers, parents and volunteers serving Christ's children by providing religious and academic instruction to foster healthy Christian growth in the Orthodox tradition.
+ABOUT HYCA
+WHAT WE DO
+Guiding each student in their journey to become a disciple of Jesus Christ and a leader in their community by nurturing their spiritual, intellectual, emotional, social, and physical development.
+VISION & BELIEFS
+COME AND SEE
+Contact us today and schedule a tour to explore the wonders of an academically rigorous education coupled with a spiritually rich ideology grounded in Orthodox Christian values and traditions.
+CONTACT US
+Then the king interviewed them, and among them all none was found like Daniel, Hananiah, Mishael, and Azariah...
+​
+​
+THREE HOLY YOUTH
+"We are committed to supporting each child on their journey to become a disciple of Jesus Christ and a leader in their community."
+LEARN MORE
+APPLY TODAY
+SUPPORT US
+info@holyyouthacademy.com
++1(984) 234 -0077
+287 Old Lystra Rd, Chapel Hill, NC 27517, USA
+©2017 by Holy Youth Academy. Created with Wix.com
+bottom of page

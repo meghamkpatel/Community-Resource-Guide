@@ -1,0 +1,122 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'e1ad26a6-37a1-4e74-84e8-298e50c5aac2'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '440569b7-90a8-49e0-9722-10d423fd80a7'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '631'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Services schedule, articles and announcements from the St. John and AA Raphael Coptic Orthodox Church in Chapel Hill '}
+{'property': 'og:title', 'content': 'St. John and AA Raphael Coptic Orthodox Church | Chapel Hill'}
+{'property': 'og:description', 'content': 'Services schedule, articles and announcements from the St. John and AA Raphael Coptic Orthodox Church in Chapel Hill '}
+{'property': 'og:url', 'content': 'https://www.chapelhillcoptic.com'}
+{'property': 'og:site_name', 'content': 'St. John church'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'E7_9DsxpN8YxZLKep_O2EfQJ4MstuGOlE6a1XmRXirg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'St. John and AA Raphael Coptic Orthodox Church | Chapel Hill'}
+{'name': 'twitter:description', 'content': 'Services schedule, articles and announcements from the St. John and AA Raphael Coptic Orthodox Church in Chapel Hill '}
+
+Body Text:
+St. John and AA Raphael Coptic Orthodox Church | Chapel Hill
+top of page
+Home
+Live streaming
+About Us
+Calendar
+Feasts & Fasts
+Library
+Photo Library
+Church Services
+Curriculum
+Summer Camp 2024
+Contact Us
+Welcome to
+Archangel Raphael
+and Saint John the Beloved
+Coptic Orthodox Church
+Chapel Hill, NC
+Live Streaming
+Maranatha Radio Station
+[1 John 1:5]
+Latest News
+July 8, 2024 at 4:00:00 PM
+Reminder for Summer Camp 2024 Information
+Summer Camp will be
+Monday to Friday From 9:00am to 3:00pm
+Stating From Monday, July 8th till Wednesday, July 31st, 2024
+Early- Birds Registration ( From March 24th to April 28th)
+Fall Camp
+1st kid : $300 + $120 transportation   Any other siblings  : $260 + $80 transportation
+Weekly
+1st kid : $90+ $40 transportation   Any other siblings  : $80 + $30 transportation
+Regular Registration ( From May 5th to May 26th )
+Fall Camp
+1st kid : $320 + $120 transportation   Any other siblings  : $280 + $80 transportation
+Weekly
+1st kid : $100+ $40 transportation   Any other siblings  : $90 + $30 transportation
+Late Registration ( After May 26th)
+Fall Camp
+1st kid : $400 + $120 transportation   Any other siblings  : $380 + $100 transportation
+Weekly
+1st kid : $130+ $70 transportation   Any other siblings  : $110 + $60 transportation
+Payments Method              طريقة الدفع
+-        Cash or Check               نقدا أو بشيك
+-        Please give your payment (cash or check)  يرجى إعطاء الشيك او الفلوس
+to  "Mina Nashed"    إلى مينا ناشد
+-        Check Details:   تفاصيل الشيك
+o   Pay to:  AA Raphael and St John Church
+o   Memo: Summer Camp 2024
+May 19, 2024 at 3:45:00 PM
+Condolences
+Mrs. Monira Nicola has departed to heaven in Egypt. She is the mother of Monica Abdelmalek and future mother-in-law of Bishoy Hanna.
+May the Lord repose her soul, comfort the family, and may her memory be eternal.
+Monica and Bishoy will be taking condolences on Sunday May 19th immediately after the liturgy.
+February 4, 2024 at 4:45:00 PM
+Condolences
+Mr. Ramzy Abdelshid Gawargy has departed to the Lord in Egypt. He is the father of Mr. Maged Gawargy , the father-in-law of Mrs. Nancy Gawargy and the grandfather of Romina, Ogeny, Aghapy, and Rapheal Gawargy . May the Lord repose his soul, comfort the family, and may his memory be eternal.
+The family will accept condolences this Sunday at Archangel Raphael & St John the Beloved in Chapel Hill immediately after the Divine Liturgy.
+Ho-
+pe
+“God is light and in Him is no darkness at all...”
+Upcoming Events
+Help Those In Need
+“He who has pity on the poor lends to the Lord,
+And He will pay back what he has given.”
+[Proverbs 19:17]
+GI-
+VE
+Archangel Raphael and Saint John the Beloved
+Coptic Orthodox Church
+​
+(919) 929-1591
+webmaster@chapelhillcoptic.com
+​
+​
+​
+615 Old Lystra Road,
+Chapel Hill, NC 27517
+​
+P.O. Box 347, Chapel Hill, NC 27514
+​
+​
+Quik Links
+​
+Home
+​
+Live streaming
+About Us
+Subscribe
+Calendar
+​
+Library
+Church services
+Contact us
+©2021 by Archangel Raphael and Saint John the Beloved Coptic Orthodox Church.
+Proudly created with
+wix.com
+bottom of page

@@ -1,0 +1,178 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1,user-scalable=no'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'is a non-profit, non-partisan think tank. Our team of attorneys, advocates and allies take on some of the biggest legal, social and ethical justice-reform issues today. Our goal is simple: help shed light on the obstacles preventing our justice system from being just.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Interrogating Justice: Shedding Light on Government Accountability, Sentencing Fairness, Reentry & Justice For All.'}
+{'property': 'og:description', 'content': 'is a non-profit, non-partisan think tank. Our team of attorneys, advocates and allies take on some of the biggest legal, social and ethical justice-reform issues today. Our goal is simple: help shed light on the obstacles preventing our justice system from being just.'}
+{'property': 'og:url', 'content': 'https://interrogatingjustice.org/'}
+{'property': 'og:site_name', 'content': 'Interrogating Justice'}
+{'property': 'article:modified_time', 'content': '2023-03-07T16:02:19+00:00'}
+{'property': 'og:image', 'content': 'https://interrogatingjustice.org/wp-content/uploads/2021/03/PNG-image.png'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '628'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.126.0'}
+{'name': 'generator', 'content': 'Powered by WPBakery Page Builder - drag and drop page builder for WordPress.'}
+{'name': 'msapplication-TileImage', 'content': 'https://interrogatingjustice.org/wp-content/uploads/2022/06/ij-icon-3.png'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+{'itemprop': 'interactionCount', 'content': 'UserComments:0'}
+
+Body Text:
+Interrogating Justice: Shedding Light on Government Accountability, Sentencing Fairness, Reentry & Justice For All.
+Home
+About
+Work With Us
+Volunteer
+Issues
+Governmental Accountability
+Fairness in Sentencing
+Emphasis On Reentry
+Access to Justice for All
+Our Work
+Analyses
+Fact Sheets
+White Papers
+Newsletter
+Justice Impacted Podcast
+Contact
+Search for:
+Search Button
+Home
+About
+Work With Us
+Volunteer
+Issues
+Governmental Accountability
+Fairness in Sentencing
+Emphasis On Reentry
+Access to Justice for All
+Our Work
+Analyses
+Fact Sheets
+White Papers
+Newsletter
+Justice Impacted Podcast
+Contact
+Search for:
+Search Button
+Last year, Interrogating Justice helped over 400,000 people gain access to the information they need to protect their rights and provided them with resources to successfully reintegrate post incarceration.
+Please don't let this good work stop.
+We hit our big goals in 2022.
+Will you help us hit them again in 2023?
+Donate Today
+Your donation will help us continue to educate justice-impacted individuals about the law and how to protect the rights that they are entitled to under it.
+Donate
+Latest News
+08
+May
+Can You Sue the State for Wrongful Imprisonment? Exploring Legal Options
+LegalScoops
+08
+May
+Restrictive Housing Practices Statement of Work
+The Federal BOP
+08
+May
+Man Dies in Federal Prison in Littleton, Second Prisoner Hospitalized
+The Denver Post
+08
+May
+Second Chance Pell Program and Expanding Access for Incarcerated Students
+The Mellon Foundation
+05
+May
+Time for new emphasis on prosecutorial oversight
+Massachusetts Lawyers Weekly
+05
+May
+When a Prison Sentence Becomes a Death Sentence
+The NPR
+05
+May
+The Issues
+The Innocence Project
+05
+May
+Innocence and the Death Penalty
+The Innocence Project
+05
+May
+New Missouri Department of Correction Policy and 2021 Legislation Leads to Improved Health for Incarcerated Women
+The Missouri Times
+Interrogating Justice
+and
+How to Justice
+are two parts of the same organization.
+How to Justice
+aims to make the justice system easier to understand through its Justice System User Manual and easier to use through its Resources Directory.
+Interrogating Justice
+aims to help more Americans understand how the justice system is falling short through legal analyses and investigative reporting by attorneys, advocates and allies.
+Governmental Accountability
+A Plain Language Summary for Pro Se Litigants (and Everyone)
+A handful of judges have started including a plain language summary in cases involving pro se litigants. Why shouldn’t they always do it?
+Fairness in Sentencing
+CRT Fearmongering Makes Its Way Into The Justice System
+We hear people feaermongering about critical race theory, or CRT, in classrooms almost everyday. Apparently CRT is in the justice system too.
+Governmental Accountability
+Another Update: USP Tucson Avoids Oversight Month Later
+It’s been a month since we published our original story on the gun incident at USP Tucson. Accountability still seems impossible.
+Death Sentences
+The Way We Talk About Firing Squads In This Country
+There are currently conversations about firing squads taking place all over the United States — except for in courtrooms.
+Tweets by IJThinkTank
+GOVERNMENTAL ACCOUNTABILITY
+The U.S. Constitution guarantees everyone the right to a fair trial and the right to be free from cruel and unusual punishment. But these constitutional rights are meaningless if prosecutors, judges and prisons aren’t held accountable for wrongdoing.
+Continue Reading
+FAIRNESS IN SENTENCING
+With 25% of the world’s prison population, the U.S. has one of the world’s worst mass-incarceration problems. There are many ways to end mass incarceration. But taking steps to end the unfair sentencing practices that created the problem is crucial.
+Continue Reading
+EMPHASIS ON REENTRY
+More than half a million people are released from prison every year. But three-quarters of them end up back in prison. Ending this cycle means creating and supporting in-prison programs that focus on the skills necessary for a successful reentry.
+Continue Reading
+ACCESS TO JUSTICE FOR ALL
+“EQUAL JUSTICE UNDER LAW.” That phrase is engraved above the front entrance to the United States Supreme Court. But the concept is often missing from U.S. criminal justice system. Equal access to justice is essential to a fair and just legal system.
+Continue Reading
+Work with Us
+Interrogating Justice
+seeks to shed light on the obstacles preventing our justice system from being just. Our team of attorneys, advocates and allies reflect those values.
+SEE OPPORTUNITIES
+Latest Posts
+Can You Sue the State for Wrongful Imprisonment? Exploring Legal Options
+...
+Restrictive Housing Practices Statement of Work
+...
+Man Dies in Federal Prison in Littleton, Second Prisoner Hospitalized
+...
+Second Chance Pell Program and Expanding Access for Incarcerated Students
+...
+Time for new emphasis on prosecutorial oversight
+...
+When a Prison Sentence Becomes a Death Sentence
+...
+View all Posts
+11 South 12th Street
+Richmond, Virginia 23219, US
+How to Justice
+is a non-profit group that seeks to raise up justice-impacted people. Its goal? Provide easy-to-read answers to your questions about your rights before, during and after prison.
+Visit How to Justice
+DONATE
+Interrogating Justice
+© 2021 / All Rights Reserved
+Privacy Policy
+|
+Terms Of Use
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.
+Agree
+Privacy policy

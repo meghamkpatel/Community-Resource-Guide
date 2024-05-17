@@ -1,0 +1,137 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'aa5a1a1e-5b35-4834-9527-0ca7cf229fa7'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '991d15fa-99be-4e67-b954-a83cd271623e'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '3843'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Bengali Group(BANC) in RTP region celebrating notable festivals and events.'}
+{'property': 'og:title', 'content': 'Home | BANC'}
+{'property': 'og:description', 'content': 'Bengali Group(BANC) in RTP region celebrating notable festivals and events.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/5574a3_b9268732f01a4d17a4478d2a0b27baa2%7Emv2.png/v1/fit/w_2500,h_1330,al_c/5574a3_b9268732f01a4d17a4478d2a0b27baa2%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.banc-online.org'}
+{'property': 'og:site_name', 'content': 'BANC'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'GmQ0G_Q6pJGlvXF9ZqSl77CFPKKFqEX1ff_qQ3v31Hc'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | BANC'}
+{'name': 'twitter:description', 'content': 'Bengali Group(BANC) in RTP region celebrating notable festivals and events.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/5574a3_b9268732f01a4d17a4478d2a0b27baa2%7Emv2.png/v1/fit/w_2500,h_1330,al_c/5574a3_b9268732f01a4d17a4478d2a0b27baa2%7Emv2.png'}
+
+Body Text:
+Home | BANC
+top of page
+Login
+Home
+Activities
+Saraswati Puja
+Dol Purnima / Holi
+Noboborsho
+Rabindra Nazrul Jayanti
+Annual Picnic
+Durga Puja
+Publications
+About Us
+Meet The Board
+Contact Us
+Constitution
+By-Laws
+BANC Incorporation
+Membership
+Membership Rates and Payments
+Membership Renewal /Update/New
+Sponsorships & Donations
+FAQ
+Resources
+Local Links -RTP AND Surrounding Areas
+Robibar Bangla School
+BANC
+Bengali Association of North Carolina
+Please use a laptop or desktop machine for the best user experience
+WELCOME TO BANC
+A 501(C)(3) ORGANIZATION, THE OFFICIAL WEBSITE OF BENGALI ASSOCIATION OF NORTH CAROLINA
+Bengali Association of North Carolina (BANC) is a cultural, charitable, social, nonprofit organization dedicated to promoting Bengali culture, education, and social activities in and around the state of North Carolina. We welcome everybody interested in our culture and heritage to join us. Membership is open to any individual who subscribes to BANC's mission. We
+pride ourselves in the rich cultural, social, and networking experience we provide for the member families that call this part of the world their home.
+Become a Member
+Read more
+COMPLIMENTS FROM
+Lune Spark LLC
+About this person
+[Sponsor Name]
+About this person
+[Sponsor Name]
+About this person
+[Sponsor Name]
+About this person
+BANC Events
+Saraswati Puja
+Dol Purnima / Holi
+Noboborsho
+Feb 17, 2024
+HSNC Hindu Temple, 309 Aviation Pkwy, Morrisville, NC 27560.
+Enroll Now
+Rabindra-Nazrul Jayanti
+Annual Picnic
+Durga Puja
+Ready to join BANC now?
+BANC MEMBER BENEFITS
+BANC membership has several benefits. Membership fees help BANC organize a variety of high-quality programs and events for the community.
+BANC Cultural Events
+​
+Cultural programs are at the heart of our hallmark events:
+Durga Puja,
+Rabindra-Nazrul Jayanti
+,
+Dol
+,
+Noboborsho
+and
+Saraswati Puja.
+​
+These are wonderful occasions to showcase budding talent, immerse in our culture,
+and acquire an enriching
+experience. Participation and performances are exclusively for our member families, age no bar.
+​
+BANC Annual Magazine (Diganta)
+​
+Members have the opportunity to contribute articles and artwork to our annual publication: Diganta, as well as serve on the Diganta Editorial Board. Diganta is our attempt to give flight to the creativity within us, celebrate our accomplishments, create a cultural network, and provide resources for our members.
+​
+An intrinsic part of Diganta is an updated Member Directory that has a listing of our members and their contacts. Over the years, the directory has become a valuable resource for getting to know each other in the community!
+​
+Members receive a complimentary copy of Diganta at Durga Puja.
+​
+Annual Picnic
+​
+Members participate in this summer tradition- our annual picnic at one of the many scenic recreational parks in the Triangle. Spend a lazy day with authentic “bangali” jhaal muri, puchka, lots of grilled veggies, fish, and meat… and yes, desserts and fruits! There is awesome food, sports for kids and adults, music, prizes…. and oh, did we mention food??
+​
+This is a gathering that happens once a year and involves fun, fun, and only fun – for our members!
+​
+BANC Committees
+​
+An opportunity to both lead and serve this wonderful community at the same time! BANC members can serve on one of several committees: Executive, Election, Constitution, and various Sub Committees. In addition, our General Body meetings are open only to our members. Members also receive financial updates on a regular basis.
+​
+Our rules for serving in a leadership role are outlined in our
+Constitution
+and
+By-laws
+.
+​
+Discounted Subscription Rates
+​
+Members get discounted rates for both Durga Puja and Saraswati Puja. Have a small business? Looking to attract new clientele? Members get discounted rates for setting up stalls and banners to promote their business during BANC events.
+​
+Lead and Change
+​
+As an organization, we are intrinsically connected with several other community organizations that serve the Asian community in the Triangle and beyond. BANC serves as the voice of the Triangle Bengali Community and represents its membership. We often participate in large showcases that provide a glimpse of vibrant and multicultural India to the local community. We are as strong and as diverse as our members- WE are YOU.
+© 2024 by BANC,
+For Questions /
+Contact us at
+bancexec@banc-online.org
+bottom of page

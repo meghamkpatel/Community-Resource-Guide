@@ -1,0 +1,59 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0'}
+{'name': 'description', 'content': 'The Champ Foundation supports research toward better treatment and a cure for Pearson Syndrome.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'The Champ Foundation'}
+{'property': 'og:description', 'content': 'The Champ Foundation supports research toward better treatment and a cure for Pearson Syndrome.'}
+{'property': 'og:url', 'content': 'http://www.thechampfoundation.org/'}
+{'property': 'og:site_name', 'content': 'The Champ Foundation'}
+{'name': 'msapplication-TileColor', 'content': '#f4f4f4'}
+{'name': 'msapplication-TileImage', 'content': './favicon/mstile-144x144.png'}
+{'name': 'msapplication-config', 'content': './favicon/browserconfig.xml'}
+{'name': 'theme-color', 'content': '#ffffff'}
+
+Body Text:
+The Champ Foundation
+CFR Registry Here
+Donate
+Research
+Registry
+Newly Diagnosed
+More Champs
+William's Blog
+Gallery
+Board
+Contact
+Donate
+Research
+Registry
+Newly Diagnosed
+More Champs
+William's Blog
+Gallery
+Board
+Contact
+Donate
+Donate
+Mission
+The Champ Foundation supports research toward better treatment and a cure for single
+            large-scale mitochondrial deletion syndromes (SLSMDS), like Pearson syndrome.
+What is Pearson Syndrome?
+Pearson Syndrome (PS) is a multi-system disease caused by a deletion in
+						mitochondrial DNA. The hallmark features are sideroblastic anemia and
+						pancreatic insufficiency. PS is often fatal in infancy. In addition to
+						the hematological and pancreatic symptoms, PS can impair the heart,
+						kidneys, eyes, ears and brain. Survivors develop Kearns-Sayre Syndrome.
+Since its discovery in 1979 by Howard Pearson, there have only been
+						around 100 cases reported in the medical literature.  PS is probably
+						under-diagnosed, since few doctors are aware of the disease’s existence,
+						much less its symptoms.
+The Champ Foundation was founded in 2015 in honor of William Reynolds, who was diagnosed
+            with Pearson Syndrome when he was two months old. William was severely anemic and
+            neutropenic for his first year, requiring many red blood transfusions. After a period of
+            relatively stable health, William developed myelodysplastic syndrome (MDS) and required
+            a bone marrow transplant when he was four. William was not the first child with Pearson
+            Syndrome to receive a secondary diagnosis of MDS. More research and a better
+            understanding of this disease is still needed. The Champ Foundation is committed to
+            supporting this research.

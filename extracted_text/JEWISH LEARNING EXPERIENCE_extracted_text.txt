@@ -1,0 +1,7 @@
+Meta Information:
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+
+Body Text:
+Database Error
+Error establishing a database connection

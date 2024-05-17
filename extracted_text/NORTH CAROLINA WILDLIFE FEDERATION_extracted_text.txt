@@ -1,0 +1,661 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - North Carolina Wildlife Federation'}
+{'property': 'og:description', 'content': 'Endangered North Carolina Wildlife Endangered NC Species Remembering Extinct NC Species NCWF has been protecting, conserving and restoring North Carolina wildlife and habitat since 1945. Since 1945, North Carolina Wildlife…'}
+{'property': 'og:url', 'content': 'https://ncwf.org/'}
+{'property': 'og:site_name', 'content': 'North Carolina Wildlife Federation'}
+{'property': 'og:updated_time', 'content': '2024-04-30T15:29:21-04:00'}
+{'property': 'og:image', 'content': 'https://ncwf.org/wp-content/uploads/ms-icon-310x310.png'}
+{'property': 'og:image:secure_url', 'content': 'https://ncwf.org/wp-content/uploads/ms-icon-310x310.png'}
+{'property': 'og:image:width', 'content': '310'}
+{'property': 'og:image:height', 'content': '310'}
+{'property': 'og:image:alt', 'content': 'North Carolina Wildlife Federation'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'property': 'article:published_time', 'content': '2020-03-12T13:39:01-04:00'}
+{'property': 'article:modified_time', 'content': '2024-04-30T15:29:21-04:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home - North Carolina Wildlife Federation'}
+{'name': 'twitter:description', 'content': 'Endangered North Carolina Wildlife Endangered NC Species Remembering Extinct NC Species NCWF has been protecting, conserving and restoring North Carolina wildlife and habitat since 1945. Since 1945, North Carolina Wildlife…'}
+{'name': 'twitter:site', 'content': '@NCWF'}
+{'name': 'twitter:creator', 'content': '@NCWF'}
+{'name': 'twitter:image', 'content': 'https://ncwf.org/wp-content/uploads/ms-icon-310x310.png'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'North Carolina Wildlife Federation'}
+{'name': 'twitter:label2', 'content': 'Time to read'}
+{'name': 'twitter:data2', 'content': '2 minutes'}
+{'name': 'google-site-verification', 'content': 'dPBJ8R_d47ygrOE8Bdwj7Mfloye6hk1qvSG8rQLjf7I'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://ncwf.org'}
+{'name': 'msapplication-TileImage', 'content': 'https://ncwf.org/wp-content/uploads/cropped-ncwf-wp-site-icon-512x512-1-270x270.gif'}
+{'name': 'google-site-verification', 'content': 'tbgWJsWNfWnbrGprrmlljzsDnQot2EOuS0U0lYAoQQM'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'msapplication-TileImage', 'content': '/wp-content/uploads/ms-icon-144x144.png'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28484', 'content': 'The Fight for Wetlands Protections: NCWF and other conservation groups move to defend remaining federal wetlands protections from attack'}
+{'itemprop': 'datePublished', 'content': '2024-05-09'}
+{'itemprop': 'dateModified', 'content': '2024-05-09'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/waters.jpg'}
+{'itemprop': 'width', 'content': '1200'}
+{'itemprop': 'height', 'content': '600'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28411', 'content': 'Digging in the Dirt: April 2024 Chapter Highlights'}
+{'itemprop': 'datePublished', 'content': '2024-04-30'}
+{'itemprop': 'dateModified', 'content': '2024-05-01'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/Lincoln-Heights-Garden-Workday-April-2.png'}
+{'itemprop': 'width', 'content': '1200'}
+{'itemprop': 'height', 'content': '600'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28392', 'content': 'NCWF Scholarship Recipient Bailey Kephart Researches Federally Threatened Black Rails'}
+{'itemprop': 'datePublished', 'content': '2024-04-30'}
+{'itemprop': 'dateModified', 'content': '2024-05-06'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/Bailey-Kephart.jpg'}
+{'itemprop': 'width', 'content': '1200'}
+{'itemprop': 'height', 'content': '600'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28379', 'content': 'Passing By: Remembering Extinct Wildlife in North Carolina'}
+{'itemprop': 'datePublished', 'content': '2024-04-30'}
+{'itemprop': 'dateModified', 'content': '2024-05-15'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/extinct-species.jpg'}
+{'itemprop': 'width', 'content': '1200'}
+{'itemprop': 'height', 'content': '600'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3789', 'content': 'Butterfly Highway'}
+{'itemprop': 'datePublished', 'content': '2020-03-12'}
+{'itemprop': 'dateModified', 'content': '2024-01-23'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/northcarolinawildlifefederation/'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/ncwf-butterfly-highway-header.jpg'}
+{'itemprop': 'width', 'content': '1280'}
+{'itemprop': 'height', 'content': '720'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3787', 'content': 'Garden for Wildlife'}
+{'itemprop': 'datePublished', 'content': '2020-03-12'}
+{'itemprop': 'dateModified', 'content': '2021-12-03'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/northcarolinawildlifefederation/'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/gardening-for-wildlife.jpg'}
+{'itemprop': 'width', 'content': '1280'}
+{'itemprop': 'height', 'content': '720'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3804', 'content': 'Elk Restoration'}
+{'itemprop': 'datePublished', 'content': '2020-03-12'}
+{'itemprop': 'dateModified', 'content': '2022-08-02'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/northcarolinawildlifefederation/'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/elk-north-carolina.jpg'}
+{'itemprop': 'width', 'content': '1280'}
+{'itemprop': 'height', 'content': '720'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://3806', 'content': 'Red Wolf Education'}
+{'itemprop': 'datePublished', 'content': '2020-03-12'}
+{'itemprop': 'dateModified', 'content': '2023-12-12'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/northcarolinawildlifefederation/'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/nc-red-wolf-01.jpg'}
+{'itemprop': 'width', 'content': '1200'}
+{'itemprop': 'height', 'content': '900'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28004', 'content': 'Guided Bird Walk (Concord)'}
+{'itemprop': 'datePublished', 'content': '2024-03-06'}
+{'itemprop': 'dateModified', 'content': '2024-03-06'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/guidedbirdwalk2.png'}
+{'itemprop': 'width', 'content': '800'}
+{'itemprop': 'height', 'content': '600'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28496', 'content': 'Wildlife Friendly Community Garden Grand Opening (Apex)'}
+{'itemprop': 'datePublished', 'content': '2024-05-10'}
+{'itemprop': 'dateModified', 'content': '2024-05-10'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28476', 'content': 'Monarch Meet-Up! (Whiteville)'}
+{'itemprop': 'datePublished', 'content': '2024-05-09'}
+{'itemprop': 'dateModified', 'content': '2024-05-09'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/wp-content/uploads/monarch.jpg'}
+{'itemprop': 'width', 'content': '800'}
+{'itemprop': 'height', 'content': '600'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://28513', 'content': 'Purple Martin Nest Check (Apex)'}
+{'itemprop': 'datePublished', 'content': '2024-05-14'}
+{'itemprop': 'dateModified', 'content': '2024-05-14'}
+{'itemprop': 'name', 'content': 'North Carolina Wildlife Federation'}
+{'itemprop': 'url', 'content': 'https://ncwf.org/author/bwhitaker/'}
+{'itemprop': 'name', 'content': 'Bates Whitaker'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+
+Body Text:
+Home - North Carolina Wildlife Federation
+Skip to content
+Get Involved
+Get Involved with NCWF
+Get Email / Take Wildlife Action
+Join a Community Wildlife Chapter
+Join the Camo Coalition
+Calendar of Events
+Plant Native Seeds
+Become an Affiliate
+Events
+Membership & Giving
+Support NCWF
+Become a Member or Renew
+Become a Monthly Donor
+Join the Charlie Shaw Society
+Leave a Wildlife Legacy
+Stock, IRA, and Donor Advised Funds
+Other Ways to Give
+Join | Renew
+Donate
+Wildlife
+Elk
+Deer
+NCWF Deer Donation Program
+Red Wolf
+Prey for the Pack
+Marine Fisheries
+Pollinators
+Migratory Birds
+Heron
+Osprey
+Other Species
+Habitat
+Your Backyard
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access of Public Lands
+Wildlife Connectivity
+Our Work
+Conserving Wildlife
+Deer Management
+NCWF Deer Donation Program
+Elk Restoration
+Red Wolf Education
+Prey for the Pack
+Marine Fisheries
+Migratory Birds
+Pollinators
+Osprey Conservation
+Great Blue Heron Conservation
+Other Species
+Restoring Habitat
+Clean & Green: Habitat Restoration
+Butterfly Highway
+Native Pollinator Plants
+Perennial & Annual Flowers
+Trees
+Shrubs
+Grasses, Ferns & Sedges
+Vines
+Regional Native Plant List
+Garden for Wildlife
+Certified Wildlife Habitat
+FAITH
+Schoolyard Habitat
+WAIT
+Wildlife Friendly Development
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access
+Wildlife Connectivity
+Getting People Outside
+Community Wildlife Chapters
+Great Outdoors University (GoU)
+Women in Conservation
+Hunting and Angling
+Celebrating Conservation
+Governor’s Conservation Awards
+NC Conservation Hall of Fame
+Scholarships
+Photo Contest
+Conservation Policy
+Climate Resiliency
+Get Involved
+Events
+Membership & Giving
+News & Videos
+Sign Up for Email
+Blog
+In the News
+Videos and Webinars
+Archive of Videos & Webinars
+Journals
+About
+About NCWF
+Board Members
+NCWF Staff
+History
+Financials/Policy
+Careers
+Search
+Join | Renew
+Donate
+Wildlife
+Elk
+Deer
+NCWF Deer Donation Program
+Red Wolf
+Prey for the Pack
+Marine Fisheries
+Pollinators
+Migratory Birds
+Heron
+Osprey
+Other Species
+Habitat
+Your Backyard
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access of Public Lands
+Wildlife Connectivity
+Our Work
+Conserving Wildlife
+Deer Management
+NCWF Deer Donation Program
+Elk Restoration
+Red Wolf Education
+Prey for the Pack
+Marine Fisheries
+Migratory Birds
+Pollinators
+Osprey Conservation
+Great Blue Heron Conservation
+Other Species
+Restoring Habitat
+Clean & Green: Habitat Restoration
+Butterfly Highway
+Native Pollinator Plants
+Perennial & Annual Flowers
+Trees
+Shrubs
+Grasses, Ferns & Sedges
+Vines
+Regional Native Plant List
+Garden for Wildlife
+Certified Wildlife Habitat
+FAITH
+Schoolyard Habitat
+WAIT
+Wildlife Friendly Development
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access
+Wildlife Connectivity
+Getting People Outside
+Community Wildlife Chapters
+Great Outdoors University (GoU)
+Women in Conservation
+Hunting and Angling
+Celebrating Conservation
+Governor’s Conservation Awards
+NC Conservation Hall of Fame
+Scholarships
+Photo Contest
+Conservation Policy
+Climate Resiliency
+Get Involved
+Events
+Membership & Giving
+News & Videos
+Sign Up for Email
+Blog
+In the News
+Videos and Webinars
+Archive of Videos & Webinars
+Journals
+About
+About NCWF
+Board Members
+NCWF Staff
+History
+Financials/Policy
+Careers
+Menu
+Wildlife
+Elk
+Deer
+NCWF Deer Donation Program
+Red Wolf
+Prey for the Pack
+Marine Fisheries
+Pollinators
+Migratory Birds
+Heron
+Osprey
+Other Species
+Habitat
+Your Backyard
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access of Public Lands
+Wildlife Connectivity
+Our Work
+Conserving Wildlife
+Deer Management
+NCWF Deer Donation Program
+Elk Restoration
+Red Wolf Education
+Prey for the Pack
+Marine Fisheries
+Migratory Birds
+Pollinators
+Osprey Conservation
+Great Blue Heron Conservation
+Other Species
+Restoring Habitat
+Clean & Green: Habitat Restoration
+Butterfly Highway
+Native Pollinator Plants
+Perennial & Annual Flowers
+Trees
+Shrubs
+Grasses, Ferns & Sedges
+Vines
+Regional Native Plant List
+Garden for Wildlife
+Certified Wildlife Habitat
+FAITH
+Schoolyard Habitat
+WAIT
+Wildlife Friendly Development
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access
+Wildlife Connectivity
+Getting People Outside
+Community Wildlife Chapters
+Great Outdoors University (GoU)
+Women in Conservation
+Hunting and Angling
+Celebrating Conservation
+Governor’s Conservation Awards
+NC Conservation Hall of Fame
+Scholarships
+Photo Contest
+Conservation Policy
+Climate Resiliency
+Get Involved
+Events
+Membership & Giving
+News & Videos
+Sign Up for Email
+Blog
+In the News
+Videos and Webinars
+Archive of Videos & Webinars
+Journals
+About
+About NCWF
+Board Members
+NCWF Staff
+History
+Financials/Policy
+Careers
+Search
+Get Involved
+Get Involved with NCWF
+Get Email / Take Wildlife Action
+Join a Community Wildlife Chapter
+Join the Camo Coalition
+Calendar of Events
+Plant Native Seeds
+Become an Affiliate
+Events
+Membership & Giving
+Support NCWF
+Become a Member or Renew
+Become a Monthly Donor
+Join the Charlie Shaw Society
+Leave a Wildlife Legacy
+Stock, IRA, and Donor Advised Funds
+Other Ways to Give
+Join | Renew
+Donate
+Wildlife
+Elk
+Deer
+NCWF Deer Donation Program
+Red Wolf
+Prey for the Pack
+Marine Fisheries
+Pollinators
+Migratory Birds
+Heron
+Osprey
+Other Species
+Habitat
+Your Backyard
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access of Public Lands
+Wildlife Connectivity
+Our Work
+Conserving Wildlife
+Deer Management
+NCWF Deer Donation Program
+Elk Restoration
+Red Wolf Education
+Prey for the Pack
+Marine Fisheries
+Migratory Birds
+Pollinators
+Osprey Conservation
+Great Blue Heron Conservation
+Other Species
+Restoring Habitat
+Clean & Green: Habitat Restoration
+Butterfly Highway
+Native Pollinator Plants
+Perennial & Annual Flowers
+Trees
+Shrubs
+Grasses, Ferns & Sedges
+Vines
+Regional Native Plant List
+Garden for Wildlife
+Certified Wildlife Habitat
+FAITH
+Schoolyard Habitat
+WAIT
+Wildlife Friendly Development
+Native Fish Conservation Areas
+NC National Forests & Refuges
+NC Coast and Sounds
+Protection & Access
+Wildlife Connectivity
+Getting People Outside
+Community Wildlife Chapters
+Great Outdoors University (GoU)
+Women in Conservation
+Hunting and Angling
+Celebrating Conservation
+Governor’s Conservation Awards
+NC Conservation Hall of Fame
+Scholarships
+Photo Contest
+Conservation Policy
+Climate Resiliency
+Get Involved
+Events
+Membership & Giving
+News & Videos
+Sign Up for Email
+Blog
+In the News
+Videos and Webinars
+Archive of Videos & Webinars
+Journals
+About
+About NCWF
+Board Members
+NCWF Staff
+History
+Financials/Policy
+Careers
+Search
+Endangered North Carolina Wildlife
+Endangered NC Species
+Remembering Extinct NC Species
+NCWF has been protecting, conserving and restoring North Carolina wildlife and habitat since 1945.
+Since 1945, North Carolina Wildlife Federation has worked for all
+wildlife
+and
+habitat
+, bringing together conservationists, wildlife enthusiasts, hunters and anglers, government and industry to protect North Carolina’s natural resources. From the Great Smoky Mountains to the Outer Banks, NCWF is
+a diverse community of people
+who value wildlife and wild places and the many ways to enjoy them.
+Inshore bottom trawling for shrimp in North Carolina is a destructive, unsustainable fishing method that has a lasting effect on our environment. Our shallow sounds are in deep trouble.
+Help Save Our Sounds
+Explore Our Live Web Cams
+Wildlife and nature lovers can get a 24/7 glimpse into the life of a pair of
+captive red wolves
+at the Red Wolf Center in Columbia, N.C., located on Pocosin Lakes National Wildlife Refuge. Red wolves are rare and naturally shy, making it nearly impossible to view them in the wild. With one webcam in their den and the other in their outdoor enclosure, viewers can watch (and occasionally hear) the wolves anytime. An active
+osprey
+nest and a
+heron
+rookery are the stars of our other
+wildlife cams
+. Enjoy this rare opportunity to observe these amazing creatures up close and personal!
+Watch Osprey Cam
+Live Osprey Nest Cam
+Watch Heron Rookery
+Live Heron Rookery Cam
+Watch Red Wolf Den
+Live Red Wolf Den Cam
+Watch Red Wolf Enclosure
+Live Red Wolf Cam
+Explore the Work We're Doing
+Our Work
+Habitats
+Wildlife
+Web Cams
+Chapters
+Get Involved
+NCWF News & Blog
+The Fight for Wetlands Protections: NCWF and other conservation groups move to defend remaining federal wetlands protections from attack
+Digging in the Dirt: April 2024 Chapter Highlights
+NCWF Scholarship Recipient Bailey Kephart Researches Federally Threatened Black Rails
+Passing By: Remembering Extinct Wildlife in North Carolina
+NCWF Overall Impact by the Numbers
+15,211
+Certified Wildlife Habitats in NC
+35,000
+Acres of pollinator habitat restored
+106,000
+Youth and their families learned about nature
+300,000
+Venison meals distributed to food banks and pantries
+70
+Osprey platforms installed on Lake Norman
+282,000
+Pounds of litter removed
+2,100
+Volunteers restoring habitat
+9,000
+Trees and native pollinator plants planted
+North Carolina Wildlife & Habitat
+Butterfly Highway
+Garden for Wildlife
+Elk Restoration
+Red Wolf Education
+Join Us for an Upcoming Event
+May
+18
+Guided Bird Walk (Concord)
+May marks the tail end of spring migration as summer rapidly approaches. Many of our...
+Learn More
+about Guided Bird Walk (Concord)
+May
+18
+Wildlife Friendly Community Garden Grand Opening (Apex)
+Mark your calendars for the official grand opening of the Simple Gifts Community Garden at...
+Learn More
+about Wildlife Friendly Community Garden Grand Opening (Apex)
+May
+18
+Monarch Meet-Up! (Whiteville)
+The Southeastern Swamp Stewards are hosting the 3rd Annual Monarch Meet-up at Penn's Grill in...
+Learn More
+about Monarch Meet-Up! (Whiteville)
+May
+19
+Purple Martin Nest Check (Apex)
+The South Wake Conservationists invite you to join as they visit the Sugg Farm Purple...
+Learn More
+about Purple Martin Nest Check (Apex)
+View All Events
+Stay Connected
+Subscribe to our newsletter and stay up to date with NCWF events and conservation efforts.
+First Name
+*
+Last Name
+*
+Email
+*
+Email
+This field is for validation purposes and should be left unchanged.
+Contact Us
+Charlotte Office:
+1346 Saint Julien Street
+Charlotte, NC 28205
+Phone: (704) 332-5696
+Email:
+[email protected]
+Raleigh Office:
+1024 Washington St.
+Raleigh, NC 27605
+Phone: (919) 833-1923
+Connect With Us
+Careers at NCWF
+See our job listings and internship positions.
+© 2024 North Carolina Wildlife Federation  |
+Privacy Policy
+|
+Terms
+Scroll To Top

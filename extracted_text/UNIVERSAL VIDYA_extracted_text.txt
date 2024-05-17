@@ -1,0 +1,96 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'b9b09245-be5c-43c2-a5b2-3d6964ef652b'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '042c61de-d6a9-4e4e-a2ec-8e9de64f5127'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1478'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Universal Vidya is a e-learning platform built to empower students and put them in the drivers’ seats of their educational exploration.'}
+{'property': 'og:title', 'content': 'E-Learning | Universal Vidya'}
+{'property': 'og:description', 'content': 'Universal Vidya is a e-learning platform built to empower students and put them in the drivers’ seats of their educational exploration.'}
+{'property': 'og:url', 'content': 'https://www.universalvidya.org'}
+{'property': 'og:site_name', 'content': 'Universal Vidya'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'wLg4OW9SC8ZSfCsMnSoUwP1cgNz36PX40StuBXudxfU'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'E-Learning | Universal Vidya'}
+{'name': 'twitter:description', 'content': 'Universal Vidya is a e-learning platform built to empower students and put them in the drivers’ seats of their educational exploration.'}
+
+Body Text:
+E-Learning | Universal Vidya
+top of page
+team@universalvidya.org
+Log In
+Universal Vidya
+Knowledge in Everything
+Universal Vidya
+About
+Meet the Team
+Our Partners
+Our Advisors
+Join the Team
+Programs
+Scholarship
+Workshops
+Yearly Events
+School Supply Drive
+Schedule
+Shop
+Contact
+Feedback
+More
+Use tab to navigate through the menu items.
+Donate
+Universal Vidya
+501(c)(3) Approved Educational Nonprofit.
+Our motto, “Knowledge in Everything,” is the guiding principle behind everything we do at Universal Vidya. Made by students for students, Universal Vidya is an educational platform built on empowering students and putting them in the drivers’ seats of their educational exploration. We believe that Education is not solely confined to what we learn in the classroom, but also includes the life-skills and talents that we all need to thrive in the 21st century, such as learning how to file taxes and communication skills like conflict management in teams. We seek to inspire and amplify this kind of educational exploration, where life-time learning gives us the power to transform our lives and careers. With access to our free online platform, our students from around the globe will be able to do just that.
+Universal Vidya: Welcome
+Services
+School Supply Drive
+Scholarship
+Workshops
+Yearly Event
+YouTube Content - Tutorials
+Get in Touch
+Universal Vidya: What We Do
+Support Us
+Volunteer Your Time
+Help Us Soar
+Get in To...
+Make a Donation
+Show Your Support
+Get in To...
+Partner with Us
+Have an Impact
+Get in To...
+Feedback
+Share your insight
+Get in To...
+Contact
+Universal Vidya: Get Involved
+Journey
+Initiation and planning of Project - 2020
+AOC Registration - May 12, 2021
+AOC Registered/Approval - May 25, 2021
+501(c)(3) registration - September 14, 2021
+501(c)(3) status approval - December 15, 2021
+Budget
+$1000-2000 - Scholarship Program
+$100-200 - Yearly Event
+$100 - Other Programs/Projects
+$100 per facilitator - Total Depends - School Supply Drive
+Universal Vidya: Infographics
+We are a PVSA certified organization, meaning we can provide presidential volunteer service awards to eligible volunteers.
+Universal Vidya: Image
+Universal Vidya
+Subscribe Form
+Submit
+Thanks for submitting!
+team@universalvidya.org
+©2021 by Universal Vidya. Proudly created with Wix.com
+bottom of page

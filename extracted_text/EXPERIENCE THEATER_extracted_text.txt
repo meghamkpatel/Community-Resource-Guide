@@ -1,0 +1,104 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'a5ab17b9-68e4-4e2d-b90a-6e11d39bca40'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '384dea35-d680-44b0-b395-fa9daa0f1872'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '3943'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "Experience Theatre Project specializes in live performance in the heart of Beaverton with an emphasis on classic storytelling in untraditional spaces. Let's exchange the experience."}
+{'name': 'robots', 'content': 'index'}
+{'property': 'og:title', 'content': 'Experience Theatre Project '}
+{'property': 'og:description', 'content': "Innovative, immersive Theatre. Next up: The Queen's Feast June 8"}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/6a119029d68b4d27a2420752a133b2f2.jpg/v1/fill/w_2500,h_2225,al_c/6a119029d68b4d27a2420752a133b2f2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '2225'}
+{'property': 'og:url', 'content': 'https://www.experiencetheatreproject.org'}
+{'property': 'og:site_name', 'content': 'Experience Theatre '}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'fb_admins_meta_tag', 'content': 'experiencetp'}
+{'name': 'google-site-verification', 'content': 'oM084JGgXwjEKQUwhCcFdEfip74qSiXUazQ5YZpFlbM'}
+{'property': 'fb:admins', 'content': 'experiencetp'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Experience Theatre Project '}
+{'name': 'twitter:description', 'content': "Innovative, immersive Theatre. Next up: The Queen's Feast June 8"}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/6a119029d68b4d27a2420752a133b2f2.jpg/v1/fill/w_2500,h_2225,al_c/6a119029d68b4d27a2420752a133b2f2.jpg'}
+
+Body Text:
+Experience Theatre Project | Live Innovative Theatre | Oregon USA
+top of page
+DONATE to ETP
+User
+All donations are 100% tax deductible.
+HOME
+ETP ONLINE STORE
+GALLERY + PAST SHOWS
+ABOUT US
+PRESS
+OUR MISSION
+BOARD
+WORK WITH US
+VOLUNTEER
+AUDITIONS
+INTERNSHIPS
+SUBMIT A PLAY
+CALENDAR
+RENTALS
+CONTACT
+More
+Use tab to navigate through the menu items.
+BUY TICKETS
+Coming June 8, 2024
+Queen's Feast
+RETURN OF THE MONARCH
+An interactive Tudor Feast of Intrigue
+Butler Barn - 22242 SW Scholls Ferry Rd -
+​
+map
+​
+The Queen’s Feast is an interactive dining experience where guests can feel a part of a traditional Tudor feast with just a little dash of intrigue for the invited guests... are you a loyalist or a rebel?
+​
+Join us as we celebrate the amazing Queen Elizabeth I, preparing for her speech to the troops in Tilbury who are preparing to defend England from the Spanish Armada. Throughout the dinner, courses are presented theatrically, accompanied by a traditional madrigal song performed by a quartet of singers. Special guests like William Shakespeare and the Chamberlain's Men will perform his works in progress, a charming Renaissance band will strum away beautiful music of the time, and other exciting acts will take place for the pleasure of the court. But little do they know a sinister plot to unthrone the Queen is at hand. Will you help in the unseating or stand guard to protect the Crown?
+​
+Dining and non-dining options available
+The Importance of Being Earnest
+January, 2024
+The Rise of Houdini
+October, 2018
+The Rise of Houdini
+October, 2018
+The Importance of Being Earnest
+January, 2024
+1/59
+Let's Exchange the Experience
+Experience Theatre Project is an innovative, immersive theater company based in beautiful Beaverton, Oregon. We strive to create imaginative stories told in an innovative style. Our goal is to give you an experience, and a story that takes place all around you, not unlike a haunted house or a Disney experience.
+​
+Our experiences take place in unconventional  spaces, such as a storefront, lodge, or winery.  We pride ourselves in bringing together small groups of audiences to experience our shows, from Agatha Christie's The Mousetrap to original adaptations of Oscar Wilde and F. Scott Fitzgerald.
+Check out our past events on our
+GALLERY
+page.
+We are extremely proud of the productions we have under our belts, and the amazing talent of the designers, performers, and crew who worked so hard to make such amazing art.  Join our mailing list
+b
+elow
+to be first "in the know" for our upcoming projects!
+For private events, please email
+alisa@experiencetp.org
+or call us at 503.568.1765.
+To stay in the know
+Don't miss a beat! Join our mailing list to hear about our future shows, backstage scoop, promo codes, and so much more.
+Add Me To Your Email List
+Proud recipient of an operating grant from the Oregon Arts Commission, the Oregon Community Foundation, The Miller Foundation Ronni Lacroute, and the Autzen Family Foundation
+Experience Theatre Project
+A 501c3  Non-Profit Professional Theater Corporation
+Mailing Address:
+6107 SW Murray Blvd. #320
+Beaverton, Oregon 97008
+Tel. 503-568-1765
+Email:
+info@experiencetp.org
+© 2023 Experience Theatre Project. All rights reserved.
+bottom of page

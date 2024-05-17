@@ -1,0 +1,91 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'bf2bb010-d6df-49bf-bcb8-05f4aec5a5bc'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'b578afe9-9bcd-4550-bb32-06b7cf7eb8ff'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '443'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "William Parker's lab, WPLab Inc., studies the causes and prevention of chronic inflammation in high-income countries. Much of his recent work focuses on compelling evidence connecting acetaminophen (paracetamol) use and autism."}
+{'property': 'og:title', 'content': 'Home | Risks Of Acetaminoph'}
+{'property': 'og:description', 'content': "William Parker's lab, WPLab Inc., studies the causes and prevention of chronic inflammation in high-income countries. Much of his recent work focuses on compelling evidence connecting acetaminophen (paracetamol) use and autism."}
+{'property': 'og:url', 'content': 'https://www.wplaboratory.org'}
+{'property': 'og:site_name', 'content': 'Risks Of Acetaminoph'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': '_UEU0QcR76WygMj8_Xhq3phVVXGYGrq-sT-YB92e8PU'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | Risks Of Acetaminoph'}
+{'name': 'twitter:description', 'content': "William Parker's lab, WPLab Inc., studies the causes and prevention of chronic inflammation in high-income countries. Much of his recent work focuses on compelling evidence connecting acetaminophen (paracetamol) use and autism."}
+
+Body Text:
+Home | Risks Of Acetaminoph
+top of page
+WPLab
+About Us
+Research and More
+Acetaminophen
+Resources
+Alternatives
+PreventAutism.org
+Tips for Parents
+Support Us
+More
+Use tab to navigate through the menu items.
+Where Research, Education, and Hope Meet
+Raising awareness of inflammation issues and their causes
+Our Services
+Did You Know?
+1 in 36
+children have autism, according to the CDC in 2023
+70
+times more autism after acetaminophen became popular
+20+
+reasons we know acetaminophen causes autism
+90%
+of all new cases of autism could be prevented
+Acetaminophen and Autism are Linked
+Based on the scientific evidence, we have been able to conclude without a reasonable doubt that exposure of susceptible babies and children to acetaminophen causes many if not most cases autism.
+Read the 20+ reasons
+Who We are
+WPLab is a not-for-profit company that conducts research and education related to immune system dysfunction in high-income countries. A current focus is the interaction between the immune system and acetaminophen (paracetamol) early in life, and how that interaction affects brain development.
+​
+With Your Help, We Can Prevent Autism
+Learn How You Can Help
+How You Can Take Action
+Plan
+This may seem simple, but those critical moments where you or a loved one see a child suffer, are the times when we react out of emotion, not based on our knowledge or convictions. Making an action plan for what you will do to mitigate pain and fevers will be a critical tool in your arsenal.
+Explore the Page for Parents
+The Mounting Evidence
+There are now more than 20 science-based reasons that conclude acetaminophen causes autism. Click the boxes below to hear more.
+Support for Parents
+Preventautism.org
+Find Alternatives
+How to Help
+"Administration of acetaminophen under these conditions does little or no long-term good, so the induction of autism at this time is truly tragic.“ - William Parker, PhD
+Dr. Parker Reports
+Get more Resources
+Read the Published Paper
+Guide to acetaminophen and autism
+You Can Make a Difference
+Learn How You Can Help
+Connect With Us
+News and Research
+​
+Sign Up for Our Newsletter
+Watch
+@drparkerreports
+Visit Our Blog
+​
+Stay Informed
+WPLab
+Durham NC 27707
+Copyright © WPLab, Inc. 2024
+Contact Us
+About Us
+Research and Press
+Blog
+bottom of page

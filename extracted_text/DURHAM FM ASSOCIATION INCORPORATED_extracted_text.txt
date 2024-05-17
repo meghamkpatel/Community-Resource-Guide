@@ -1,0 +1,1154 @@
+Meta Information:
+{'http-equiv': 'CONTENT-TYPE', 'content': 'text/html; charset=windows-1252'}
+
+Body Text:
+DFMA.ORG  Main
+About
+DurHamFest
+Field Day
+Calendar
+News
+Repeaters
+Membership
+Newsletter
+Gallery
+Useful Links
+DC Auxcomm
+ARES
+Home Page
+dfma.org
+© Copyright 2017-2024
+Durham FM Association Inc.
+Durham FM Association
+Durham, North Carolina
+Welcome to the DFMA
+Upcoming Events
+5/07 DFMA Meeting, Bullocks BBQ, 6pm
+5/13 OCRA Meeting, Efland Baha'i Center, 7:30pm
+5/21 DFMA Board Meeting - virtual, 7pm
+6/04 DFMA Meeting, Bullocks BBQ, 6pm
+Press the [Calendar] button at left for more info
+The DFMA is an amateur radio club centered in Durham, NC, with members
+from all over the Research Triangle Area.  We support an excellent set of
+repeaters but members engage in all aspects of ham radio.  We meet
+monthly on the first Tuesday of the month
+normally
+at
+Bullock's Bar-B-Cue
+at 6pm for dinner with a program beginning at 7pm.
+All DFMA members are encouraged to sign up to use the OCRA-DFMA@groups.io
+email group.  Click the [About] button on the left for more info.
+Click on the "buttons" at the left for additional information on the
+related web pages.
+Latest News
+May 7 Meeting
+What: The  DFMA Meeting
+When: Tuesday, May 7th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Auxcomm. Basic Understanding!
+Jose Guzman, KD4JWF
+Jose will present on Auxcomm,
+to help us understand what it is.
+If youve considered getting into
+public service using amateur radio, this will give you
+some insights. Come up with some questions,
+because this will be a discussion as well as a
+presentation.
+Jose has been a ham for a long time (who else do you
+know whose call begins with KD4?)
+Hes also been in public service for a long time. When
+I first met him through OCRA in the late 90s, he was
+with the Chapel Hill Police Department. He now lives
+in Oxford, still very much involved with emergency
+communication. Come join us Tuesday for what
+promises to be a very interesting program.
+73, Dee, KU4GC, 5/5/24
+April 2 Meeting
+What: The  DFMA Meeting
+When: Tuesday, April 2nd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: TBA
+By: TBA
+OK, as of press time, the program for Tuesday has not been set.
+Its not on April 1st but on the 2nd, but something may come
+along at the last minute. But dont despair;  this will still
+be a great meeting.
+If you have some show and tell to bring, please do so.  If no
+formal program develops, it will be fun to see interesting
+objects or to hear about individual projects.  I have a video
+and some slides in reserve that will also entertain.
+73, Dee, KU4GC, 3/31/24
+March 5 Meeting
+What: The March DFMA Meeting
+When: Tuesday, March 5th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Hallicrafters SX-88 Restoration
+By: John Green, KX4P
+John writes: Hallicrafters radios
+were very popular throughout
+WW II and among short wave listeners (SWL) and
+amateur radio operators for many years afterwards.
+A large majority of hams grew up having one or more
+of their many models produced. Their "top of the
+line" receiver was produced in limited numbers and
+for a very short time.
+Bob Dennison and a crew made the first dedicated
+island DXpedition to Clipperton Island in 1954. After
+many mishaps they finally landed with two of the
+eighty-pound each SX-88 radios and other
+equipment. They made 1,108 QSOs!
+John will give a PowerPoint presentation showing the
+restoration (with the help of several critical friends)
+and operation of an SX-88 he acquired.
+John has presented several great programs at our
+previous meetings. He presentations always shine
+and should not be missed.
+Join us on Tuesday!
+73, Dee, KU4GC, 3/2/24
+February 6 Meeting
+What: The February DFMA Meeting
+When: Tuesday, February 6th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Up, Up & Away  Balloons and APRS
+By: Daniel DeCourt, W3WDD
+Daniel has been involved with the
+launch and tracking of helium-filled
+balloons from western North Carolina. The
+balloons transmit on 144.39 with APRS tracking
+which is available on the website aprs.fi . Previous
+balloons have traveled beyond Charlotte or western
+South Carolina. The website shows altitude and
+speed of the balloon. Coordination with the FAA is
+required and on the last flight, air traffic control at
+the Charlotte airport got excited about the balloon
+in their airspace. Daniel lives in Dillsboro and will be
+making the trip to Durham to give us the program.
+I hope you will be able to join us on Tuesday!
+73, Dee, KU4GC, 2/4/24
+January 2 Meeting
+What: The January DFMA Meeting
+When: Tuesday, Januaary 2nd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: ATSC 3.0 aka NextGen TV
+By: Mark Eagle
+Mark will be talking about the
+new ATSC 3.0 system that is
+coming to improve our television
+experience as well as other things related to the
+internet and other systems that we use. He recently
+retired from Spectrum (formerly Time Warner) after
+a long career with the company.
+I hope you will be able to join us on Tuesday!
+73, Dee, KU4GC, 12/31/23
+Party! - December 5 Meeting - At Bullock's BBQ
+What: The December DFMA Meeting
+When: Tuesday, December 5th, 6pm
+Where: Bullock's Barbecue
+Program:
+The DFMA Christmas Party
+Continuing a tradition of having the DFMA pick up the club member's tab
+for our December Holiday Dinner Meeting, we will meet at Bullock's
+Barbecue Restaurant in Durham starting around 6:00pm. You will be able
+to order from the menu.  Each member may also bring one guest. Bring
+your spouse or friend! (As you know, normally our meetings are open to
+all.  Because the club is footing the bill, it is restricted to members.)
+There will be no program as such. However, be ready to relate, very briefly,
+your accomplishments in the past year, mostly with respect to ham radio. 
+(In past years we've solicited ham new year's resolutions.  This year we'd
+like to hear what you've actually accomplished.)
+We will be collecting donations of toys (new, unwrapped) to forward to the
+Toys for Tots program (sponsored by the US Marine Corps Reserve).  We will 
+also
+pass the hat for donations to Urban Ministries of Durham and The
+Food Bank of Central and Eastern North Carolina. All gifts are, of course, 
+optional.  Don't skip this celebration just because money is tight this
+year.
+I hope you will be able to join us!
+73, Bob (W4FK) DFMA President, 11/30/23
+November 7 Meeting
+What: The November DFMA Meeting
+When: Tuesday, November  7th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Seeing the Invisible Universe
+By: John Green, KX4P
+Recently, at the invitation of a ham radio friend, John attended
+the annual conference of the Society of Amateur Radio Astronomers.
+It was located at the Green Bank Radio Observatory in West Virginia.
+This facility is a major center for radio astronomy studies. It is
+also the home for the world's largest fully steerable radio
+telescope, i.e., 500-foot diameter parabolic dish antenna. The
+program will describe the trip, brief history of radio astronomy,
+the speakers, activities, and trip to the top of antenna.
+John has been a DFMA member for many years. He is an excellent
+speaker and has presented several DFMA programs in the past. This
+is really one you shouldnt miss
+I hope you will be able to join us on Tuesday!
+73, Dee, KU4GC, 11/5/23
+October 3 Meeting
+What: The October DFMA Meeting
+When: Tuesday, October  3rd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: P25 - the Basis of Interoperability
+By: Chris Ferrer, KY4OU
+Chris' presentation will outlines what P25 is, why it was developed
+and why its so important. He will also try to provide a live
+demonstration utilizing the W4BAD P25 repeater located in downtown Durham.
+Communications is the heart of our hobby. If you've
+dealt with modern scanners, you've probably seen
+reference P25 before. Here's you chance to
+bring your knowledge up-to-date. Don't miss this
+one.
+I hope you will be able to join us!
+73, Dee, KU4GC, 10/1/23
+September 5 Meeting
+What: The September DFMA Meeting
+When: Tuesday, September  5th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Emergency Satellite Communicators
+By: Chip Blach, KF4WBK
+Chip will lead us through several ways to get help in emergencies.
+While not using repeaters and other ham gear he will prepare
+you for ways to protect yourself in case you have
+emergencies off the beaten path. I think youll find
+this a very interesting program.
+Chip was a DFMA member some decades ago. Then
+work moved him around. He reports: I have been a
+long time Ham operator for 30 years and just moved
+back to NC from Colorado..
+I hope you will be able to join us!
+73, Dee, KU4GC, 9/3/23
+August 1 Meeting
+What: The August DFMA Meeting
+When: Tuesday, August  1st, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Who Are Our Neighbors?
+By: Bob Cook, W4FK
+Bob will discuss the various bands
+adjacent to the ham bands. You
+may be surprised what is out
+there. He will also tackle the
+questions: What if you couldnt
+use the HAM bands? Things to think about...
+I hope you will be able to join us!
+73, Dee, KU4GC, 7/30/23
+July 18 Meeting
+What: The July DFMA Meeting
+When: Tuesday, July 18th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Intro to FT8
+By: Dee Ramm, KU4GC
+I will present an overview of the increasingly popular
+FT-8 digital mode. After a brief history of the
+software and its originator, Joe Taylor, K1JT, I will
+explain what it is - what it can and cant do. Then Ill
+deal with how I set up my HF station to take
+advantage of this great system. This will include the
+configuration of the software.
+I will also go over screen shots of actual sessions and
+explain the user interface and options available. All
+will be based on my actual experience.
+I hope you will be able to join us!
+73, Dee, KU4GC, 7/15/23
+June 6 Meeting
+What: The June DFMA Meeting
+When: Tuesday, June 6th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+Field Day 2023
+By: Dave Snyder, W4SAR
+Dave will present the plans for this
+years Field Day. He will review
+the past OCRA-DFMA collaboration
+and note our national successes.
+He will also cover the recent
+changes and the options provided
+by the rule changes triggered by
+the COVID pandemic.
+All are encouraged to participate and Dave will
+answer any questions you might have.
+I hope you will be able to join us!
+73, Dee, KU4GC, 6/4/23
+May 2 Meeting
+What: The May DFMA Meeting
+When: Tuesday, May 2nd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+Building Simple Wire Antennas
+By: Dee Ramm, KU4GC
+With a tight budget, ham radio can present a real challenge.  One of the few areas in which a ham can still  DIY is in building antennas. For the beginner, simple wire antennas are a good place to start.  I started down this path in 1997 and have some actual experience to relate and am still using some of these antennas today.  I will begin with the simple dipole - an essentially single band antenna. Doing that right covers all of the basics. Going for more than one band might then be solved by putting up multiple dipoles.
+This leads naturally to the fan dipole. There you cover multiple band with one feed line.  I will emphasize practical issues and simple solutions. There are two prerequisites.  You do have to have some trees and a bit of real estate.
+I hope you will be able to join us!
+73, Dee, KU4GC, 4/30/23
+April 4 Meeting - At Bullock's BBQ
+What: The April DFMA Meeting
+When: Tuesday, April 4th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+Introduction to the Cell Phone System
+By: Charlie Durst. NC4CD
+Many of us can remember the days
+when the idea that everyone
+would have their own phone
+sounded like a science fiction
+fantasy - just short of impossible. Charlie will review
+the trip from then until the present. He will give us
+some technical insights and explain the levels of
+service that weve come through. In other words hell
+answer questions like what were the levels and what
+did the G numbers imply. What is G5? When sitting
+in adjacent rooms and talking to each other on cell
+phones, where does the information flow? I expect
+well all learn a lot.
+Charlie retired from the telephone industry many
+years ago and now is involved with providing tower
+services for the phone industry, among others. He is
+a co-founder of the DFMA and has been our Repeater
+Manager for decades.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73, Lenore (KF4PAB) DFMA President, 4/2/23
+March 7 Meeting - At Bullock's BBQ
+What: The March DFMA Meeting
+When: Tuesday, March 7th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+Introduction to APRS
+By: Sam Tannous, KJ4VWG
+Automatic Packet Reporting
+System (APRS) is an amateur radio-based system for real time
+digital communications of information of immediate value in
+the local area. Data can include object GPS coordinates, weather
+station telemetry, email, SMS, text messages, announcements,
+queries, and other telemetry. APRS data can be
+displayed on a map, which can show stations, objects,
+tracks of moving objects, weather stations, search
+and rescue data, and direction finding data.
+Sam is a long time DFMA member and helps maintain
+the local APRS support
+infrastructure.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73, Lenore (KF4PAB) DFMA President, 3/5/23
+Max Bloodworth, KO4TV, sk
+August 12, 1933  February 18, 2023
+Glenn Max Bloodworth, 89, passed away on Saturday,
+February 18, 2023. He was born in York County,
+South Carolina, to the late Glenn Memory Bloodworth
+and Mary Emily Dendy Bloodworth. He retired as the
+Chief Radio Engineer for the North Carolina Highway
+Patrol. He was active in amateur radio and had an
+amateur extra ticket. In addition to his parents, he is
+preceded in death by his wife of over 50 years, Ruth
+Bloodworth (KE4DRI) and his sister, Mary Hodge. He
+is survived by his children, Linda Bloodworth and
+Michael Bloodworth (Valerie); sister, Etta Marie
+Presley; grandsons, William Bloodworth and Bryan
+Bloodworth (Beth) and great-grandson, Blake
+Bloodworth. He did not want a service.
+Max and Ruth were long time members of the DFMA
+until he moved to Archer Lodge (south of Wendell in
+northern Johnston County). They and their daughter,
+Linda were regular meeting attendees. Max was
+particularly active in encouraging antenna building
+projects. I still have a J-Pole antenna that I received
+at one of my first DFMA meetings. Over the years he
+did several programs and also wrote a series of
+articles on amateur radio antennas for The Link.
+(Youll find  reprints of most of these in recent editions of The Link.) He even
+built his own screwdriver antenna for mobile HF use
+from scratch.
+In later years I sometimes saw him at JARSfest in
+Benson. There I bought several of his cleverly
+designed J-pole antennas made with stainless steel
+whips and parts of power strips as spacers. One of
+these is still on the bumper of Lenores (KF4PAB) old
+van. The other is sitting behind me right now as my
+indoor VHF, UHF antenna. Max was a very
+interesting person to talk to and very knowledgeable.
+He has been missed by the DFMA for some time and,
+Im sure, by others lucky enough to get to know him.
+(Portions of the article were taken from or based on
+the website of Strickland Funeral Home & Crematory,
+211 W. Third St., Wendell, NC)
+73, Dee (KU4GC) 3/5/23
+Larry Stowell, K1ZW, sk
+Just before our last club meeting, we heard that Larry
+had passed away and we announced that at the
+meeting. We have still not seen any additional
+information. Larry and his wife Kathleen (KA2SBC)
+were long-time DFMA members. However, Larry
+hardly ever attended meetings, so many of you
+probably never met him. 
+Larry did frequent our hamfests. Our
+condolences to Kathleen and family
+73, Dee (KU4GC) 3/5/23
+February 7 Meeting - At Bullock's BBQ
+What: The February DFMA Meeting
+When: Tuesday, February 7th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+The Making of a Mobile Ham Station
+By: Chris Bindrim, KE7GZG
+Chris will present on creating a mobile
+ham station with coverage from 1.8 -
+1200 MHz. He will explain his choices
+and notes: "Everything is a Compromise"
+First licensed in 1982, Chris holds an extra class
+license. He moved to Durham in October of last year
+and recently joined the DFMA. He loves building and
+experimenting.
+For the newer ham, this is a "must see" program.
+And, for the old-timers, you can still learn new tricks.
+Check out the KE7GZ QRZ entry for some interesting
+pictures.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73, Lenore (KF4PAB) DFMA President, 2/4/23
+January 3 Meeting - At Bullock's BBQ
+What: The January DFMA Meeting
+When: Tuesday, January 3rd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+Buying an Electric Car
+By: Jack Hill, KM4MBG
+Jack and Lenore have just taken delivery of a brand
+new electric vehicle. Jack will report on his journey
+to this point. He will relate how he picked the model
+he chose and the ups and downs of getting there.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73, Lenore (KF4PAB) DFMA President, 1/2/23
+Party! - December 6 Meeting - At Bullock's BBQ
+What: The December DFMA Meeting
+When: Tuesday, December 6th, 6pm
+Where: Bullock's Barbecue
+Program:
+The DFMA Christmas Party
+Continuing a tradition of having the DFMA pick up the club member's tab
+for our December Holiday Dinner Meeting, we will meet at Bullock's
+Barbecue Restaurant in Durham starting around 6:00pm. You will be able
+to order from the menu.  Each member may also bring one guest. Bring
+your spouse or friend!
+There will be no program as such. However, be ready to relate
+your "Ham Radio New Years Resolution" - what are your ham radio goals 
+for the coming year. Do you finally want to go to Dayton? Do you plan to
+put up (or take down) a tower? Are you finally going to put together a
+real "go kit". Is Morse code in your future? We hope you'll be ready to
+share your ham radio dreams.
+We will be collecting Toys for Tots
+and pass the hat for donations to Urban Ministries of Durham and The
+Food Bank of Central and Eastern North Carolina.  All gifts are, of course, 
+optional.  Don't skip this celebration just because money is tight this
+year.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73, Lenore (KF4PAB) DFMA President, 12/2/22
+Memorial Service for Rhett (KE4HIH) and Joanna (KE4QOZ) George
+Hello friends, you are invited to celebrate the lives of Rhett and Joanna George at a service on Sunday November 13 at 11:30 am. The service will be held at McMannen UMC 4102 Neal Rd Durham NC 27705.  A reception will follow in the church fellowship hall. The family asks that attendees wear bold colors for this celebration.
+Details about video of the service will be available later by emailing me at dccageorge@gmail.com
+Thanks,
+Charles R. George
+Thanks, Charles R. George, 11/3/22
+November 1 Meeting - At Bullock's BBQ
+What: The November DFMA Meeting
+When: Tuesday, November 1st, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+Going Downrange, Communications &  Miscommunications in Afghanistan
+Charles McComas (KY4HU)
+will be talking about his experiences and
+observations as a Special Forces Medical Sergeant / Assistant Operations
+Sergeant with Operational Detachment Bravo 1960, Company C 2nd Battalion
+West Virginia National Guard in Operation Enduring Freedom, 2001 - 2002.
+with the communications of information.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73, Lenore (KF4PAB) DFMA President, 10/29/22
+October 4 Meeting - At Bullock's BBQ
+What: The October DFMA Meeting
+When: Tuesday, October 4th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:DMR for You!
+Charlie Durst (NC4CD)
+will present a DMR refresher for
+those already familiar with DMR and
+new info for everyone else. DMR is
+growing rapidly and new things have
+happened since DFMA put a DMR
+repeater up at Hillsborough. Radio
+prices have come down and more
+features are available in HTs and mobiles.
+As most of you already know, Charlie is an excellent
+speaker, so its sure to be a rewarding talk. If youve
+been considering taking the (not so big) leap to trying
+DMR, heres a chance to get into it.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73, Lenore (KF4PAB) DFMA President, 9/30/22
+September 6 Meeting - At Bullock's BBQ
+What: The September DFMA Meeting
+When: Tuesday, September 6th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:NOAA and GOES Weather
+Vance Vagell (KV4P) will present a
+crash course in receiving weather
+imagery from both NOAA and GOES
+satellites. There will be inexpensive and
+straightforward options for the
+beginner, and jumping off points for
+people with intermediate to advanced
+technical skills. Receiving weather satellite imagery
+does not require an amateur license (since there's no
+transmitting), so it's a great project for someone
+interested in radio who isn't yet licensed, OR the
+seasoned ham who wants to get deeper into digital
+signal processing, Raspberry Pi, and homebrew
+antennas.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73,
+Lenore (KF4PAB)
+DFMA President, 9/4/22
+August 2 Meeting - At Bullock's BBQ
+What: The August  DFMA Meeting
+When: Tuesday, August 2nd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Worldwide EMC-EMI Compliance Testing
+Alan Knight (AA4FU) an IBM Senior Engineer, will do a presentation on IBM
+Worldwide EMC-EMI compliance testing
+done at IBMs Research Triangle Park Facility. EMCEMI
+testing is critical to the design and production of
+electronic equipment. Regulatory agencies, including
+the FCC, have set specific emissions limits for an
+electronic device. These EMC regulations aim to
+provide improved reliability and safety for the user
+and absence of interference to other equipment.
+Failing to pass EMC compliance tests can result in
+delays, fines and recalls.
+What Else:The Annual DFMA Elections
+are on Tuesday. See the article in The August Link (Newsletter) for
+a listing of the nominees.
+Notice:
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73,
+Lenore (KF4PAB)
+DFMA President, 7/30/22
+July 19 Meeting - At BULLOCK'S BBQ
+What: The July DFMA Meeting
+When: Tuesday, July 19th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program: Practical RF Safety Evaluations
+Dee, KU4GC, will return to the topic of RF Safety
+and make some practical suggestions on meeting the
+new FCC requirements for computing and
+documenting your station's compliance. (These
+requirements are already in effect for all new
+antennas and will come into effect in spring of next
+year for existing antennas.).
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73,
+Lenore (KF4PAB)
+DFMA President, 7/16/22
+June 7 Meeting - At BULLOCK'S BBQ
+What: The June DFMA Meeting!
+When: Tuesday, June 7th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Program:
+We will actually have three
+short programs this month:
+1. Dave, W4SAR, our Field Day
+Coordinator will go over the plans for
+this years Field Day operation. He will
+review both the technical scope of this
+years plans as well as touching on some
+of the logistical issues such as Setup,
+Food, and Cleanup.
+2. Bruce, N1LN (OCRA President), and
+Laurie, N1YXU (OCRA Secretary), both world class
+contesters with countless awards, will give us some
+pointers on how to operate most effectively on single
+sideband (SSB).
+3. Dee, KU4GC, will return to the topic of RF Safety
+and make some practical suggestions on meeting the
+new FCC requirements for computing and
+documenting your station's compliance. (These
+requirements are already in effect for all new
+antennas and will come into effect in spring of next
+year for existing antennas.).
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73,
+Lenore (KF4PAB)
+DFMA President, 6/5/22
+May 3 Meeting - At BULLOCK'S BBQ
+Program: 
+There is no formal program scheduled at this time.  Show and Tell is
+welcome.
+What: The May DFMA Meeting!
+When: Tuesday, May 3rd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue  (once inside, head for the big room to the left)
+Were planning to meet at Bullocks
+again and Have Another Meal.
+It will be good to see some people that we havent seen in quite a while
+or were unable to attend the last meeting. And
+you can meet some of our newest
+members!
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73,
+Lenore (KF4PAB)
+DFMA President, 5/1/22
+DurHamFest Canceled or Postponed
+At The DFMA Board meeting last Tuesday, it was
+decided that DurHamFest 2022 will not happen this
+spring. The facility at the Durham Public School Staff
+Development Center is no longer available. We are
+looking for a new venue, but time has run out for
+doing this in May. Also, after attending RARSfest, it
+looks like some of the vendors that have served us as
+"anchors" are either out of business already or are in
+the process of shutting down. So, we will also be
+looking for new vendors. Their broad range of
+offerings of stuff that many hams come to a hamfest
+for are important to our success. Of course, we will
+continue to support club tables, and individuals who
+feel tables are the best for displaying their offerings.
+Tail gating will also be encouraged to make our
+hamfest as worthwhile as in previous years.
+73, Dee, KU4GC - DurHamFest chair, 4/28/22
+April 5 Meeting - BACK AT BULLOCK'S
+Program: 
+There is no formal program scheduled at this time.  Show and Tell is
+welcome.
+What: The April DFMA Meeting!
+When: Tuesday, April 5th, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue!!  (once inside, head for the big room to the left)
+You read that right, we're finally going to meet in person for the first time
+this year.
+It will be good to see some people that we havent seen in quite a while and to meet some of our newest members for the first time.
+Due to the average age of our members and their particular susceptibility  to the most severe Covid 19 infections, the DFMA Board asks that only vaccinated members attend.
+I hope you will be able to join us!
+73,
+Lenore (KF4PAB)
+DFMA President, 4/3/22
+March 1 Meeting - DFMA Meeting on the Air
+Program: 
+A formal program has not been scheduled.
+Meeting place: 145.450 repeater.
+Meeting time: 7:00pm
+As you've noticed, we're still being careful and
+will not be at Bullock's
+but are meeting on the repeater again.   The hope is that  April
+will be the charm and the meeting will be back at Bullocks.
+The plan for Tuesdays meeting is to have regular officer reports and announcements followed by a rag chew session
+I hope you will be able to join us!
+73,
+Dee, KU4GC, 2/27/22
+Nicholas Paul Szydlek, KA1HPM, sk
+September 16, 1944 - February 5, 2022
+Nick, KA1HPM operating at the
+OCRA/DFMA Field Day in 2018.
+Image courtesy  of KU4GC
+Nick was born in Detroit, Michigan on September 16, 1944.
+He enlisted and served in the United States Navy
+as a radar technician/electricians mechanic from 1963  1967.
+He was stationed in the Mediterranean 
+on the USS Mole and the USS Basilone. He also
+served in the United States Naval Reserve and the United States
+Coast Guard Reserve. He was decorated with the National Service
+Defense Medal.
+Nick married his wife, Rosemary, in 1969 and their son, Nick, Jr. was born
+in 1970. After the Navy, Nick worked as an electricians mechanic and engineer, living in Massachusetts and New Hampshire. 
+In the late 1990s Nick and Rosemary moved to his hometown area in
+Michigan where he continued working as an engineer. He retired in 2012,
+joining his son and daughter-in-law in Pittsboro, North Carolina.
+He established his own small machining/prototyping business, Foxtek, Inc.
+where he was his own boss and worked at his own pace.
+Nick was especially passionate about ham radio with an amateur extra
+ticket and was a Founding member of Chatham AUXCOMM; a proud member
+of Orange County Radio Amateurs (OCRA); and Durham FM Association (DFMA).
+He loved to share his knowledge and get others excited about ham radio.
+As a member of St. Thomas More Catholic Church he attended mass every
+Sunday. He volunteered on many occasions and served on committees
+including the
+Church Council and was head of the Friends in Faith Senior Group.
+Nick is survived by his loving wife of more than 52 years, Rosemary;
+his son, Nicholas (KN4QBY), Jr. (Melissa); brother, Eddie (Cynthia) Szydlek;
+sisters, Carol (Fred) Zirotti and Cherilyn (Don) Smith; and many nieces,
+nephews, cousins, friends and peers.
+He was preceded in death by his parents Barbara J. Eshelman
+Szydlek-Lawless; Edwin Joseph Rivers and stepmother Frances Rivers;
+and brothers Lawrence S. Szydlek and Phillip P. Szydlek. 
+In lieu of flowers please donate to your favorite cancer organization
+or St. Judes in Nicks name.
+Gathering of Remembrance
+Friday, February 18, 10:00 AM
+St. Thomas More Catholic Church, 
+940 Carmichael Street,
+Chapel HIll, NC 27514
+follwed by a
+Funeral Mass
+Friday, February 18, 10:30 AM
+St. Thomas More Catholic Church,
+940 Carmichael Street
+Chapel HIll, NC 27514
+Donations
+St. Jude Children's Research Hospital
+501 St. Jude Place, Memphis TN 38105
+Tel: 1-800-805-5856
+Web: http://www.stjude.org/
+This writeup heavily based on the obiturary published by the
+Donaldson Funeral Home & Crematory.  For the complete, excellent obituary
+see
+https://www.donaldsonfunerals.com/obituary/Nicholas-Szydlek
+Dee, KU4GC, 2/14/22
+February 1 Meeting - DFMA Meeting on the Air
+Program: 
+A formal program has not been scheduled as of this time.
+Meeting place: 145.450 repeater.
+Meeting time: 7:00pm
+As you've noticed, we're still being careful and
+will not be at Bullock's
+but are meeting on the repeaters again.   The hope is that the March meeting will be back at Bullocks.
+The plan for Tuesdays meeting is to have regular officer reports and announcements followed by a rag chew session
+I hope you will be able to join us!
+73,
+Dee, KU4GC, 1/30/22
+January 4 Meeting - DFMA Meeting on the Air - HAPPY NEW YEAR
+Program: Grounding and
+Lightning Protection of Towers and
+Radio Equipment.
+As you've noticed, we've taken a step
+backwards and
+will NOT be at Bullock's
+but
+are meeting on the repeaters (145.450- PL 82.5) again.
+However we will have an excellent
+program.
+The program should
+be very timely and an excellent introduction for our
+newer members and a good reminder for the oldtimers.
+Our Repeater Manager, Charlie, NC4CD, who has
+loads of practical experience in this area will present on the air.
+Some of the topics he will cover
+are:
+- Why and how do you ground your tower, antennas,
+and station equipment?
+- How to construct an effective ground system for
+your tower and antennas.
+- How is ground resistance measured? What are the
+objectives ?
+- How to connect all your equipment to the ground
+system.
+- What to do when a thunderstorm is coming.
+- What do we do at a repeater site during a
+thunderstorm? You cant go disconnect all the
+antennas!
+This meeting should be extremely interesting.
+I hope you will be able to join us!
+73,
+Dee, KU4GC, 1/1/22
+December Meeting - The DFMA Christmas Party
+What: See title.
+When: Tuesday, December 7th, 6pm
+Where: Bullock's Barbecue!!  (once inside, head for the big room to the left)
+What else: Good food.  Good cheer.  Your fellow hams.
+Continuing a tradition of having the DFMA pick up the tab for members at our December Christmas Dinner Meeting, we will meet at Bullock's Barbecue Restaurant in Durham starting at 6:00pm. You will be able to order from the menu.  This meeting is for paid-up members and each member can bring one guest -- bring your spouse or friend!
+(For the safety of all attendees, we ask that you give this a pass if you have not been able to get vaccinated.  Last meeting we had, and for future meetings we plan to have, an outgoing video feed of  the program with a live chat for all unable to physically attend.  Since there is no program as such, we will not be generating streaming video of this meeting.)
+This is our Christmas Meeting -- In that spirit and tradition you may (optionally):
++++
+Bring a new Christmas gift to be distributed to needy children through Toys for Tots. If wrapped, mark gender and age range on the outside. If not wrapped, that's fine too. If you have one -- a gift bag would work too.
++++
+The Club will make its annual donation, splitting it between the Urban Ministries of Durham and the Food Bank of  Eastern and Central North Carolina. We will be passing the hat" for personal contributions.  Cash contributions will also be split between the two organizations.
+In past years some people have dropped a check in the hat. You can make it out to any charity you like. We can forward it and the canceled check can be handy at tax time.
+But, if you are not in a position to donate anything this year, please come anyway. Or if you are making a special effort through your church or at the office, dont feel pressured to do more than you really should. Your presence at this dinner is a gift to all of us.
+Your Ham New Years Resolution
+Another traditional feature of our Christmas Party is the making of a Ham New Years Resolution. So, one thing well do is go around to everyone and, if you made a resolution last year, well read it to the group and you can report on how you did. Then, you can make a resolution for next year. And, it can be a lot of fun for all.  Its easy to make a joke of this and I guess thats OK. However, I urge you to come up with well thought out ham-related goals for yourself. Set yourself some fairly realistic goals and see if you can achieve them. Of course, each year we have a lot of misses from last year but that can be reality check and a lot of fun for all.
+But as last year, I urge you to think about some goals for the DFMA as well. Feel free to voice them when you make a resolution for yourself. Or, let the Board members know if there are things we could improve. Better yet, get involved and volunteer to help us meet those goals.  The DFMAs success depends on your involvement and help in the future. Its your move.
+73, Dee, KU4GC, 12/3/21
+Bill Sims, W4AK, sk
+The program at our first in-person meeting of the DFMA was a summary of the history of our repeaters.  I presented this program as I was one of the charter members of DFMA.  I mentioned that when I moved to Durham in 1970, there was a repeater in Durham on 146.34-146.94.   It was owned and operated by Bill Sims, K4RUQ.  The 146.34 receiver was at his house in Parkwood.  He used a 440 MHz. radio link to the 146.94 transmitter on TV Hill in north Durham.  This split-site repeater did not require a duplexer which was very expensive, even in 1970.  Bill used tube type radios made by Motorola, General Electric, Dumont, and others.  These were retired from commercial two way radio service and were relatively cheap.
+Bill was a bit cantankerous with the users of his repeater.  It seemed as if he monitored it 24 hours a day.  He would frequently interject his comments  into conversations.  Annoyingly, one could kerchunk the repeater at midnight or 3 am, and he would instantly say you got it, talk on it.  In the early 70s, most converted Motorola or GE radios had only one or two channels.  Most radios were on 34-94 for repeaters and 146.52 for simplex.  To minimize key-ups from nearby 34-94 users, Bill implemented a system called whistle-up for access to his repeater.  To use his repeater, one had to whistle into the mike (increasing the frequency like trying to call the dog) and hoping to hit the frequency of the decoder.  When his repeater was whistled up, it stayed available for a conversation.
+After a while I decided that Durham needed a ham club with its own repeater.  Thirteen hams attended the first meeting and the DFMA was formed.  Bill did not attend.  A repeater on 449.1-444.1 was DFMAs first repeater.  After 50 years, DFMA has 100 members and 7 repeaters at 3 sites: Hillsborough, the Durham VA Hospital, and TV Hill.  Our current TV Hill tower is on land adjacent to Bills original 146.94 transmitter site.
+The week following our DFMA meeting, I saw the obituary for Bill.  He died on October 4, 2021 at the age of 89.     W4AK (formerly K4RUQ)  SK.  73 Bill.
+- de Charlie, NC4CD, 12/1/21
+November 2 Meeting - BACK AT BULLOCK'S
+Program: 
+Our Repeater Manager, Charlie, NC4CD, will update us on what has been going on
+with the DFMA's Repeater System.  While Covid may have shut down most of our
+activities, Charlie has been busy working and upgrading the DFMA's capabilities.
+What: The November DFMA Meeting!
+When: Tuesday, November 2nd, 6pm to eat, 7pm meeting
+Where: Bullock's Barbecue!!  (once inside, head for the big room to the left)
+What else: Door prizes! New directories for members!
+You read that right, we're finally going to meet in person for the first time since March of 2020!  Charlie, NC4CD has graciously agreed
+to present an update of the DFMA repeater system. While everything else has stopped, progress on the repeaters has continued!
+Vaccinations will be required of all attendees. While we know that you'll need to take off your mask to eat, please wear a surgical mask or
+better when not eating to help us mitigate transmission risk as much as possible.
+The meeting will be live-streamed for those who are unable to attend. Jack (KM4MBG) will send more info about that.
+I hope you will be able to join us!
+73,
+Lenore (KF4PAB)
+DFMA President, 10/28/21
+Free General Class Course Available - On Zoom
+I will be offering a General Class licensing course on Zoom beginning
+Thursday, October 28.  It wee mee weekly running through Thursday,
+January 13 (9 sessions plus 3 weeks off for the holidays in November
+and December.) 
+Sessions will start at 6:30 pm eastern time, and run for 3 hours.  These are
+the classes sponsored by the National Electronics Museum that we have been
+holding for years.  Please publicize this with anyone you know that you
+think would be interested.  Those wishing to sign up should email me at
+roland.anders@comcast.net.
+Thanks,
+Rol, K3RA
+Posted on the behalf of Roland Anders - 
+Dee, KU4GC, 10/19/21
+October 5 Meeting - DFMA Meeting on the Air
+Program: 
+A formal program, using the video system, was planned but things didnt work out as was hoped.
+
+As we did in some past months, we'll have a meeting net. This will be at 7pm on October 5th, our usual meeting slot, on the 145.45- repeater (PL tone of 82.5). You can also check-in over the Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net will be check-ins (in place of our usual introductions), officer reports,
+a door prize(!)
+, and a rag chew round table discussion.
+73,
+Dee, KU4GC, 10/3/21
+September 7 Meeting - Live Stream Video
+Instructions
+I hope that you'll be able to join us tonight, September 7th at 7pm. In order
+to join us, please do the following:
+Go to
+https://dfma-meeting.km4mbg.org
+in your browser. On that page, you
+will see a widget for the meeting video beside a widget for the chat. To
+start watching the video, click on the triangle button. To join the chat,
+change the Nick (short for nickname) from "GuestDD" (where the D's are
+digits) to your name and/or callsign. Spaces are not allowed, so something
+like Jack-KM4MBG would be a good choice. Leave "I have a password"
+unchecked, and the channel as #dfma. Once you have your nick filled in,
+click "Start" to join the chat.
+Tonight's presentation will be by Chuck Till, KF4RGN, on the new RF
+safety requirements for amateur radio.
+Hope you'll join us!
+73,
+Jack, 9/7/21
+would be a good choice. Leave "I have a password"
+unchecked, and the channel as #dfma. Once you have your nick filled in,
+click "Start" to join the chat.
+Tonight's presentation will be by Chuck Till, KF4RGN, on the new RF
+safety requirements for amateur radio.
+Hope you'll join us!
+73,
+Jack, 9/7/21
+September 7 Program: Live Stream Video
+New FCC Rules on RF Safety in Amateur Radio
+By: Chuck Till, KF4RGN
+Most of you have likely read about the
+new rules requiring hams to evaluate
+their home station for RF safety. Chuck's
+presentation should give you a nice assist
+to meeting those requirements.
+Chuck, K4RGN was first licensed in 1970.
+He has a Bachelor's and a Master's in
+Electrical Engineering from Georgia Tech.
+Prior to retirement, he worked in
+international marketing for telecom
+companies. His main interests in ham
+radio are digital modes. He's also a
+volunteer announcer at WCPE The
+Classical Station 89.7.
+Unfortunately, we won't be getting together in person for our September
+meeting as planned. Instead, we'll use the streaming configuration we 
+used last month. This time though, the live video part will be limited
+to the president and me, and everyone else will be able to participate
+by watching a live video stream and adding your comments to the web chat.
+Please join us Tuesday, September 7th at 7pm at
+https://dfma-meeting.km4mbg.org.
+73, Jack, KM4MBG, 9/5/21
+Combined OCRA/DFMA Meeting with NASA Presentation
+Monday August 9th
+Given the latest CDC information regarding the spread of Covid-19, now containing the Delta variant, the OCRA Board of Directors has made the decision to postpone the return in August to our regular in-person meetings at the Efland Bahai Center.
+The upcoming club meeting on Monday August 9th will be a special meeting as a combined OCRA/DFMA Over-the-Air Club Net and Zoom Meeting with NASA guest presentations, Monday evening August 9th beginning at 7pm.
+Note the following time and agenda changes for this special meeting:
+-    The Over-the-Air Club Net check-in will begin at 7pm instead of the usual 7:30 on the 442.150 mHz repeater to get callsigns & names of the meeting attendees for the club meeting minutes and any brief club announcements.
+-    The OCRA Zoom Video Conference will available starting at 6:45pm for any last minute video/audio testing by attendees, check-ins by attendees not having UHF radio capability, and for all to join in for the NASA guest speaker presentation starting at 7:30pm .
+-    Our guest speaker will be Al Feinberg, the Strategic Content and Media Advisor for NASA Space Communications & NASA Television Headquarters in Washington, D.C.
+-    The radio net will be secured at 7:30pm and then the Zoom video conference will continue with speaker introductions.
+-    Questions any attendee would like to ask the presenters can be posted in the Zoom chat window.
+Als presentation will be on Space Communications in Support of NASA.
+The timing of these presentations could not be better as November 9, 2021 will be the 20th Anniversary of International Space Station contact from Barbara Pedersens science class room at Chapel Hill Phillips Junior High School. Club member Barbara, KE4JZM was instrumental in the planning, coordination with NASA and with additional club volunteers, the building of the amateur radio station in her science class room that was used for the successful contact.
+The Zoom access link, Login ID & password has been distributed by email to all OCRA members and to the DFMA members via the DFMA Link Newsletter email list.
+Dan, KR4UB, 8/7/21
+August 3 Meeting - Live Stream Video
+Detailed Instructions
+I hope that you'll be able to join us tonight, August 3rd at 7pm. In order
+to join us, please do the following:
+Go to
+https://dfma-meeting.km4mbg.org
+in your browser. On that page, you
+will see a widget for the meeting video beside a widget for the chat. To
+start watching the video, click on the triangle button. To join the chat,
+change the Nick (short for nickname) from "GuestDD" (where the D's are
+digits) to your name and/or callsign. Spaces are not allowed, so something
+like Jack-KM4MBG would be a good choice. Leave "I have a password"
+unchecked, and the channel as #dfma. Once you have your nick filled in,
+click "Start" to join the chat.
+Joining the chat is an important part of tonight's meeting because that is
+how we will be collecting votes for our board election. If you are having
+technical difficulties, Dee, KU4GC, will be providing support on the
+145.45 repeater. The stream will start up around 6:40pm EDT, but the
+business part of the meeting won't start until 7pm.
+Our agenda for tonight is as follows:
+* President's Corner, LIVE!
+* Officer Reports
+* Elections (voting instructions will be provided during the meeting)
+* Show and tell
+Thanks to all in advance for staying with us as we followed COVID
+mitigation guidance and had a last minute change of formats.
+Jack, KM4MBG, 7/2/21
+P.S.
+For those who are technically inclined, you may join the chat in
+another browser window (e.g. if you want to watch the video full-screen on
+one monitor and chat it another) by going directly to
+https://web.libera.chat/#dfma
+You can also join #dfma on libera.chat in your favorite IRC client.
+The video can be watched outside of a browser by playing
+https://dfma-meeting.km4mbg.org/hls/dfma.m3u8
+in a media player (e.g.
+VLC) that supports HLS.
+This extra information is provided for those to whom it might be useful,
+but don't worry about trying to follow it, the website works great!
+Jack
+Auguse 3 Program: Club Meeting and Elections
+(7:00pm, Live Streaming Video)
+Unfortunately, we won't be getting together in person for our August
+meeting as planned. Instead, we'll use this as an opportunity to do a
+test of the streaming configuration we hope to use when we are able to
+return to in-person meetings. This time though, the in-person part
+will be limited to just me, and everyone else will be able to
+participate by watching a live video stream and adding your comments
+to the web chat.
+We're saving our planned August presentation for a future date, but
+we will be holding the DFMA Board election!  Voting will take place via
+the chat. I al27516so plan to do a little bit of show and tell about what
+I've been up to during the pandemic. If you'd like to participate in
+the show and tell by recording a short, less than 5 minute video, I can
+include it in the stream if you send it (or a link to it) to me in
+advance of the meeting.
+Please join us Tuesday, August 3rd at 7pm at
+https://dfma-meeting.km4mbg.org.
+I'm still getting everything set up, so don't be alarmed if the site
+isn't up before Tuesday.
+Best,
+Jack, KM4MBG, 7/2/21
+July 6 Program: DFMA Meeting on the Air
+As we did in past months, instead of our usual monthly
+meeting at Bullock's, we'll have a meeting net. The net will be at 7pm
+on July 6th, our usual meeting time, on the linked 145.45- 
+repeater (PL tone of 82.5). You can also check-in over the
+Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net
+will be check-ins (in place of our usual introductions), officer reports
+and a rag chew round table discussion.
+Best,
+Jack, KM4MBG, 7/2/21
+June 14: NASA Talk Canceled
+Word has just been received from Rosalie K1STO, the presenter that was going to cover both NASA presentations tonight, has had to postpone due to computer problems that developed over the weekend.
+We received word last week that Al, the other planned NASA presenter, had to cancel out due to a death in his extended family.
+The format and time for tonight's OCRA meeting will revert back to the 442.150mHz Over-the-Air Net/Meeting and Zoom Conference starting at 7:30pm with Dave, W4SAR as Net Control.
+73, Dee, KU4GC, 6/14/21
+Combined OCRA/DFMA Meeting with NASA Presentation  Monday August 9th
+Posted on Aug.2021 by OCRA Website Admin	
+
+Given the latest CDC information regarding the spread of Covid-19, now containing the Delta variant, the OCRA Board of Directors has made the decision to postpone the return in August to our regular in-person meetings at the Efland Bahai Center.
+
+The upcoming club meeting on Monday August 9th will be a special meeting as a combined OCRA/DFMA Over-the-Air Club Net and Zoom Meeting with NASA guest presentations, Monday evening August 9th beginning at 7pm.
+
+Note the following time and agenda changes for this special meeting:
+
+    The Over-the-Air Club Net check-in will begin at 7pm instead of the usual 7:30 on the 442.150 mHz repeater to get callsigns & names of the meeting attendees for the club meeting minutes and any brief club announcements.
+    The OCRA Zoom Video Conference will available starting at 6:45pm for any last minute video/audio testing by attendees, check-ins by attendees not having UHF radio capability, and for all to join in for the NASA guest speaker presentation starting at 7:30pm .
+    Our guest speaker will be Al Feinberg, the Strategic Content and Media Advisor for NASA Space Communications & NASA Television Headquarters in Washington, D.C.
+    The radio net will be secured at 7:30pm and then the Zoom video conference will continue with speaker introductions.
+    Questions any attendee would like to ask the presenters can be posted in the Zoom chat window.
+
+Als presentation will be on Space Communications in Support of NASA.
+
+The timing of these presentations could not be better as November 9, 2021 will be the 20th Anniversary of International Space Station contact from Barbara Pedersens science class room at Chapel Hill Phillips Junior High School. Club member Barbara, KE4JZM was instrumental in the planning, coordination with NASA and with additional club volunteers, the building of the amateur radio station in her science class room that was used for the successful contact.
+
+The Zoom access link, Login ID & password has been distributed by email to all OCRA members and to the DFMA members via the DFMA Link Newsletter email list.
+How to Participate in the NASA Presentation
+As many of you already know, the NASA presentation is scheduled in the
+regular OCRA Meeting time slot.  So, some of the procedures described
+below deal specifically with the OCRA Meeting.  Also, described below
+are help sessions for people who have not used Zoom before.  If you are
+an experienced Zoom user, you may want to omit some of them.
+Please join this special combined OCRA/DFMA Over-the-Air Club Net and Zoom Meeting with NASA guest presenters Al Feinberg and Rosalie White, K1STO Monday evening on June 14th.
+Special thanks go to Wilson, W4BOH for the initial contact with the guest presenters to make this opportunity possible.
+Note the following time and agenda changes for this special meeting:
+-   The Over-the-Air OCRA Club Net check-in will begin at 7pm instead of the usual 7:30 on the 442.150 mHz repeater to get callsigns & names of the meeting attendees for the club meeting minutes and any brief club announcements.
+-  The OCRA Zoom Video Conference will available starting at 6:45pm for any last minute video/audio testing by attendees, check-ins by attendees not having UHF radio capability, and for all to join in for the NASA guest speaker presentation starting at 7:30pm .
+-  Our guest speakers will be Al Feinberg, the Strategic Content and Media Advisor for NASA Space Communications & NASA Television Headquarters in Washington, D.C. and  Rosalie White, K1STO,  ARISS US Delegate.
+Als presentation will be on Space Communications in Support of NASA and Rosalies presentation will be Celebrating 20 Years of Continous Amateur Radio Operations on the ISS.
+Here are a some additional details about the meeting:
+-  The radio net will be secured prior to 7:30pm and then the Zoom video conference will continue with speaker introductions.
+-  Questions any attendee would like to ask the presenters can be posted in the Zoom chat window.
+-  Lastly, to assist anyone who has not participated in previous OCRA Zoom meetings, several options are available to test your setup.
+o      A practice video conference session will be opened Sunday June 13th from 2pm to 4pm so any attendee needing to test their computer, tablet or cell phone device can do so prior to the Monday Meeting.
+o   The Zoom conferences open during weekly OCRA Monday night 8pm 10 meter nets uses the same conference ID, password and join link listed below. The Monday night net (June 7th) prior to the June 14th meeting provides opportunities to check in and test your setup.
+-  Click on the Instructions for Participating in an OCRA Radio Net from Zoom link below for additional setup information and self testing options provided by Zoom that you can use.
+Instructions for Participating in an OCRA Radio Net from Zoom
+Click here to Join the OCRA Monday Night Net / Meeting Zoom Conference
+Meeting ID: 974 6194 0852
+Passcode: 442150
+Dan, KR4UB, adapted by Dee, KU4GC, 6/7/21
+June 14 Special NASA Presentation vi Zoom
+Co-sponsored by OCRA and DFMA
+A joint OCRA/DFMA sponsored program by NASA is being offered on Monday, June
+14th at 7:30pm. The NASA presentation will be on the Zoom video platform with
+details to be published later.
+There will actually be two presentations.
+One of the  speakers is Al Feinberg, the Strategic Content and Media
+Advisor for NASA Space Communications & NASA Television Headquarters in
+Washington, D.C.  His presentation will be on Space Communications in Support of NASA
+The other speaker is Rosalie White, K1STO,  ARRISS (Amateur Radio on the International Space Station) US Delegate. Her 
+ presentation will be Celebrating 20 Years of Continuous Amateur Radio Operations on the ISS.
+
+ Some of you may remember the space station
+communication from the Phillips Middle School in Chapel Hill.  That happened
+almost 20 years ago and was quite a media event.  The teacher of the class
+involved, Barbara
+Pederson, KE4JZM, had an HF station in her classroom. (Barbara was also active
+in the Civil Air Patrol.)
+Watch the OCRA-DFMA@groups.io mailing list for additional
+information.  The latest information will also be placed on the this website
+and there will probably be a direct mailing to DFMA members just before the
+event.
+Many thanks to the presenters.  Also, special thanks goes to Wilson, W4BOH,
+for arranging this program and to Dan, KR4UB, who is doing much of the
+logistical support and making sure that Zoom help is available to anyone
+that needs it.
+73, Dee, KU4GC, 6/6/21
+June 1 Program: DFMA Meeting on the Air
+As we did in past months, instead of our usual monthly
+meeting at Bullock's, we'll have a meeting net. The net will be at 7pm
+on June 1st, our usual meeting time, on the linked 145.45- 
+repeater (PL tone of 82.5). You can also check-in over the
+Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net
+will be check-ins (in place of our usual introductions), officer reports
+and a rag chew round table discussion.
+Best,
+Jack, KM4MBG, 5/28/21
+May 10 Special NASA Presentation Canceled
+In both the May Link and in the cover note we announced that there would be a special program on space communications originating with NASA.  This was being sponsored by both OCRA and the DFMA and was scheduled during OCRA's regular monthly meeting slot - Monday, 5/10 at 7:30pm.
+Unfortunately Donna Ruth Green, the wife of John Green, KX4P, passed away a few days ago. The visitation at the Donaldson Funeral Home in Pittsboro has been scheduled for Monday at 6-8pm and a number of our members would like to attend.  Therefore it was felt best to cancel the special program and the abbreviated on-line OCRA monthly meeting that was to meet at 7pm.
+Our condolences to John (who is a member of both clubs and who has
+presented some excellent programs for our meetings) and his family.
+73, Dee, KU4GC, 5/9/21
+May 4 Program: DFMA Meeting on the Air
+Until outbreak conditions improve,
+the DFMA will not be having in-person meetings.
+As we did in past months, instead of our usual monthly
+meeting at Bullock's, we'll have a special net. The net will be at 7pm
+on May 4th, our usual meeting time, on the linked 145.45- 
+repeater (PL tone of 82.5). You can also check-in over the
+Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net
+will be check-ins (in place of our usual introductions), officer reports
+and a rag chew round table discussion.
+Best,
+Jack, KM4MBG, 5/1/21
+April 6 Program: DFMA Meeting on the Air
+Until outbreak conditions improve,
+the DFMA will not be having in-person meetings.
+As we did in past months, instead of our usual monthly
+meeting at Bullock's, we'll have a special net. The net will be at 7pm
+on April 6th, our usual meeting time, on the linked 145.45- 
+repeater (PL tone of 82.5). You can also check-in over the
+Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net
+will be check-ins (in place of our usual introductions), officer reports
+and a rag chew round table discussion.
+Best,
+Jack, KM4MBG, 4/6/21
+March 2 Program: DFMA Meeting on the Air
+Until outbreak conditions improve,
+the DFMA will not be having in-person meetings.
+As we did in past months, instead of our usual monthly
+meeting at Bullock's, we'll have a special net. The net will be at 7pm
+on March 2nd, our usual meeting time, on the linked 145.45- 
+repeater (PL tone of 82.5). You can also check-in over the
+Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net
+will be check-ins (in place of our usual introductions), officer reports
+and a rag chew round table discussion.
+Best,
+Jack, KM4MBG, 2/27/21
+February 2 Program: DFMA Meeting on the Air
+Until outbreak conditions improve,
+the DFMA will not be having in-person meetings.
+As we did in past months, instead of our usual monthly
+meeting at Bullock's, we'll have a special net. The net will be at 7pm
+on February 2nd, our usual meeting time, on the linked 145.45- 
+repeater (PL tone of 82.5). You can also check-in over the
+Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net
+will be check-ins (in place of our usual introductions), officer reports
+and a rag chew round table discussion.
+Best,
+Jack, KM4MBG, 1/30/21
+Joanna Marie George, KE4QOZ, sk
+January 2, 2021
+Joanna at a DFMA Board Meeting
+in 2009
+Image courtesy  of KU4GC
+Hillsborough, North Carolina - Joanna Marie George, 80, passed away on
+Saturday, January 2, 2021 at her home. She was born in Durham, the daughter
+of the late Charles Oral Huffer and Sarah Isenhour Huffer. Mrs. George is
+predeceased by her husband of 59 years, Dr. Rhett T. George, Jr.
+Mrs. George worked at Duke University with the University Research Council.
+At Duke, she met Rhett and they married in 1961. Mrs. George retired from
+Wilmore Electronics as an Electronic Technician. Together with Rhett, she
+helped promote safe boating through the United States Power Squadron. She
+was very active in retirement as part of the Orange County Board of
+Elections, with the Orange County VITA Tax Program, and especially quilting.
+A lifelong artist, she worked in a variety of mediums over the years but
+fabric arts was her true passion. She was in the Cherry Creek Lane Quilters,
+in the Durham Orange Quilt Guild, and in the Tuesday Donations Quilts Group
+at the Passmore Center.
+Mrs. George is survived by her son, Charles R. George (Dawn); sister, Susan
+Huffer Gay (Curtis); and grandchildren, Caitlin George Kalen (Alex) and
+Ashlee George.
+The family would like to thank the many people who helped us and prayed for
+our family during this difficult time. We especially want to acknowledge the
+thoughtful, caring assistance provided from Mrs. George's quilting friends,
+Visiting Angels of Carrboro, and staff of Duke HomeCare and Hospice.
+A memorial service will be held at a later date.
+In lieu of flowers, the family requests that memorial donations be made to
+McMannen United Methodist Church, 4102 Neal Road, Durham NC 27705.
+The family is being assisted by Clements Funeral & Cremation Services, Inc.
+in Durham. Online condolences may be sent to www.clementsfuneralservice.com.
+Taken from The Herald Sun on Jan. 10, 2021.
+Joanna, KE4QOZ -- In Appreciation
+In January, the ham community lost the other half of the George duo, following Rhetts (KE4HIH) passing   by about a half of a month.  Joanna and Rhett were among the most faithful attendees of our monthly club meetings.  I met Joanna at DFMA meetings soon after I got my ticket in 1997.  Joanna was first licensed in 1994, following Rhett by about a year.  Joanna was active in the club in various ways.  She served a period as DFMA secretary.  She actively supported the club at the annual DurHamFests.  In the last decade or so she managed the DFMA Club Table and tried to make sure that Rhett didnt take home much more than he had brought.  She and Rhett also hosted the DFMAs annual Picnic for many years.  Often that included access to their swimming pool (not to forget Rhetts trains).
+In addition, Joanna will be remembered for her many other activities.  She was an avid quilter and had a room at home dedicated to her extra large quilting frame.  For years she worked with the Orange County Board of Elections as a precinct official.  This did mean that Rhett often had to attend the November DFMA meeting alone.   She and Rhett were very active in supporting the U S Power Squadron promoting safe boating.  Joanna was also very active in VITA (Volunteer Income Tax Assistance) for low income clients.
+Joanna was an accomplished cook and hostess. In addition to the DFMA Picnic,  she and Rhett annually hosted a Procrastinator's Christmas Party in the following new year.  There were always many interesting guests.  (Parking them on their steep hillside property was Rhetts specialty).  However Joannas coleslaw was eagerly anticipated at the annual Field Day activities.
+But, of course, her other major interest was Rhett.  They did many things together.  They even had his and hers electric tractors (vintage GE Electraks employing 6V golf cart style batteries).  And they had fun: you all will probably remember that during self-introductions at meetings Joanna would give her base as Hillsborough while Rhett gave his as Scarletts Ridge.
+Dee, KU4GC 1/28/2021
+January 5 Program: DFMA Meeting on the Air
+Until outbreak conditions improve,
+the DFMA will not be having in-person meetings.
+As we did in past months, instead of our usual monthly
+meeting at Bullock's, we'll have a special net. The net will be at 7pm
+on January 5th, our usual meeting time, on the linked 145.45- 
+repeater (PL tone of 82.5). You can also check-in over the
+Internet via Echolink/SVXLink to the WR4AGC-R node. The format of the net
+will be check-ins (in place of our usual introductions), officer reports
+and a rag chew round table discussion.
+Best,
+Jack, KM4MBG, 1/2/21

@@ -1,0 +1,170 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'Generator', 'content': 'Drupal 7 (http://drupal.org)'}
+{'name': 'apple-mobile-web-app-title', 'content': 'Miniatures.org'}
+{'name': 'application-name', 'content': 'Miniatures.org'}
+{'name': 'msapplication-TileColor', 'content': '#ffc40d'}
+{'name': 'msapplication-TileImage', 'content': '/sites/new.miniatures.org/files/favicons/mstile-144x144.png'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=0.5, user-scalable=yes'}
+
+Body Text:
+Home | National Association of Miniature Enthusiasts
+Skip to main content
+National Association of Miniature Enthusiasts
+Search
+Search
+Home
+About NAME
+History of Miniatures
+Allegra’s Dream
+The Art of Miniatures by Walter Arnell
+Mini Mag Index (courtesy of Kendra Sechovec)
+NAME is proud to be:
+NAME Info
+Board of Trustees
+Bulletin Board
+Regional Info
+Newsletters
+Support Staff
+The Miniature Gazette
+Code of Ethics
+Contact NAME
+Events
+Houseparties and Conventions
+2024 Franklin National Convention
+2025 Cincinnati National Convention
+NAME Scholarship
+NAME Day 2024
+Makitz
+Show Calendar
+Show List
+Submit an Event to the Calendar
+Connect
+NAME Clubs
+Mini Cyber Club
+PODs
+Sunday Chat
+Miniature Links
+NAME on Pinterest
+NAME Email Group
+NAME Facebook Group
+Create Miniatures
+Shop
+Join or Renew NAME
+Donate
+List of NAME Business Members
+List of NAME Member Shops
+NAME Gazette
+Login
+NAME Business Members
+This Business is a Proud Supporter of NAME!
+Twin Heart
+​​​​​​​www.twinheart.com
+pat@twinheart.com
+For Current
+NAME Auction
+Click Here
+Recent Regional Newsletters
+E-3 April 2024 Newsletter
+N2 Spring Newsletter
+A1 March Newsletter 2024
+NAME News March 1, 2024
+N3 Winter 2024 Newsletter
+more
+2024 Franklin National Convention
+2025 Cincinnati, OH  National Convention
+Some Reasons to Be a Member:
+To Enjoy
+Friends
+Who also enjoy minis
+To Receive
+the
+Gazette
+6 per Year
+To Have
+Online Access
+to the Current Gazettes
+To Belong
+to NAME
+Clubs
+To Participate
+in
+NAME Day
+(Limited Edition Kits & Kit Sales)
+To Participate
+in
+Makitz
+Projects (Limited Edition Kits)
+To Attend
+Houseparties
+&
+Nationals
+(including Online)
+To
+Teach
+at NAME Major Events (including Online)
+To
+Sell
+at NAME Major Events (including Online)
+To Receive
+a
+Discount
+for NAME Online Workshop
+To Receive
+a
+Discount
+from Select Shop & Business Members
+Time to renew?
+Go here and select your membership type to renew your Membership.
+You are currently logged in.
+Thanks for supporting
+NAME!
+Moving, or recently moved?
+Click here to change your address with
+the NAME office and Gazette.
+Click Here to Logout from Miniatures.org
+(You only need to do this if you are using a computer with public access.)
+Our Mission Statement
+It is the mission of the National Association of Miniature Enthusiasts to promote miniatures
+through
+education
+,
+collecting
+, and
+building friendships
+and
+skills
+through the
+sharing of experience and
+ideas
+.
+Having trouble with the website? Please
+click here
+to contact us about it.
+Like Miniatures.org on Facebook
+_____ ____ ___ __ _ __ ___ ____ _____
+NAME House and Museum
+and also our Mailing Address:
+130 N. Rangeline Road,
+Carmel, IN 46032
+Phone: (317) 571-8094
+FAX: (317) 571-8105
+Powered by
+Drupal
+2024                                 National Association of Miniature Enthusiasts- This is a Free Drupal Theme
+Ported to Drupal for the Open Source Community by
+Drupalizing
+, a Project of
+More than (just) Themes
+. Original design by
+Simple Themes
+.
+X
+Username
+*
+Password
+*
+Request new password

@@ -1,0 +1,63 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Subud is an association of people from different religions, beliefs, nationalities and cultures. Its members experience a direct contact between themselves and the Great Life Force, or the power of God.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Subud USA - Home'}
+{'property': 'og:description', 'content': 'Subud is an association of people from different religions, beliefs, nationalities and cultures. Its members experience a direct contact between themselves and the Great Life Force, or the power of God.'}
+{'property': 'og:url', 'content': 'https://subudusa.org/'}
+{'property': 'og:site_name', 'content': 'Subud USA'}
+{'property': 'article:modified_time', 'content': '2023-11-27T18:32:21+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'msapplication-TileImage', 'content': 'https://subudusa.org/wp-content/uploads/2019/05/subud-of-logo.png'}
+{'itemprop': 'name', 'content': 'Subud USA'}
+
+Body Text:
+Subud USA - Home
+Skip to content
+Menu
+What is Subud
+Subud In Action
+SD USA – Humanitarian
+SICA USA – Cultural
+SESI – Enterprise
+SYAI – Youth
+WSA – International
+MSF – Muhammad Subuh Foundation
+Contact Us
+Members
+Login
+Logout
+Donate
+Welcome to Subud USA
+Muhammad Subuh Sumohadiwidjojo
+- Founder, Subud
+ABOUT  SUBUD
+Subud is an association of people from different religions, beliefs, nationalities and cultures. Its members experience a direct contact between themselves and the Great Life Force, or the power of God. This experience, which we call latihan kejiwaan, is received in the form of spontaneous movements or understandings that are unique for each person. It is not learned or taught, but is something natural, arising within us.
+Many of our members are active in social, cultural and entrepreneurial activities that aim to benefit humankind.
+Amani Event Center, Beltsville, MD
+Seattle Group Airbnb Enterprise
+Leah Hawkins, Chelsea Center, NYC
+Hamilton Cheifetz, cellist
+Beautiful Portland - Feeding the Hungry
+Inner City School Project (LA) - Delivering Clothes
+Inner City School Project (LA) - Art Supplies
+Cultural, Humanitarian and Enterprise Projects within Subud USA
+Subud has no theories or dogma, no teachers, no leaders. All people are welcome and can share this experience to discover their own true self and human potential through the inner guidance of the latihan.
+SUBUD HAS
+MEMBERS IN OVER
+80
+COUNTRIES
+Worldwide
+Subud USA has around 2000 members, and more than 50 groups across the country.
+TO LEARN MORE ABOUT SUBUD
+Please Contact Us
+Subud USA • 4216 Howard Road • Beltsville, MD 20705
+The name Subud® and the Seven Circles Symbol are both registered marks of the World Subud Association
+Statement of Diversity and Inclusion
+Website powered by
+Neon One

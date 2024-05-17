@@ -1,0 +1,180 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'x-ua-compatible', 'content': 'ie=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'name': 'generator', 'content': 'Gatsby 5.12.6'}
+{'name': 'theme-color', 'content': '#663399'}
+{'name': 'description', 'content': '<p>MCNC Board of Directors Meeting Schedule&nbsp; Date Time January 30, 2024, Tuesday 1:00 PM â\x80\x93 3:30 PM April 30, 2024, Tuesday 1:00 PM â\x80\x93 3:30 PM July 30, 2024, Tuesday [&hellip;]</p>\n', 'data-gatsby-head': 'true'}
+{'property': 'og:title', 'content': 'Board of Directors - MCNC', 'data-gatsby-head': 'true'}
+{'property': 'og:description', 'content': '<p>MCNC Board of Directors Meeting Schedule&nbsp; Date Time January 30, 2024, Tuesday 1:00 PM â\x80\x93 3:30 PM April 30, 2024, Tuesday 1:00 PM â\x80\x93 3:30 PM July 30, 2024, Tuesday [&hellip;]</p>\n', 'data-gatsby-head': 'true'}
+{'property': 'og:image', 'content': '', 'data-gatsby-head': 'true'}
+{'property': 'og:type', 'content': 'website', 'data-gatsby-head': 'true'}
+{'property': 'og:url', 'content': 'https://www.mcnc.org/who-we-are/board-of-directors/', 'data-gatsby-head': 'true'}
+{'name': 'twitter:card', 'content': 'summary', 'data-gatsby-head': 'true'}
+{'name': 'twitter:creator', 'content': '', 'data-gatsby-head': 'true'}
+{'name': 'twitter:title', 'content': 'Board of Directors - MCNC', 'data-gatsby-head': 'true'}
+{'name': 'twitter:description', 'content': '<p>MCNC Board of Directors Meeting Schedule&nbsp; Date Time January 30, 2024, Tuesday 1:00 PM â\x80\x93 3:30 PM April 30, 2024, Tuesday 1:00 PM â\x80\x93 3:30 PM July 30, 2024, Tuesday [&hellip;]</p>\n', 'data-gatsby-head': 'true'}
+{'name': 'twitter:image', 'content': '', 'data-gatsby-head': 'true'}
+{'name': 'robots', 'content': 'index, follow', 'data-gatsby-head': 'true'}
+
+Body Text:
+Board of Directors - MCNC
+Site Search
+Top Navigation
+Client Login
+Support
+Search
+Contact Us
+Mobile Menu Toggle
+Main Navigation
+Client Login
+Support
+What We Do
+Back
+What We Do
+Connecting North Carolina
+Advancing Our State
+Creating Solutions
+Leading Innovation
+Who We Serve
+Back
+Who We Serve
+Colleges and Universities
+Community Colleges
+K-12 Schools
+Healthcare Institutions
+Libraries
+Governments
+Cultural Institutions
+Electric Cooperatives
+Nonprofits
+Public Safety
+Research Institutions
+Agriculture Research and Co-ops
+Our Solutions
+Back
+Our Solutions
+Connectivity
+Cybersecurity
+Consulting
+Data Center
+Collaboration
+Knowledge Center
+Back
+Knowledge Center
+HERO Project
+12 Days of Broadband
+Community Day 2023
+Case Studies
+News & Perspectives
+Community Connect Podcast
+Awards
+Training & Events
+Resources Library
+Who We Are
+Back
+Who We Are
+Our Community Map
+Our Team
+CEO's Corner
+Advisory Council
+Board of Directors
+Careers
+History
+Contact Us
+Directions
+Media
+Diversity
+OFCCP
+Policies
+Board of Directors
+MCNC is governed by the Board of Directors, who are primarily business leaders in education and technology sectors. The Board of Directors are the only component of the governance and advisory structure with fiduciary responsibility.
+MCNC Board of Directors Meeting ScheduleÂ
+Date
+Time
+January 30, 2024, Tuesday
+1:00 PM â 3:30 PM
+April 30, 2024, Tuesday
+1:00 PM â 3:30 PM
+July 30, 2024, Tuesday
+1:00 PM â 3:30 PM
+October 29, 2024, Tuesday
+1:00 PM â 3:30 PM
+MCNC Finance and Audit Committee Meeting ScheduleÂ
+Date
+Time
+January 30, 2024, Tuesday
+11:00 AM â 1:00 PM
+April 30, 2024, Tuesday
+11:00 AM â 1:00 PM
+July 30, 2024, Tuesday
+11:00 AM â 1:00 PM
+October 29, 2024, Tuesday
+11:00 AM â 1:00 PM
+Myra Best
+Executive Director
+digiLEARN
+Ray Carey
+Head of NextLevel Operations
+Level Equity
+Tracy Doaks     (Ex Officio)
+President & CEO
+MCNC
+Patrick H. Fleming
+Senior Vice President & Chief Information Officer
+North Carolina Community College System (NCCCS) Office
+Tracy Futhey (Vice Chair)
+Vice President for Information Technology / CIO
+Duke University
+Penny Gordon-Larsen
+Vice Chancellor for Research
+UNC Gillings School of Global Public Health
+Dennis Kekas
+Senior Advisor, Research & Engineering / ECE Professor of Practice
+North Carolina State University (NCSU)
+Charles Maimone
+Vice Chancellor
+Finance and Administration
+North Carolina State University (NCSU)
+Tracy Olson
+Chief Executive Officer
+NCTNA
+Ajit Sivadasan
+VP/GM
+Lenovo
+Maria S. Thompson
+Executive Government Advisor, Cybersecurity
+Amazon Web Services (AWS)
+Keith Werner      (Chair)
+Chief Information Officer
+Information Technology Services
+Appalachian State University
+A. Hope Williams
+President
+North Carolina Independent Colleges and Universities (NCICU)
+Vanessa Wrenn
+Chief Information Officer
+North Carolina Department of Public Instruction (NC DPI)
+The MCNC Advisory Council (MAC) provides valuable strategic advice to MCNC and the Board of Directors.
+View the Members of the Advisory Council
+MCNC
+PO Box 12889
+3021 East Cornwallis Road
+RTP, NC 27709-2889
+919-248-1900
+Phone
+| 919-248-1101 Fax
+Footer Navigation
+Directions
+Media
+Diversity
+OFCCP
+Policies
+Connect With Us
+linkedin
+instagram
+x
+facebook
+youtube
+Subscribe
+Â© 2024 MCNC

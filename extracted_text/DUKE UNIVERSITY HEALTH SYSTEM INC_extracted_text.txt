@@ -1,0 +1,103 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'property': 'og:site_name', 'content': 'Duke Health'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://www.dukehealth.org/'}
+{'property': 'og:title', 'content': 'Duke Health | Connect with your health care at Duke Health'}
+{'property': 'og:description', 'content': 'As a world-class academic and health care system, Duke Health strives to transform medicine and health locally and globally.'}
+{'property': 'og:image', 'content': 'https://www.dukehealth.org/sites/default/files/blog_post/duke_health_white_logov2_1.jpg'}
+{'name': 'Generator', 'content': 'Drupal 10 (https://www.drupal.org)'}
+{'name': 'MobileOptimized', 'content': 'width'}
+{'name': 'HandheldFriendly', 'content': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'description', 'content': 'As a world-class academic and health care system, Duke Health strives to transform medicine and health locally and globally.'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'google-site-verification', 'content': '5y1A1OK8Kh3ZGRNn0SicEnyzuPTvvqAP-zNt64i3kXE'}
+{'itemprop': 'telephone', 'content': '+8558556484'}
+
+Body Text:
+Duke Health | Connect with your health care at Duke Health
+Skip Navigation
+Menu
+Search
+Submit
+Duke Health
+Find a Doctor
+Search Treatments
+Find a Location
+Schedule Appointments Online
+For Providers and Researchers
+Provider Resources
+Career Opportunities
+Duke School of Medicine
+Give Us a Call
+855-855-6484
+What's New
+Cancer Appointments Within 48 Hours
+Our Oncology Access Center team members will schedule your initial comprehensive appointment with a Duke Oncology provider.
+Learn more
+.
+Stay Safe and Healthy Playing Pickleball
+Pickleball is one of the fastest-growing sports enjoyed by young and old. While it’s a great way to be active and social, it’s also important to stay healthy and safe. Here,
+Kendall Bradley, MD
+, a sports medicine orthopaedic surgeon at
+Duke Sports Medicine Green Level in Cary
+, offers 5 tips to prevent injury and enjoy the game.
+Tonsil Cancer Diagnosis, Treatment, and All Clear in Less Than Six Months
+When a suspicious
+lump in her neck
+wouldn’t go away, 52-year-old Kim Barnard learned she had
+cancer
+. The Roxboro, NC resident’s first move was transferring her care to Duke Health, where a team of head and neck oncologists worked quickly to confirm her diagnosis and begin treatment. After undergoing treatment, Barnard shows no evidence of cancer, is back to work, and is spending time with her beloved family, dog, and horses.
+Duke Health Blog
+More Stories
+When to Take Your Sick Child to the Pediatrician
+Duke Program Helps Families Talk About Parent’s Cancer
+What You Need to Know About Deep Brain Stimulation
+Events
+See All
+May
+16
+Aqua Cardio
+Thursday, 4:45PM - 5:30PM
+May
+16
+General Cancer Support Group (Virtual Event)
+Thursday, 5:00PM - 6:00PM
+May
+16
+Getting on Track Weight Loss Program
+Thursday, 5:30PM - 6:30PM
+May
+16
+Interval Power
+Thursday, 5:45PM - 6:30PM
+Back to Top
+Support Duke Health research or honor a loved one with a tribute gift.
+Giving to Duke Health
+Duke Health Home Page
+Facebook
+Twitter
+YouTube
+Instagram
+LinkedIn
+855-855-6484
+Duke Health Anti-Racism Pledge
+Notice of Nondiscrimination
+Notice of Privacy Practices
+Accessibility
+Price Transparency
+Terms and Conditions
+Website Privacy Policy
+Duke Children's
+Duke School of Medicine
+Duke School of Nursing
+Duke University
+About Duke Health
+Careers
+Contact Us
+Email Sign Up
+Giving
+Newsroom
+Referring Physicians
+Copyright © 2004-2024 Duke University Health System

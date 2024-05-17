@@ -1,0 +1,218 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'application-name', 'content': '\xa0'}
+{'name': 'msapplication-TileColor', 'content': '#FFFFFF'}
+{'name': 'msapplication-TileImage', 'content': '/images/favicons/mstile-144x144.png'}
+{'name': 'msapplication-square70x70logo', 'content': '/images/favicons/mstile-70x70.png'}
+{'name': 'msapplication-square150x150logo', 'content': '/images/favicons/mstile-150x150.png'}
+{'name': 'msapplication-wide310x150logo', 'content': '/images/favicons/mstile-310x150.png'}
+{'name': 'msapplication-square310x310logo', 'content': '/images/favicons/mstile-310x310.png'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'title', 'content': 'Crown Castle | Communications Infrastructure Solutions'}
+{'property': 'og:title', 'content': 'Crown Castle | Communications Infrastructure Solutions'}
+{'name': 'description', 'content': "Crown Castle is the nation's largest provider of shared communications infrastructure—cell towers, small cells, fiber—connecting people and businesses to data & technology."}
+{'property': 'og:description', 'content': "Crown Castle is the nation's largest provider of shared communications infrastructure—cell towers, small cells, fiber—connecting people and businesses to data & technology."}
+{'name': 'og:image', 'content': 'http://www.crowncastle.com/images/homepage_mobile_image.jpg'}
+{'name': 'image', 'property': 'og:image', 'content': 'http://www.crowncastle.com/images/homepage_mobile_image.jpg'}
+{'property': 'og:url', 'content': 'https://www.crowncastle.com/'}
+
+Body Text:
+Crown Castle | Communications Infrastructure Solutions
+Municipalities
+Property Owners
+Investors
+CCIsites
+Careers
+About us
+Infrastructure Solutions
+View all solutions
+See our network map
+Wireless solutions
+Towers
+Small cells
+Fiber solutions
+Dark Fiber
+Wavelength
+Ethernet
+Internet Access
+Private Networks
+Colocation
+Managed SD-WAN
+Added fiber solutions
+Cloud Connect
+Optical Encryption
+DDoS Defense
+Fixed Wireless
+Ultra-Low Latency
+Video Transport
+Security and Managed Solutions
+Managed SD-WAN
+Secure Remote User
+DDoS Defense
+Close submenu
+Industry expertise
+Overview
+Service delivery
+Case studies
+Accelerating network connections
+Financial Services
+Professional Services
+Technology Companies
+Gaming
+Media & Entertainment
+Transforming Public Infrastructure
+Federal Government
+State and Local Government
+Education
+Healthcare
+Utilities
+Public Safety
+Scaling Networks Nationwide
+Wireless Carriers
+Broadcast
+WISPs and Other Telecoms
+Cable
+Wholesale
+Enhancing Visitor Experiences
+Commercial Real Estate
+Venues
+Hospitality
+Retail
+Building Industrial Networks
+Manufacturing
+Oil and Gas
+Internet of Things
+Transportation
+Close submenu
+YOUR COMMUNITY
+News
+Municipalities
+Property Owners
+Investors
+CCIsites
+Careers
+Search
+Search
+Play video
+Life connects here.
+Scroll
+What possibilities can we open for you?
+Communities
+We keep you connected to what you care about most.
+Communities
+Learn how
+Businesses and organizations
+We provide the connections that will transform the way you do business.
+Businesses and organizations
+Get started
+Why our work matters.
+Life and business demand more data, in more places—faster than ever before.
+80%
+of 911 calls are made from wireless phones (Ericsson)
+43b
+devices, sensors and transmitters will be connected by 2023 (Accenture)
+98%
+of businesses plan to use multicloud architecture by 2021 (IBM Institute for Business Value)
+How we bring possibility to life.
+Technology is changing fast, and we're keeping pace. We're leading the way adopting groundbreaking innovations that will bring exciting new technologies to your business and community—from new advancements in wireless technology like CBRS and edge solutions or innovative ways to deploying infrastructure like microtrenching.
+LEARN MORE ABOUT CBRS
+LEARN MORE ABOUT DRONES
+LEARN MORE ABOUT EDGE SOLUTIONS
+LEARN MORE ABOUT FIXED
+WIRELESS
+LEARN MORE ABOUT MICROTRENCHING
+Serving industries with expertise.
+1
+/
+6
+Accelerating network connections
+We help businesses meet their connectivity demands by maximizing speed and driving down latency.
+Financial Services
+Professional Services
+Technology Companies
+Gaming
+Media & Entertainment
+Transforming public infrastructure
+We provide critical network upgrades to help public institutions and other organizations stay connected with their communities.
+Federal Government
+State and Local Government
+Education
+Healthcare
+Utilities
+Public safety
+Scaling networks nationwide
+We help content and service providers reach every corner of the country through wireless and fiber connectivity.
+Wireless Carriers
+Broadcast
+WISPs and other telecoms
+Cable
+Wholesale and Hyperscale
+Enhancing visitor experiences
+We use connectivity to transform indoor and outdoor spaces—creating more engaging and productive experiences for work and life.
+Commercial Real Estate
+Venues
+Hospitality
+Retail
+Building industrial networks
+We build networks that keep modern industrial systems connected—supporting ecosystems at any scale.
+Manufacturing
+Oil and Gas
+Internet of Things
+Transportation
+Don't see your industry?
+Technology and the way people work are constantly evolving. That’s why all businesses, regardless of industry, are undergoing some form of digital transition. If you don’t see your industry listed, we still want to work with you—let's get started.
+Contact Us
+A place for passionate people.
+We’re always looking for ambitious, self-motivated people who want to transform the world with us.
+Join Us
+WIRELESS SALES & SUPPORT:
+1-877-486-9377
+FIBER SALES & SUPPORT:
+1-855-91-FIBER
+FIBER NETWORK OPERATIONS:
+1-855-93-FIBER
+Network Operations Center
+Careers
+Channel Partners
+Municipalities
+Investors
+Fiber Referral Rewards
+Connected by Good
+ESG Overview
+Suppliers
+Media Center
+Resources
+Our History
+Contact Us
+© 2024 Crown Castle
+Terms of Use
+Privacy Statement
+Ethics Policy
+Regulatory Status
+Acceptable Use
+Let's talk about Colocation.
+Fill out the form below and one of our Colocation experts will connect with you soon.
+First Name
+*
+Last Name
+*
+Company
+*
+Email
+*
+Zip
+*
+Submit
+!
+Error submitting form.
+Thanks for connecting.
+We’re reviewing your message and will be in touch shortly. In the meantime, learn more about how our Colocation enterprise solution can help keep people and businesses across the country connected.
+Learn more
+Close form and cancel download
+This website uses cookies to ensure you get the best experience. By continuing to use our site, you accept the use of cookies, and our
+Privacy Policy
+and
+Terms of Use
+.
+I accept

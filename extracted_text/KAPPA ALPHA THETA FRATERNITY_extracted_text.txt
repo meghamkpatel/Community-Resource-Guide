@@ -1,0 +1,153 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, viewport-fit=cover'}
+{'name': 'generator', 'content': 'SEOmatic'}
+{'name': 'keywords', 'content': 'Thetas,Kappa Alpha Theta,KAT,Bettie Locke Hamilton'}
+{'name': 'description', 'content': "There are many organizations we can join as collegians and alumnae. But Theta isn't like other organizations. Our members are different; we aren't afraid…"}
+{'name': 'referrer', 'content': 'no-referrer-when-downgrade'}
+{'name': 'robots', 'content': 'all'}
+{'content': 'KappaAlphaTheta', 'property': 'fb:profile_id'}
+{'content': 'en_US', 'property': 'og:locale'}
+{'content': 'Kappa Alpha Theta', 'property': 'og:site_name'}
+{'content': 'website', 'property': 'og:type'}
+{'content': 'https://www.kappaalphatheta.org/', 'property': 'og:url'}
+{'content': 'Homepage', 'property': 'og:title'}
+{'content': "There are many organizations we can join as collegians and alumnae. But Theta isn't like other organizations. Our members are different; we aren't afraid…", 'property': 'og:description'}
+{'content': 'https://d1j8dcgobb3n6i.cloudfront.net/other/_1200x630_crop_center-center_82_none/ThetaStacked1200x630.jpg?mtime=1551740860', 'property': 'og:image'}
+{'content': '1200', 'property': 'og:image:width'}
+{'content': '630', 'property': 'og:image:height'}
+{'content': 'Theta women standing together', 'property': 'og:image:alt'}
+{'content': 'https://www.instagram.com/kappa_alpha_theta', 'property': 'og:see_also'}
+{'content': 'https://www.facebook.com/KappaAlphaTheta', 'property': 'og:see_also'}
+{'content': 'https://twitter.com/bettielocke', 'property': 'og:see_also'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@BettieLocke'}
+{'name': 'twitter:creator', 'content': '@BettieLocke'}
+{'name': 'twitter:title', 'content': 'Homepage'}
+{'name': 'twitter:description', 'content': "There are many organizations we can join as collegians and alumnae. But Theta isn't like other organizations. Our members are different; we aren't afraid…"}
+{'name': 'twitter:image', 'content': 'https://d1j8dcgobb3n6i.cloudfront.net/global/Heroes/_800x418_crop_center-center_82_none/hi-res-Mon-Sep-20-2021-19_16_24-GMT-0500-Central-Daylight-Time-Lumatic-110_2021-11-02-211314_jgep.jpg?mtime=1635887594'}
+{'name': 'twitter:image:width', 'content': '800'}
+{'name': 'twitter:image:height', 'content': '418'}
+{'name': 'twitter:image:alt', 'content': 'Theta women standing together'}
+
+Body Text:
+Homepage | Kappa Alpha Theta
+Heritage
+Shop
+Magazine
+News & Events
+Contact
+Donate
+Member Login
+Pay Alumnae Dues
+Members
+Programs & Resources
+Recognition
+Parents, Families, & Support Systems
+Life Loyal
+Share Your Theta Story
+The Friendship Fund
+ThetaConnect
+Alumnae
+Alumnae Dues
+Join Theta
+Recruitment Information
+Establishing a College Chapter
+Introduce a Potential New Member
+Find a Chapter
+College Chapters
+Alumnae Groups
+Foundation
+About Theta Foundation
+How to Give to Theta Foundation
+Scholarships & Grants
+Planned Giving
+Make a General Donation
+Pansy Patch
+Theta for Good Program
+Housing
+About Housing
+Donate to Housing
+Fraternity Housing Corporation Benefits
+Facility Job Openings
+About Us
+The Kite
+Theta Headquarters & Heritage Museum
+Theta Facts
+Philanthropy
+Our Leadership
+Careers
+Diversity, Equity & Inclusion
+Position Statements
+Search
+Welcome to Kappa Alpha Theta
+Theta is a sisterhood built upon support, love, and authenticity. Thetas are passionate, driven, and strong, and they stand up for what they believe in. Kappa Alpha Theta is an organization that provides opportunities for members to develop into leaders who uplift and inspire others to become their very best.
+About Theta
+Potential New Members
+We're so excited you're interested in joining Theta! Get recruitment tips, find your college chapter, and learn more about our organization.
+Learn More About Theta
+Collegians
+Already a member? Explore wellbeing resources, leadership programs, member training, and more.
+Learn More About Collegian Resources
+Alumnae
+Learn how to stay connected to Theta through volunteering, donating, and mentoring younger members.
+Learn More About Alumnae Life
+Recent Blogs
+Kappa Alpha Theta to Reestablish Zeta Kappa Chapter
+05/13/2024
+After 24 years, Zeta Kappa Chapter at the University of South Carolina is returning home!
+Keep Reading
+Theta Foundation's Pansy Patch: 15 Years of Planting Pansies
+05/06/2024
+Pansy Patch is Kappa Alpha Theta Foundation’s official Grand Convention fundraiser.
+Keep Reading
+Answering the Call: Celebrating Theta Volunteers
+By Megan Brady,
+04/22/2024
+Volunteering can be challenging and complex, but our Theta volunteers make it look easy!
+Keep Reading
+Build Connections with ThetaConnect
+Do you want to connect with Thetas from all over? ThetaConnect is a free members-only networking site with more than 12,000 members registered!
+Registering only takes a few minutes, and once you sign up, you can:
+Connect (or reconnect) with members from your college chapter,
+Search for a mentor in your professional field to help level-up your career,
+Browse the Job Board to find positions near you, and
+So much more!
+Join ThetaConnect
+Theta History
+Theta History
+Are you interested in Theta history or artifacts? Explore the story of Theta through our collections, exhibits, articles, and blogs, and learn how leading women make history.
+Learn More About Theta History
+Read the
+Theta Magazine
+Check out the latest issue of the
+Kappa Alpha Theta Magazine
+to find news and updates from Theta, and stories about real members, chapters, and the organization as a whole.
+Read the Magazine
+Update Your Information
+Members
+Join Theta
+Find a Chapter
+Foundation
+Housing
+About Us
+Contact
+Financial Statements
+Kappa Alpha Theta
+8740 Founders Road
+Indianapolis, IN 46268
+800-526-1870
+Email Us
+Facebook
+LinkedIn
+Pinterest
+Instagram
+Vimeo
+© 2024 Kappa Alpha Theta
+|
+Website Terms of Use
+|
+Privacy Policy
+Pansy Patch Is Now Blooming
+Celebrate a Theta and watch the Pansy Patch grow! Members, along with their families, friends, and supporters, can honor the special Thetas in their lives by sending pansies from the Pansy Patch.
+Purchase Pansies

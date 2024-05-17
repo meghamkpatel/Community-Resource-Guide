@@ -1,0 +1,37 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'f9ccdd27-12ab-40bc-9f40-66c7dd7a736b'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'b649d427-9b50-4ba4-a8e7-ddccca41cba2'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '196'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Global Haven Learning Center, Inc. (GHLCinc), a Christian Private School, is organized exclusively for educational purposes more specifically to provide the learning opportunities virtually, for students enrolled in grades 3-5 and foster the teaching of Jesus Christ our Lord and Savior.'}
+{'property': 'og:title', 'content': 'ABOUT US | ghlcinc'}
+{'property': 'og:description', 'content': 'Global Haven Learning Center, Inc. (GHLCinc), a Christian Private School, is organized exclusively for educational purposes more specifically to provide the learning opportunities virtually, for students enrolled in grades 3-5 and foster the teaching of Jesus Christ our Lord and Savior.'}
+{'property': 'og:url', 'content': 'https://www.globalhavenlearningcenter.com/about-us'}
+{'property': 'og:site_name', 'content': 'ghlcinc'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'UrvYgSDvSr27YVvcfJio86q2ZVmPbyU-xhGEgADQs6k'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'ABOUT US | ghlcinc'}
+{'name': 'twitter:description', 'content': 'Global Haven Learning Center, Inc. (GHLCinc), a Christian Private School, is organized exclusively for educational purposes more specifically to provide the learning opportunities virtually, for students enrolled in grades 3-5 and foster the teaching of Jesus Christ our Lord and Savior.'}
+
+Body Text:
+ABOUT US | ghlcinc
+top of page
+WELCOME
+HOME
+ABOUT US
+CONTACT US
+ADMISSIONS
+Brochure
+EVENTS
+More
+Use tab to navigate through the menu items.
+Global Haven Learning Center, Inc. (GHLCinc), a Christian Private School, is organized exclusively for educational purposes more specifically to provide the learning opportunities for students enrolled in grades K-5 and foster the teaching of Jesus Christ our Lord and Savior.
+bottom of page

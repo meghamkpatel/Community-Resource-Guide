@@ -1,0 +1,116 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'f6b73a56-df92-433c-a871-f73868ca33cc'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '4eeaffb6-1737-4846-80ee-3b0d99e7355d'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '331'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Golden Girlz | Soul Sanctuary'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/6017ea_605487f3ac16462aa0502edee6db1d90%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6017ea_605487f3ac16462aa0502edee6db1d90%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.soul-sanctuary.org/golden-girlz'}
+{'property': 'og:site_name', 'content': 'Soul Sanctuary'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'fUpAHO8oL55684Ap-S4CiSTjHEw7bgAIom2Kpstffow'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Golden Girlz | Soul Sanctuary'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/6017ea_605487f3ac16462aa0502edee6db1d90%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6017ea_605487f3ac16462aa0502edee6db1d90%7Emv2.png'}
+
+Body Text:
+Golden Girlz | Soul Sanctuary
+top of page
+WELCOME
+VENUE
+EVENTS
+BOOK ONLINE
+CONTACT
+More...
+Use tab to navigate through the menu items.
+Mail
+Location
+Empower Change
+Donate Here
+Our Mission
+Read about what guides us
+Our Team
+Find out who we are
+Our Land
+How to support
+Golden Girlz NC is a longer term strategy to secure and develop a site for a multigenerational, multi-racial, black feminist intentional community centered on the support of our LGBTQIA+ elders.
+​
+Soul Sanctuary encompasses the land based work of Golden Girlz.
+What Guides Us
+Mission
+Golden Girlz seeks to cultivate leadership, promote healthy livelihoods, address resource gaps in housing for BIPOC and LGBTQIA+ individuals of varied economic means, and encourage structural change towards a resilient and self-sustaining community.
+​
+​
+​
+​
+Vision
+To create a more equitable, just, and nurturing world where BIPOC and LGBTQ+ people of all income levels can live and thrive in the communities they transform.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Values
+We believe all people should have a safe, affordable place to live. We believe access to housing is health. We believe access to working lands and healthy food is a right. We believe in equitable stewardship of homeownership, land, and resources. We believe in partnerships that leverage resources and expand capacity to achieve our vision.
+​
+Goals
+Leadership development and self-agency
+Advance access to care and community for BIPOC and LGBTQ+ individuals
+Building livable communities by preserving land and homes BIPOC and LGBTQIA+ people can afford
+​
+​
+​
+Our Team
+Helena Cragg, Executive Director
+she/her
+Patricia Harris
+she/her
+Jamilia Martineau-Lopez
+she/her, they/them
+Milan Pham
+she/her
+Eden Segbefia
+they/them
+Tessa Thraves
+she/her
+Sydney Williams
+he/him
+Sylvia J. Williams
+she/her
+Committed Collaborators
+& Partners
+Sangodare Akinwale Julia Wallace,
+she/he/they/we
+​
+Alexis Pauline Gumbs,
+she/they
+Founders of the Mobile Homecoming Project
+Our
+Story
+Our Land-Based Story
+Coming soon!
+​
+Support our Building Campaign here
+Website design and build by Max Burns UX
+Return to Soul Sanctuary
+Email Us
+Find Us
+Up
+Soul Sanctuary is a
+Golden Girlz
+production
+bottom of page

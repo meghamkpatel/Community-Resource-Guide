@@ -1,0 +1,246 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'msvalidate.01', 'content': 'A30D8FD8CE2A8061A23665890CF14BE9'}
+{'name': 'google-site-verification', 'content': 'lyomW7vae6PDUB2gi1ABrwpXody5512P3bxHXNfpwUE'}
+{'name': 'google-site-verification', 'content': 'rjIoO4vW0AYgltSYvxM1L_CzGIkq28kHf9gHIASKx8s'}
+{'http-equiv': 'cleartype', 'content': 'on'}
+{'name': 'description', 'content': "Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical research. The NIH website offers health information for the public, scientists, researchers, medical professionals, patients, educators,"}
+{'name': 'keywords', 'content': 'NIH, Health, research funding, medical research, medical information, grants, biomedical, disease prevention, biological science, clinical trials'}
+{'name': 'robots', 'content': 'follow, index'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'generator', 'content': 'Drupal 7 (http://drupal.org)'}
+{'http-equiv': 'content-language', 'content': 'EN'}
+{'property': 'og:site_name', 'content': 'National Institutes of Health (NIH)'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:url', 'content': 'https://www.nih.gov/'}
+{'property': 'og:title', 'content': 'National Institutes of Health (NIH)'}
+{'property': 'og:description', 'content': "Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical research. The NIH website offers health information for the public, scientists, researchers, medical professionals, patients, educators, and students. The Site has extensive information on funding and training opportunities, clinical trials, health news and links to the many Institutes and Centers that make-up the NIH."}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:url', 'content': 'https://www.nih.gov/'}
+{'name': 'twitter:title', 'content': 'National Institutes of Health (NIH)'}
+{'name': 'twitter:description', 'content': "Official website of the National Institutes of Health (NIH). NIH is one of the world's foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the"}
+{'name': 'owner', 'content': 'NIH'}
+
+Body Text:
+National Institutes of Health (NIH) | Turning Discovery Into Health
+Skip to main content
+U.S. Department of Health & Human Services
+Search the NIH Website
+Virtual Tour
+Staff Directory
+En Español
+Site Menu
+Home
+Health Information
+Health Care Providers & Facilities
+Health Info Lines
+HealthCare.gov
+Science Education Resources
+NIH Clinical Research Trials and You
+Talking to Your Doctor
+More »
+Search Health Topics
+Quick Links
+MedlinePlus Health Info
+NIH News in Health
+Wellness Toolkits
+Grants & Funding
+Grants Home Page
+Find Funding
+Due Dates
+How to Apply
+About Grants
+Policy & Compliance
+Grants News/Blog
+Contracts
+Loan Repayment
+More »
+Quick Links
+RePORT
+eRA Commons
+NIH Common Fund
+News & Events
+News Releases
+Digital Media Kits
+Media Resources
+Media Contacts
+Images and B-roll
+Events
+Social Media
+More »
+Quick Links
+NIH News in Health
+NIH Research Matters
+NIH Record
+Research & Training
+Medical Research Initiatives
+Science Highlights
+Science Education
+Research in NIH Labs & Clinics
+Training Opportunities
+Library Resources
+Research Resources
+Clinical Research Resources
+Safety, Regulation and Guidance
+More »
+Quick Links
+PubMed
+Stem Cell Information
+OppNet
+NIDB
+NIH Blueprint for Neuroscience Research
+Institutes at NIH
+List of Institutes and Centers
+NIH Office of the Director
+Directors of NIH Institutes and Centers
+NIH Institute and Center Contact Information
+More »
+Quick Links
+NCI
+NEI
+NHLBI
+NHGRI
+NIA
+NIAAA
+NIAID
+NIAMS
+NIBIB
+NICHD
+NIDCD
+NIDCR
+NIDDK
+NIDA
+NIEHS
+NIGMS
+NIMH
+NIMHD
+NINDS
+NINR
+NLM
+CC
+CIT
+CSR
+FIC
+NCATS
+NCCIH
+About NIH
+Who We Are
+What We Do
+Jobs at NIH
+Visitor Information
+Frequently Asked Questions
+Contact Us
+More »
+Quick Links
+The NIH Director
+Take the Virtual Tour
+NIH…Turning Discovery Into Health
+®
+Impact of NIH Research
+Science, Health, and Public Trust
+Join Us for Healthy Vision Month 2024!
+NEI is shining a light on vision loss and mental health — and sharing steps people with a visual impairment can take to thrive in their daily lives.
+Learn more »
+Long COVID
+RECOVER Initiative launches clinical trials evaluating treatments for exercise intolerance, post-exertional malaise, and sleep disturbances.
+Learn more »
+May is National Speech-Language-Hearing Month
+Learn about developmental language disorder—a disorder affecting 1 in 14 kindergarteners.
+Learn more »
+Celebrating at graduation this year?
+Talk with your high school grads about celebrating safely.
+Learn more »
+STEM Teaching Resources
+Innovative NIH-funded content to engage K-12 students in health science.
+Learn more »
+In the News
+High-Risk Prostate Cancer
+New urine test can identify aggressive cancers that need treatment
+Parents Lost to Overdose
+From 2011-21, more than 321,000 children lost a parent to a drug overdose.
+Alzheimer’s Disease
+People with two copies the APOE4 gene are at much higher risk.
+Fentanyl Pill Seizures
+Law enforcement sees massive jump in confiscated amount of the drug.
+NIH at a Glance
+virtual-tour-screenshot-square.jpg
+Take the Virtual Tour
+Explore the Bethesda campus and how NIH turns discovery into health.
+monica-bertagnolli-thumbnail.jpg
+The NIH Director
+Monica M. Bertagnolli, M.D., is the NIH Director and provides leadership for the 27 Institutes and Centers that make up NIH.
+nih-at-a-glance-funding.jpg
+Funding for Research
+NIH is the largest source of funding for medical research in the world, creating hundreds of thousands of high-quality jobs.
+nih-at-a-glance-labs.jpg
+Labs at NIH
+Scientists conduct research on NIH campuses across the U.S., as part of our Intramural Research Program.
+improving-health-collage.jpg
+Impact of NIH Research
+NIH-supported research has had a major positive impact on nearly all of our lives.
+researcher-holding-petri-dish.jpg
+Jobs at NIH
+The central recruitment point of access to all NIH jobs and training opportunities
+COVID-19
+ACTIV
+A public-private partnership to develop a coordinated research strategy to speed the most promising COVID-19 vaccines and treatments.
+Rapid Acceleration of Diagnostics (RADx)
+An initiative to speed innovation in the development, commercialization, and implementation of technologies for COVID-19 testing.
+RECOVER
+A new research initiative to understand, prevent, and treat the long-term effects of COVID-19.
+COVID-19 Treatment Guidelines
+Guidelines from NIH for the diagnosis, treatment, and control of COVID-19.
+Research information from NIH
+NIH supports research in COVID-19 testing, treatments, and vaccines.
+También disponible en español.
+NIH COVID-19 Safety Plan
+Guidance to NIH staff, including employees, contractors, trainees, and volunteers, related to COVID-19.
+Featured Resources & Initiatives
+ARPA-H
+A new science agency proposed by President Joseph Biden as part of NIH to drive biomedical breakthroughs and provide transformative solutions for all patients.
+Anti-Sexual Harassment
+NIH does not tolerate pervasive or severe harassment of any kind, including sexual harassment.
+Ending Structural Racism
+Learn more about NIH’s efforts to end structural racism in biomedical research through the UNITE initiative.
+All of Us
+Research Program
+A research effort to revolutionize how we improve health and treat disease.
+NIH HEAL Initiative
+Trans-agency effort to speed scientific solutions to stem the national opioid crisis.
+Clinical Trials
+Learn about participating in clinical trials and where to find them.
+Accelerating Medicines Partnership
+A bold venture to help identify new treatments and cures for diseases.
+Medical Research Initiatives
+Important initiatives aimed at improving medical research.
+Training at NIH
+NIH provides training opportunities internally, as well as at universities and other institutions across the U.S.
+Connect with Us
+Contact Us
+X
+Facebook
+Instagram
+YouTube
+Flickr
+More Social Media from NIH
+Footer
+NIH Home
+Virtual Tour
+En Español
+Visitor Information
+Frequently Asked Questions
+Privacy Policy
+Disclaimers
+Accessibility
+NIH Website Archives
+Nondiscrimination Notice
+Freedom of Information Act
+No Fear Act
+HHS Vulnerability Disclosure
+Office of Inspector General
+USA.gov
+NIH…Turning Discovery Into Health
+®
+National Institutes of Health, 9000 Rockville Pike, Bethesda, Maryland 20892
+U.S. Department of Health and Human Services
+Back to Top

@@ -1,0 +1,108 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'World Overcomers is a black church lead by Pastor Andy Thompson. The church is located in Durham, NC and comprised of 10,000 plus members globally. Visit us today.'}
+{'name': 'robots', 'content': 'index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'World Overcomers Christian Church, Durham NC'}
+{'property': 'og:description', 'content': 'World Overcomers is a black church lead by Pastor Andy Thompson. The church is located in Durham, NC and comprised of 10,000 plus members globally. Visit us today.'}
+{'property': 'og:url', 'content': 'https://www.worldovercomers.church/'}
+{'property': 'og:site_name', 'content': 'World Overcomers Christian Church'}
+{'property': 'og:updated_time', 'content': '2024-04-09T22:08:27+00:00'}
+{'property': 'article:published_time', 'content': '2022-09-02T07:49:53+00:00'}
+{'property': 'article:modified_time', 'content': '2024-04-09T22:08:27+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'World Overcomers Christian Church, Durham NC'}
+{'name': 'twitter:description', 'content': 'World Overcomers is a black church lead by Pastor Andy Thompson. The church is located in Durham, NC and comprised of 10,000 plus members globally. Visit us today.'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'wocc_h65d2f'}
+{'name': 'twitter:label2', 'content': 'Time to read'}
+{'name': 'twitter:data2', 'content': 'Less than a minute'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'et-api-version', 'content': 'v1'}
+{'name': 'et-api-origin', 'content': 'https://www.worldovercomers.church'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://www.worldovercomers.church'}
+{'name': 'generator', 'content': 'Elementor 3.21.4; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.worldovercomers.church/wp-content/uploads/2022/08/favicon.png'}
+
+Body Text:
+World Overcomers Christian Church, Durham NC
+Skip to content
+Home
+Watch
+Give
+About
+Our Pastor
+Vision & Beliefs
+Ministries
+Connect
+Overcomers Counseling Center
+Projects of Hope
+WOCC Black Business Directory
+Store
+Events
+Contact
+Home
+Watch
+Give
+About
+Our Pastor
+Vision & Beliefs
+Ministries
+Connect
+Overcomers Counseling Center
+Projects of Hope
+WOCC Black Business Directory
+Store
+Events
+Contact
+MYWOCC
+World Overcomers Christian Church
+WATCH LIVE
+GIVE NOW
+“Balanced Victory for the God-Designed Life”
+Youtube
+Facebook-f
+Instagram
+CLICK HERE
+CLICK HERE
+CLICK HERE
+STAY CONNECTED
+Have you subscribed to our newsletter? Keep up to date with all things WOCC!
+Email
+Subscribe
+GIVING
+JOBS
+SAFETY MEASURES
+TITHING STATEMENTS
+VOLUNTEER
+EVENTS
+CONTACT US
+Youtube
+Facebook-f
+Instagram
+Sunday Worship Experience: 10:00AM (In-Person)
+World Overcomers Christian Church
+2933 S Miami Blvd, Suite 101, Durham, NC 27703
+P:
+919.402.9622
+| E:
+contact@wocconline.org
+Office Hours: Tuesday & Thursday, 9AM-5PM
+Home
+Watch
+Give
+About
+Our Pastor
+Vision & Belief
+Ministries
+Overcomers Counseling Center
+Contact
+Shop WOCC
+Connect
+Store
+Events
+Victory Park
+MY WOCC

@@ -1,0 +1,67 @@
+Meta Information:
+{'property': 'og:site_name', 'content': 'My Site Copy'}
+{'property': 'og:title', 'content': 'My Site Copy'}
+{'property': 'og:description', 'content': 'The Carolina Headache Institute (CHI) was founded by a dedicated group of academic subspecialists whose sole focus is Headache Medicine. \xa0Combining multidisciplinary practice with compassionate,...'}
+{'property': 'og:image', 'content': 'http://www.chi09.com/uploads/5/6/3/1/56314805/dr-mann_orig.png'}
+{'property': 'og:image', 'content': 'http://www.chi09.com/uploads/5/6/3/1/56314805/i-fbhspqg-xl_orig.jpg'}
+{'property': 'og:image', 'content': 'http://www.chi09.com/uploads/5/6/3/1/56314805/chi-small.png'}
+{'property': 'og:url', 'content': 'http://www.chi09.com/'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0;'}
+
+Body Text:
+My Site Copy - Home
+Home
+Services
+Patient Portal
+Research
+About
+New Patient Registration
+Contact
+Home
+Services
+Patient Portal
+Research
+About
+New Patient Registration
+Contact
+Carolina Headache Institute
+Worldclass Headache Treatment
+The Carolina Headache Institute (CHI) was founded by a dedicated group of academic subspecialists whose sole focus is Headache Medicine.  Combining multidisciplinary practice with compassionate, patient-centered care, we work to restore the quality of life of headache sufferers.
+columns
+Our Specialties
+The Carolina Headache Institute specializes in the treatment of many headache conditions .
+Medical
+​​​Chronic Migraine
+Post-traumatic Headache
+Menstrual Migraine
+Cluster Headache
+Daily Persistent Headache
+Concussion Evaluations
+Neuropsychological
+Stress Management
+Behavioral Therapy
+Neuropsychological Testing
+​Psychological Assessment
+​
+columns
+Headache News, Tips and Announcements
+It is with a heavy heart that we announce the passing of Dr. John Douglas Mann. Throughout his rich history with our practice, Dr Mann offered compassionate care to patients, mentorship and leadership to colleagues, and kindness and generosity of spirit to all who knew him. He was well known and admired throughout academia as professor and clinician, and greatly contributed to medical research in a variety of ways. It was a privilege to work alongside him professionally, and a true honor to call him friend. His humor, gentility, brilliance, and love of life will truly be missed but never forgotten.
+A celebration of Dr. Mann’s life will be held at the Carolina Inn in Chapel Hill. In lieu of flowers, the family requests donations be made in honor of his legacy to one of the following organizations:
+-To make a donation to the Department of Neurology at UNC so they can continue their battle to improve the lives of those with neurological diseases, including Parkinson’s:  J. Douglas Mann - UNC Neurology:
+https://unchf.org/johnmann
+.
+-To make a donation to the UNC Program on Integrative Medicine:  Make a Gift to Program on Integrative Medicine
+https://give.unc.edu/donate?f=346208&p=mfye
+or mail a check to the UNC PM&R Program on Integrative Medicine at 101 Manning Drive, CB7200, Rm# N1183, Chapel Hill, NC 27599-7200.
+​Dr. Anne Calhoun, Former Partner and Co-Founder of Carolina Headache Institute received the Lifetime Achievement Award.  The award was presented by the Southern Headache Society on September 9, 2022 at the yearly meeting held at the Grove Park Inn Asheville, NC.
+From us to you; we hope you had a great Halloween!
+Ashley Barham, FNP
+| 10/2023 Firstly, we would like to introduce Ms. Ashley Barham to the practice. We welcome her!
+Dr. Aurora Pajeau
+| 08/2022 Joined us from the Rocky Mount, NC area also specializing in Headache Medicine.
+​
+Nicole Rothman, FNP
+| 08/2020 Joined us from the New York City area.
+Proudly powered by
+Weebly

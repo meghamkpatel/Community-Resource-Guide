@@ -1,0 +1,287 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'description', 'content': 'RWJF is a leading national philanthropy dedicated to taking bold leaps to transform health in our lifetime. We work with others to achieve health equity faster and pave the way together to a future where health is no longer a privilege, but a right.   '}
+{'name': 'template', 'content': 't0-basic-page'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@RWJF'}
+{'name': 'twitter:creator', 'content': '@RWJF'}
+{'name': 'twitter:title', 'content': 'Achieving Health Equity—Faster and Together '}
+{'name': 'twitter:description', 'content': 'RWJF is a leading national philanthropy dedicated to taking bold leaps to transform health in our lifetime. We work with others to achieve health equity faster and pave the way together to a future where health is no longer a privilege, but a right.   '}
+{'name': 'twitter:image', 'content': 'https://www.rwjf.org/content/dam/rwjf-web/katy-folder/RWJFHomepageHeroEditV2.png.transform/socialtwitter/image.jpeg'}
+{'name': 'twitter:socialImage', 'content': '/content/dam/rwjf-web/katy-folder/RWJFHomepageHeroEditV2.png'}
+{'property': 'twitter:account_id', 'content': '17837184'}
+{'property': 'og:title', 'content': 'Achieving Health Equity—Faster and Together '}
+{'property': 'og:description', 'content': 'RWJF is a leading national philanthropy dedicated to taking bold leaps to transform health in our lifetime. We work with others to achieve health equity faster and pave the way together to a future where health is no longer a privilege, but a right.   '}
+{'property': 'og:image', 'content': 'https://www.rwjf.org/content/dam/rwjf-web/katy-folder/RWJFHomepageHeroEditV2.png.transform/socialog/image.jpeg'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:site_name', 'content': 'RWJF'}
+{'property': 'og:url', 'content': 'https://www.rwjf.org/content/rwjf-web/us/en/rwjf.html'}
+{'property': 'fb:app_id', 'content': '226670624473819'}
+{'itemprop': 'caption', 'content': 'Daily Goings On'}
+{'itemprop': 'caption', 'content': 'Man Sitting by Water'}
+{'itemprop': 'caption', 'content': 'Facing Eviction'}
+{'itemprop': 'caption', 'content': 'Girls Posing for Photo.'}
+{'itemprop': 'caption', 'content': 'Women on Stairs'}
+{'itemprop': 'caption', 'content': 'Policy'}
+{'itemprop': 'caption', 'content': 'New Jersey'}
+
+Body Text:
+Robert Wood Johnson Foundation | RWJF
+Skip to main content
+Our Vision
+Our Vision Overview
+Why Health Equity
+Focus Areas
+Measuring RWJF Progress
+Confronting Structural Racism to Transform Health
+Grants
+Grants Overview
+Active Funding Opportunities
+Awarded Grants
+Grantee Stories
+Grant Process
+Grantee Resources
+Insights
+Insights Overview
+Blog
+Our Research
+Advocacy And Policy
+About RWJF
+About RWJF Overview
+Our Guiding Principles
+How We Work
+Impact Investments
+Staff And Trustees
+Press Room
+Careers
+Contact Us
+Accessibility Statement
+Find A Grant
+Global Search Dialog
+Our Vision
+Our Vision Overview
+Why Health Equity
+Focus Areas
+Measuring RWJF Progress
+Confronting Structural Racism to Transform Health
+Grants
+Grants Overview
+Active Funding Opportunities
+Awarded Grants
+Grantee Stories
+Grant Process
+Grantee Resources
+Insights
+Insights Overview
+Blog
+Our Research
+Advocacy And Policy
+About RWJF
+About RWJF Overview
+Our Guiding Principles
+How We Work
+Impact Investments
+Staff And Trustees
+Press Room
+Careers
+Contact Us
+Accessibility Statement
+Find A Grant
+Global Search Dialog
+Blog Post: Ambitious Goals to Transform Health in Our Lifetime
+×
+Achieving Health Equity—Faster and Together
+JOIN US
+Inside our Plan
+Paving the way, together, to a future where health is no longer a privilege, but a right.
+4
+Focus Areas
+12
+Targeted Topics
+5
+Active Funding Opportunities
+Achieving Health Equity
+Through Insights
+Ambitious Goals to Transform Health in Our Lifetime feature item
+Blog Post
+Ambitious Goals to Transform Health in Our Lifetime
+Julie Morita, MD, executive vice president of RWJF, shares how her family’s experience of state-sanctioned racism and their search for community solidified her commitment to transform opportunities for health within our lifetime.
+7-min read
+Six Global Trends in Health Equity
+Report
+Six Global Trends in Health Equity
+2-min read
+A Policy Agenda for a Healthier, More Equitable New Jersey
+Research
+A Policy Agenda for a Healthier, More Equitable New Jersey
+2-min read
+SEE ALL
+Achieving Health Equity
+Through Our Grantees
+The Gift of Water: How Communities Are Sharing Traditional Techniques to Combat Drought
+From India to Arizona, communities are collecting rainwater to build resilience to drought and maintain community health.
+Read the story
+Confronting Eviction to Advance Housing Justice
+Partially funded by the Robert Wood Johnson Foundation, this powerful documentary provides an inside look at the affordable housing crisis.
+Read the story
+In Santa Monica, Challenging the Status Quo Helps with COVID-19 Response
+A Q&A with Lisa Parson, Special Assistant for Equity and Community Recovery for the City of Santa Monica, a 2016 Prize-winning community, illustrates how the pandemic spurred local leaders to work together to address new issues within daily life.
+1-min read
+Public and Community Health
+Read More
+RWJF Culture of Health Prize
+The RWJF Culture of Health Prize honors communities at the forefront of addressing structural racism and other structural injustices to advance health, opportunity, and equity for all.
+9-min read
+Read More
+dynamicResource_3
+dynamicResource_1
+dynamicResource_0
+dynamicResource_2
+SEE ALL STORIES
+Measuring Our Progress
+We are learning from cutting-edge research and community wisdom about whether our work is making a difference.
+What We've Learned
+We Inform Policies
+We support new bodies of evidence that deepen and shift our understanding of health and wellbeing. The data and evidence help us identify and promote policies that challenge our institutions to be more equitable and effective for all of us.
+OUR EVIDENCE
+A Healthier, More Equitable New Jersey
+In our own backyard, there is a lot to be proud of when it comes to health—but there also are wide, persistent gaps in health across the state of New Jersey. We redouble our commitment to improving health and advancing health equity for all in New Jersey and beyond.
+OUR WORK
+Subscribe to receive
+Funding Alerts & more
+Explore the latest in reflection and research from subject matter experts at RWJF and our wide network of partners.
+Email Address
+(Required)
+Email address already subscribed. Please check your inbox to manage your subscriptions.
+Continue
+Subscribed!
+Thank you. You are now subscribed.
+First Name
+(Required)
+Last Name
+(Required)
+Organization
+(Required)
+Are you an RWJF grantee (past or present)?
+Are you an RWJF grantee(past or present)?
+Please select one
+Yes
+No
+European Union Resident
+European Union Resident
+Please select one
+Yes
+No
+Tell us what type of content you want to receive.
+Advances Newsletter
+1 of 6
+Be informed with our twice a month newsletter updating you with relevant news and research around a Culture of Health, as well as the latest funding opportunities.
+Funding Alerts
+2 of 6
+Get funded by RWJF: Receive notifications when new funding opportunities are released.
+Policy Bulletins
+3 of 6
+Receive monthly updates on RWJF-sponsored research that informs many robust health policy debates on Capitol Hill, covering topics like health equity, improving access to quality healthcare, equitable housing, and more.
+Research, Evaluation, and Learning
+4 of 6
+Shop talk for researchers. This monthly newsletter covers research news and opportunities from the Robert Wood Johnson Foundation.
+There's more...
+5 of 6
+Sometimes we have news, announcements or opportunities that don't quite fit the subscription parameters above. If you're interested, we'll send you this information under "There's more...".  *If you've indicated you are an EU resident, we will only send these communications if you intentionally check this box.
+Which profession or pursuit best describes you?
+Activist/Advocate
+Grant maker
+Job Seeker
+Media
+Policymaker or Staffer
+Public Health or Healthcare Professional
+Researcher
+Student
+Other
+Other
+Area(s) Of Interest
+Birth justice/Maternal Health
+1 of 14
+Caregiving
+2 of 14
+Community Power
+3 of 14
+Disability Rights/Disability Justice
+4 of 14
+Economic inclusion
+5 of 14
+Entertainment
+6 of 14
+Food Systems
+7 of 14
+Future of Health
+8 of 14
+Global Learning
+9 of 14
+Health Policy
+10 of 14
+Impact Investing
+11 of 14
+Leadership and Leadership Programs
+12 of 14
+Physical and Built Environment
+13 of 14
+Research
+14 of 14
+Unsubscribe
+Stop receiving all emails from RWJF
+Unsubscribe from all emails
+Submit
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+CONTACT RWJF
+50 College Road East
+Princeton, NJ 08540-6614
+US Toll Free:
+(877) 843-7953
+International:
++1 (609) 627-6000
+MANAGE YOUR GRANTS
+MyRWJF Login
+Twitter link
+Facebook link
+LinkedIn link
+YouTube link
+Our Vision
+Our Vision Overview
+Why Health Equity
+Focus Areas
+Measuring RWJF Progress
+Confronting Structural Racism to Transform Health
+Grants
+Grants Overview
+Active Funding Opportunities
+Awarded Grants
+Grantee Stories
+Grant Process
+Grantee Resources
+Insights
+Insights Overview
+Blog
+Our Research
+Advocacy And Policy
+About RWJF
+About RWJF Overview
+Our Guiding Principles
+How We Work
+Impact Investments
+Staff And Trustees
+Press Room
+Careers
+Contact Us
+Accessibility Statement
+©2001-
+Robert Wood Johnson Foundation. All Rights Reserved.
+Manage Email
+Privacy Statement
+Terms and Conditions

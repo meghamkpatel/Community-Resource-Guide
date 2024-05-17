@@ -1,0 +1,108 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress 6.0.8'}
+{'name': 'specificfeeds-verification-code-SEp2MGdINnBVVEh2ZmZGeTEyR3NoUU1LRUJWOXE3VFpaQ1Q2UzVrOVVHQzBxeHAxQ0M3RFVsSG1PRFM5N2xqRTlHMDJjZlM0MG1CZUlYOG9BeEhXd1o4eWQ2MmZISkRGcS9HdnhTcUhoT2kyMHRjdEM3ZmdKd3hQeHlpS2pJNjN8Y1Q5U2FSb2RzRnd3ZHVBRTRsUVkxdXZ2YVloQnpIWURuMGI5THlqR1hCND0=', 'content': 'De13z4Gxun3MaM83gPuG'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.triangleprivacyhub.org/wp-content/uploads/2017/10/cropped-Logo-3-white-background-e1593976444713-270x270.png'}
+
+Body Text:
+Home
+About
+About
+Board of Directors
+2017 Symposium
+What We Do
+Access to Information
+Privacy and Democracy Project
+Technical Definitions
+Education
+Gender and Sexual Violence
+Healthcare
+COVID-19 Contact Tracing
+Telehealth
+Electronic Health Records
+National Security/Law Enforcement
+Blog
+Toggle Navigation
+Triangle Privacy Research Hub
+Practical Privacy Solutions
+Promoting the Innovative and Ethical Use of Data
+The Triangle Privacy Research Hub (TPRH) is a non-profit organization that brings together academics, industry leaders, students, and policy advocates in the North Carolina Research Triangle to address some of society’s most pressing issues through the innovative and ethical use of data. TPRH promotes the research of privacy-protecting policy solutions to advance the use of data across five areas:
+Access to Information
+Gender and Sexual Violence
+Education
+Healthcare
+National Security/Law Enforcement
+Learn about our work within each area
+Connecting the North Carolina Research Triangle on Data and Privacy
+TPRH strives to facilitate collaboration between different universities in the North Carolina Research Triangle region by connecting academics, industry leaders, professionals, students, and policy advocates
+Duke University
+University of North Carolina at Chapel Hill
+North Carolina State University
+What’s Happening
+Keep up-to-date with Triangle Privacy Research Hub’s recent work and events
+TWITTER FEED
+EVENTS
+May 2024
+M
+T
+W
+T
+F
+S
+S
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+« Feb
+NEWS & BLOG
+Access to Information
+Access to Information, The Media Trust, and Duke University: Historic Data Graphs
+All Historical Data Collected Provided below are graphs detailing all collected from both the Duke University scans and Work From Home scans. This includes both Total Incident scans and Unique Incident scans.
+Access to Information
+Access to Information, The Media Trust, and Duke University: July and August Update
+Following Summer Trends: The increase in summer 2022 incidents matches that of 2021 September 5, 2022 Matthew Rostick, Economics & PUBLIC POLICY, the university of North Carolina at Chapel Hill The Duke University and The
+Read more…
+Access to Information
+Access to Information, The Media Trust, and Duke University: May and June Update
+Total Incidents are back on the rise after a lull in the spring months July 31, 2022 Matthew Rostick, Economics & PUBLIC POLICY, the university of North Carolina at Chapel Hill The Duke University and
+Read more…
+Follow
+Home
+About
+2017 Symposium
+What We Do
+Blog
+Hestia
+| Powered by
+WordPress

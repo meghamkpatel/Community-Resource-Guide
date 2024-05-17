@@ -1,0 +1,898 @@
+Meta Information:
+{'property': 'og:site_name', 'content': 'Flickr'}
+{'property': 'og:updated_time', 'content': '2024-05-17T02:23:39.411Z'}
+{'property': 'al:ios:app_name', 'content': 'Flickr'}
+{'property': 'al:ios:app_store_id', 'content': '328407587'}
+{'property': 'twitter:app:name:iphone', 'content': 'Flickr'}
+{'property': 'twitter:app:id:iphone', 'content': '328407587'}
+{'property': 'twitter:app:name:ipad', 'content': 'Flickr'}
+{'property': 'twitter:app:id:ipad', 'content': '328407587'}
+{'property': 'twitter:app:name:googleplay', 'content': 'Flickr'}
+{'property': 'twitter:app:id:googleplay', 'content': 'com.flickr.android'}
+{'property': 'twitter:site', 'content': '@flickr'}
+{'name': 'description', 'content': "I'm glad there are no gods.  Otherwise, I'd have to choose.  Which god should I believe in?  Ah, I don't mean Allah or Mercury or whatever.  I mean within the Christian faith.  It's almost as bad as choosing a salad dressing in an American restaurant.  Which should I choose to assure me of an afterlife?\n\t\n\tAaronic Order\n\tAbecedarians (extinct)\n\tAdvent Christian Church\n\tAdventist Church of Promise\n\tAfrican Methodist Episcopal Church\n\tAfrican Methodist Episcopal Zion Church\n\tAfrican Orthodox Church\n\tAlliance of Baptists\n\tAlliance of Mennonite Evangelical Congregations\n\tAmerican Association of Lutheran Churches\n\tAmerican Baptist Association\n\tAmerican Baptist Churches USA\n\tAmerican Catholic Church in the United States\n\tAmerican Unitarian Conference\n\tAmish\n\tAndhra Evangelical Lutheran Church\n\tAnglican Catholic Church\n\tAnglican Church in America\n\tAnglican Church in Aotearoa, New Zealand and Polynesia\n\tAnglican Church in Central America\n\tAnglican Church of Australia\n\tAnglican Church of Burundi\n\tAnglican Church of Canada\n\tAnglican Church of Kenya\n\tAnglican Church of Korea\n\tAnglican Church of Mexico\n\tAnglican Church of Papua New Guinea\n\tAnglican Church of Southern Africa\n\tAnglican Church of Tanzania\n\tAnglican Church of the Southern Cone of America\n\tAnglican Episcopal Church of Brazil\n\tAnglican Mission in the Americas\n\tAnglican Orthodox Church\n\tAnglican Province of America\n\tAnglican Province of Christ the King\n\tAnthroposophical Society of Rudolf Steiner\n\tAntiochian Orthodox Christian Archdiocese of North America\n\tApostles of Johane Marauke\n\tApostolic Assemblies of Christ\n\tApostolic Assembly of the Faith in Christ Jesus\n\tApostolic Brethren\n\tApostolic Christian Church\n\tApostolic Church\n\tApostolic Faith Church\n\tApostolic Faith Mission of South Africa\n\tApostolic Gospel Church of Jesus Christ\n\tApostolic Lutheran Church of America\n\tApostolic Overcoming Holy Church of God\n\tApostolic United Brethren\n\tArcheosophical Society of Tommaso Palamidessi\n\tArmenian Apostolic Church\n\tArmenian Catholic Church\n\tAssembleias de Deus\n\tAssemblies of God\n\tAssemblies of God in New Zealand\n\tAssemblies of God in the United Kingdom\n\tAssemblies of God in Vietnam\n\tAssemblies of the Lord Jesus Christ\n\tAssemblies of Yahweh\n\tAssociate Reformed Presbyterian Church\n\tAssociated Gospel Churches of Canada (AGC)\n\tAssociation of Baptist Churches in Ireland\n\tAssociation of Free Lutheran Congregations\n\tAssociation of Grace Baptist Churches\n\tAssociation of Reformed Baptist Churches of America\n\tAssociation of Regular Baptist Churches\n\tAssociation of Vineyard Churches\n\tAustralian and New Zealand Unitarian Universalist Association (ANZUUA)\n\tAustralian Christian Churches\n\tAustralian Fellowship of Faith Churches and Ministers Int. (AFFCMI)\n\tBaptist Bible Fellowship International\n\tBaptist Conference of the Philippines\n\tBaptist Convention of Ontario and Quebec\n\tBaptist Convention of Western Cuba\n\tBaptist General Conference (Sweden)\n\tBaptist General Conference of Canada\n\tBaptist General Convention of Texas\n\tBaptist Missionary Association of America\n\tBaptist Union of Australia\n\tBaptist Union of Great Britain\n\tBaptist Union of New Zealand\n\tBaptist Union of Scotland\n\tBaptist Union of Western Canada\n\tBaptist World Alliance\n\tBatak Christian Community Church\n\tBatak Christian Protestant Church\n\tBeachy Amish\n\tBelarusian Greek Catholic Church\n\tBelievers Church\n\tBible Baptist\n\tBible Christian Mission\n\tBible Fellowship Church\n\tBible Presbyterian Church\n\tBible Way Church of Our Lord Jesus Christ\n\tBible-Pattern Church Fellowship\n\tBlack Primitive Baptists\n\tBorn Again Movement\n\tBosnian Church (no longer in existence)\n\tBranch Davidians\n\tBrazilian Catholic Apostolic Church\n\tBrethren in Christ Church\n\tBrethren Reformed Church\n\tBritish Orthodox Church\n\tBritish-Israel-World Federation\n\tBruderhof Communities\n\tBulgarian Catholic Church\n\tBulgarian Orthodox Church\n\tCalvary Chapel\n\tCalvary Holiness Association\n\tCanadian and American Reformed Churches\n\tCanadian Baptist Ministries\n\tCanadian Conference of Mennonite Brethren Churches\n\tCanadian Convention of Southern Baptists\n\tCanadian Unitarian Council\n\tCathars\n\tCatholic Apostolic Church\n\tCatholic Charismatic Church of Canada\n\tCelestial Church of Christ\n\tCeltic Catholic Church\n\tCeltic Orthodox Church\n\tCentral Baptist Association\n\tCentral Canada Baptist Conference\n\tChaldean Catholic Church\n\tCharisma Christian Church\n\tCharismatic Episcopal Church\n\tCharismatic Episcopal Church\n\tChildren of God a.k.a. &quot;The Family International&quot;, &quot;Family of Love&quot;, &quot;The Family&quot;\n\tChina Christian Council\n\tChinese Orthodox Church\n\tChinese Patriotic Catholic Association\n\tChortitzer Mennonite Conference\n\tChrist Apostolic Church\n\tChrist Apostolic Miracle Ministry\n\tChrist Community Church\n\tChrist Gospel Churches International\n\tChristian &amp; Missionary Alliance\n\tChristian Baptist Church of God\n\tChristian Church\n\tChristian Church in Central Sulawesi\n\tChristian Church in Luwuk Banggai\n\tChristian Church in Sulawesi\n\tChristian Church of North America\n\tChristian Church of Southern Sumatra\n\tChristian Church of Sumba\n\tChristian Churches of Java\n\tChristian City Churches\n\tChristian Communion of Indonesia Church in Nias (Gereja AMIN)\n\tChristian Congregation of Brazil\n\tChristian Conventions (aka Two by Twos, The Truth, The Way)\n\tChristian Episcopal Church\n\tChristian Evangelical Church in Bolaang Mongondow\n\tChristian Evangelical Church in Minahasa\n\tChristian Evangelical Church in Timor\n\tChristian Identity and other white separatist/supremacist groups\n\tChristian Israelite Church\n\tChristian Methodist Episcopal Church (Dallas, TX)\n\tChristian Millennial Fellowship\n\tChristian Outreach Centre\n\tChristian Protestant Angkola Church\n\tChristian Protestant Church in Indonesia\n\tChristian Reformed Church in North America\n\tChristian Reformed Church of Nigeria\n\tChristian Reformed Churches of Australia\n\tChristian Revival Crusade\n\tChristian Unity Baptist Association\n\tChrist's Sanctified Holy Church\n\tChurch in the Province of the West Indies\n\tChurch in Wales\n\tChurch of Bangladesh\n\tChurch of Bangladesh\n\tChurch of Caucasian Albania (no longer in existence)\n\tChurch of Christ (Holiness) U.S.A.\n\tChurch of Christ (Temple Lot) (Hedrickites)\n\tChurch of Christ in Nigeria\n\tChurch of Christ with the Elijah Message\n\tChurch of Christ, Instrumental (Kelleyites)\n\tChurch of Denmark\n\tChurch of England\n\tChurch of England (Continuing)\n\tChurch of England in South Africa\n\tChurch of God (Anderson)\n\tChurch of God (Charleston, Tennessee)\n\tChurch of God (Chattanooga)\n\tChurch of God (Cleveland)\n\tChurch of God (Guthrie, Oklahoma)\n\tChurch of God (Holiness)\n\tChurch of God (Huntsville, Alabama)\n\tChurch of God (Restoration)\n\tChurch of God by Faith\n\tChurch of God General Conference (Abrahamic Faith)\n\tChurch of God in Christ\n\tChurch of God in Christ, Mennonite (Holdeman Mennonites)\n\tChurch of God Mission International\n\tChurch of God Mountain Assembly\n\tChurch of God of Prophecy\n\tChurch of God of the Original Mountain Assembly\n\tChurch of God of the Union Assembly\n\tChurch of God with Signs Following\n\tChurch of God, House of Prayer\n\tChurch of Greece\n\tChurch of Iceland\n\tChurch of Ireland\n\tChurch of Jesus Christ\n\tChurch of Jesus Christ (Bickertonite)\n\tChurch of Jesus Christ (Cutlerite)\n\tChurch of Jesus Christ of Latter Day Saints (Strangite)\n\tChurch of Jesus Christ-Christian (Aryan Nations)\n\tChurch of Nigeria\n\tChurch of North India\n\tChurch of North India\n\tChurch of Norway\n\tChurch of Our Lord Jesus Christ of the Apostolic Faith\n\tChurch of Pakistan\n\tChurch of Pakistan\n\tChurch of Scotland\n\tChurch of South India\n\tChurch of South India\n\tChurch of Sweden\n\tChurch of the Blessed Hope (aka Church of God of the Abrahamic Faith)\n\tChurch of the Brethren\n\tChurch of the Brethren in Nigeria\n\tChurch of the Faroe Islands\n\tChurch of the Foursquare Gospel in the Philippines\n\tChurch of the Great God\n\tChurch of the Little Children of Jesus Christ\n\tChurch of the Lord (Aladura)\n\tChurch of the Lutheran Brethren of America\n\tChurch of the Lutheran Confession\n\tChurch of the Nazarene\n\tChurch of the Province of Central Africa\n\tChurch of the Province of Melanesia\n\tChurch of the Province of Myanmar\n\tChurch of the Province of Rwanda\n\tChurch of the Province of South East Asia\n\tChurch of the Province of the Indian Ocean\n\tChurch of the Province of West Africa\n\tChurch of the United Brethren in Christ\n\tChurch of Uganda\n\tChurches of Christ (Non-denominational)\n\tChurches of Christ (non-institutional)\n\tChurches of Christ in Australia\n\tChurches of God General Conference (Winebrenner)\n\tCity Harvest Church\n\tCommunion of Christ the Redeemer\n\tCommunion of Evangelical Episcopal Churches\n\tCommunion of Evangelical Episcopal Churches\n\tCommunity of Christ, formerly Reorganized Church of Jesus Christ of Latter Day Saints \n\tConcordia Lutheran Conference\n\tConfederation of Reformed Evangelical Churches\n\tConfederation of Reformed Evangelical Churches\n\tConference of the Mennonite Brethren Churches in India\n\tConfessional Evangelical Lutheran Conference\n\tCongregational Federation of Australia\n\tCongregational Holiness Church\n\tCongregational Methodist Church\n\tConservative Baptist Association\n\tConservative Baptist Association of America\n\tConservative Grace Brethren Churches, International\n\tConservative Mennonite Conference\n\tContinental Baptist Churches\n\tConvención Nacional Bautista de Mexico\n\tConvention of Atlantic Baptist Churches\n\tConvention of Baptist Churches of Northern Circars\n\tCooneyites (not to be confused with Christian Conventions)\n\tCooperative Baptist Fellowship\n\tCoptic Catholic Church\n\tCoptic Orthodox Church of Alexandria\n\tCouncil of Baptist Churches in Northeast India\n\tCRC Churches International\n\tCreation Seventh Day Adventist Church\n\tCroatian Greek Catholic Church\n\tCumberland Presbyterian Church\n\tCypriot Orthodox Church\n\tCzech and Slovak Orthodox Church\n\tDeeper Life Bible Church (Nigeria)\n\tDestiny Church\n\tDestiny Church Groningen\n\tDeutsche Unitarier Religionsgemeinschaft, Germany\n\tDisciples of Christ\n\tDunkard Brethren\n\tDutch Reformed Church\n\tEcumenical Patriarchate of Constantinople\n\tElim Fellowship\n\tElim Pentecostal Church\n\tEnglish Independents (virtually extinct)\n\tEphrata Cloister\n\tEpiscopal Church \n\tEpiscopal Church in Jerusalem and the Middle East\n\tEpiscopal Church in the Philippines\n\tEpiscopal Church of Cuba\n\tEpiscopal Church of the Sudan\n\tEpiscopal Missionary Church\n\tEritrean Orthodox Tewahedo Church\n\tEstonian Apostolic Orthodox Church\n\tEstonian Evangelical Lutheran Church\n\tEstonian Orthodox Church of Moscow Patriarchate \n\tEternal Grace\n\tEternal Sacred Order of Cherubim and Seraphim\n\tEthiopian Catholic Church\n\tEthiopian Orthodox Tewahedo Church\n\tEuropean Baptist Convention\n\tEuropean Baptist Federation\n\tEuropean Unitarian Universalists\n\tEvangelical Baptist Mission of South Haiti\n\tEvangelical Catholic Church\n\tEvangelical Christian Church in Canada (Christian Disciples)\n\tEvangelical Christian Church in West Papua\n\tEvangelical Church (ECNA)\n\tEvangelical Church in Germany\n\tEvangelical Church in Kalimantan\n\tEvangelical Church of the Augsburg Confession in Slovakia\n\tEvangelical Church of the Dominican Republic\n\tEvangelical Church of West Africa\n\tEvangelical Community Church-Lutheran\n\tEvangelical Covenant Church of America (&quot;Swedish Evangelical Mission Covenant&quot;)\n\tEvangelical Free Baptist Church\n\tEvangelical Free Church of America\n\tEvangelical Free Church of Canada\n\tEvangelical Friends International\n\tEvangelical Lutheran Church - Synod of France and Belgium\n\tEvangelical Lutheran Church &quot;Concord&quot; (Russia)\n\tEvangelical Lutheran Church in America\n\tEvangelical Lutheran Church in Canada\n\tEvangelical Lutheran Church in Southern Africa\n\tEvangelical Lutheran Church in Tanzania\n\tEvangelical Lutheran Church of Brazil\n\tEvangelical Lutheran Church of England\n\tEvangelical Lutheran Church of Finland\n\tEvangelical Lutheran Church of Latvia\n\tEvangelical Lutheran Church of Papua New Guinea\n\tEvangelical Lutheran Diocese of North America\n\tEvangelical Lutheran Free Church (Germany)\n\tEvangelical Lutheran Free Church of Norway (associate member)\n\tEvangelical Lutheran Synod (United States)\n\tEvangelical Mennonite Church\n\tEvangelical Mennonite Conference\n\tEvangelical Mennonite Mission Conference\n\tEvangelical Methodist Church\n\tEvangelical Missionary Church\n\tEvangelical Pentecostal Church of Besançon\n\tEvangelical Presbyterian Church\n\tEvangelical Presbyterian Church (Australia)\n\tEvangelical Presbyterian Church in England and Wales\n\tEvangelical Presbyterian Church of Ukraine\n\tEvangelical Reformed Church of Christ\n\tExclusive Brethren\n\tFaith Christian Fellowship International\n\tFederation of Swiss Protestant Churches\n\tFellowship of Evangelical Baptist Churches in Canada\n\tFellowship of Evangelical Bible Churches (formerly Evangelical Mennonite Brethren)\n\tFellowship of Fundamental Bible Churches\n\tFellowship of Grace Brethren Churches\n\tFinnish Orthodox Church\n\tFire Baptized Holiness Church of God of the Americas\n\tFirst Congregational Methodist Church\n\tFree Apostolic Church of Pentecost\n\tFree Catholic Church\n\tFree Church of England\n\tFree Church of Scotland\n\tFree Church of Scotland (Continuing)\n\tFree Evangelical Churches\n\tFree Methodist Church (North America)\n\tFree Presbyterian Church (Australia)\n\tFree Presbyterian Church of Scotland\n\tFree Presbyterian Church of Ulster\n\tFree Protestant Episcopal Church\n\tFree Reformed Churches of North America\n\tFree Wesleyan Church (Tonga)\n\tFree Will Baptist Church\n\tFrench Coptic Orthodox Church\n\tFriends General Conference\n\tFriends United Meeting\n\tFull Gospel\n\tFundamental Baptist Fellowship of America\n\tFundamental Methodist Conference, Inc.\n\tFundamentalist Church of Jesus Christ of Latter Day Saints (FLDS)\n\tGaro Baptist Convention of India\n\tGeneral Assembly of Unitarian and Free Christian Churches, United Kingdom &amp; Ireland\n\tGeneral Association of Baptists\n\tGeneral Association of General Baptists\n\tGeneral Association of Regular Baptist Churches\n\tGeneral Church of the New Jerusalem\n\tGeneral Conference Mennonite Church (merged)\n\tGeneral Conference of the Church of God (Seventh-Day)\n\tGeneral Conference of the Evangelical Baptist Church, Inc.\n\tGeneral Council of the Assemblies of God of the United States\n\tGeneral Six-Principle Baptists\n\tGeorgian Catholic Church\n\tGeorgian Orthodox and Apostolic Church\n\tGereja Pantekosta di Indonesia\n\tGereja Pantekosta Pusat Surabaya\n\tGerman Evangelical Church in Bohemia, Moravia and Silesia (no longer in existence)\n\tGod is Love Pentecostal Church\n\tGospel Faith Mission\n\tGossner Evangelical Lutheran Church in Chotanagpur and Assam\n\tGrace Baptist Assembly\n\tGrace Movement Churches\n\tGreat Commission Association\n\tGreek Catholic Church\n\tGreek Evangelical Church\n\tGreek Old Calendarists\n\tGreek Orthodox Church of Alexandria\n\tGreek Orthodox Church of Antioch\n\tGreek Orthodox Church of Jerusalem\n\tGutnius Lutheran Church\n\tHarmony Society\n\tHeritage Reformed Congregations\n\tHoliness Baptist Association\n\tHong Kong Sheng Kung Hui\n\tHouse of Prayer Christian Church\n\tHouse of Yahweh\n\tHuguenots (virtually extinct)\n\tHungarian Greek Catholic Church\n\tHussites\n\tHutterites\n\tIndependent Assemblies of God, International\n\tIndependent Baptist\n\tIndependent Baptist Church of America\n\tIndependent Baptist Fellowship International\n\tIndependent Baptist Fellowship of North America\n\tIndependent Evangelical-Lutheran Church\n\tIndependent RLDS / Restoration Branches\n\tIndian Brethren\n\tIndian Pentecostal Church of God\n\tIndian Shakers\n\tIndonesian Christian Church\n\tIndonesian Christian Church\n\tIndonesian Christian Lutheran Church\n\tIndonesian Protestant Church in Buol Toli-Toli\n\tIndonesian Protestant Church in Donggala\n\tIndonesian Protestant Church in Gorontalo\n\tInternational Church of the Foursquare Gospel\n\tInternational Churches of Christ (Boston Movement)\n\tInternational Council of Unitarians and Universalists\n\tInternational Lutheran Council\n\tInternational Pentecostal Church of Christ\n\tInternational Pentecostal Holiness Church\n\tInterstate &amp; Foreign Landmark Missionary Baptist Association\n\tItalo-Greek Catholic Church\n\tJacobite Syrian Christian Church\n\tJapan Lutheran Church\n\tJapan Mennonite Brethren Conference\n\tJapanese Orthodox Church\n\tJesus Army\n\tJesus Movement\n\tJeypore Evangelical Lutheran Church\n\tKaro Batak Protestant Church\n\tKemah Injil Church\n\tKerala Brethren\n\tKimbanguist Church\n\tKingdom Identity Ministries\n\tLaestadian Lutheran Church\n\tLandmark Baptist Church\n\tLanka Lutheran Church\n\tLaPorte Church of Christ\n\tLatter Day Church of Christ (Kingston Clan)\n\tLatvian Evangelical Lutheran Church in America\n\tLatvian Orthodox Church\n\tLectorium Rosicrucianum of Jan van Rijckenborgh/Catharose de Petri\n\tLiberal Catholic Church\n\tLiberty Baptist Fellowship\n\tLife Application Gospel Ministries International\n\tLiving Church of God\n\tLiving Faith Ministries\n\tLocal churches\n\tLollards\n\tLusitanian Catholic Apostolic Evangelical Church (in Portugal)\n\tLutheran Church - Canada\n\tLutheran Church - Missouri Synod (United States)\n\tLutheran Church of Australia (associate member)\n\tLutheran Church of Central Africa Malawi Conference\n\tLutheran Church of Central Africa Zambia Conference\n\tLutheran Church of China (extinct)\n\tLutheran Church of Christ in Nigeria\n\tLutheran Church—Hong Kong Synod\n\tLutheran Congregations in Mission for Christ (United States)\n\tLutheran Evangelical Protestant Church (United States)\n\tLutheran Ministerium and Synod - USA\n\tLutheran World Federation\n\tMacedonian Catholic Church\n\tMacedonian Orthodox Church\n\tMacedonian Orthodox Church\n\tMalabar Independent Syrian Church\n\tMalagasy Lutheran Church\n\tMalankara Orthodox Syrian Church\n\tManipur Baptist Convention\n\tMar Thoma Church\n\tMariavite Church\n\tMaronite Catholic Church\n\tMartinism of Louis Claude de Saint-Martin et al.\n\tMelkite Catholic Church\n\tMennonite Brethren Churches\n\tMennonite Church Canada\n\tMennonite Church in the Netherlands\n\tMennonite Church USA\n\tMennonites\n\tMethodist Church in Ireland\n\tMethodist Church in Singapore\n\tMethodist Church Nigeria\n\tMethodist Church of Fiji and Rotuma\n\tMethodist Church of Great Britain\n\tMethodist Church of Malaysia\n\tMethodist Church of New Zealand\n\tMethodist Church of Southern Africa\n\tMetropolis of Bessarabia\n\tMetropolitan Community Churches\n\tMinistries of His Glory\n\tMinistries Without Borders\n\tMission of Full Gospel - Christian Open Door\n\tMissionary Church\n\tMissionary Church\n\tMoldovan Orthodox Church\n\tMontenegrin Orthodox Church\n\tMoravian Church\n\tMyanmar Baptist Convention\n\tNagaland Baptist Church Council\n\tNational Association of Congregational Christian Churches\n\tNational Association of Free Will Baptists\n\tNational Baptist Convention of America, Inc.\n\tNational Baptist Convention, USA, Inc.\n\tNational Baptist Evangelical Life and Soul Saving Assembly of the U.S.A.\n\tNational Missionary Baptist Convention of America\n\tNational Primitive Baptist Convention of the U.S.A.\n\tNative American Church\n\tNebraska Amish\n\tNetherlands Reformed Congregations\n\tNew Apostolic Church\n\tNew England Evangelical Baptist Fellowship\n\tNew Frontiers\n\tNew Frontiers (formerly New Frontiers International)\n\tNew Life Churches\n\tNew Life Fellowship\n\tNew Life Fellowship\n\tNew Testament Association of Independent Baptist Churches\n\tNew Testament Christian Churches of America, Inc\n\tNias Christian Protestant Church\n\tNigerian Baptist Convention\n\tNippon Sei Ko Kai (Japan)\n\tNorth American Baptist Conference\n\tNorth Bank Baptist Christian Association\n\tNorwegian Baptist Union\n\tOld Apostolic Church\n\tOld Baptist Union\n\tOld Catholic Church\n\tOld Catholic Church in Europe\n\tOld Catholic Church of America\n\tOld German Baptist Brethren\n\tOld German Baptist Brethren (New Conference)\n\tOld Order Amish\n\tOld Order German Baptist Brethren\n\tOld Order Mennonites\n\tOld Order River Brethren\n\tOld Regular Baptist\n\tOld Time Missionary Baptist\n\tOpen Bible Standard Churches\n\tOpen Brethren\n\tOrissa Baptist Evangelical Crusade\n\tOrthodox Autocephalous Church of Albania\n\tOrthodox Christian Reformed Church\n\tOrthodox Church in America\n\tOrthodox Ohrid Archbishopric\n\tOrthodox Presbyterian Church\n\tOrthodox-Catholic Church of America (OCCA)\n\tPakistan Synod of the Associate Reformed Presbyterian Church\n\tPakpak Dairi Christian Protestant Church\n\tPalmarian Catholic Church\n\tPasundan Christian Church\n\tPatriarchal Exarchate for Orthodox Parishes of Russian Tradition in Western Europe \n\tPentecostal Assemblies of Canada\n\tPentecostal Assemblies of Canada\n\tPentecostal Assemblies of the World\n\tPentecostal Church of God\n\tPentecostal Free Will Baptist Church\n\tPentecostal World Conference\n\tPentecostal/Charismatic Churches of North America\n\tPhiladelphia Church of God\n\tPhilippine Independent Church\n\tPlymouth Brethren\n\tPolish Brethren (extinct as a modern and distinct group)\n\tPolish National Catholic Church\n\tPolish Orthodox Church\n\tPotter's House Christian Fellowship\n\tPresbyterian Church (USA)\n\tPresbyterian Church in America\n\tPresbyterian Church in Canada\n\tPresbyterian Church in Ireland\n\tPresbyterian Church in Taiwan\n\tPresbyterian Church of Aotearoa New Zealand\n\tPresbyterian Church of Australia\n\tPresbyterian Church of Eastern Australia\n\tPresbyterian Church of India\n\tPresbyterian Church of Korea\n\tPresbyterian Church of Nigeria\n\tPresbyterian Church of Pakistan\n\tPresbyterian Church of Wales\n\tPresbyterian Reformed Church (Australia)\n\tPresbyterian Reformed Church (Canada)\n\tPrimitive Baptist\n\tPrimitive Methodist Church\n\tProgressive Baptist\n\tProgressive National Baptist Convention\n\tProtestant Christian Church in Bali\n\tProtestant Christian Church in Mentawai\n\tProtestant Church in Indonesia\n\tProtestant Church in Southeast Sulawesi\n\tProtestant Church in the Moluccas\n\tProtestant Church in the Netherlands\n\tProtestant Church in Western Indonesia\n\tProtestant Reformed Churches in America\n\tProvince de L'Eglise Anglicane Du Congo\n\tQIC-United Evangelical Church of Nigeria\n\tRedeemed Christian Church of God\n\tReformed Baptist\n\tReformed Church in America\n\tReformed Church in Hungary\n\tReformed Church in the United States\n\tReformed Church of France\n\tReformed Episcopal Church\n\tReformed Presbyterian Church General Assembly\n\tReformed Presbyterian Church of Australia\n\tReformed Presbyterian Church of North America\n\tRegular Baptist\n\tRemnant Church of Jesus Christ of Latter Day Saints\n\tRemonstrant Brotherhood\n\tRestoration Church of Jesus Christ\n\tRestoration Church of Jesus Christ of Latter Day Saints\n\tRestored Apostolic Mission Church\n\tRestored Church of Jesus Christ)\n\tRevival Centres International\n\tRevival Centres International\n\tRiver Brethren\n\tRomanian Catholic Church\n\tRomanian Orthodox Church\n\tRussian Catholic Church\n\tRussian Old Believers\n\tRussian Orthodox Church\n\tRussian Orthodox Church in America\n\tRussian Orthodox Church Outside Russia \n\tRuthenian Catholic Church Saint Catherine's Monastery\n\tSalvation Army\n\tSamavesam of Telugu Baptist Churches\n\tSangihe-Talaud Evangelical Church\n\tSassanid Church (extinct)\n\tSchwarzenau Brethren\n\tSchwenkfelder Church\n\tScottish Episcopal Church\n\tSeparate Baptist\n\tSeparate Baptists in Christ\n\tSerbian Orthodox Church\n\tSeventh Day Adventist Reform Movement\n\tSeventh Day Baptist\n\tSeventh-day Adventist Church\n\tShakers\n\tSimalungun Protestant Christian Church\n\tSlovak Greek Catholic Church\n\tSocial Brethren\n\tSocietas Rosicruciana by Masons\n\tSocinianism (extinct as a modern and distinct group)\n\tSoutheast Conservative Baptist\n\tSouthern Baptist Convention\n\tSouthern Baptists of Texas\n\tSouthern Episcopal Church\n\tSouthern Presbyterian Church (Australia)\n\tSovereign Grace Baptists\n\tSovereign Grace Ministries\n\tSpanish Reformed Episcopal Church\n\tSpiritus Christi\n\tSt Engenas Zion Christian Church \n\tSt. Thomas Evangelical Church\n\tStrict Baptists\n\tStrigolniki\n\tSwartzendruber Amish\n\tSwedenborgian Church of North America formerly General Convention of the New Jerusalem\n\tSwiss Mennonite Conference\n\tSyriac Orthodox Church\n\tSyrian Catholic Church\n\tSyro-Malabar Church\n\tSyro-Malankara Catholic Church\n\tTaborites\n\tThe Apostolic Church of Nigeria\n\tThe Brethren Church (Ashland Brethren)\n\tThe Christian Community-Movement for religious renewal\n\tThe Christian Evangelical Church in Halmahera\n\tThe Church of God (Jerusalem Acres)\n\tThe Church of God for All Nations\n\tThe Church of Jesus Christ of Latter-day Saints (LDS Church) - by far the largest Latter Day Saint denomination\n\tThe Covenant, The Sword, and the Arm of the Lord\n\tThe East Java Christian Church\n\tThe Fellowship (FGFCMI)\n\tThe Fellowship of the Churches of Christ in Nigeria\n\tThe Indonesian Christian Church\n\tThe Lutheran Church of Christ in Nigeria\n\tThe Pentecostal Mission\n\tThe Protestant Christian Church\n\tThe Revival Fellowship\n\tThe Revival Fellowship\n\tThe Rosicrucian Fellowship of Max Heindel\n\tThe Spiritual Baptist Archdiocese of New York, Inc.\n\tThe Tamil Evangelical Lutheran Church\n\tThe True and Living Church of Jesus Christ of Saints of the Last Days\n\tThe United Protestant Church\n\tToraja Church\n\tToraja Mamasa Church\n\tTrue Catholic Church\n\tTrue Jesus Church\n\tTrue Jesus Church\n\tTwo-Seed-in-the-Spirit Predestinarian Baptists\n\tUkrainian Autocephalous Orthodox Church\n\tUkrainian Greek Catholic Church\n\tUkrainian Lutheran Church\n\tUkrainian Orthodox Church (Kiev Patriarchy)\n\tUkrainian Orthodox Church (Moscow Patriarchate)\n\tUkrainian Orthodox Church:\n\tUnion d'Églises baptistes françaises au Canada\n\tUnitarian Universalist Association\n\tUnitarian Universalist Society of Spain\n\tUnitarisk Kirkesamfund, Denmark\n\tUnited American Free Will Baptist Church\n\tUnited American Free Will Baptist Conference\n\tUnited Apostolic Church\n\tUnited Baptist\n\tUnited Baptist Convention of the Atlantic Provinces\n\tUnited Christian Church\n\tUnited Church in Jamaica and the Cayman Islands\n\tUnited Church in Papua New Guinea and the Solomon Islands\n\tUnited Church of Canada\n\tUnited Church of Christ\n\tUnited Church of God\n\tUnited Congregational Church of Southern Africa\n\tUnited Evangelical Lutheran Church in India\n\tUnited Free Church of Scotland\n\tUnited Free Will Baptist\n\tUnited Gospel Tabernacles\n\tUnited Holy Church of America\n\tUnited Methodist Church\n\tUnited Pentecostal Church in India\n\tUnited Pentecostal Church International\n\tUnited Reformed Church\n\tUnited Reformed Churches in North America\n\tUnited Seventh-Day Brethren\n\tUnited Zion Church\n\tUniting Church in Australia\n\tUniting Presbyterian Church in Southern Africa\n\tUnity of the Brethren\n\tUniversal Life\n\tUnregistered Baptist Fellowship\n\tUpper Cumberland Presbyterian Church\n\tUS Conference of Mennonite Brethren Churches\n\tUtraquists\n\tWaldensian Church of the Rio de la Plata\n\tWaldensian-Methodist Union of Italy\n\tWaldensians\n\tWesleyan Church\n\tWesleyan Reform Union\n\tWestminster Presbyterian Church of Australia\n\tWisconsin Evangelical Lutheran Synod (United States)\n\tWorld Baptist Fellowship\n\tWorldwide Church of God\n\tYehowists (aka Yehowists-Ilyinites, Russian Jehovists)\n\tZion apostolic church of South Africa\n\tor the\n\tZion Christian Church?\n\t\n\tThe Rolling Stones - <i>Sympathy for the Devil</i>", 'data-dynamic': 'true'}
+{'name': 'robots', 'content': 'noarchive', 'data-dynamic': 'true'}
+{'name': 'googlebot', 'content': 'noarchive', 'data-dynamic': 'true'}
+{'name': 'viewport', 'content': 'width=device-width, viewport-fit=cover, initial-scale=1, maximum-scale=1', 'data-dynamic': 'true'}
+{'name': 'title', 'content': 'nature of my game', 'data-dynamic': 'true'}
+{'name': 'keywords', 'content': 'skye, landscape, scotland, ruin, lichen, churchyard, kilchrist, cillchriosd', 'data-dynamic': 'true'}
+{'property': 'og:title', 'content': 'nature of my game', 'data-dynamic': 'true'}
+{'property': 'og:description', 'content': 'I\'m glad there are no gods.  Otherwise, I\'d have to choose.  Which god should I believe in?  Ah, I don\'t mean Allah or Mercury or whatever.  I mean within the Christian faith.  It\'s almost as bad as choosing a salad dressing in an American restaurant.  Which should I choose to assure me of an afterlife?  Aaronic Order Abecedarians (extinct) Advent Christian Church Adventist Church of Promise African Methodist Episcopal Church African Methodist Episcopal Zion Church African Orthodox Church Alliance of Baptists Alliance of Mennonite Evangelical Congregations American Association of Lutheran Churches American Baptist Association American Baptist Churches USA American Catholic Church in the United States American Unitarian Conference Amish Andhra Evangelical Lutheran Church Anglican Catholic Church Anglican Church in America Anglican Church in Aotearoa, New Zealand and Polynesia Anglican Church in Central America Anglican Church of Australia Anglican Church of Burundi Anglican Church of Canada Anglican Church of Kenya Anglican Church of Korea Anglican Church of Mexico Anglican Church of Papua New Guinea Anglican Church of Southern Africa Anglican Church of Tanzania Anglican Church of the Southern Cone of America Anglican Episcopal Church of Brazil Anglican Mission in the Americas Anglican Orthodox Church Anglican Province of America Anglican Province of Christ the King Anthroposophical Society of Rudolf Steiner Antiochian Orthodox Christian Archdiocese of North America Apostles of Johane Marauke Apostolic Assemblies of Christ Apostolic Assembly of the Faith in Christ Jesus Apostolic Brethren Apostolic Christian Church Apostolic Church Apostolic Faith Church Apostolic Faith Mission of South Africa Apostolic Gospel Church of Jesus Christ Apostolic Lutheran Church of America Apostolic Overcoming Holy Church of God Apostolic United Brethren Archeosophical Society of Tommaso Palamidessi Armenian Apostolic Church Armenian Catholic Church Assembleias de Deus Assemblies of God Assemblies of God in New Zealand Assemblies of God in the United Kingdom Assemblies of God in Vietnam Assemblies of the Lord Jesus Christ Assemblies of Yahweh Associate Reformed Presbyterian Church Associated Gospel Churches of Canada (AGC) Association of Baptist Churches in Ireland Association of Free Lutheran Congregations Association of Grace Baptist Churches Association of Reformed Baptist Churches of America Association of Regular Baptist Churches Association of Vineyard Churches Australian and New Zealand Unitarian Universalist Association (ANZUUA) Australian Christian Churches Australian Fellowship of Faith Churches and Ministers Int. (AFFCMI) Baptist Bible Fellowship International Baptist Conference of the Philippines Baptist Convention of Ontario and Quebec Baptist Convention of Western Cuba Baptist General Conference (Sweden) Baptist General Conference of Canada Baptist General Convention of Texas Baptist Missionary Association of America Baptist Union of Australia Baptist Union of Great Britain Baptist Union of New Zealand Baptist Union of Scotland Baptist Union of Western Canada Baptist World Alliance Batak Christian Community Church Batak Christian Protestant Church Beachy Amish Belarusian Greek Catholic Church Believers Church Bible Baptist Bible Christian Mission Bible Fellowship Church Bible Presbyterian Church Bible Way Church of Our Lord Jesus Christ Bible-Pattern Church Fellowship Black Primitive Baptists Born Again Movement Bosnian Church (no longer in existence) Branch Davidians Brazilian Catholic Apostolic Church Brethren in Christ Church Brethren Reformed Church British Orthodox Church British-Israel-World Federation Bruderhof Communities Bulgarian Catholic Church Bulgarian Orthodox Church Calvary Chapel Calvary Holiness Association Canadian and American Reformed Churches Canadian Baptist Ministries Canadian Conference of Mennonite Brethren Churches Canadian Convention of Southern Baptists Canadian Unitarian Council Cathars Catholic Apostolic Church Catholic Charismatic Church of Canada Celestial Church of Christ Celtic Catholic Church Celtic Orthodox Church Central Baptist Association Central Canada Baptist Conference Chaldean Catholic Church Charisma Christian Church Charismatic Episcopal Church Charismatic Episcopal Church Children of God a.k.a. "The Family International", "Family of Love", "The Family" China Christian Council Chinese Orthodox Church Chinese Patriotic Catholic Association Chortitzer Mennonite Conference Christ Apostolic Church Christ Apostolic Miracle Ministry Christ Community Church Christ Gospel Churches International Christian & Missionary Alliance Christian Baptist Church of God Christian Church Christian Church in Central Sulawesi Christian Church in Luwuk Banggai Christian Church in Sulawesi Christian Church of North America Christian Church of Southern Sumatra Christian Church of Sumba Christian Churches of Java Christian City Churches Christian Communion of Indonesia Church in Nias (Gereja AMIN) Christian Congregation of Brazil Christian Conventions (aka Two by Twos, The Truth, The Way) Christian Episcopal Church Christian Evangelical Church in Bolaang Mongondow Christian Evangelical Church in Minahasa Christian Evangelical Church in Timor Christian Identity and other white separatist/supremacist groups Christian Israelite Church Christian Methodist Episcopal Church (Dallas, TX) Christian Millennial Fellowship Christian Outreach Centre Christian Protestant Angkola Church Christian Protestant Church in Indonesia Christian Reformed Church in North America Christian Reformed Church of Nigeria Christian Reformed Churches of Australia Christian Revival Crusade Christian Unity Baptist Association Christ\'s Sanctified Holy Church Church in the Province of the West Indies Church in Wales Church of Bangladesh Church of Bangladesh Church of Caucasian Albania (no longer in existence) Church of Christ (Holiness) U.S.A. Church of Christ (Temple Lot) (Hedrickites) Church of Christ in Nigeria Church of Christ with the Elijah Message Church of Christ, Instrumental (Kelleyites) Church of Denmark Church of England Church of England (Continuing) Church of England in South Africa Church of God (Anderson) Church of God (Charleston, Tennessee) Church of God (Chattanooga) Church of God (Cleveland) Church of God (Guthrie, Oklahoma) Church of God (Holiness) Church of God (Huntsville, Alabama) Church of God (Restoration) Church of God by Faith Church of God General Conference (Abrahamic Faith) Church of God in Christ Church of God in Christ, Mennonite (Holdeman Mennonites) Church of God Mission International Church of God Mountain Assembly Church of God of Prophecy Church of God of the Original Mountain Assembly Church of God of the Union Assembly Church of God with Signs Following Church of God, House of Prayer Church of Greece Church of Iceland Church of Ireland Church of Jesus Christ Church of Jesus Christ (Bickertonite) Church of Jesus Christ (Cutlerite) Church of Jesus Christ of Latter Day Saints (Strangite) Church of Jesus Christ-Christian (Aryan Nations) Church of Nigeria Church of North India Church of North India Church of Norway Church of Our Lord Jesus Christ of the Apostolic Faith Church of Pakistan Church of Pakistan Church of Scotland Church of South India Church of South India Church of Sweden Church of the Blessed Hope (aka Church of God of the Abrahamic Faith) Church of the Brethren Church of the Brethren in Nigeria Church of the Faroe Islands Church of the Foursquare Gospel in the Philippines Church of the Great God Church of the Little Children of Jesus Christ Church of the Lord (Aladura) Church of the Lutheran Brethren of America Church of the Lutheran Confession Church of the Nazarene Church of the Province of Central Africa Church of the Province of Melanesia Church of the Province of Myanmar Church of the Province of Rwanda Church of the Province of South East Asia Church of the Province of the Indian Ocean Church of the Province of West Africa Church of the United Brethren in Christ Church of Uganda Churches of Christ (Non-denominational) Churches of Christ (non-institutional) Churches of Christ in Australia Churches of God General Conference (Winebrenner) City Harvest Church Communion of Christ the Redeemer Communion of Evangelical Episcopal Churches Communion of Evangelical Episcopal Churches Community of Christ, formerly Reorganized Church of Jesus Christ of Latter Day Saints  Concordia Lutheran Conference Confederation of Reformed Evangelical Churches Confederation of Reformed Evangelical Churches Conference of the Mennonite Brethren Churches in India Confessional Evangelical Lutheran Conference Congregational Federation of Australia Congregational Holiness Church Congregational Methodist Church Conservative Baptist Association Conservative Baptist Association of America Conservative Grace Brethren Churches, International Conservative Mennonite Conference Continental Baptist Churches Convención Nacional Bautista de Mexico Convention of Atlantic Baptist Churches Convention of Baptist Churches of Northern Circars Cooneyites (not to be confused with Christian Conventions) Cooperative Baptist Fellowship Coptic Catholic Church Coptic Orthodox Church of Alexandria Council of Baptist Churches in Northeast India CRC Churches International Creation Seventh Day Adventist Church Croatian Greek Catholic Church Cumberland Presbyterian Church Cypriot Orthodox Church Czech and Slovak Orthodox Church Deeper Life Bible Church (Nigeria) Destiny Church Destiny Church Groningen Deutsche Unitarier Religionsgemeinschaft, Germany Disciples of Christ Dunkard Brethren Dutch Reformed Church Ecumenical Patriarchate of Constantinople Elim Fellowship Elim Pentecostal Church English Independents (virtually extinct) Ephrata Cloister Episcopal Church  Episcopal Church in Jerusalem and the Middle East Episcopal Church in the Philippines Episcopal Church of Cuba Episcopal Church of the Sudan Episcopal Missionary Church Eritrean Orthodox Tewahedo Church Estonian Apostolic Orthodox Church Estonian Evangelical Lutheran Church Estonian Orthodox Church of Moscow Patriarchate  Eternal Grace Eternal Sacred Order of Cherubim and Seraphim Ethiopian Catholic Church Ethiopian Orthodox Tewahedo Church European Baptist Convention European Baptist Federation European Unitarian Universalists Evangelical Baptist Mission of South Haiti Evangelical Catholic Church Evangelical Christian Church in Canada (Christian Disciples) Evangelical Christian Church in West Papua Evangelical Church (ECNA) Evangelical Church in Germany Evangelical Church in Kalimantan Evangelical Church of the Augsburg Confession in Slovakia Evangelical Church of the Dominican Republic Evangelical Church of West Africa Evangelical Community Church-Lutheran Evangelical Covenant Church of America ("Swedish Evangelical Mission Covenant") Evangelical Free Baptist Church Evangelical Free Church of America Evangelical Free Church of Canada Evangelical Friends International Evangelical Lutheran Church - Synod of France and Belgium Evangelical Lutheran Church "Concord" (Russia) Evangelical Lutheran Church in America Evangelical Lutheran Church in Canada Evangelical Lutheran Church in Southern Africa Evangelical Lutheran Church in Tanzania Evangelical Lutheran Church of Brazil Evangelical Lutheran Church of England Evangelical Lutheran Church of Finland Evangelical Lutheran Church of Latvia Evangelical Lutheran Church of Papua New Guinea Evangelical Lutheran Diocese of North America Evangelical Lutheran Free Church (Germany) Evangelical Lutheran Free Church of Norway (associate member) Evangelical Lutheran Synod (United States) Evangelical Mennonite Church Evangelical Mennonite Conference Evangelical Mennonite Mission Conference Evangelical Methodist Church Evangelical Missionary Church Evangelical Pentecostal Church of Besançon Evangelical Presbyterian Church Evangelical Presbyterian Church (Australia) Evangelical Presbyterian Church in England and Wales Evangelical Presbyterian Church of Ukraine Evangelical Reformed Church of Christ Exclusive Brethren Faith Christian Fellowship International Federation of Swiss Protestant Churches Fellowship of Evangelical Baptist Churches in Canada Fellowship of Evangelical Bible Churches (formerly Evangelical Mennonite Brethren) Fellowship of Fundamental Bible Churches Fellowship of Grace Brethren Churches Finnish Orthodox Church Fire Baptized Holiness Church of God of the Americas First Congregational Methodist Church Free Apostolic Church of Pentecost Free Catholic Church Free Church of England Free Church of Scotland Free Church of Scotland (Continuing) Free Evangelical Churches Free Methodist Church (North America) Free Presbyterian Church (Australia) Free Presbyterian Church of Scotland Free Presbyterian Church of Ulster Free Protestant Episcopal Church Free Reformed Churches of North America Free Wesleyan Church (Tonga) Free Will Baptist Church French Coptic Orthodox Church Friends General Conference Friends United Meeting Full Gospel Fundamental Baptist Fellowship of America Fundamental Methodist Conference, Inc. Fundamentalist Church of Jesus Christ of Latter Day Saints (FLDS) Garo Baptist Convention of India General Assembly of Unitarian and Free Christian Churches, United Kingdom & Ireland General Association of Baptists General Association of General Baptists General Association of Regular Baptist Churches General Church of the New Jerusalem General Conference Mennonite Church (merged) General Conference of the Church of God (Seventh-Day) General Conference of the Evangelical Baptist Church, Inc. General Council of the Assemblies of God of the United States General Six-Principle Baptists Georgian Catholic Church Georgian Orthodox and Apostolic Church Gereja Pantekosta di Indonesia Gereja Pantekosta Pusat Surabaya German Evangelical Church in Bohemia, Moravia and Silesia (no longer in existence) God is Love Pentecostal Church Gospel Faith Mission Gossner Evangelical Lutheran Church in Chotanagpur and Assam Grace Baptist Assembly Grace Movement Churches Great Commission Association Greek Catholic Church Greek Evangelical Church Greek Old Calendarists Greek Orthodox Church of Alexandria Greek Orthodox Church of Antioch Greek Orthodox Church of Jerusalem Gutnius Lutheran Church Harmony Society Heritage Reformed Congregations Holiness Baptist Association Hong Kong Sheng Kung Hui House of Prayer Christian Church House of Yahweh Huguenots (virtually extinct) Hungarian Greek Catholic Church Hussites Hutterites Independent Assemblies of God, International Independent Baptist Independent Baptist Church of America Independent Baptist Fellowship International Independent Baptist Fellowship of North America Independent Evangelical-Lutheran Church Independent RLDS / Restoration Branches Indian Brethren Indian Pentecostal Church of God Indian Shakers Indonesian Christian Church Indonesian Christian Church Indonesian Christian Lutheran Church Indonesian Protestant Church in Buol Toli-Toli Indonesian Protestant Church in Donggala Indonesian Protestant Church in Gorontalo International Church of the Foursquare Gospel International Churches of Christ (Boston Movement) International Council of Unitarians and Universalists International Lutheran Council International Pentecostal Church of Christ International Pentecostal Holiness Church Interstate & Foreign Landmark Missionary Baptist Association Italo-Greek Catholic Church Jacobite Syrian Christian Church Japan Lutheran Church Japan Mennonite Brethren Conference Japanese Orthodox Church Jesus Army Jesus Movement Jeypore Evangelical Lutheran Church Karo Batak Protestant Church Kemah Injil Church Kerala Brethren Kimbanguist Church Kingdom Identity Ministries Laestadian Lutheran Church Landmark Baptist Church Lanka Lutheran Church LaPorte Church of Christ Latter Day Church of Christ (Kingston Clan) Latvian Evangelical Lutheran Church in America Latvian Orthodox Church Lectorium Rosicrucianum of Jan van Rijckenborgh/Catharose de Petri Liberal Catholic Church Liberty Baptist Fellowship Life Application Gospel Ministries International Living Church of God Living Faith Ministries Local churches Lollards Lusitanian Catholic Apostolic Evangelical Church (in Portugal) Lutheran Church - Canada Lutheran Church - Missouri Synod (United States) Lutheran Church of Australia (associate member) Lutheran Church of Central Africa Malawi Conference Lutheran Church of Central Africa Zambia Conference Lutheran Church of China (extinct) Lutheran Church of Christ in Nigeria Lutheran Church—Hong Kong Synod Lutheran Congregations in Mission for Christ (United States) Lutheran Evangelical Protestant Church (United States) Lutheran Ministerium and Synod - USA Lutheran World Federation Macedonian Catholic Church Macedonian Orthodox Church Macedonian Orthodox Church Malabar Independent Syrian Church Malagasy Lutheran Church Malankara Orthodox Syrian Church Manipur Baptist Convention Mar Thoma Church Mariavite Church Maronite Catholic Church Martinism of Louis Claude de Saint-Martin et al. Melkite Catholic Church Mennonite Brethren Churches Mennonite Church Canada Mennonite Church in the Netherlands Mennonite Church USA Mennonites Methodist Church in Ireland Methodist Church in Singapore Methodist Church Nigeria Methodist Church of Fiji and Rotuma Methodist Church of Great Britain Methodist Church of Malaysia Methodist Church of New Zealand Methodist Church of Southern Africa Metropolis of Bessarabia Metropolitan Community Churches Ministries of His Glory Ministries Without Borders Mission of Full Gospel - Christian Open Door Missionary Church Missionary Church Moldovan Orthodox Church Montenegrin Orthodox Church Moravian Church Myanmar Baptist Convention Nagaland Baptist Church Council National Association of Congregational Christian Churches National Association of Free Will Baptists National Baptist Convention of America, Inc. National Baptist Convention, USA, Inc. National Baptist Evangelical Life and Soul Saving Assembly of the U.S.A. National Missionary Baptist Convention of America National Primitive Baptist Convention of the U.S.A. Native American Church Nebraska Amish Netherlands Reformed Congregations New Apostolic Church New England Evangelical Baptist Fellowship New Frontiers New Frontiers (formerly New Frontiers International) New Life Churches New Life Fellowship New Life Fellowship New Testament Association of Independent Baptist Churches New Testament Christian Churches of America, Inc Nias Christian Protestant Church Nigerian Baptist Convention Nippon Sei Ko Kai (Japan) North American Baptist Conference North Bank Baptist Christian Association Norwegian Baptist Union Old Apostolic Church Old Baptist Union Old Catholic Church Old Catholic Church in Europe Old Catholic Church of America Old German Baptist Brethren Old German Baptist Brethren (New Conference) Old Order Amish Old Order German Baptist Brethren Old Order Mennonites Old Order River Brethren Old Regular Baptist Old Time Missionary Baptist Open Bible Standard Churches Open Brethren Orissa Baptist Evangelical Crusade Orthodox Autocephalous Church of Albania Orthodox Christian Reformed Church Orthodox Church in America Orthodox Ohrid Archbishopric Orthodox Presbyterian Church Orthodox-Catholic Church of America (OCCA) Pakistan Synod of the Associate Reformed Presbyterian Church Pakpak Dairi Christian Protestant Church Palmarian Catholic Church Pasundan Christian Church Patriarchal Exarchate for Orthodox Parishes of Russian Tradition in Western Europe  Pentecostal Assemblies of Canada Pentecostal Assemblies of Canada Pentecostal Assemblies of the World Pentecostal Church of God Pentecostal Free Will Baptist Church Pentecostal World Conference Pentecostal/Charismatic Churches of North America Philadelphia Church of God Philippine Independent Church Plymouth Brethren Polish Brethren (extinct as a modern and distinct group) Polish National Catholic Church Polish Orthodox Church Potter\'s House Christian Fellowship Presbyterian Church (USA) Presbyterian Church in America Presbyterian Church in Canada Presbyterian Church in Ireland Presbyterian Church in Taiwan Presbyterian Church of Aotearoa New Zealand Presbyterian Church of Australia Presbyterian Church of Eastern Australia Presbyterian Church of India Presbyterian Church of Korea Presbyterian Church of Nigeria Presbyterian Church of Pakistan Presbyterian Church of Wales Presbyterian Reformed Church (Australia) Presbyterian Reformed Church (Canada) Primitive Baptist Primitive Methodist Church Progressive Baptist Progressive National Baptist Convention Protestant Christian Church in Bali Protestant Christian Church in Mentawai Protestant Church in Indonesia Protestant Church in Southeast Sulawesi Protestant Church in the Moluccas Protestant Church in the Netherlands Protestant Church in Western Indonesia Protestant Reformed Churches in America Province de L\'Eglise Anglicane Du Congo QIC-United Evangelical Church of Nigeria Redeemed Christian Church of God Reformed Baptist Reformed Church in America Reformed Church in Hungary Reformed Church in the United States Reformed Church of France Reformed Episcopal Church Reformed Presbyterian Church General Assembly Reformed Presbyterian Church of Australia Reformed Presbyterian Church of North America Regular Baptist Remnant Church of Jesus Christ of Latter Day Saints Remonstrant Brotherhood Restoration Church of Jesus Christ Restoration Church of Jesus Christ of Latter Day Saints Restored Apostolic Mission Church Restored Church of Jesus Christ) Revival Centres International Revival Centres International River Brethren Romanian Catholic Church Romanian Orthodox Church Russian Catholic Church Russian Old Believers Russian Orthodox Church Russian Orthodox Church in America Russian Orthodox Church Outside Russia  Ruthenian Catholic Church Saint Catherine\'s Monastery Salvation Army Samavesam of Telugu Baptist Churches Sangihe-Talaud Evangelical Church Sassanid Church (extinct) Schwarzenau Brethren Schwenkfelder Church Scottish Episcopal Church Separate Baptist Separate Baptists in Christ Serbian Orthodox Church Seventh Day Adventist Reform Movement Seventh Day Baptist Seventh-day Adventist Church Shakers Simalungun Protestant Christian Church Slovak Greek Catholic Church Social Brethren Societas Rosicruciana by Masons Socinianism (extinct as a modern and distinct group) Southeast Conservative Baptist Southern Baptist Convention Southern Baptists of Texas Southern Episcopal Church Southern Presbyterian Church (Australia) Sovereign Grace Baptists Sovereign Grace Ministries Spanish Reformed Episcopal Church Spiritus Christi St Engenas Zion Christian Church  St. Thomas Evangelical Church Strict Baptists Strigolniki Swartzendruber Amish Swedenborgian Church of North America formerly General Convention of the New Jerusalem Swiss Mennonite Conference Syriac Orthodox Church Syrian Catholic Church Syro-Malabar Church Syro-Malankara Catholic Church Taborites The Apostolic Church of Nigeria The Brethren Church (Ashland Brethren) The Christian Community-Movement for religious renewal The Christian Evangelical Church in Halmahera The Church of God (Jerusalem Acres) The Church of God for All Nations The Church of Jesus Christ of Latter-day Saints (LDS Church) - by far the largest Latter Day Saint denomination The Covenant, The Sword, and the Arm of the Lord The East Java Christian Church The Fellowship (FGFCMI) The Fellowship of the Churches of Christ in Nigeria The Indonesian Christian Church The Lutheran Church of Christ in Nigeria The Pentecostal Mission The Protestant Christian Church The Revival Fellowship The Revival Fellowship The Rosicrucian Fellowship of Max Heindel The Spiritual Baptist Archdiocese of New York, Inc. The Tamil Evangelical Lutheran Church The True and Living Church of Jesus Christ of Saints of the Last Days The United Protestant Church Toraja Church Toraja Mamasa Church True Catholic Church True Jesus Church True Jesus Church Two-Seed-in-the-Spirit Predestinarian Baptists Ukrainian Autocephalous Orthodox Church Ukrainian Greek Catholic Church Ukrainian Lutheran Church Ukrainian Orthodox Church (Kiev Patriarchy) Ukrainian Orthodox Church (Moscow Patriarchate) Ukrainian Orthodox Church: Union d\'Églises baptistes françaises au Canada Unitarian Universalist Association Unitarian Universalist Society of Spain Unitarisk Kirkesamfund, Denmark United American Free Will Baptist Church United American Free Will Baptist Conference United Apostolic Church United Baptist United Baptist Convention of the Atlantic Provinces United Christian Church United Church in Jamaica and the Cayman Islands United Church in Papua New Guinea and the Solomon Islands United Church of Canada United Church of Christ United Church of God United Congregational Church of Southern Africa United Evangelical Lutheran Church in India United Free Church of Scotland United Free Will Baptist United Gospel Tabernacles United Holy Church of America United Methodist Church United Pentecostal Church in India United Pentecostal Church International United Reformed Church United Reformed Churches in North America United Seventh-Day Brethren United Zion Church Uniting Church in Australia Uniting Presbyterian Church in Southern Africa Unity of the Brethren Universal Life Unregistered Baptist Fellowship Upper Cumberland Presbyterian Church US Conference of Mennonite Brethren Churches Utraquists Waldensian Church of the Rio de la Plata Waldensian-Methodist Union of Italy Waldensians Wesleyan Church Wesleyan Reform Union Westminster Presbyterian Church of Australia Wisconsin Evangelical Lutheran Synod (United States) World Baptist Fellowship Worldwide Church of God Yehowists (aka Yehowists-Ilyinites, Russian Jehovists) Zion apostolic church of South Africa or the Zion Christian Church?  The Rolling Stones - Sympathy for the Devil', 'data-dynamic': 'true'}
+{'property': 'og:type', 'content': 'article', 'data-dynamic': 'true'}
+{'property': 'og:url', 'content': 'https://www.flickr.com/photos/sharman/3840737940/', 'data-dynamic': 'true'}
+{'property': 'og:image', 'content': 'https://live.staticflickr.com/3470/3840737940_1bf936be48_b.jpg', 'data-dynamic': 'true'}
+{'property': 'og:image:width', 'content': '685', 'data-dynamic': 'true'}
+{'property': 'og:image:height', 'content': '1024', 'data-dynamic': 'true'}
+{'property': 'twitter:card', 'content': 'summary_large_image', 'data-dynamic': 'true'}
+{'property': 'twitter:image', 'content': 'https://live.staticflickr.com/3470/3840737940_1bf936be48_b.jpg', 'data-dynamic': 'true'}
+{'property': 'twitter:description', 'content': 'I\'m glad there are no gods.  Otherwise, I\'d have to choose.  Which god should I believe in?  Ah, I don\'t mean Allah or Mercury or whatever.  I mean within the Christian faith.  It\'s almost as bad as choosing a salad dressing in an American restaurant.  Which should I choose to assure me of an afterlife?  Aaronic Order Abecedarians (extinct) Advent Christian Church Adventist Church of Promise African Methodist Episcopal Church African Methodist Episcopal Zion Church African Orthodox Church Alliance of Baptists Alliance of Mennonite Evangelical Congregations American Association of Lutheran Churches American Baptist Association American Baptist Churches USA American Catholic Church in the United States American Unitarian Conference Amish Andhra Evangelical Lutheran Church Anglican Catholic Church Anglican Church in America Anglican Church in Aotearoa, New Zealand and Polynesia Anglican Church in Central America Anglican Church of Australia Anglican Church of Burundi Anglican Church of Canada Anglican Church of Kenya Anglican Church of Korea Anglican Church of Mexico Anglican Church of Papua New Guinea Anglican Church of Southern Africa Anglican Church of Tanzania Anglican Church of the Southern Cone of America Anglican Episcopal Church of Brazil Anglican Mission in the Americas Anglican Orthodox Church Anglican Province of America Anglican Province of Christ the King Anthroposophical Society of Rudolf Steiner Antiochian Orthodox Christian Archdiocese of North America Apostles of Johane Marauke Apostolic Assemblies of Christ Apostolic Assembly of the Faith in Christ Jesus Apostolic Brethren Apostolic Christian Church Apostolic Church Apostolic Faith Church Apostolic Faith Mission of South Africa Apostolic Gospel Church of Jesus Christ Apostolic Lutheran Church of America Apostolic Overcoming Holy Church of God Apostolic United Brethren Archeosophical Society of Tommaso Palamidessi Armenian Apostolic Church Armenian Catholic Church Assembleias de Deus Assemblies of God Assemblies of God in New Zealand Assemblies of God in the United Kingdom Assemblies of God in Vietnam Assemblies of the Lord Jesus Christ Assemblies of Yahweh Associate Reformed Presbyterian Church Associated Gospel Churches of Canada (AGC) Association of Baptist Churches in Ireland Association of Free Lutheran Congregations Association of Grace Baptist Churches Association of Reformed Baptist Churches of America Association of Regular Baptist Churches Association of Vineyard Churches Australian and New Zealand Unitarian Universalist Association (ANZUUA) Australian Christian Churches Australian Fellowship of Faith Churches and Ministers Int. (AFFCMI) Baptist Bible Fellowship International Baptist Conference of the Philippines Baptist Convention of Ontario and Quebec Baptist Convention of Western Cuba Baptist General Conference (Sweden) Baptist General Conference of Canada Baptist General Convention of Texas Baptist Missionary Association of America Baptist Union of Australia Baptist Union of Great Britain Baptist Union of New Zealand Baptist Union of Scotland Baptist Union of Western Canada Baptist World Alliance Batak Christian Community Church Batak Christian Protestant Church Beachy Amish Belarusian Greek Catholic Church Believers Church Bible Baptist Bible Christian Mission Bible Fellowship Church Bible Presbyterian Church Bible Way Church of Our Lord Jesus Christ Bible-Pattern Church Fellowship Black Primitive Baptists Born Again Movement Bosnian Church (no longer in existence) Branch Davidians Brazilian Catholic Apostolic Church Brethren in Christ Church Brethren Reformed Church British Orthodox Church British-Israel-World Federation Bruderhof Communities Bulgarian Catholic Church Bulgarian Orthodox Church Calvary Chapel Calvary Holiness Association Canadian and American Reformed Churches Canadian Baptist Ministries Canadian Conference of Mennonite Brethren Churches Canadian Convention of Southern Baptists Canadian Unitarian Council Cathars Catholic Apostolic Church Catholic Charismatic Church of Canada Celestial Church of Christ Celtic Catholic Church Celtic Orthodox Church Central Baptist Association Central Canada Baptist Conference Chaldean Catholic Church Charisma Christian Church Charismatic Episcopal Church Charismatic Episcopal Church Children of God a.k.a. "The Family International", "Family of Love", "The Family" China Christian Council Chinese Orthodox Church Chinese Patriotic Catholic Association Chortitzer Mennonite Conference Christ Apostolic Church Christ Apostolic Miracle Ministry Christ Community Church Christ Gospel Churches International Christian & Missionary Alliance Christian Baptist Church of God Christian Church Christian Church in Central Sulawesi Christian Church in Luwuk Banggai Christian Church in Sulawesi Christian Church of North America Christian Church of Southern Sumatra Christian Church of Sumba Christian Churches of Java Christian City Churches Christian Communion of Indonesia Church in Nias (Gereja AMIN) Christian Congregation of Brazil Christian Conventions (aka Two by Twos, The Truth, The Way) Christian Episcopal Church Christian Evangelical Church in Bolaang Mongondow Christian Evangelical Church in Minahasa Christian Evangelical Church in Timor Christian Identity and other white separatist/supremacist groups Christian Israelite Church Christian Methodist Episcopal Church (Dallas, TX) Christian Millennial Fellowship Christian Outreach Centre Christian Protestant Angkola Church Christian Protestant Church in Indonesia Christian Reformed Church in North America Christian Reformed Church of Nigeria Christian Reformed Churches of Australia Christian Revival Crusade Christian Unity Baptist Association Christ\'s Sanctified Holy Church Church in the Province of the West Indies Church in Wales Church of Bangladesh Church of Bangladesh Church of Caucasian Albania (no longer in existence) Church of Christ (Holiness) U.S.A. Church of Christ (Temple Lot) (Hedrickites) Church of Christ in Nigeria Church of Christ with the Elijah Message Church of Christ, Instrumental (Kelleyites) Church of Denmark Church of England Church of England (Continuing) Church of England in South Africa Church of God (Anderson) Church of God (Charleston, Tennessee) Church of God (Chattanooga) Church of God (Cleveland) Church of God (Guthrie, Oklahoma) Church of God (Holiness) Church of God (Huntsville, Alabama) Church of God (Restoration) Church of God by Faith Church of God General Conference (Abrahamic Faith) Church of God in Christ Church of God in Christ, Mennonite (Holdeman Mennonites) Church of God Mission International Church of God Mountain Assembly Church of God of Prophecy Church of God of the Original Mountain Assembly Church of God of the Union Assembly Church of God with Signs Following Church of God, House of Prayer Church of Greece Church of Iceland Church of Ireland Church of Jesus Christ Church of Jesus Christ (Bickertonite) Church of Jesus Christ (Cutlerite) Church of Jesus Christ of Latter Day Saints (Strangite) Church of Jesus Christ-Christian (Aryan Nations) Church of Nigeria Church of North India Church of North India Church of Norway Church of Our Lord Jesus Christ of the Apostolic Faith Church of Pakistan Church of Pakistan Church of Scotland Church of South India Church of South India Church of Sweden Church of the Blessed Hope (aka Church of God of the Abrahamic Faith) Church of the Brethren Church of the Brethren in Nigeria Church of the Faroe Islands Church of the Foursquare Gospel in the Philippines Church of the Great God Church of the Little Children of Jesus Christ Church of the Lord (Aladura) Church of the Lutheran Brethren of America Church of the Lutheran Confession Church of the Nazarene Church of the Province of Central Africa Church of the Province of Melanesia Church of the Province of Myanmar Church of the Province of Rwanda Church of the Province of South East Asia Church of the Province of the Indian Ocean Church of the Province of West Africa Church of the United Brethren in Christ Church of Uganda Churches of Christ (Non-denominational) Churches of Christ (non-institutional) Churches of Christ in Australia Churches of God General Conference (Winebrenner) City Harvest Church Communion of Christ the Redeemer Communion of Evangelical Episcopal Churches Communion of Evangelical Episcopal Churches Community of Christ, formerly Reorganized Church of Jesus Christ of Latter Day Saints  Concordia Lutheran Conference Confederation of Reformed Evangelical Churches Confederation of Reformed Evangelical Churches Conference of the Mennonite Brethren Churches in India Confessional Evangelical Lutheran Conference Congregational Federation of Australia Congregational Holiness Church Congregational Methodist Church Conservative Baptist Association Conservative Baptist Association of America Conservative Grace Brethren Churches, International Conservative Mennonite Conference Continental Baptist Churches Convención Nacional Bautista de Mexico Convention of Atlantic Baptist Churches Convention of Baptist Churches of Northern Circars Cooneyites (not to be confused with Christian Conventions) Cooperative Baptist Fellowship Coptic Catholic Church Coptic Orthodox Church of Alexandria Council of Baptist Churches in Northeast India CRC Churches International Creation Seventh Day Adventist Church Croatian Greek Catholic Church Cumberland Presbyterian Church Cypriot Orthodox Church Czech and Slovak Orthodox Church Deeper Life Bible Church (Nigeria) Destiny Church Destiny Church Groningen Deutsche Unitarier Religionsgemeinschaft, Germany Disciples of Christ Dunkard Brethren Dutch Reformed Church Ecumenical Patriarchate of Constantinople Elim Fellowship Elim Pentecostal Church English Independents (virtually extinct) Ephrata Cloister Episcopal Church  Episcopal Church in Jerusalem and the Middle East Episcopal Church in the Philippines Episcopal Church of Cuba Episcopal Church of the Sudan Episcopal Missionary Church Eritrean Orthodox Tewahedo Church Estonian Apostolic Orthodox Church Estonian Evangelical Lutheran Church Estonian Orthodox Church of Moscow Patriarchate  Eternal Grace Eternal Sacred Order of Cherubim and Seraphim Ethiopian Catholic Church Ethiopian Orthodox Tewahedo Church European Baptist Convention European Baptist Federation European Unitarian Universalists Evangelical Baptist Mission of South Haiti Evangelical Catholic Church Evangelical Christian Church in Canada (Christian Disciples) Evangelical Christian Church in West Papua Evangelical Church (ECNA) Evangelical Church in Germany Evangelical Church in Kalimantan Evangelical Church of the Augsburg Confession in Slovakia Evangelical Church of the Dominican Republic Evangelical Church of West Africa Evangelical Community Church-Lutheran Evangelical Covenant Church of America ("Swedish Evangelical Mission Covenant") Evangelical Free Baptist Church Evangelical Free Church of America Evangelical Free Church of Canada Evangelical Friends International Evangelical Lutheran Church - Synod of France and Belgium Evangelical Lutheran Church "Concord" (Russia) Evangelical Lutheran Church in America Evangelical Lutheran Church in Canada Evangelical Lutheran Church in Southern Africa Evangelical Lutheran Church in Tanzania Evangelical Lutheran Church of Brazil Evangelical Lutheran Church of England Evangelical Lutheran Church of Finland Evangelical Lutheran Church of Latvia Evangelical Lutheran Church of Papua New Guinea Evangelical Lutheran Diocese of North America Evangelical Lutheran Free Church (Germany) Evangelical Lutheran Free Church of Norway (associate member) Evangelical Lutheran Synod (United States) Evangelical Mennonite Church Evangelical Mennonite Conference Evangelical Mennonite Mission Conference Evangelical Methodist Church Evangelical Missionary Church Evangelical Pentecostal Church of Besançon Evangelical Presbyterian Church Evangelical Presbyterian Church (Australia) Evangelical Presbyterian Church in England and Wales Evangelical Presbyterian Church of Ukraine Evangelical Reformed Church of Christ Exclusive Brethren Faith Christian Fellowship International Federation of Swiss Protestant Churches Fellowship of Evangelical Baptist Churches in Canada Fellowship of Evangelical Bible Churches (formerly Evangelical Mennonite Brethren) Fellowship of Fundamental Bible Churches Fellowship of Grace Brethren Churches Finnish Orthodox Church Fire Baptized Holiness Church of God of the Americas First Congregational Methodist Church Free Apostolic Church of Pentecost Free Catholic Church Free Church of England Free Church of Scotland Free Church of Scotland (Continuing) Free Evangelical Churches Free Methodist Church (North America) Free Presbyterian Church (Australia) Free Presbyterian Church of Scotland Free Presbyterian Church of Ulster Free Protestant Episcopal Church Free Reformed Churches of North America Free Wesleyan Church (Tonga) Free Will Baptist Church French Coptic Orthodox Church Friends General Conference Friends United Meeting Full Gospel Fundamental Baptist Fellowship of America Fundamental Methodist Conference, Inc. Fundamentalist Church of Jesus Christ of Latter Day Saints (FLDS) Garo Baptist Convention of India General Assembly of Unitarian and Free Christian Churches, United Kingdom & Ireland General Association of Baptists General Association of General Baptists General Association of Regular Baptist Churches General Church of the New Jerusalem General Conference Mennonite Church (merged) General Conference of the Church of God (Seventh-Day) General Conference of the Evangelical Baptist Church, Inc. General Council of the Assemblies of God of the United States General Six-Principle Baptists Georgian Catholic Church Georgian Orthodox and Apostolic Church Gereja Pantekosta di Indonesia Gereja Pantekosta Pusat Surabaya German Evangelical Church in Bohemia, Moravia and Silesia (no longer in existence) God is Love Pentecostal Church Gospel Faith Mission Gossner Evangelical Lutheran Church in Chotanagpur and Assam Grace Baptist Assembly Grace Movement Churches Great Commission Association Greek Catholic Church Greek Evangelical Church Greek Old Calendarists Greek Orthodox Church of Alexandria Greek Orthodox Church of Antioch Greek Orthodox Church of Jerusalem Gutnius Lutheran Church Harmony Society Heritage Reformed Congregations Holiness Baptist Association Hong Kong Sheng Kung Hui House of Prayer Christian Church House of Yahweh Huguenots (virtually extinct) Hungarian Greek Catholic Church Hussites Hutterites Independent Assemblies of God, International Independent Baptist Independent Baptist Church of America Independent Baptist Fellowship International Independent Baptist Fellowship of North America Independent Evangelical-Lutheran Church Independent RLDS / Restoration Branches Indian Brethren Indian Pentecostal Church of God Indian Shakers Indonesian Christian Church Indonesian Christian Church Indonesian Christian Lutheran Church Indonesian Protestant Church in Buol Toli-Toli Indonesian Protestant Church in Donggala Indonesian Protestant Church in Gorontalo International Church of the Foursquare Gospel International Churches of Christ (Boston Movement) International Council of Unitarians and Universalists International Lutheran Council International Pentecostal Church of Christ International Pentecostal Holiness Church Interstate & Foreign Landmark Missionary Baptist Association Italo-Greek Catholic Church Jacobite Syrian Christian Church Japan Lutheran Church Japan Mennonite Brethren Conference Japanese Orthodox Church Jesus Army Jesus Movement Jeypore Evangelical Lutheran Church Karo Batak Protestant Church Kemah Injil Church Kerala Brethren Kimbanguist Church Kingdom Identity Ministries Laestadian Lutheran Church Landmark Baptist Church Lanka Lutheran Church LaPorte Church of Christ Latter Day Church of Christ (Kingston Clan) Latvian Evangelical Lutheran Church in America Latvian Orthodox Church Lectorium Rosicrucianum of Jan van Rijckenborgh/Catharose de Petri Liberal Catholic Church Liberty Baptist Fellowship Life Application Gospel Ministries International Living Church of God Living Faith Ministries Local churches Lollards Lusitanian Catholic Apostolic Evangelical Church (in Portugal) Lutheran Church - Canada Lutheran Church - Missouri Synod (United States) Lutheran Church of Australia (associate member) Lutheran Church of Central Africa Malawi Conference Lutheran Church of Central Africa Zambia Conference Lutheran Church of China (extinct) Lutheran Church of Christ in Nigeria Lutheran Church—Hong Kong Synod Lutheran Congregations in Mission for Christ (United States) Lutheran Evangelical Protestant Church (United States) Lutheran Ministerium and Synod - USA Lutheran World Federation Macedonian Catholic Church Macedonian Orthodox Church Macedonian Orthodox Church Malabar Independent Syrian Church Malagasy Lutheran Church Malankara Orthodox Syrian Church Manipur Baptist Convention Mar Thoma Church Mariavite Church Maronite Catholic Church Martinism of Louis Claude de Saint-Martin et al. Melkite Catholic Church Mennonite Brethren Churches Mennonite Church Canada Mennonite Church in the Netherlands Mennonite Church USA Mennonites Methodist Church in Ireland Methodist Church in Singapore Methodist Church Nigeria Methodist Church of Fiji and Rotuma Methodist Church of Great Britain Methodist Church of Malaysia Methodist Church of New Zealand Methodist Church of Southern Africa Metropolis of Bessarabia Metropolitan Community Churches Ministries of His Glory Ministries Without Borders Mission of Full Gospel - Christian Open Door Missionary Church Missionary Church Moldovan Orthodox Church Montenegrin Orthodox Church Moravian Church Myanmar Baptist Convention Nagaland Baptist Church Council National Association of Congregational Christian Churches National Association of Free Will Baptists National Baptist Convention of America, Inc. National Baptist Convention, USA, Inc. National Baptist Evangelical Life and Soul Saving Assembly of the U.S.A. National Missionary Baptist Convention of America National Primitive Baptist Convention of the U.S.A. Native American Church Nebraska Amish Netherlands Reformed Congregations New Apostolic Church New England Evangelical Baptist Fellowship New Frontiers New Frontiers (formerly New Frontiers International) New Life Churches New Life Fellowship New Life Fellowship New Testament Association of Independent Baptist Churches New Testament Christian Churches of America, Inc Nias Christian Protestant Church Nigerian Baptist Convention Nippon Sei Ko Kai (Japan) North American Baptist Conference North Bank Baptist Christian Association Norwegian Baptist Union Old Apostolic Church Old Baptist Union Old Catholic Church Old Catholic Church in Europe Old Catholic Church of America Old German Baptist Brethren Old German Baptist Brethren (New Conference) Old Order Amish Old Order German Baptist Brethren Old Order Mennonites Old Order River Brethren Old Regular Baptist Old Time Missionary Baptist Open Bible Standard Churches Open Brethren Orissa Baptist Evangelical Crusade Orthodox Autocephalous Church of Albania Orthodox Christian Reformed Church Orthodox Church in America Orthodox Ohrid Archbishopric Orthodox Presbyterian Church Orthodox-Catholic Church of America (OCCA) Pakistan Synod of the Associate Reformed Presbyterian Church Pakpak Dairi Christian Protestant Church Palmarian Catholic Church Pasundan Christian Church Patriarchal Exarchate for Orthodox Parishes of Russian Tradition in Western Europe  Pentecostal Assemblies of Canada Pentecostal Assemblies of Canada Pentecostal Assemblies of the World Pentecostal Church of God Pentecostal Free Will Baptist Church Pentecostal World Conference Pentecostal/Charismatic Churches of North America Philadelphia Church of God Philippine Independent Church Plymouth Brethren Polish Brethren (extinct as a modern and distinct group) Polish National Catholic Church Polish Orthodox Church Potter\'s House Christian Fellowship Presbyterian Church (USA) Presbyterian Church in America Presbyterian Church in Canada Presbyterian Church in Ireland Presbyterian Church in Taiwan Presbyterian Church of Aotearoa New Zealand Presbyterian Church of Australia Presbyterian Church of Eastern Australia Presbyterian Church of India Presbyterian Church of Korea Presbyterian Church of Nigeria Presbyterian Church of Pakistan Presbyterian Church of Wales Presbyterian Reformed Church (Australia) Presbyterian Reformed Church (Canada) Primitive Baptist Primitive Methodist Church Progressive Baptist Progressive National Baptist Convention Protestant Christian Church in Bali Protestant Christian Church in Mentawai Protestant Church in Indonesia Protestant Church in Southeast Sulawesi Protestant Church in the Moluccas Protestant Church in the Netherlands Protestant Church in Western Indonesia Protestant Reformed Churches in America Province de L\'Eglise Anglicane Du Congo QIC-United Evangelical Church of Nigeria Redeemed Christian Church of God Reformed Baptist Reformed Church in America Reformed Church in Hungary Reformed Church in the United States Reformed Church of France Reformed Episcopal Church Reformed Presbyterian Church General Assembly Reformed Presbyterian Church of Australia Reformed Presbyterian Church of North America Regular Baptist Remnant Church of Jesus Christ of Latter Day Saints Remonstrant Brotherhood Restoration Church of Jesus Christ Restoration Church of Jesus Christ of Latter Day Saints Restored Apostolic Mission Church Restored Church of Jesus Christ) Revival Centres International Revival Centres International River Brethren Romanian Catholic Church Romanian Orthodox Church Russian Catholic Church Russian Old Believers Russian Orthodox Church Russian Orthodox Church in America Russian Orthodox Church Outside Russia  Ruthenian Catholic Church Saint Catherine\'s Monastery Salvation Army Samavesam of Telugu Baptist Churches Sangihe-Talaud Evangelical Church Sassanid Church (extinct) Schwarzenau Brethren Schwenkfelder Church Scottish Episcopal Church Separate Baptist Separate Baptists in Christ Serbian Orthodox Church Seventh Day Adventist Reform Movement Seventh Day Baptist Seventh-day Adventist Church Shakers Simalungun Protestant Christian Church Slovak Greek Catholic Church Social Brethren Societas Rosicruciana by Masons Socinianism (extinct as a modern and distinct group) Southeast Conservative Baptist Southern Baptist Convention Southern Baptists of Texas Southern Episcopal Church Southern Presbyterian Church (Australia) Sovereign Grace Baptists Sovereign Grace Ministries Spanish Reformed Episcopal Church Spiritus Christi St Engenas Zion Christian Church  St. Thomas Evangelical Church Strict Baptists Strigolniki Swartzendruber Amish Swedenborgian Church of North America formerly General Convention of the New Jerusalem Swiss Mennonite Conference Syriac Orthodox Church Syrian Catholic Church Syro-Malabar Church Syro-Malankara Catholic Church Taborites The Apostolic Church of Nigeria The Brethren Church (Ashland Brethren) The Christian Community-Movement for religious renewal The Christian Evangelical Church in Halmahera The Church of God (Jerusalem Acres) The Church of God for All Nations The Church of Jesus Christ of Latter-day Saints (LDS Church) - by far the largest Latter Day Saint denomination The Covenant, The Sword, and the Arm of the Lord The East Java Christian Church The Fellowship (FGFCMI) The Fellowship of the Churches of Christ in Nigeria The Indonesian Christian Church The Lutheran Church of Christ in Nigeria The Pentecostal Mission The Protestant Christian Church The Revival Fellowship The Revival Fellowship The Rosicrucian Fellowship of Max Heindel The Spiritual Baptist Archdiocese of New York, Inc. The Tamil Evangelical Lutheran Church The True and Living Church of Jesus Christ of Saints of the Last Days The United Protestant Church Toraja Church Toraja Mamasa Church True Catholic Church True Jesus Church True Jesus Church Two-Seed-in-the-Spirit Predestinarian Baptists Ukrainian Autocephalous Orthodox Church Ukrainian Greek Catholic Church Ukrainian Lutheran Church Ukrainian Orthodox Church (Kiev Patriarchy) Ukrainian Orthodox Church (Moscow Patriarchate) Ukrainian Orthodox Church: Union d\'Églises baptistes françaises au Canada Unitarian Universalist Association Unitarian Universalist Society of Spain Unitarisk Kirkesamfund, Denmark United American Free Will Baptist Church United American Free Will Baptist Conference United Apostolic Church United Baptist United Baptist Convention of the Atlantic Provinces United Christian Church United Church in Jamaica and the Cayman Islands United Church in Papua New Guinea and the Solomon Islands United Church of Canada United Church of Christ United Church of God United Congregational Church of Southern Africa United Evangelical Lutheran Church in India United Free Church of Scotland United Free Will Baptist United Gospel Tabernacles United Holy Church of America United Methodist Church United Pentecostal Church in India United Pentecostal Church International United Reformed Church United Reformed Churches in North America United Seventh-Day Brethren United Zion Church Uniting Church in Australia Uniting Presbyterian Church in Southern Africa Unity of the Brethren Universal Life Unregistered Baptist Fellowship Upper Cumberland Presbyterian Church US Conference of Mennonite Brethren Churches Utraquists Waldensian Church of the Rio de la Plata Waldensian-Methodist Union of Italy Waldensians Wesleyan Church Wesleyan Reform Union Westminster Presbyterian Church of Australia Wisconsin Evangelical Lutheran Synod (United States) World Baptist Fellowship Worldwide Church of God Yehowists (aka Yehowists-Ilyinites, Russian Jehovists) Zion apostolic church of South Africa or the Zion Christian Church?  The Rolling Stones - Sympathy for the Devil', 'data-dynamic': 'true'}
+{'property': 'twitter:app:url:iphone', 'content': 'flickr://flickr.com/photos/sharman/3840737940/', 'data-dynamic': 'true'}
+{'property': 'twitter:app:url:ipad', 'content': 'flickr://flickr.com/photos/sharman/3840737940/', 'data-dynamic': 'true'}
+{'property': 'twitter:app:url:googleplay', 'content': 'https://www.flickr.com/photos/sharman/3840737940/', 'data-dynamic': 'true'}
+{'property': 'al:ios:url', 'content': 'flickr://flickr.com/photos/sharman/3840737940', 'data-dynamic': 'true'}
+{'http-equiv': 'x-dns-prefetch-control', 'content': 'on'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'name': 'application-name', 'content': "nature of my game | I'm glad there are no gods. Otherwise, I… | Flickr"}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'google', 'value': 'notranslate'}
+{'http-equiv': 'Content-Security-Policy', 'content': "img-src https://ad.360yield.com https://pm.w55c.net https://event.clientgear.com https://a.sportradarserving.com https://id5-sync.com https://ad-delivery.net https://media.istockphoto.com/ https://*.google.com https://*.google.de https://*.google.fr https://*.google.it https://*.google.co.uk https://*.google-analytics.com https://*.googleadservices.com https://*.googlesyndication.com https://*.doubleclick.com https://*.doubleclick.de https://*.doubleclick.net https://*.googletagservices.com https://*.googleapis.com https://tagmanager.google.com https://www.googletagmanager.com https://*.infolinks.com https://static.criteo.net https://sync.go.sonobi.com https://sync.srv.stackadapt.com/ https://uipglob.semasio.net https://hb.yellowblue.io https://cs.yellowblue.io https://ssum.casalemedia.com https://sync.adtelligent.com https://prebid-match.dotomi.com https://rtb.openx.net https://eb2.3lift.com https://pixel.rubiconproject.com https://rtb.gamoshi.io https://ads.yieldmo.com https://sync.1rx.io https://ap.lijit.com https://prebid.adnxs.com https://dis.criteo.com https://bsw.digitru.st https://us-west-sync.bidswitch.net https://ups.analytics.yahoo.com https://htlb.casalemedia.com/ https://image2.pubmatic.com https://pr-bh.ybp.yahoo.com https://match.prod.bidr.io https://shb.richaudience.com https://sync.richaudience.com/ https://acuityplatform.com https://um.simpli.fi https://ssbsync-global.smartadserver.com https://contextual.media.net https://bh.contextweb.com https://1x1.a-mo.net https://prebid.a-mo.net https://player.ex.co https://channelexco.com/ https://*.connatix.com https://ad.turn.com https://aka-cdn.adtechus.com https://aol-match.dotomi.com https://cm.g.doubleclick.net https://ib.adnxs.com https://match.adsrvr.org https://pixel.advertising.com https://pixel.quantserve.com https://sync.mathtag.com https://x.bidswitch.net data: blob: https://flickr.com https://*.flickr.com https://*.staticflickr.com https://*.niftyimages.com https://*.trustarc.com/ https://hexagon-analytics.com https://api.mapbox.com https://thisweekinphoto.com/ https://*.oppo.com/; connect-src https://pbjs-stream.bydata.com/topics/prebid https://btlr.sharethrough.com https://cat.hbwrapper.com https://cat2.hbwrapper.com/ https://cdn.jsdelivr.net/gh/prebid/currency-file@1/latest.json https://api.gettyimages.com/ https://*.googlesyndication.com https://csi.gstatic.com https://securepubads.g.doubleclick.net https://tagmanager.google.com https://www.googletagmanager.com https://*.infolinks.com https://api.intentiq.com/ https://api.rlcdn.com https://match.adsrvr.org https://tag.1rx.io https://bidder.criteo.com https://apex.go.sonobi.com https://d.adroll.com https://static.criteo.net https://hb.yellowblue.io https://cs.yellowblue.io https://shb.richaudience.com https://sync.richaudience.com/ https://c2shb.ssp.yahoo.com https://htlb.casalemedia.com/ https://prebid.adnxs.com https://tlx.3lift.com https://*.adtech.advertising.com https://grid.bidswitch.net https://fastlane.rubiconproject.com https://hbopenbid.pubmatic.com https://as-sec.casalemedia.com https://ib.adnxs.com/ut/v3/prebid https://gum.criteo.com https://prg.smartadserver.com https://ice.360yield.com https://mug.criteo.com https://prebid.a-mo.net https://cloudflare.com https://ad.360yield.com https://ad.360yield-basic.com https://pbs.360yield.com https://hb.360yield.com https://player.ex.co https://channelexco.com/ https://*.connatix.com https://flickr.com https://*.flickr.com https://*.staticflickr.com https://api.stripe.com https://api.greenhouse.io https://*.trustarc.com https://cdn.siftscience.com https://com-flickr-prod1.mini.snplow.net https://*.flickrprints.net https://*.flickrprints.com *.sentry.io; style-src https://securepubads.g.doubleclick.net https://adservice.google.com https://cdn.ampproject.org https://*.google.com https://*.google-analytics.com https://*.googleadservices.com https://*.doubleclick.com https://*.doubleclick.de https://*.doubleclick.net https://*.googletagservices.com https://*.googleadservices.com https://*.googlesyndication.com https://*.googleapis.com https://www.googletagmanager.com https://*.infolinks.com https://ads.pubmatic.com https://static.criteo.net https://hb.yellowblue.io https://cs.yellowblue.io https://shb.richaudience.com https://sync.richaudience.com/ https://cdn.jsdelivr.net https://prebid.a-mo.net https://player.ex.co https://channelexco.com/ https://*.connatix.com https://adserver.adtech.advertising.com 'unsafe-inline' https://flickr.com https://*.flickr.com https://*.staticflickr.com https://js.stripe.com https://boards.greenhouse.io https://*.trustarc.com https://trustarc.mgr.consensu.org https://cdn.siftscience.com; default-src https://*.googlesyndication.com https://securepubads.g.doubleclick.net https://adservice.google.com https://cdn.ampproject.org https://flickr.com https://*.flickr.com https://*.staticflickr.com https://*.trustarc.com; script-src https://securepubads.g.doubleclick.net https://adservice.google.com https://cdn.ampproject.org https://*.google.com https://*.google-analytics.com https://*.googleadservices.com https://*.doubleclick.com https://*.doubleclick.de https://*.doubleclick.net https://*.googletagservices.com https://*.googleadservices.com https://*.googlesyndication.com https://*.googleapis.com https://www.googletagmanager.com https://*.infolinks.com https://ads.pubmatic.com https://static.criteo.net https://hb.yellowblue.io https://cs.yellowblue.io https://cdn.jsdelivr.net https://shb.richaudience.com https://sync.richaudience.com/ https://prebid.a-mo.net https://ad.360yield.com https://ad.360yield-basic.com https://pbs.360yield.com https://hb.360yield.com https://player.ex.co https://channelexco.com/ https://*.connatix.com https://adserver.adtech.advertising.com 'unsafe-eval' 'unsafe-inline' 'nonce-d5218ee65b153c83132a5936bfc51edb' https://flickr.com https://*.flickr.com https://*.staticflickr.com https://js.stripe.com https://boards.greenhouse.io https://*.trustarc.com https://trustarc.mgr.consensu.org https://cdn.siftscience.com https://assets.pinterest.com https://browser.sentry-cdn.com; child-src https://tpc.googlesyndication.com https://*.doubleclick.net/ https://adservice.google.com https://cdn.ampproject.org https://www.googletagservices.com/pubconsole/ https://*.infolinks.com https://gum.criteo.com/ https://hb.yellowblue.io https://cs.yellowblue.io https://eb2.3lift.com https://eus.rubiconproject.com/ https://*.safeframe.googlesyndication.com/safeframe/ https://*.tynt.com/ https://*.adnxs.com/ https://*.indexww.com/ https://csync.smartadserver.com/ https://sync.richaudience.com/ https://shb.richaudience.com https://prebid.a-mo.net https://ad.360yield.com https://ad.360yield-basic.com https://pbs.360yield.com https://hb.360yield.com https://player.ex.co https://channelexco.com/ https://*.connatix.com https://ads.pubmatic.com https://ssum-sec.casalemedia.com https://flickr.com https://*.flickr.com https://*.staticflickr.com https://js.stripe.com https://hooks.stripe.com https://boards.greenhouse.io https://*.trustarc.com https://trustarc.mgr.consensu.org/; font-src data: https://flickr.com https://*.flickr.com https://*.staticflickr.com https://*.trustarc.com https://fonts.gstatic.com; worker-src blob:; media-src https://flickr.com https://*.flickr.com https://*.staticflickr.com; frame-src *; form-action https://flickr.com https://*.flickr.com; "}
+{'name': 'msapplication-TileColor', 'content': '#FFFFFF'}
+{'name': 'msapplication-TileImage', 'content': 'https://combo.staticflickr.com/pw/images/favicons/favicon-144.png'}
+
+Body Text:
+nature of my game | I'm glad there are no gods. Otherwise, I… | Flickr
+Explore
+Recent Photos
+Trending
+Events
+The Commons
+Flickr Galleries
+World Map
+Camera Finder
+Flickr Blog
+Prints
+The Print Shop
+Prints & Wall Art
+Photo Books
+Get Pro
+Pro Plans
+Stats Dashboard
+Get Auto-Uploadr
+Log In
+Sign Up
+Log In
+Explore
+Trending
+Events
+The Commons
+Flickr Galleries
+Flickr Blog
+The Print Shop
+Prints & Wall Art
+Photo Books
+Get Pro
+About
+Jobs
+Blog
+Advertise
+Developers
+Guidelines
+Help
+Help forum
+Privacy
+Terms
+Cookies
+English
+←
+→
+Back to photostream
+Martin Sharman
+By: Martin Sharman
+nature of my game
+I'm glad there are no gods.  Otherwise, I'd have to choose.  Which god should I believe in?  Ah, I don't mean Allah or Mercury or whatever.  I mean within the Christian faith.  It's almost as bad as choosing a salad dressing in an American restaurant.  Which should I choose to assure me of an afterlife?
+Aaronic Order
+Abecedarians (extinct)
+Advent Christian Church
+Adventist Church of Promise
+African Methodist Episcopal Church
+African Methodist Episcopal Zion Church
+African Orthodox Church
+Alliance of Baptists
+Alliance of Mennonite Evangelical Congregations
+American Association of Lutheran Churches
+American Baptist Association
+American Baptist Churches USA
+American Catholic Church in the United States
+American Unitarian Conference
+Amish
+Andhra Evangelical Lutheran Church
+Anglican Catholic Church
+Anglican Church in America
+Anglican Church in Aotearoa, New Zealand and Polynesia
+Anglican Church in Central America
+Anglican Church of Australia
+Anglican Church of Burundi
+Anglican Church of Canada
+Anglican Church of Kenya
+Anglican Church of Korea
+Anglican Church of Mexico
+Anglican Church of Papua New Guinea
+Anglican Church of Southern Africa
+Anglican Church of Tanzania
+Anglican Church of the Southern Cone of America
+Anglican Episcopal Church of Brazil
+Anglican Mission in the Americas
+Anglican Orthodox Church
+Anglican Province of America
+Anglican Province of Christ the King
+Anthroposophical Society of Rudolf Steiner
+Antiochian Orthodox Christian Archdiocese of North America
+Apostles of Johane Marauke
+Apostolic Assemblies of Christ
+Apostolic Assembly of the Faith in Christ Jesus
+Apostolic Brethren
+Apostolic Christian Church
+Apostolic Church
+Apostolic Faith Church
+Apostolic Faith Mission of South Africa
+Apostolic Gospel Church of Jesus Christ
+Apostolic Lutheran Church of America
+Apostolic Overcoming Holy Church of God
+Apostolic United Brethren
+Archeosophical Society of Tommaso Palamidessi
+Armenian Apostolic Church
+Armenian Catholic Church
+Assembleias de Deus
+Assemblies of God
+Assemblies of God in New Zealand
+Assemblies of God in the United Kingdom
+Assemblies of God in Vietnam
+Assemblies of the Lord Jesus Christ
+Assemblies of Yahweh
+Associate Reformed Presbyterian Church
+Associated Gospel Churches of Canada (AGC)
+Association of Baptist Churches in Ireland
+Association of Free Lutheran Congregations
+Association of Grace Baptist Churches
+Association of Reformed Baptist Churches of America
+Association of Regular Baptist Churches
+Association of Vineyard Churches
+Australian and New Zealand Unitarian Universalist Association (ANZUUA)
+Australian Christian Churches
+Australian Fellowship of Faith Churches and Ministers Int. (AFFCMI)
+Baptist Bible Fellowship International
+Baptist Conference of the Philippines
+Baptist Convention of Ontario and Quebec
+Baptist Convention of Western Cuba
+Baptist General Conference (Sweden)
+Baptist General Conference of Canada
+Baptist General Convention of Texas
+Baptist Missionary Association of America
+Baptist Union of Australia
+Baptist Union of Great Britain
+Baptist Union of New Zealand
+Baptist Union of Scotland
+Baptist Union of Western Canada
+Baptist World Alliance
+Batak Christian Community Church
+Batak Christian Protestant Church
+Beachy Amish
+Belarusian Greek Catholic Church
+Believers Church
+Bible Baptist
+Bible Christian Mission
+Bible Fellowship Church
+Bible Presbyterian Church
+Bible Way Church of Our Lord Jesus Christ
+Bible-Pattern Church Fellowship
+Black Primitive Baptists
+Born Again Movement
+Bosnian Church (no longer in existence)
+Branch Davidians
+Brazilian Catholic Apostolic Church
+Brethren in Christ Church
+Brethren Reformed Church
+British Orthodox Church
+British-Israel-World Federation
+Bruderhof Communities
+Bulgarian Catholic Church
+Bulgarian Orthodox Church
+Calvary Chapel
+Calvary Holiness Association
+Canadian and American Reformed Churches
+Canadian Baptist Ministries
+Canadian Conference of Mennonite Brethren Churches
+Canadian Convention of Southern Baptists
+Canadian Unitarian Council
+Cathars
+Catholic Apostolic Church
+Catholic Charismatic Church of Canada
+Celestial Church of Christ
+Celtic Catholic Church
+Celtic Orthodox Church
+Central Baptist Association
+Central Canada Baptist Conference
+Chaldean Catholic Church
+Charisma Christian Church
+Charismatic Episcopal Church
+Charismatic Episcopal Church
+Children of God a.k.a. "The Family International", "Family of Love", "The Family"
+China Christian Council
+Chinese Orthodox Church
+Chinese Patriotic Catholic Association
+Chortitzer Mennonite Conference
+Christ Apostolic Church
+Christ Apostolic Miracle Ministry
+Christ Community Church
+Christ Gospel Churches International
+Christian & Missionary Alliance
+Christian Baptist Church of God
+Christian Church
+Christian Church in Central Sulawesi
+Christian Church in Luwuk Banggai
+Christian Church in Sulawesi
+Christian Church of North America
+Christian Church of Southern Sumatra
+Christian Church of Sumba
+Christian Churches of Java
+Christian City Churches
+Christian Communion of Indonesia Church in Nias (Gereja AMIN)
+Christian Congregation of Brazil
+Christian Conventions (aka Two by Twos, The Truth, The Way)
+Christian Episcopal Church
+Christian Evangelical Church in Bolaang Mongondow
+Christian Evangelical Church in Minahasa
+Christian Evangelical Church in Timor
+Christian Identity and other white separatist/supremacist groups
+Christian Israelite Church
+Christian Methodist Episcopal Church (Dallas, TX)
+Christian Millennial Fellowship
+Christian Outreach Centre
+Christian Protestant Angkola Church
+Christian Protestant Church in Indonesia
+Christian Reformed Church in North America
+Christian Reformed Church of Nigeria
+Christian Reformed Churches of Australia
+Christian Revival Crusade
+Christian Unity Baptist Association
+Christ's Sanctified Holy Church
+Church in the Province of the West Indies
+Church in Wales
+Church of Bangladesh
+Church of Bangladesh
+Church of Caucasian Albania (no longer in existence)
+Church of Christ (Holiness) U.S.A.
+Church of Christ (Temple Lot) (Hedrickites)
+Church of Christ in Nigeria
+Church of Christ with the Elijah Message
+Church of Christ, Instrumental (Kelleyites)
+Church of Denmark
+Church of England
+Church of England (Continuing)
+Church of England in South Africa
+Church of God (Anderson)
+Church of God (Charleston, Tennessee)
+Church of God (Chattanooga)
+Church of God (Cleveland)
+Church of God (Guthrie, Oklahoma)
+Church of God (Holiness)
+Church of God (Huntsville, Alabama)
+Church of God (Restoration)
+Church of God by Faith
+Church of God General Conference (Abrahamic Faith)
+Church of God in Christ
+Church of God in Christ, Mennonite (Holdeman Mennonites)
+Church of God Mission International
+Church of God Mountain Assembly
+Church of God of Prophecy
+Church of God of the Original Mountain Assembly
+Church of God of the Union Assembly
+Church of God with Signs Following
+Church of God, House of Prayer
+Church of Greece
+Church of Iceland
+Church of Ireland
+Church of Jesus Christ
+Church of Jesus Christ (Bickertonite)
+Church of Jesus Christ (Cutlerite)
+Church of Jesus Christ of Latter Day Saints (Strangite)
+Church of Jesus Christ-Christian (Aryan Nations)
+Church of Nigeria
+Church of North India
+Church of North India
+Church of Norway
+Church of Our Lord Jesus Christ of the Apostolic Faith
+Church of Pakistan
+Church of Pakistan
+Church of Scotland
+Church of South India
+Church of South India
+Church of Sweden
+Church of the Blessed Hope (aka Church of God of the Abrahamic Faith)
+Church of the Brethren
+Church of the Brethren in Nigeria
+Church of the Faroe Islands
+Church of the Foursquare Gospel in the Philippines
+Church of the Great God
+Church of the Little Children of Jesus Christ
+Church of the Lord (Aladura)
+Church of the Lutheran Brethren of America
+Church of the Lutheran Confession
+Church of the Nazarene
+Church of the Province of Central Africa
+Church of the Province of Melanesia
+Church of the Province of Myanmar
+Church of the Province of Rwanda
+Church of the Province of South East Asia
+Church of the Province of the Indian Ocean
+Church of the Province of West Africa
+Church of the United Brethren in Christ
+Church of Uganda
+Churches of Christ (Non-denominational)
+Churches of Christ (non-institutional)
+Churches of Christ in Australia
+Churches of God General Conference (Winebrenner)
+City Harvest Church
+Communion of Christ the Redeemer
+Communion of Evangelical Episcopal Churches
+Communion of Evangelical Episcopal Churches
+Community of Christ, formerly Reorganized Church of Jesus Christ of Latter Day Saints
+Concordia Lutheran Conference
+Confederation of Reformed Evangelical Churches
+Confederation of Reformed Evangelical Churches
+Conference of the Mennonite Brethren Churches in India
+Confessional Evangelical Lutheran Conference
+Congregational Federation of Australia
+Congregational Holiness Church
+Congregational Methodist Church
+Conservative Baptist Association
+Conservative Baptist Association of America
+Conservative Grace Brethren Churches, International
+Conservative Mennonite Conference
+Continental Baptist Churches
+Convención Nacional Bautista de Mexico
+Convention of Atlantic Baptist Churches
+Convention of Baptist Churches of Northern Circars
+Cooneyites (not to be confused with Christian Conventions)
+Cooperative Baptist Fellowship
+Coptic Catholic Church
+Coptic Orthodox Church of Alexandria
+Council of Baptist Churches in Northeast India
+CRC Churches International
+Creation Seventh Day Adventist Church
+Croatian Greek Catholic Church
+Cumberland Presbyterian Church
+Cypriot Orthodox Church
+Czech and Slovak Orthodox Church
+Deeper Life Bible Church (Nigeria)
+Destiny Church
+Destiny Church Groningen
+Deutsche Unitarier Religionsgemeinschaft, Germany
+Disciples of Christ
+Dunkard Brethren
+Dutch Reformed Church
+Ecumenical Patriarchate of Constantinople
+Elim Fellowship
+Elim Pentecostal Church
+English Independents (virtually extinct)
+Ephrata Cloister
+Episcopal Church
+Episcopal Church in Jerusalem and the Middle East
+Episcopal Church in the Philippines
+Episcopal Church of Cuba
+Episcopal Church of the Sudan
+Episcopal Missionary Church
+Eritrean Orthodox Tewahedo Church
+Estonian Apostolic Orthodox Church
+Estonian Evangelical Lutheran Church
+Estonian Orthodox Church of Moscow Patriarchate
+Eternal Grace
+Eternal Sacred Order of Cherubim and Seraphim
+Ethiopian Catholic Church
+Ethiopian Orthodox Tewahedo Church
+European Baptist Convention
+European Baptist Federation
+European Unitarian Universalists
+Evangelical Baptist Mission of South Haiti
+Evangelical Catholic Church
+Evangelical Christian Church in Canada (Christian Disciples)
+Evangelical Christian Church in West Papua
+Evangelical Church (ECNA)
+Evangelical Church in Germany
+Evangelical Church in Kalimantan
+Evangelical Church of the Augsburg Confession in Slovakia
+Evangelical Church of the Dominican Republic
+Evangelical Church of West Africa
+Evangelical Community Church-Lutheran
+Evangelical Covenant Church of America ("Swedish Evangelical Mission Covenant")
+Evangelical Free Baptist Church
+Evangelical Free Church of America
+Evangelical Free Church of Canada
+Evangelical Friends International
+Evangelical Lutheran Church - Synod of France and Belgium
+Evangelical Lutheran Church "Concord" (Russia)
+Evangelical Lutheran Church in America
+Evangelical Lutheran Church in Canada
+Evangelical Lutheran Church in Southern Africa
+Evangelical Lutheran Church in Tanzania
+Evangelical Lutheran Church of Brazil
+Evangelical Lutheran Church of England
+Evangelical Lutheran Church of Finland
+Evangelical Lutheran Church of Latvia
+Evangelical Lutheran Church of Papua New Guinea
+Evangelical Lutheran Diocese of North America
+Evangelical Lutheran Free Church (Germany)
+Evangelical Lutheran Free Church of Norway (associate member)
+Evangelical Lutheran Synod (United States)
+Evangelical Mennonite Church
+Evangelical Mennonite Conference
+Evangelical Mennonite Mission Conference
+Evangelical Methodist Church
+Evangelical Missionary Church
+Evangelical Pentecostal Church of Besançon
+Evangelical Presbyterian Church
+Evangelical Presbyterian Church (Australia)
+Evangelical Presbyterian Church in England and Wales
+Evangelical Presbyterian Church of Ukraine
+Evangelical Reformed Church of Christ
+Exclusive Brethren
+Faith Christian Fellowship International
+Federation of Swiss Protestant Churches
+Fellowship of Evangelical Baptist Churches in Canada
+Fellowship of Evangelical Bible Churches (formerly Evangelical Mennonite Brethren)
+Fellowship of Fundamental Bible Churches
+Fellowship of Grace Brethren Churches
+Finnish Orthodox Church
+Fire Baptized Holiness Church of God of the Americas
+First Congregational Methodist Church
+Free Apostolic Church of Pentecost
+Free Catholic Church
+Free Church of England
+Free Church of Scotland
+Free Church of Scotland (Continuing)
+Free Evangelical Churches
+Free Methodist Church (North America)
+Free Presbyterian Church (Australia)
+Free Presbyterian Church of Scotland
+Free Presbyterian Church of Ulster
+Free Protestant Episcopal Church
+Free Reformed Churches of North America
+Free Wesleyan Church (Tonga)
+Free Will Baptist Church
+French Coptic Orthodox Church
+Friends General Conference
+Friends United Meeting
+Full Gospel
+Fundamental Baptist Fellowship of America
+Fundamental Methodist Conference, Inc.
+Fundamentalist Church of Jesus Christ of Latter Day Saints (FLDS)
+Garo Baptist Convention of India
+General Assembly of Unitarian and Free Christian Churches, United Kingdom & Ireland
+General Association of Baptists
+General Association of General Baptists
+General Association of Regular Baptist Churches
+General Church of the New Jerusalem
+General Conference Mennonite Church (merged)
+General Conference of the Church of God (Seventh-Day)
+General Conference of the Evangelical Baptist Church, Inc.
+General Council of the Assemblies of God of the United States
+General Six-Principle Baptists
+Georgian Catholic Church
+Georgian Orthodox and Apostolic Church
+Gereja Pantekosta di Indonesia
+Gereja Pantekosta Pusat Surabaya
+German Evangelical Church in Bohemia, Moravia and Silesia (no longer in existence)
+God is Love Pentecostal Church
+Gospel Faith Mission
+Gossner Evangelical Lutheran Church in Chotanagpur and Assam
+Grace Baptist Assembly
+Grace Movement Churches
+Great Commission Association
+Greek Catholic Church
+Greek Evangelical Church
+Greek Old Calendarists
+Greek Orthodox Church of Alexandria
+Greek Orthodox Church of Antioch
+Greek Orthodox Church of Jerusalem
+Gutnius Lutheran Church
+Harmony Society
+Heritage Reformed Congregations
+Holiness Baptist Association
+Hong Kong Sheng Kung Hui
+House of Prayer Christian Church
+House of Yahweh
+Huguenots (virtually extinct)
+Hungarian Greek Catholic Church
+Hussites
+Hutterites
+Independent Assemblies of God, International
+Independent Baptist
+Independent Baptist Church of America
+Independent Baptist Fellowship International
+Independent Baptist Fellowship of North America
+Independent Evangelical-Lutheran Church
+Independent RLDS / Restoration Branches
+Indian Brethren
+Indian Pentecostal Church of God
+Indian Shakers
+Indonesian Christian Church
+Indonesian Christian Church
+Indonesian Christian Lutheran Church
+Indonesian Protestant Church in Buol Toli-Toli
+Indonesian Protestant Church in Donggala
+Indonesian Protestant Church in Gorontalo
+International Church of the Foursquare Gospel
+International Churches of Christ (Boston Movement)
+International Council of Unitarians and Universalists
+International Lutheran Council
+International Pentecostal Church of Christ
+International Pentecostal Holiness Church
+Interstate & Foreign Landmark Missionary Baptist Association
+Italo-Greek Catholic Church
+Jacobite Syrian Christian Church
+Japan Lutheran Church
+Japan Mennonite Brethren Conference
+Japanese Orthodox Church
+Jesus Army
+Jesus Movement
+Jeypore Evangelical Lutheran Church
+Karo Batak Protestant Church
+Kemah Injil Church
+Kerala Brethren
+Kimbanguist Church
+Kingdom Identity Ministries
+Laestadian Lutheran Church
+Landmark Baptist Church
+Lanka Lutheran Church
+LaPorte Church of Christ
+Latter Day Church of Christ (Kingston Clan)
+Latvian Evangelical Lutheran Church in America
+Latvian Orthodox Church
+Lectorium Rosicrucianum of Jan van Rijckenborgh/Catharose de Petri
+Liberal Catholic Church
+Liberty Baptist Fellowship
+Life Application Gospel Ministries International
+Living Church of God
+Living Faith Ministries
+Local churches
+Lollards
+Lusitanian Catholic Apostolic Evangelical Church (in Portugal)
+Lutheran Church - Canada
+Lutheran Church - Missouri Synod (United States)
+Lutheran Church of Australia (associate member)
+Lutheran Church of Central Africa Malawi Conference
+Lutheran Church of Central Africa Zambia Conference
+Lutheran Church of China (extinct)
+Lutheran Church of Christ in Nigeria
+Lutheran Church—Hong Kong Synod
+Lutheran Congregations in Mission for Christ (United States)
+Lutheran Evangelical Protestant Church (United States)
+Lutheran Ministerium and Synod - USA
+Lutheran World Federation
+Macedonian Catholic Church
+Macedonian Orthodox Church
+Macedonian Orthodox Church
+Malabar Independent Syrian Church
+Malagasy Lutheran Church
+Malankara Orthodox Syrian Church
+Manipur Baptist Convention
+Mar Thoma Church
+Mariavite Church
+Maronite Catholic Church
+Martinism of Louis Claude de Saint-Martin et al.
+Melkite Catholic Church
+Mennonite Brethren Churches
+Mennonite Church Canada
+Mennonite Church in the Netherlands
+Mennonite Church USA
+Mennonites
+Methodist Church in Ireland
+Methodist Church in Singapore
+Methodist Church Nigeria
+Methodist Church of Fiji and Rotuma
+Methodist Church of Great Britain
+Methodist Church of Malaysia
+Methodist Church of New Zealand
+Methodist Church of Southern Africa
+Metropolis of Bessarabia
+Metropolitan Community Churches
+Ministries of His Glory
+Ministries Without Borders
+Mission of Full Gospel - Christian Open Door
+Missionary Church
+Missionary Church
+Moldovan Orthodox Church
+Montenegrin Orthodox Church
+Moravian Church
+Myanmar Baptist Convention
+Nagaland Baptist Church Council
+National Association of Congregational Christian Churches
+National Association of Free Will Baptists
+National Baptist Convention of America, Inc.
+National Baptist Convention, USA, Inc.
+National Baptist Evangelical Life and Soul Saving Assembly of the U.S.A.
+National Missionary Baptist Convention of America
+National Primitive Baptist Convention of the U.S.A.
+Native American Church
+Nebraska Amish
+Netherlands Reformed Congregations
+New Apostolic Church
+New England Evangelical Baptist Fellowship
+New Frontiers
+New Frontiers (formerly New Frontiers International)
+New Life Churches
+New Life Fellowship
+New Life Fellowship
+New Testament Association of Independent Baptist Churches
+New Testament Christian Churches of America, Inc
+Nias Christian Protestant Church
+Nigerian Baptist Convention
+Nippon Sei Ko Kai (Japan)
+North American Baptist Conference
+North Bank Baptist Christian Association
+Norwegian Baptist Union
+Old Apostolic Church
+Old Baptist Union
+Old Catholic Church
+Old Catholic Church in Europe
+Old Catholic Church of America
+Old German Baptist Brethren
+Old German Baptist Brethren (New Conference)
+Old Order Amish
+Old Order German Baptist Brethren
+Old Order Mennonites
+Old Order River Brethren
+Old Regular Baptist
+Old Time Missionary Baptist
+Open Bible Standard Churches
+Open Brethren
+Orissa Baptist Evangelical Crusade
+Orthodox Autocephalous Church of Albania
+Orthodox Christian Reformed Church
+Orthodox Church in America
+Orthodox Ohrid Archbishopric
+Orthodox Presbyterian Church
+Orthodox-Catholic Church of America (OCCA)
+Pakistan Synod of the Associate Reformed Presbyterian Church
+Pakpak Dairi Christian Protestant Church
+Palmarian Catholic Church
+Pasundan Christian Church
+Patriarchal Exarchate for Orthodox Parishes of Russian Tradition in Western Europe
+Pentecostal Assemblies of Canada
+Pentecostal Assemblies of Canada
+Pentecostal Assemblies of the World
+Pentecostal Church of God
+Pentecostal Free Will Baptist Church
+Pentecostal World Conference
+Pentecostal/Charismatic Churches of North America
+Philadelphia Church of God
+Philippine Independent Church
+Plymouth Brethren
+Polish Brethren (extinct as a modern and distinct group)
+Polish National Catholic Church
+Polish Orthodox Church
+Potter's House Christian Fellowship
+Presbyterian Church (USA)
+Presbyterian Church in America
+Presbyterian Church in Canada
+Presbyterian Church in Ireland
+Presbyterian Church in Taiwan
+Presbyterian Church of Aotearoa New Zealand
+Presbyterian Church of Australia
+Presbyterian Church of Eastern Australia
+Presbyterian Church of India
+Presbyterian Church of Korea
+Presbyterian Church of Nigeria
+Presbyterian Church of Pakistan
+Presbyterian Church of Wales
+Presbyterian Reformed Church (Australia)
+Presbyterian Reformed Church (Canada)
+Primitive Baptist
+Primitive Methodist Church
+Progressive Baptist
+Progressive National Baptist Convention
+Protestant Christian Church in Bali
+Protestant Christian Church in Mentawai
+Protestant Church in Indonesia
+Protestant Church in Southeast Sulawesi
+Protestant Church in the Moluccas
+Protestant Church in the Netherlands
+Protestant Church in Western Indonesia
+Protestant Reformed Churches in America
+Province de L'Eglise Anglicane Du Congo
+QIC-United Evangelical Church of Nigeria
+Redeemed Christian Church of God
+Reformed Baptist
+Reformed Church in America
+Reformed Church in Hungary
+Reformed Church in the United States
+Reformed Church of France
+Reformed Episcopal Church
+Reformed Presbyterian Church General Assembly
+Reformed Presbyterian Church of Australia
+Reformed Presbyterian Church of North America
+Regular Baptist
+Remnant Church of Jesus Christ of Latter Day Saints
+Remonstrant Brotherhood
+Restoration Church of Jesus Christ
+Restoration Church of Jesus Christ of Latter Day Saints
+Restored Apostolic Mission Church
+Restored Church of Jesus Christ)
+Revival Centres International
+Revival Centres International
+River Brethren
+Romanian Catholic Church
+Romanian Orthodox Church
+Russian Catholic Church
+Russian Old Believers
+Russian Orthodox Church
+Russian Orthodox Church in America
+Russian Orthodox Church Outside Russia
+Ruthenian Catholic Church Saint Catherine's Monastery
+Salvation Army
+Samavesam of Telugu Baptist Churches
+Sangihe-Talaud Evangelical Church
+Sassanid Church (extinct)
+Schwarzenau Brethren
+Schwenkfelder Church
+Scottish Episcopal Church
+Separate Baptist
+Separate Baptists in Christ
+Serbian Orthodox Church
+Seventh Day Adventist Reform Movement
+Seventh Day Baptist
+Seventh-day Adventist Church
+Shakers
+Simalungun Protestant Christian Church
+Slovak Greek Catholic Church
+Social Brethren
+Societas Rosicruciana by Masons
+Socinianism (extinct as a modern and distinct group)
+Southeast Conservative Baptist
+Southern Baptist Convention
+Southern Baptists of Texas
+Southern Episcopal Church
+Southern Presbyterian Church (Australia)
+Sovereign Grace Baptists
+Sovereign Grace Ministries
+Spanish Reformed Episcopal Church
+Spiritus Christi
+St Engenas Zion Christian Church
+St. Thomas Evangelical Church
+Strict Baptists
+Strigolniki
+Swartzendruber Amish
+Swedenborgian Church of North America formerly General Convention of the New Jerusalem
+Swiss Mennonite Conference
+Syriac Orthodox Church
+Syrian Catholic Church
+Syro-Malabar Church
+Syro-Malankara Catholic Church
+Taborites
+The Apostolic Church of Nigeria
+The Brethren Church (Ashland Brethren)
+The Christian Community-Movement for religious renewal
+The Christian Evangelical Church in Halmahera
+The Church of God (Jerusalem Acres)
+The Church of God for All Nations
+The Church of Jesus Christ of Latter-day Saints (LDS Church) - by far the largest Latter Day Saint denomination
+The Covenant, The Sword, and the Arm of the Lord
+The East Java Christian Church
+The Fellowship (FGFCMI)
+The Fellowship of the Churches of Christ in Nigeria
+The Indonesian Christian Church
+The Lutheran Church of Christ in Nigeria
+The Pentecostal Mission
+The Protestant Christian Church
+The Revival Fellowship
+The Revival Fellowship
+The Rosicrucian Fellowship of Max Heindel
+The Spiritual Baptist Archdiocese of New York, Inc.
+The Tamil Evangelical Lutheran Church
+The True and Living Church of Jesus Christ of Saints of the Last Days
+The United Protestant Church
+Toraja Church
+Toraja Mamasa Church
+True Catholic Church
+True Jesus Church
+True Jesus Church
+Two-Seed-in-the-Spirit Predestinarian Baptists
+Ukrainian Autocephalous Orthodox Church
+Ukrainian Greek Catholic Church
+Ukrainian Lutheran Church
+Ukrainian Orthodox Church (Kiev Patriarchy)
+Ukrainian Orthodox Church (Moscow Patriarchate)
+Ukrainian Orthodox Church:
+Union d'Églises baptistes françaises au Canada
+Unitarian Universalist Association
+Unitarian Universalist Society of Spain
+Unitarisk Kirkesamfund, Denmark
+United American Free Will Baptist Church
+United American Free Will Baptist Conference
+United Apostolic Church
+United Baptist
+United Baptist Convention of the Atlantic Provinces
+United Christian Church
+United Church in Jamaica and the Cayman Islands
+United Church in Papua New Guinea and the Solomon Islands
+United Church of Canada
+United Church of Christ
+United Church of God
+United Congregational Church of Southern Africa
+United Evangelical Lutheran Church in India
+United Free Church of Scotland
+United Free Will Baptist
+United Gospel Tabernacles
+United Holy Church of America
+United Methodist Church
+United Pentecostal Church in India
+United Pentecostal Church International
+United Reformed Church
+United Reformed Churches in North America
+United Seventh-Day Brethren
+United Zion Church
+Uniting Church in Australia
+Uniting Presbyterian Church in Southern Africa
+Unity of the Brethren
+Universal Life
+Unregistered Baptist Fellowship
+Upper Cumberland Presbyterian Church
+US Conference of Mennonite Brethren Churches
+Utraquists
+Waldensian Church of the Rio de la Plata
+Waldensian-Methodist Union of Italy
+Waldensians
+Wesleyan Church
+Wesleyan Reform Union
+Westminster Presbyterian Church of Australia
+Wisconsin Evangelical Lutheran Synod (United States)
+World Baptist Fellowship
+Worldwide Church of God
+Yehowists (aka Yehowists-Ilyinites, Russian Jehovists)
+Zion apostolic church of South Africa
+or the
+Zion Christian Church?
+The Rolling Stones -
+Sympathy for the Devil
+Done
+98,235
+views
+9
+faves
+21
+comments
+Uploaded on August 20, 2009
+Taken on June 10, 2009
+Some rights reserved
+About
+Jobs
+Blog
+Advertise
+Developers
+Guidelines
+Privacy
+Terms
+Help
+Report abuse
+Help forum
+English
+Privacy
+Terms
+Cookies
+Connecting people through photography.
+About
+Jobs
+Blog
+Advertise
+Developers
+Guidelines
+Report abuse
+Privacy
+Terms
+Help forum
+English
+Privacy
+Terms
+Cookies
+Help
+Connecting people through photography.

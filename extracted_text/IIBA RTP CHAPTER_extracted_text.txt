@@ -1,0 +1,81 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge, chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, user-scalable=no'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'description', 'content': 'Local Chapters promote and support IIBA’s professional standards and practices. There are well established Local Chapters in global centers with new ones emerging throughout the IIBA network.'}
+{'name': 'keywords', 'content': 'Business Analyst, Cybersecurity, Agile, AAC, CCA, CBDA, BABOK, Data Analytics, IIBA Chapter, Business Analysis, System Analysis, Business Requirements, IT Projects,Software Development, Agile Methodology, Business Process, Data Analysis, Business Architecture, Networking, Career Development, Professional Development, Study Group, Mentorship, BA Skills, BA Jobs, CCBA, ECBA, CBAP Certifications'}
+{'name': 'generator', 'content': 'Drupal 7 (http://drupal.org)'}
+{'name': 'dcterms.title', 'content': 'IIBA Raleigh'}
+{'name': 'dcterms.type', 'content': 'Text'}
+{'name': 'dcterms.format', 'content': 'text/html'}
+{'name': 'dcterms.identifier', 'content': 'https://raleigh.iiba.org/'}
+
+Body Text:
+IIBA Raleigh |
+Research-Triangle-Park
+0
+Search
+Join
+Sign In
+Home
+About us
+Board of Directors
+Committees
+Our Chapter
+Our Chapter Sponsors
+Get involved
+Mailing List
+Membership
+Sponsorship
+Volunteer
+Certification
+Careers
+Events
+IIBA RTP MeetUp
+News
+Triangle BADD
+TriBADD 2023
+Call for Speakers TRiBADD 2023
+TriBadd 2023 Schedule
+TriBADD 2024
+Triangle BADD 2024:  Advanced Topics in Business Analysis
+Triangle BADD 2024: Sailing the Waters of Business Analysis Mastery, Technology, and Leadership
+Upcoming
+Events
+See All
+IIBA RTP MAY Chapter Webinar - 30 MAY 2024 7:00 EST
+Speaker Name:  Jennifer Anderson
+ 
+
+Presentation Title:  Plant Yourself Where You Will Bloom
+ 
+ Presentation Abstract: The world of work is changing rapidly. Most people are feeling the stress of just trying to keep up and are paying a big price in terms...
+View More
+Latest
+News
+See All
+Board of Director Position Nominations for Fall Elections - Term start 1 January 2025 Start
+Elections will be held this fall for the following IIBA RTP Chapter's 2025 Board of Director positions:
+
+	President
+	Vice President of Professional Development
+
+This agrees with our by laws, Article 5, Section 4 which state that elections are held for the odd year (start) of the positions...
+View More
+IIBA Membership
+Joining or Renewing, be sure to include our chapter in your Global IIBA profile.
+We are
+USA_North Carolina_Raleigh.
+IIBA.org Membership
+BABOK
+®
+Guide
+Special thanks to
+our sponsors
+RALEIGH IIBA CHAPTER © 2015 | TRADEMARK NOTICE
+IIBA Home
+Privacy Policy
+Cookie Policy
+Trademark Policy
+Sitemap
+Admin

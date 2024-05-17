@@ -1,0 +1,435 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'ResourceLoaderDynamicStyles', 'content': ''}
+{'name': 'generator', 'content': 'MediaWiki 1.43.0-wmf.4'}
+{'name': 'referrer', 'content': 'origin'}
+{'name': 'referrer', 'content': 'origin-when-cross-origin'}
+{'name': 'robots', 'content': 'max-image-preview:standard'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'property': 'og:image', 'content': 'https://upload.wikimedia.org/wikipedia/en/d/d1/PurpleStorm.jpg'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '1600'}
+{'property': 'og:image', 'content': 'https://upload.wikimedia.org/wikipedia/en/d/d1/PurpleStorm.jpg'}
+{'property': 'og:image:width', 'content': '800'}
+{'property': 'og:image:height', 'content': '1067'}
+{'property': 'og:image:width', 'content': '640'}
+{'property': 'og:image:height', 'content': '853'}
+{'name': 'viewport', 'content': 'width=1000'}
+{'property': 'og:title', 'content': 'Purple Storm (film) - Wikipedia'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'mw:PageProp/toc'}
+
+Body Text:
+Purple Storm (film) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account
+Log in
+Pages for logged out editors
+learn more
+Contributions
+Talk
+Contents
+move to sidebar
+hide
+(Top)
+1
+Plot
+2
+Featured Songs
+3
+Cast
+4
+Awards and nominations
+5
+References
+6
+External links
+Toggle the table of contents
+Purple Storm
+(film)
+6 languages
+Cymraeg
+Français
+한국어
+日本語
+Polski
+中文
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+From Wikipedia, the free encyclopedia
+1999 Hong Kong film
+Purple Storm
+Film poster
+Directed by
+Teddy Chan
+Screenplay by
+Hui Jo-jo
+Audrey Lam
+Clarence Yip
+Story by
+Teddy Chan
+Chan Wai
+Produced by
+John Chong
+Solon So
+Starring
+Daniel Wu
+Kam Kwok-leung
+Emil Chau
+Josie Ho
+Joan Chen
+Narrated by
+Daniel Wu
+Cinematography
+Arthur Wong
+Edited by
+Kwong Chi-leung
+Music by
+Peter Kam
+Production
+company
+Media Asia Films
+Distributed by
+Media Asia Distributions
+Release date
+25 November 1999
+(
+1999-11-25
+)
+Running time
+112 minutes
+Country
+Hong Kong
+Language
+Cantonese
+Budget
+US$4 million
+[1]
+Box office
+HK$10,112,592
+[2]
+Purple Storm
+(
+Chinese
+:
+紫雨風暴
+) is a 1999
+Hong Kong action film
+directed by
+Teddy Chan
+, and narrated by
+Daniel Wu
+, who also starred in the film. The film co-stars Kam Kwok-leung and
+Emil Chau
+. The film was released on 25 November 1999. The American version was released by
+Touchstone Pictures
+and
+Millennium Films
+.
+Plot
+[
+edit
+]
+Soong, a
+Khmer Rouge
+terrorist with plans to seed clouds with the chemical weapon Ricin-X, sends his son, Todd Nguyen and his friend Guan Ai, to Hong Kong in a
+North Korean
+ship. On board is a container of the lethal poison, which the Koreans send an assassination team to retrieve. The Koreans are killed and Todd is knocked unconscious. The Hong Kong marine tactical police respond, forcing Guan to dump the container overboard while fleeing; during their escape Guan squanders an opportunity to kill Todd (thwarting his capture and interrogation, by police).
+While in custody, Todd receives medical treatment; Hong Kong Anti-Terrorist Force (ATF) Commander Ma Li soon learns Todd's not only a wanted criminal, but that his father and terrorist leader, Soong, plans to break him out with his
+Cambodian
+terrorist cell
+. Todd is suffering from
+amnesia
+, and
+psychologist
+Shirley Kwan is brought in to help him restore his memory. Kwan suggested implanting a new identity in Todd, making him an undercover operative for the police, but Ma initially objects on moral grounds. The Cambodian dies from an apparent suicide, but Ma spots Soong at the scene before he disappears.
+Soong breaks into the local TV station and finds out Ma's identity through old news bulletins. He also finds broadcasts condemning the Khmer Rouge, so he plants a bomb, which is detonated the next day by an employee. The CCTV footage from the station confirms it is Soong.
+Suspecting that Soong will try to rescue Todd at the hospital, Ma orders Todd back to ATC headquarters and sets up an ambush at the hospital. Soong and a few terrorists arrive just as Todd is being moved. They somehow know about the set-up. After disrupting communications, they kill the ATC team and escape, but without Todd. Ma finally agrees to Kwan's idea. But Todd also begins to have flashbacks of his true past and becomes confused.
+Soong demands that Ma bring Todd to the pedestrian bridge in
+Wan Chai North
+on the condition that he be alone. Todd was placed on the bridge, and an ambush team of snipers and undercover officers are set up. At the meeting time, an explosion erupts in a nearby building, causing the occupants to rush across the bridge. Guan appears in the confusion, stabs Todd's neck with a syringe and jumps onto a passing vehicle with an unconscious Todd, successfully escaping. Soong tries to kill Ma on the bridge, but flees when reinforcements arrive.
+Soong tries to "cure" Todd by engaging him in familiar activities. Believing he is undercover, Todd attempts to contact Ma when Guan hires a ship to recover the chemicals. Ma arranges another ambush at the shipyard when the terrorists arrive on the ship. He also kept Todd's role as an undercover operative a secret from the other officers. The police suffer major casualties and Todd is shocked. He considers shooting Soong in the back. He sees Guan watching him, however and hesitates. He later ends up saving Soong and all three escape by sea. Todd sneaks back to the police, but by then Ma issued an arrest warrant for him. Tood returned to Soong and says he doesn't remember the cause of the revolution.
+A police convoy is blocked by a stalled police car with an officer slumped over the wheel. They find the policeman's neck was slit and a bomb in his lap. Guan triggers the bomb in front of  Todd, who has flashbacks on the way his son died. Ma orders police in the area to comb for more bombs.
+At
+Kai Tak Airport
+, Guan and Todd enter the airport's restricted area as journalists on an airport tour. They slip away from the group, and are stopped by a pair of
+Airport Security Unit
+officers. Guan shoots both policemen to Todd's shock. Meanwhile, Soong manages to recover the chemicals. At ATF headquarters, the files found on Todd are cracked, revealing the plans to unleash the chemicals over Cambodia. Ma realises the terrorists may be planning to hijack a plane to seed the clouds, and orders the
+Special Duties Unit
+to rush to Kai Tak. He discovers, though that most of them were already erroneously deployed to the new airport site at
+Chek Lap Kok
+. Ma orders the remaining 12 officers to the airport hangar.
+Guan and Todd successfully infiltrate the hangar, where they kill the technicians and hijack a small plane and crew. Soong transports the chemicals to the hangar, but just as he arrives, another group of ASU officers appear. The officers are shot in an ensuing gun battle, but several of Soong's men were also killed. Guan is badly injured trying to save Todd. She kills herself on the aircraft, and an infuriated Todd makes off with the chemicals while the plane is still in the hangar.
+Ma and his team of SDU officers arrive at the airport. Todd fends off Soong's men, escaping into a large drain which leads to a tunnel system. Soong follows right behind him. Ma deploys his men at both ends of the tunnel to trap them and rushes in with his officers. Todd and Soong fight in the tunnel before Ma's arrival. Ma badly injures Soong, but Soong activates the chemical bomb and dies. Ma is able to pull an injured Todd out just as the tunnel gates are shut to contain the blast. Todd mysteriously disappears into the night.
+At the new
+Hong Kong International Airport
+Todd leaves Hong Kong under the auspices of Ma, unknown to anyone else.
+Featured Songs
+[
+edit
+]
+"
+Smokin'
+" - Performed by
+Boston
+"
+Amos Moses
+" - Performed by
+Jerry Reed
+"New York City" - Performed by
+Statler Brothers
+"
+One Step Forward
+" - Performed by
+The Desert Rose Band
+"
+Bed of Rose's
+" - Performed by
+Statler Brothers
+"
+I Love a Rainy Night
+" - Performed by
+Eddie Rabbitt
+"
+Cobalah
+" (
+Indonesian
+) - Performed by
+Hijau Daun
+based in
+Bandar Lampung
+(a provinces capital of
+Lampung
+) (theme song & soundtrack music end credits under main theme)
+Cast
+[
+edit
+]
+Daniel Wu
+as Todd Nguyen
+Kam Kwok-leung as Soong
+Emil Chau
+as Ma Li
+Josie Ho
+as Guan Ai
+Joan Chen
+as Shirley Kwan
+Patrick Tam
+as O.B.
+Moses Chan
+as Rock Chan
+Theresa Lee
+as Cindy
+Huang Jianxin
+as Liu
+Michael Tong
+as Mike
+Awards and nominations
+[
+edit
+]
+Awards and nominations
+Ceremony
+Category
+Name
+Outcome
+19th Hong Kong Film Awards
+Best Supporting Actress
+Josie Ho
+Nominated
+Best Cinematography
+Arthur Wong
+Won
+Best Film Editing
+Kwong Chi-leung
+Won
+Best Action Choreography
+Stephen Tung
+Won
+Best Art Direction
+Mak Kwok-keung
+Nominated
+Best Costume Make Up Design
+Dora Ng
+Won
+Best Sound Design
+Kinson Tsang
+Won
+Best Original Film Score
+Peter Kam
+Nominated
+36th
+Golden Horse Awards
+Best Feature Film
+Purple Storm
+Nominated
+Best Director
+Teddy Chan
+Nominated
+Best Supporting Actress
+Josie Ho
+Nominated
+Best Cinematography
+Arthur Wong
+Won
+Best Visual Effects
+Sam Nicholson, Eddy Wong
+Nominated
+Best Action Choreography
+Stephen Tung
+Won
+Best Film Editing
+Kwong Chi-leung
+Nominated
+Best Sound Design
+Kinson Tsang
+Nominated
+Best Original Film Score
+Peter Kam
+Won
+References
+[
+edit
+]
+^
+"Film @ The Digital Fix - Purple Storm"
+.
+^
+Purple Storm
+at the
+Hong Kong Movie DataBase
+External links
+[
+edit
+]
+Purple Storm
+at
+IMDb
+v
+t
+e
+Films directed by
+Teddy Chan
+Pretty Ghost
+(1991)
+Two of a Kind
+(1993)
+Twenty Something
+(1994)
+In the Heat of Summer
+(1994)
+Downtown Torpedoes
+(1997)
+Purple Storm
+(1999)
+The Accidental Spy
+(2001)
+Project 1:99
+(2003)
+Wait 'til You're Older
+(2005)
+Bodyguards and Assassins
+(2009)
+Kung Fu Jungle
+(2014)
+Double World
+(2020)
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Purple_Storm_(film)&oldid=1223849643
+"
+Categories
+:
+1999 films
+1999 action thriller films
+1990s Cantonese-language films
+Films about amnesia
+Films about terrorism in Asia
+Films directed by Teddy Chan
+Films set in Hong Kong
+Films shot in Hong Kong
+Hong Kong action thriller films
+Media Asia films
+Police detective films
+1990s Hong Kong films
+Films scored by Peter Kam
+Hidden categories:
+Use Hong Kong English from January 2014
+All Wikipedia articles written in Hong Kong English
+Use dmy dates from January 2014
+Articles with short description
+Short description is different from Wikidata
+Template film date with 1 release date
+Articles containing Chinese-language text
+This page was last edited on 14 May 2024, at 19:03
+(UTC)
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike License 4.0
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

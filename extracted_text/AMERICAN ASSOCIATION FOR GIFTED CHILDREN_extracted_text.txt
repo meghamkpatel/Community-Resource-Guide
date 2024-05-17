@@ -1,0 +1,125 @@
+Meta Information:
+{'http-equiv': 'content-type', 'content': 'text/html', 'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'About the Program - The American Association for Gifted Children'}
+{'property': 'og:description', 'content': 'The American Association for Gifted Children (AAGC) was organized in 1976 in New York to focus on the Education of Gifted Children in America.\xa0 AAGC. moved to Duke University in 1989 to become the research arm of the Talent Identification Program, (TIP). \xa0For the last 10 years AAGC has been part of the Duke Social […]'}
+{'property': 'og:url', 'content': 'https://sites.duke.edu/aagc/'}
+{'property': 'og:site_name', 'content': 'The American Association for Gifted Children'}
+{'property': 'article:modified_time', 'content': '2024-03-09T19:13:08+00:00'}
+{'property': 'og:image', 'content': 'https://sites.duke.edu/aagc/files/2023/11/PBI-2-visit-3-14-08-027-1200.jpg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+
+Body Text:
+About the Program - The American Association for Gifted Children
+Skip to the content
+The American Association for Gifted Children
+At the Program in Education at Duke University
+Toggle mobile menu
+Toggle search field
+Search for:
+About AAGC
+Historical Perspective
+NEWS
+RESEARCH
+BASS CONNECTIONS
+Wired For Learning Report
+BRIGHT IDEA
+RESOURCES
+ADMINISTRATION
+WIRED FOR LEARNING
+BRIGHT IDEA IMPLEMENTATION GUIDE (TOC links)
+EVALUATION TOOLS
+CURRICULUM
+Wired For Learning Thinking Skills Modules: Introduction
+Bright IDEA Curriculum
+TRAINING
+Wired for Learning – Educators
+BRIGHT IDEA – Educators
+PARENTS
+OTHER RESOURCES
+CONTACT
+AAGC Site Map
+About AAGC
+Historical Perspective
+NEWS
+RESEARCH
+BASS CONNECTIONS
+Wired For Learning Report
+BRIGHT IDEA
+RESOURCES
+ADMINISTRATION
+WIRED FOR LEARNING
+BRIGHT IDEA IMPLEMENTATION GUIDE (TOC links)
+EVALUATION TOOLS
+CURRICULUM
+Wired For Learning Thinking Skills Modules: Introduction
+Bright IDEA Curriculum
+TRAINING
+Wired for Learning – Educators
+BRIGHT IDEA – Educators
+PARENTS
+OTHER RESOURCES
+CONTACT
+AAGC Site Map
+About the Program
+The American Association for Gifted Children (AAGC) was organized in 1976 in New York to focus on the Education of Gifted Children in America.  AAGC. moved to Duke University in 1989 to become the research arm of the Talent Identification Program, (TIP).  For the last 10 years AAGC has been part of the Duke Social Science Research Institute (SSRI).  In 2001, AACC collaborated with the North Carolina Department of Public Instruction to design and implement a Nurturing Program for K-2 students, funded by a grant from the United States Department of Education.
+The funds were used to develop Project Bright IDEA, Interest Development Early Abilities, K-2 and to conduct the research in 28 schools in North Carolina. Additional grants provided funds to extend the program into other schools and to adapt the research to a new program, Wired for Learning.  Since 2013, Duke Students have been involved with the research to study the projects and to collect data from classrooms. See the Historical Perspective for detailed information about major events and Important work since 1976.
+The AAGC Board of Directors voted to dissolve the original non-profit on May 22, 2023 and to move the assets to
+The Program in Education
+at Duke University, website:
+https://education.duke.edu
+.  The AAGC assets Included a Scholarship Fund and the AAGC website:
+sites.duke.edu/aagc
+.
+The website includes all information on Research started in 2001 ending in 2022, with a culmination of research reports, training and curriculum resources, including videos and an
+Implementation
+Guide
+for educators.  The AAGC website,
+sites.duke.edu/aagc
+is now available to all educators, parents and the general public to access free resources.
+Mission:
+To foster a better understanding of the educational needs and capabilities of ALL gifted and talented children and youth.
+Vision:
+AAGC envisions a society where gifted and talented children and their families have equal access to educational services and programs so that diversity and excellence within a global community is realized.
+We Value:
+Equal access to gifted education for all children
+Partnerships and communication with parents, educators, healthcare professionals and other stakeholders
+Developing the potential of all children through nurturing programs
+Research-verified curriculum and instructional strategies to support the academic success of all children
+1. Our Compelling Goal for Leadership
+AAGC is a recognized leader at the state, regional, and national levels in ensuring that a high quality and rigorous education is accessible to ALL gifted and talented children and youth.
+Stay on top of emerging issues/trends and share critical information with the educational community
+Collaborate with partners to leverage our power and influence
+Increase the public’s awareness of our organization and role in the broader educational arena
+Develop and maintain a technological resources (website, webinar, Facebook) to maintain connectivity with students, parents, educators, and our advocates
+2. Our Compelling Goal for Expertise and Excellence
+AAGC is a trusted resource for information pertaining to ensuring gifted and talented children and youth gain ACCESS to appropriate education programs and services.
+Seek partners to promote research and excellence in curriculum development
+Collaborate with local and national agencies to promote those educational initiatives aligned with this goal
+Establish and maintain an alliance of institutions of similar goals to improve students’ educational advancement
+Become an advocate for the state of North Carolina Education System
+3. Our Compelling Goal for Organizational Effectiveness
+AAGC has the resources to effectively address the organization’s mission and respond to future opportunities.
+Find new revenue streams to support its programs
+Serve as a clearinghouse of new ideas and discussion areas on how to improve the education of gifted and talented students
+Streamline our governance structure
+Use current and advanced technologies to promote its mission
+Increase the alignment of our work with the needs of our stakeholders, to include data management and administrative support
+© 2024
+The American Association for Gifted Children
+Theme by
+Anders Noren
+—
+Up ↑
+Sites@Duke Express
+is powered by WordPress. Read the Sites@Duke Express
+policies
+and
+FAQs
+, or
+request help
+.

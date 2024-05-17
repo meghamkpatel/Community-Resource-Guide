@@ -1,0 +1,154 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '129033fe-d008-bcd5-1b16-19cf9254d600'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'f67792ad-9abe-4da1-a4e4-0a979405800e'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '5384'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "The Durham Literacy Center's mission is to empower Durham County (NC) residents who want to enrich their lives by improving their literacy skills. "}
+{'property': 'og:title', 'content': 'Durham Literacy Center'}
+{'property': 'og:description', 'content': "The Durham Literacy Center's mission is to empower Durham County (NC) residents who want to enrich their lives by improving their literacy skills. "}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/6f58ed_71e326a7fefb4b318e6124a3bca9ddf3%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6f58ed_71e326a7fefb4b318e6124a3bca9ddf3%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.durhamliteracy.org'}
+{'property': 'og:site_name', 'content': 'durhamliteracy'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'adult, esol, english, ged, youth, computer, durham, literacy, immigrant, refugee'}
+{'name': 'fb_admins_meta_tag', 'content': 'durhamliteracycenter'}
+{'property': 'fb:admins', 'content': 'durhamliteracycenter'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Durham Literacy Center'}
+{'name': 'twitter:description', 'content': "The Durham Literacy Center's mission is to empower Durham County (NC) residents who want to enrich their lives by improving their literacy skills. "}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/6f58ed_71e326a7fefb4b318e6124a3bca9ddf3%7Emv2.png/v1/fit/w_2500,h_1330,al_c/6f58ed_71e326a7fefb4b318e6124a3bca9ddf3%7Emv2.png'}
+{'name': 'google-site-verification', 'content': 'xycnH1oX9PjSbmzRNACCB_Ts_acpMa8Pe8QTUX1RyyI'}
+
+Body Text:
+Durham Literacy Center
+top of page
+Log In
+Small Title
+Home
+About
+About Us
+Locations & Hours
+COVID-19
+Contact us
+Staff & Board
+History
+News
+Programs
+Overview of All Programs
+Adult Literacy Program
+ESOL Program
+ESOL Student Registration
+ESOL Online Resources
+Youth Achievement Program
+College and Career Readiness
+Students
+Student Overview & Enrollment Process
+ESOL Student Registration
+Online Learning Tools
+Community Resources via NC 2-1-1
+Volunteers
+Volunteer Opportunities, Intake, & Data
+Volunteer Info Sessions and Training
+Submit Volunteer Hours (Adult Literacy)
+Volunteer Stories
+Donate
+Ways to Donate
+Sponsorship
+John Hope Franklin Literacy Society
+Mary Dunn Siedow Literacy Fund
+Supporters
+Wishlist
+Impact
+2024 Students Showcase
+2023 Student Showcase
+News
+Events
+More...
+Use tab to navigate through the menu items.
+News & Updates
+Apr 29
+The Voice, April 2024
+Apr 9
+Student Showcase!!
+Dec 12, 2023
+THE VOICE, December 2023
+More News >>
+About Us
+​
+Our Mission
+We help adults meet their life goals by offering learner-centered educational opportunities.
+Learn more.
+​
+​
+Our Impact
+Each year, the DLC helps more than 500 adults and teens take great strides toward reaching their full potential.
+Learn more.
+​Yo
+ur Support
+If literacy is important to you, please consider:
+Making a
+donation
+.
+Becoming a
+volunteer
+.
+Learning
+about other ways to help. Thank you!
+Learn more.
+Learn more about us >>
+We serve more than 700 Durham residents each year through:
+Adult ESOL Classes
+English for Speakers of Other Languages (ESOL) classes focus on the reading, writing, speaking, and listening skills that adult English language learners need to communicate effectively.
+Learn more
+.
+College & Career Readiness
+Adult and teen learners attend workshops and receive counseling to prepare for college, jobs, and careers.
+Learn more
+.
+Adult Literacy & GED Tutoring
+Tutors work one-on-one with adult students who want to improve their reading and writing skills or prepare for high school equivalency tests such as the GED.
+Learn more
+.
+Threshold-DLC Partnership
+A DLC instructor teaches at Threshold Clubhouse for adults living with mental illness.
+Youth High School Equivalency
+Youth ages 16 to 24 prepare for high school equivalency exams in one-on-one tutoring and classroom environments.
+Learn more
+.
+Transforming lives through literacy for over 37 years!
+Many thanks to everyone who has contributed to our work!
+​
+Click here to read our 2022 Annual Report.
+With your support, more then 18,500 Durham residents have improved their lives and their communities through literacy since 1985!
+​Contact us:﻿​
+(919) 489-8383
+info@durhamliteracy.org
+​
+1905 Chapel Hill Rd, Durham, NC 27707
+Mail:  PO Box 52209, Durham, NC 27717
+​Support our work:
+﻿﻿﻿﻿
+Donate Now
+​
+Our Wishlist
+​
+Shop
+Harris Teeter
+& raise funds
+(VIC card #5543)
+​
+Other Ways to Help​​​
+Let's Connect:
+The Durham Literacy Center is a nonprofit, tax-exempt charitable organization under Section 501(c)(3) of the Internal Revenue Code. Donations are tax-deductible as allowed by law. Our Federal Tax ID Number is 56-1479534.
+​
+© Durham Literacy Center 2023
+bottom of page

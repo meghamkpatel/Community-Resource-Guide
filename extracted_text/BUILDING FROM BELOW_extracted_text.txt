@@ -1,0 +1,40 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'generator', 'content': 'WordPress 6.1.6'}
+
+Body Text:
+Building from Below – building healthy communities from the ground up
+Skip to content
+About Us
+Education & Events
+Sliding-Scale CSA
+Contact
+Support
+About Us
+Education & Events
+Sliding-Scale CSA
+Contact
+Support
+Building from Below is dedicated to co-creating a healthy, inclusive, and sustainable farm-based community that brings fresh food access, nutritional education, and technical skills to community members, and provides newer farmers with affordable housing and land.
+Support
+Sliding-Scale CSA
+Growing thousands of lbs each year of fresh, chemical-free, locally-grown produce using regenerative practices across 70 acres in Mebane, North Carolina.
+Read More
+Education & Events
+Seedbed Community Farm is not only a farm but an agricultural education center where children, families, individuals, and community groups can experience the wonders of agriculture.
+Read More
+Join Us
+Your willingness to volunteer, sign up for a CSA membership, or donate is what helps to make Seedbed Community Farm flourish.
+Read More
+About Us
+Education & Events
+Sliding-Scale CSA
+Contact
+Support
+Theme by
+Think Up Themes Ltd
+. Powered by
+WordPress
+.

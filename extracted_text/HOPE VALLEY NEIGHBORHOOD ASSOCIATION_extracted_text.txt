@@ -1,0 +1,90 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'HOPE VALLEY NEIGHBORHOOD ASSOCIATION'}
+{'property': 'og:title', 'content': 'HOPE VALLEY NEIGHBORHOOD ASSOCIATION'}
+{'property': 'og:url', 'content': 'http://www.hvna.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'The official site of Hope Valley Neighborhood Association in Durham, North Carolina'}
+{'itemprop': 'name', 'content': 'HOPE VALLEY NEIGHBORHOOD ASSOCIATION'}
+{'itemprop': 'url', 'content': 'http://www.hvna.org'}
+{'itemprop': 'description', 'content': 'The official site of Hope Valley Neighborhood Association in Durham, North Carolina'}
+{'name': 'twitter:title', 'content': 'HOPE VALLEY NEIGHBORHOOD ASSOCIATION'}
+{'name': 'twitter:url', 'content': 'http://www.hvna.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'The official site of Hope Valley Neighborhood Association in Durham, North Carolina'}
+{'name': 'description', 'content': 'The official site of Hope Valley Neighborhood Association in Durham, North \r\nCarolina'}
+
+Body Text:
+HOPE VALLEY NEIGHBORHOOD ASSOCIATION
+Home
+About Hope Valley
+News
+Contact
+PAY DUES
+HOPE VALLEY NEIGHBORHOOD ASSOCIATION
+Home
+About Hope Valley
+News
+Contact
+PAY DUES
+HOPE VALLEY
+Durham, North Carolina
+Welcome to the HVNA!
+Joining HVNA
+All residents of Hope Valley are encouraged to join the HVNA (and nearly two-thirds already have!)  Basic dues start at just $50 annually and support common area landscaping, crime prevention, community events, our welcoming service, a seasonal newsletter, our email listserv, this website, and more.
+Join Our Email List
+All Hope Valley residents are encouraged to join our neighborhood email list.  This is a moderated list used to share information about neighborhood events, security concerns, and lost and found items and pets.  Hope Valley residents who are also HVNA members can also join our
+Bulletin Board
+list to share commercial posts, service referrals, and other information.
+New to Hope Valley?
+If you are new to the neighborhood, drop us a line and we'll send over a welcoming package.  We are always happy to help with questions about dues, our services, events, and the neighborhood in general.  We are proud of Hope Valley's role in Durham's history, and the eclectic people, houses, flora and fauna you'll find here today.
+Join or Renew
+JOIN the EMAIL LIST
+CONTACT US
+Recent Posts
+Featured
+May 25, 2023
+HVNA Spring 2023 Newsletter
+May 25, 2023
+May 25, 2023
+Dec 20, 2022
+HVNA Fall 2022 Newsletter
+Dec 20, 2022
+Dec 20, 2022
+Mar 12, 2020
+HVNA Winter 2020 Newsletter
+Mar 12, 2020
+Mar 12, 2020
+Nov 21, 2019
+HVNA Fall 2019 Newsletter
+Nov 21, 2019
+Nov 21, 2019
+Jun 27, 2019
+HVNA Summer 2019 Newsletter
+Jun 27, 2019
+Jun 27, 2019
+Mar 19, 2019
+HVNA Winter 2019 Newsletter
+Mar 19, 2019
+Mar 19, 2019
+Nov 13, 2018
+HVNA Fall 2018 Newsletter
+Nov 13, 2018
+Nov 13, 2018
+Jun 14, 2018
+HVNA Summer 2018 Newsletter
+Jun 14, 2018
+Jun 14, 2018
+May 1, 2018
+HVNA Night at the Bulls: June 12th
+May 1, 2018
+May 1, 2018
+Mar 12, 2018
+HVNA Winter 2018 Newsletter
+Mar 12, 2018
+Mar 12, 2018
+Back to Top
+© 2022 HVNA

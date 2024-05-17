@@ -1,0 +1,67 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '307e181f-0a11-4401-ab2d-33469b1a11a5'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'f2d9fc60-3cfe-4c17-9859-f9bbcb12e43e'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '858'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': "Educate, Empower & Change the negative mindsets of today's youth."}
+{'property': 'og:title', 'content': 'Campaign 4 Change'}
+{'property': 'og:description', 'content': "Educate, Empower & Change the negative mindsets of today's youth."}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/a4fcbc_04d6e672b8b948c5ba0f3a2ca514e7df.png/v1/fit/w_2500,h_1330,al_c/a4fcbc_04d6e672b8b948c5ba0f3a2ca514e7df.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.c4c4life.com'}
+{'property': 'og:site_name', 'content': 'copy-of-thechange'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'campaign 4 change, community, educating youth, empowering youth, helping youth, hope, todays youth'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Campaign 4 Change'}
+{'name': 'twitter:description', 'content': "Educate, Empower & Change the negative mindsets of today's youth."}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/a4fcbc_04d6e672b8b948c5ba0f3a2ca514e7df.png/v1/fit/w_2500,h_1330,al_c/a4fcbc_04d6e672b8b948c5ba0f3a2ca514e7df.png'}
+
+Body Text:
+Campaign 4 Change
+top of page
+DONATE NOW
+HOME
+OUR FOUNDER
+OUR FOUNDER
+FOUNDER'S STORY
+FOUNDER'S RECOGNITION
+HIS LIFE SHORT STORY
+COMMUNITY4CHANGE
+G - PROGRAM
+OUR WORK
+C4C HISTORY
+DBL OUTREACH
+C4C PAST EVENTS
+WHERE R THEY NOW
+HOPE DEALER
+HOPE DEALER
+BOOK HOPE DEALER
+EVENTS
+CONTACT US
+More
+Use tab to navigate through the menu items.
+OUR MISSION
+OUR PURPOSE
+WHO WE SERVE
+A population with no hope that struggles with living
+in a violent environment, substance abuse and poverty. We focus on the inner city, high crime, and low-income households. More specifically, we do not turn away youth who are known to be involved in gangs.
+Campaign4Change is a   nonprofit organization committed to enhancing the quality of life
+for all citizens and improving the image of our communities through extensive community service efforts to educate, empower, and change the negative mindset of today's youth.
+To initiate collaborative efforts to bring Citizens, Businesses, and Community Organizations together to improve the living conditions in the Triangle and bridge the gaps that affect the economically and
+socially disadvantaged.
+CAMPAIGN4CHANGE IS THE VACCINE FOR VIOLENCE
+Click here to Donate
+Special Thanks to our Contributing Partners
+Click here to Donate
+© 2014 by Campaign 4 Change. All rights reserved.
+Webmaster Login
+bottom of page

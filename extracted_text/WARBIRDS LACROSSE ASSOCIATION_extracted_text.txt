@@ -1,0 +1,90 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Warbirds Lacrosse'}
+{'property': 'og:title', 'content': 'Warbirds Lacrosse'}
+{'property': 'og:url', 'content': 'https://www.warbirdslacrosse.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Supporting Youth Lacrosse in Durham'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/631e79538d2eb47ecfb8cf73/t/65525c580f62f55ff6df1da0/1699896408102/Warbird+Gey+Outline+Red+W+Smaller.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '387'}
+{'property': 'og:image:height', 'content': '645'}
+{'itemprop': 'name', 'content': 'Warbirds Lacrosse'}
+{'itemprop': 'url', 'content': 'https://www.warbirdslacrosse.org'}
+{'itemprop': 'description', 'content': 'Supporting Youth Lacrosse in Durham'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/631e79538d2eb47ecfb8cf73/t/65525c580f62f55ff6df1da0/1699896408102/Warbird+Gey+Outline+Red+W+Smaller.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/631e79538d2eb47ecfb8cf73/t/65525c580f62f55ff6df1da0/1699896408102/Warbird+Gey+Outline+Red+W+Smaller.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'Warbirds Lacrosse'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/631e79538d2eb47ecfb8cf73/t/65525c580f62f55ff6df1da0/1699896408102/Warbird+Gey+Outline+Red+W+Smaller.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.warbirdslacrosse.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'Supporting Youth Lacrosse in Durham'}
+{'name': 'description', 'content': 'Supporting Youth Lacrosse in Durham'}
+
+Body Text:
+Warbirds Lacrosse
+Home
+Events
+News
+2024 Spring Season
+Schedule
+Players
+Coaching Team
+Stats & Pics
+Sponsors
+Sponsors
+Sponsorships
+About
+About
+Board
+Bylaws
+Policies
+Donate
+Home
+Events
+News
+2024 Spring Season
+Schedule
+Players
+Coaching Team
+Stats & Pics
+Sponsors
+Sponsors
+Sponsorships
+About
+About
+Board
+Bylaws
+Policies
+Donate
+Supporting Youth Lacrosse in Durham, NC
+Warbirds Lacrosse
+Learn More
+Upcoming Events
+Please visit our
+WONDERFUL
+SPONSORS
+and thank them with your business!
+We promote lacrosse skill development to a competitive level, fair play, sportsmanship and peer and family participation. Join us!
+Tournaments
+Learn about tournament and training opportunities this spring
+Spring Tournament Scedule
+Gear
+Coming soon: Sign up for team practice clothing and new gear.
+Find Out How
+Donate
+Follow us on Instagram
+@ warbirdslax_nc
+Subscribe
+Sign up with your email address to receive news and updates.
+First Name
+Last Name
+Email Address
+Sign Up
+Thank you!
+Back to Top
+Warbirds Lacrosse Association, PO Box 532, 4711 Hope Valley Rd Ste F, Durham, NC 27707
+Powered by
+Squarespace

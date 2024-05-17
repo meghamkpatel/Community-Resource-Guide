@@ -1,0 +1,73 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '12ea38cd-579b-62a4-8d0e-7ff7fdf9d16c'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '9bf80c9e-682d-42d0-a351-e41f2713a3a4'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '309'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'We come alongside all those impacted by incarceration and provide resources, support to help things be restored. '}
+{'property': 'og:title', 'content': 'Restore | Ur Restored Ministries Inc | Durham'}
+{'property': 'og:description', 'content': 'We come alongside all those impacted by incarceration and provide resources, support to help things be restored. '}
+{'property': 'og:url', 'content': 'https://www.urrestoredministries.org'}
+{'property': 'og:site_name', 'content': 'restored'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'WLN-sgGX0tiECCPMPIFS80-eTHQFYsGut8deO63DFb4'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Restore | Ur Restored Ministries Inc | Durham'}
+{'name': 'twitter:description', 'content': 'We come alongside all those impacted by incarceration and provide resources, support to help things be restored. '}
+
+Body Text:
+Restore | Ur Restored Ministries Inc | Durham
+top of page
+HOME
+About US
+Our Founder and Executive Director
+Board of Directors
+Our work
+Children
+Families
+Incarceration and ReEntry
+Cities of Refuge
+Need a Lift
+Resources/ Events
+#LastBreath Vigil
+Articles
+Video
+Donate
+Contact
+More
+Use tab to navigate through the menu items.
+UR Restored Ministries
+Inc. is a Faith-Based, 501c3 tax-exempt, non-profit organization that comes alongside all those impacted by incarceration. We stimulate human services, therapeutic relief, bring God’s restorative love and seek to eliminate racial disparities in incarceration and those impacted from it. We focus on providing services to those inside, recently released, youth and the families. We address criminal justice reform, provide trainings, educational support and resources that aids in eliminating recidivism. Our reentry services, career development and programs inside the prison and outside assist in changing the narrative of those impacted by incarceration and contributes to restoring lives. Across this Nation, we are Restoring Lives.
+Restored Ministries Inc.
+IMG_2811
+Bike giveaway 2023
+Families
+IMG_2811
+1/19
+The incarceration of a parent  can have a tremendous impact on the course of a child's life. Check out how we support youth in education and extracurricular activities.
+The Families and communities of individuals that are
+incarcerated,
+are impacted as well. They need help in supporting their family member(s) inside and help in supporting themselves with the individual being absent.
+While the men and women are incarcerated they need supportive, reentry programs that will help them in a holistic way.  We help in providing transportation and with housing.
+Children
+Families
+Incarceration & Reentry
+Health and We
+llness
+2nd Chance Re
+source
+Fair ---April 30 9:30-12:30
+Restored Ministries Inc.
+506 Ramseur st
+Durham, NC 27701
+urrestored@gmail.com
+919 725-7325
+© 2024
+Donate  Here
+bottom of page

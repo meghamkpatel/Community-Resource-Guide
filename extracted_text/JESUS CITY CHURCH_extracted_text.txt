@@ -1,0 +1,169 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'JesusCity.Church'}
+{'property': 'og:title', 'content': 'JesusCity.Church'}
+{'property': 'og:url', 'content': 'https://www.jesuscitychurch.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'At Jesus City Church You Are Reminded That God Loves You And So Do We. You Matter Here! We Believe That Jesus Is Going To Transform Montgomery, One Life At A Time!'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5eda8701f3db1d39aeacd87c/t/5fe1e35a00a6e529c8108699/1608639325604/8DCBFC1B-F25F-4A8F-A33E-531243122028.jpeg?format=1500w'}
+{'property': 'og:image:width', 'content': '1080'}
+{'property': 'og:image:height', 'content': '1080'}
+{'itemprop': 'name', 'content': 'JesusCity.Church'}
+{'itemprop': 'url', 'content': 'https://www.jesuscitychurch.com'}
+{'itemprop': 'description', 'content': 'At Jesus City Church You Are Reminded That God Loves You And So Do We. You Matter Here! We Believe That Jesus Is Going To Transform Montgomery, One Life At A Time!'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5eda8701f3db1d39aeacd87c/t/5fe1e35a00a6e529c8108699/1608639325604/8DCBFC1B-F25F-4A8F-A33E-531243122028.jpeg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5eda8701f3db1d39aeacd87c/t/5fe1e35a00a6e529c8108699/1608639325604/8DCBFC1B-F25F-4A8F-A33E-531243122028.jpeg?format=1500w'}
+{'name': 'twitter:title', 'content': 'JesusCity.Church'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5eda8701f3db1d39aeacd87c/t/5fe1e35a00a6e529c8108699/1608639325604/8DCBFC1B-F25F-4A8F-A33E-531243122028.jpeg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.jesuscitychurch.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'At Jesus City Church You Are Reminded That God Loves You And So Do We. You Matter Here! We Believe That Jesus Is Going To Transform Montgomery, One Life At A Time!'}
+{'name': 'description', 'content': 'At Jesus City Church You Are Reminded That God Loves You And So Do We. You \r\nMatter Here! We Believe That Jesus Is Going To Transform Montgomery, One \r\nLife At A Time!'}
+
+Body Text:
+JesusCity.Church
+0
+Skip to Content
+WELCOME
+WHAT WE BELIEVE
+MEET THE POWELL'S
+CONNECT
+PREPARE TO VISIT US
+NEW HERE
+LOCATION
+SERVE
+SERVE TEAMS
+SPIRITUAL GIFTS TEST
+MINISTRY NEEDS
+GROUPS
+SMALL GROUPS
+MAXWELL WORKOUT GROUP
+MINISTRIES
+YOUTH & YOUNG ADULTS
+JESUS CITY WOMEN
+JESUS CITY MEN
+EVENTS
+RESOURCES
+ARCHIVE SERMONS
+WATCH LIVE ONLINE
+EVANGELISM TIPS
+SHARE YOUR FAITH
+NEW BELIEVERS BIBLE
+PASTORAL COUNSELING
+MILITARY
+PRAYER
+GIVE
+Open Menu
+Close Menu
+GIVE
+WELCOME
+WHAT WE BELIEVE
+MEET THE POWELL'S
+CONNECT
+PREPARE TO VISIT US
+NEW HERE
+LOCATION
+SERVE
+SERVE TEAMS
+SPIRITUAL GIFTS TEST
+MINISTRY NEEDS
+GROUPS
+SMALL GROUPS
+MAXWELL WORKOUT GROUP
+MINISTRIES
+YOUTH & YOUNG ADULTS
+JESUS CITY WOMEN
+JESUS CITY MEN
+EVENTS
+RESOURCES
+ARCHIVE SERMONS
+WATCH LIVE ONLINE
+EVANGELISM TIPS
+SHARE YOUR FAITH
+NEW BELIEVERS BIBLE
+PASTORAL COUNSELING
+MILITARY
+PRAYER
+Open Menu
+Close Menu
+Folder:
+WELCOME
+Back
+WHAT WE BELIEVE
+MEET THE POWELL'S
+Folder:
+CONNECT
+Back
+PREPARE TO VISIT US
+NEW HERE
+LOCATION
+Folder:
+SERVE
+Back
+SERVE TEAMS
+SPIRITUAL GIFTS TEST
+MINISTRY NEEDS
+Folder:
+GROUPS
+Back
+SMALL GROUPS
+MAXWELL WORKOUT GROUP
+Folder:
+MINISTRIES
+Back
+YOUTH & YOUNG ADULTS
+JESUS CITY WOMEN
+JESUS CITY MEN
+EVENTS
+Folder:
+RESOURCES
+Back
+ARCHIVE SERMONS
+WATCH LIVE ONLINE
+EVANGELISM TIPS
+SHARE YOUR FAITH
+NEW BELIEVERS BIBLE
+PASTORAL COUNSELING
+MILITARY
+PRAYER
+GIVE
+Welcome to Jesus City!
+Welcome to Jesus City!
+Welcome to Jesus City!
+NEW TO JESUS CITY?
+We would love to help you feel at home here! Whether you are joining us in-person or online!
+CONNECT
+SUNDAY CHURCH
+Jesus City is located on the historic “Dexter Avenue” The same location as the Alabama State Capitol Building, the Martin Luther King Jr. Church and Rosa Parks Statue.
+Join us in person at
+9am or 11am or watch us live online at 11:00am!
+DIRECTIONS
+WATCH LIVE
+SMALL GROUPS
+We want to connect with you and help you connect with God. Our home groups are designed to lead you closer to God.
+JOIN NOW
+SERVE TEAMS
+This team needs you! At Jesus City we make room for you to use your gifts in a God honoring way!
+JOIN NOW
+JESUS CITY YOUTH
+Check out the NEW High School and Young Adult Ministry!
+CONNECT
+GIVE AND SUPPORT TO Advance The Work
+GIVE
+CHURCH ADDRESS
+120 Dexter Ave. Montgomery AL 36104
+MAILING ADDRESS
+PO Box 6409 Montgomery AL 36106
+CONTACT INFO
+info@jesuscity.church
+334-603-1226
+JOIN OUR NEWSLETTER
+Keep Updated On What Is Happening At Jesus City Church
+First Name
+Last Name
+Email Address
+Sign Up
+We are thankful for you and excited to share with you all that the Lord is doing at Jesus City!

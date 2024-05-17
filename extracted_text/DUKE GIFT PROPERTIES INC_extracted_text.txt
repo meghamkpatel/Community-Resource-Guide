@@ -1,0 +1,198 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no'}
+{'name': 'csrf-param', 'content': 'authenticity_token'}
+{'name': 'csrf-token', 'content': '-M2gCTzWolIvKCoZf_r-hj2klgnW3B3DnOY-VxQ1xlKiSqoaTZnuyJpIAm4Yrioq2rimyFbpPVVnAXAY2Y5OMA'}
+{'name': 'msapplication-TileColor', 'content': '#053482'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'name': 'google-site-verification', 'content': 'JuhY7qlmlvIHFXEt0p3Y0yjW617hqz125HaEzj0uWW0'}
+{'property': 'og:site_name', 'content': 'David M. Rubenstein Rare Book & Manuscript Library'}
+{'name': 'twitter:site', 'content': '@rubensteinlib'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Duke University Real Estate Administration Records, 1893-2018, undated - Archives & Manuscripts at Duke University Libraries'}
+{'name': 'description', 'content': 'The Duke University Real Estate Administration provided oversight of property and space owned by Duke University through December of 2019. The Duke Real Estate Administration Records contain copies of deeds; easements; correspondence; maps; real estate agreements; and reports of the land transactions for the building of Duke University since acquiring the first lots in 1893; Highland Hospital...'}
+{'property': 'og:description', 'content': 'The Duke University Real Estate Administration provided oversight of property and space owned by Duke University through December of 2019. The Duke Real Estate Administration Records contain copies of deeds; easements; correspondence; maps; real estate agreements; and reports of the land transactions for the building of Duke University since acquiring the first lots in 1893; Highland Hospital...'}
+
+Body Text:
+Duke University Real Estate Administration Records, 1893-2018, undated - Archives & Manuscripts at Duke University Libraries
+Skip to search
+Skip to main content
+Skip to collection navigation
+Duke University Libraries
+Archives & Manuscripts
+Collection Guides
+Search in
+All Collections
+This Collection
+All Fields
+Name
+Place
+Subject
+Format
+Container
+Title
+Identifier
+search for
+Search
+Advanced Search
+Bookmarks
+(
+0
+)
+My Accounts
+Ask
+Menu
+Menu
+My Accounts
+Ask a Librarian
+Search & Find
+Using the Library
+Research Support
+Course Support
+Libraries
+About
+Duke University Real Estate Administration Records, 1893-2018, undated
+Bookmark
+Navigate the collection
+Navigate the Collection
+Using These Materials Teaser
+Using These Materials Links:
+Using These Materials
+Info for Visitors
+How to Request
+Ordering Reproductions
+Citations, Permissions, & Copyright
+Restrictions:
+Deeds in the Duke Real Estate Administration records are copies of public records, and are open for research. Any additional materials filed with the deeds that are Duke University administrative...
+More about accessing and using these materials...
+Summary
+Creator:
+Duke University. Real Estate Administration
+Abstract:
+The Duke University Real Estate Administration provided oversight of property and space owned by Duke University through December of 2019. The Duke Real Estate Administration Records contain copies of deeds; easements; correspondence; maps; real estate agreements; and reports of the land transactions for the building of Duke University since acquiring the first lots in 1893; Highland Hospital properties in Buncombe County; Maplewood Cemetery; and Urban Land Institute studies. Until December of 2019, Duke University Real Estate Administration also managed the assets held in Duke Gift Properties, Inc. The Duke Real Estate Office (REO) now manages all space leased by Duke University and Duke University Health System.
+Extent:
+15 Linear Feet
+Language:
+Materials in English.
+Collection ID:
+UA.10.03.0007
+University Archives Record Group:
+10 -- Executive VP and Treasurer & Administration (Business and Finance)
+10 -- Executive VP and Treasurer & Administration (Business and Finance) > 03 -- Administration
+Background
+Scope and content:
+The Duke Real Estate Administration records contain copies of deeds; maps; related correspondence; and reports of the land transactions for the building of Duke University since acquiring the first lots in 1893.
+Biographical / historical:
+The Duke Real Estate Administration provided oversight of property and space owned by Duke University through December 2019. The Director of Real Estate Administration reported to the Vice President of Administration, Kyle Cavanaugh. The Duke Real Estate Administration managed properties including Highland Hospital in Asheville, and Maplewood Cemetery in Durham. Note also that many of the deeds are for properties in Duke Forest that were sold to faculty and staff.
+The Duke Real Estate Office (REO) now manages all space leased by Duke University and Duke University Health System. In additional to the space management, the Duke Real Estate Office oversees the Washington Duke Inn, the Lodge at Duke Medical Center, and other strategic assets owned by the organizations. Duke Real Estate Office assists with the purchase and disposition of properties, including Duke Forest.
+Duke University dates its origin as an educational institution from 1838, when Methodist and Quaker families in rural Randolph County hired Brantley York as a teacher for their school. York's successor as principal, Braxton Craven (president 1842-1882), encouraged the North Carolina legislature to recharter the school as Normal College in 1851. The school was renamed Trinity College in 1859, while funded by the Methodist Episcopal Church, South. John F. Crowell became Trinity's president in 1887. Using funding from Washington Duke and Julian S. Carr, the school moved to Durham in 1892.
+In December 1924, James B. Duke increased his family's support of Trinity College with the establishment of The Duke Endowment, a $40-million trust fund. Along with annual income distributed to Carolinian hospitals, orphanages, the Methodist Church, $19 million was directed to three colleges and a university built around Trinity College. The funds were earmarked for rebuilding the old campus, and for creation of a new campus. President Few suggested the school be called Duke University, which then opened the School of Religion and Graduate School (1926); the Medical School and hospital (1930); the School of Nursing (1931); and the School of Forestry (1938); and reorganized the Law School (1930). In 1938, Duke University became the thirty-fourth member of the Association of American Universities. Later Engineering became a separate school (1939); and the School of Business Administration, now the Fuqua School of Business, opened in 1969.
+The City of Durham's Maplewood Cemetery was established in 1872. Residents buried there include Dr. Bartlett Durham. Members of the Washington Duke family are interred in the Duke Mausoleum. While Washington Duke, and sons Benjamin Newton Duke and James Buchanan Duke, were re-interred in the Chapel of Duke University, the tomb still contains the remains of eldest son Brodie Duke and several women of the Duke family, including philanthropist Mary Duke Biddle.
+Acquisition information:
+The Duke Real Estate Administration records were received by Duke University Archives as a transfer in 2019.
+Processing information:
+Processed by Leah M. Kerr and Bethany Lynch, October, 2020
+Accessions described in this collection guide: UA2019-0095 and UA2019-0107.
+Changed from Duke Real Estate Office, UA.10.04.0007 to Duke Real Estate Administration, UA.10.03.0007; updated by April Blevins, May 2022.
+Finding aid updated by April Blevins, February 2024.
+Arrangement:
+The Duke Real Estate Administration records are arranged in the following Series: Real Estate Deeds; Real Estate Easements; and Administrative Files.
+Rules or conventions:
+Describing Archives: A Content Standard
+Related
+Related material:
+Property Plats.
+- University Archives, Duke University.
+Facilities Management Department records.
+- University Archives, Duke University.
+Subjects
+Click on terms below to find related finding aids on this site. For other related
+materials in the Duke University Libraries, search for these terms in the
+Catalog
+.
+Subjects:
+Real estate management -- North Carolina
+Real property -- North Carolina
+Duke University -- Administration
+Duke University -- History
+Duke family
+Duke University. -- Marine Laboratory
+Highland Hospital (Asheville, N.C.)
+Urban Land Institute
+Names:
+Duke Forest (Durham, N.C.)
+Duke University. Marine Laboratory
+Highland Hospital, Asheville, N.C.
+Durham County (N.C.)
+Urban Land Institute
+Duke family
+Places:
+Duke Forest (N.C.)
+Contents
+Using These Materials
+Using These Materials Links:
+Using These Materials
+Info for Visitors
+How to Request
+Ordering Reproductions
+Citations, Permissions, & Copyright
+Restrictions:
+Deeds in the Duke Real Estate Administration records are copies of public records, and are open for research. Any additional materials filed with the deeds that are Duke University administrative records are restricted for a period of twenty-five years from the origin of the material, in which case permission in writing from the Duke Real Estate Office and the University Archivist is required for use of administrative records. After twenty-five years, administrative records that have been processed may be consulted with the permission of the University Archivist. Contact Research Services for more information.
+Access restricted. Collection includes materials from the Duke University Board of Trustees. Records of the University's Board of Trustees which have been in existence for at least fifty years are available for scholarly research with the permission of the University Archivist. Access to records which have been in existence for less than fifty years shall be granted only by special permission, in writing, from the Board of Trustees. Contact Research Services for more information.
+Access restricted. Some materials in this collection contain potentially sensitive information. Contact Research Services for Access.
+Terms of access:
+Copyright for Official University records is held by Duke University; all other copyright is retained by the authors of items in these papers, or their descendants, as stipulated by United States copyright law.
+Before you visit:
+Please consult our up-to-date
+information for visitors page
+, as our services and guidelines periodically change.
+Preferred citation:
+[Identification of item], Duke Real Estate Administration records, Duke University Archives, David M. Rubenstein Rare Book & Manuscript Library, Duke University.
+Permalink:
+https://idn.duke.edu/ark:/87924/m18998
+Collection
+Duke University Real Estate Administration Records
+Request
+More Info
+Collection
+UA.10.03.0007
+EAD ID (XML)
+uarealestate
+ARK
+ark:/87924/m18998
+Catalog record
+009484722
+Total Components
+1752
+Permalink
+https://idn.duke.edu/ark:/87924/m18998
+Last Indexed
+2024-05-09
+Collection overview
+Summary
+Background
+Related
+Subjects
+Contents
+Using These Materials
+Some materials and descriptions may include offensive content.
+More info
+Navigate the collection
+Contact Us
+Advanced Search
+Search in
+All Collections
+This Collection
+All Fields
+Name
+Place
+Subject
+Format
+Container
+Title
+Identifier
+search for
+Search
+More Advanced Search Options

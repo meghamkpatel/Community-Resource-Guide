@@ -1,0 +1,56 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': ''}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '051536fd-b450-4053-89cd-b775fcf95585'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'aa0c3051-a2d8-4b02-abb2-0771f728d8b9'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '356'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'The City of Medicine Volunteer Medical Corps coordinates volunteers to work alongside schools and groups that serve Durham kids. The VMC started in order to help schools with needs related to COVID-19, but is expanding to help bring other health services to Bull City kids. '}
+{'property': 'og:title', 'content': 'City of Medicine Volunteer Medical Corps | Medical volunteers in Durham schools |  Durham'}
+{'property': 'og:description', 'content': 'The City of Medicine Volunteer Medical Corps coordinates volunteers to work alongside schools and groups that serve Durham kids. The VMC started in order to help schools with needs related to COVID-19, but is expanding to help bring other health services to Bull City kids. '}
+{'property': 'og:url', 'content': 'https://www.comvmc.org'}
+{'property': 'og:site_name', 'content': 'COM VMC'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'DFdRj_q1YaqUFr12R0NQIW2UzQ9i6SAV--IEwHJVLRc'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'City of Medicine Volunteer Medical Corps | Medical volunteers in Durham schools |  Durham'}
+{'name': 'twitter:description', 'content': 'The City of Medicine Volunteer Medical Corps coordinates volunteers to work alongside schools and groups that serve Durham kids. The VMC started in order to help schools with needs related to COVID-19, but is expanding to help bring other health services to Bull City kids. '}
+
+Body Text:
+City of Medicine Volunteer Medical Corps | Medical volunteers in Durham schools |  Durham
+top of page
+DONATE
+HOME
+VOLUNTEER
+DPS Volunteer Registration
+WHO WE ARE
+OUR MISSION
+PARTNERS
+Volunteer
+Donate
+Our work
+Who We Are:
+We are a 501(c)3 nonprofit and member of the National Association of Free Clinics.
+We recruit, train, and
+manage
+volunteers to help provide healthcare
+resources
+to schools and community groups serving children in Durham.
+We were founded in the fall of 2020 to provide assistance with COVID-19 specific needs like temperature taking and arrival symptom screening.
+In 2021 and beyond, our volunteers work with other local non-profits to bring vision screening and free glasses, free sports
+physicals, and other high-quality preventive health care services to children and adolescents in Durham
+County
+.
+LEARN MORE ABOUT US
+VOLUNTEER OPPORTUNITIES
+Medical and non-medical volunteers who perform vision screenings for community groups and schools. We work in Partnership with Project SIGHT
+, who follows up with eye exams and no-cost glasses.
+Provide mobile free sports physicals.
+Provide medical and non-medical volunteers to other local groups offering vaccinations and other services to Durham children.
+VOLUNTEER TODAY
+bottom of page

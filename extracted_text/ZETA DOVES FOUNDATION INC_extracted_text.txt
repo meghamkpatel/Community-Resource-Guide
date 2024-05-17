@@ -1,0 +1,57 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'e2e04f20-991a-40d6-80af-795a793c5898'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'd6df97b5-6660-41e2-b6c7-3e7bfadf7ac2'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '207'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Zeta D.O.V.E. Foundation is a 501 (c)(3) nonprofit organization whose principle activities and purposes are three-fold; to promote the total development of children and youth who aspire to excel; to award scholarships for higher education; and to conduct educational programs for expectant mothers.'}
+{'property': 'og:title', 'content': 'Non-Profit Organization | Zeta D.O.V.E. Foundation, Incorporated'}
+{'property': 'og:description', 'content': 'Zeta D.O.V.E. Foundation is a 501 (c)(3) nonprofit organization whose principle activities and purposes are three-fold; to promote the total development of children and youth who aspire to excel; to award scholarships for higher education; and to conduct educational programs for expectant mothers.'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/2f3ed4_6b4e9b3e097c498d8228c1dd2231db12%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2f3ed4_6b4e9b3e097c498d8228c1dd2231db12%7Emv2.jpg'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.zetadovefoundation.org'}
+{'property': 'og:site_name', 'content': 'Zeta DOVE Foundation'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'qcWdurXGv0_RkKYYFTZ2c8cMqIX5ZfONZwK3J63BcGQ'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Non-Profit Organization | Zeta D.O.V.E. Foundation, Incorporated'}
+{'name': 'twitter:description', 'content': 'Zeta D.O.V.E. Foundation is a 501 (c)(3) nonprofit organization whose principle activities and purposes are three-fold; to promote the total development of children and youth who aspire to excel; to award scholarships for higher education; and to conduct educational programs for expectant mothers.'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/2f3ed4_6b4e9b3e097c498d8228c1dd2231db12%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/2f3ed4_6b4e9b3e097c498d8228c1dd2231db12%7Emv2.jpg'}
+
+Body Text:
+Non-Profit Organization | Zeta D.O.V.E. Foundation, Incorporated
+top of page
+Home
+The Foundation
+The Board
+Programs
+Cotillion
+Journal
+Forms & Documents
+Contact
+More
+Use tab to navigate through the menu items.
+Donate
+Cotillion Tickets
+Home: Our Mission
+Latest Updates
+69th Annual Debutante Cotillion & Master’s Ball
+Apr 14, 2024, 2:00 PM
+Fort Lauderdale Marriott Coral Springs
+Details
+Home: Latest Updates
+Our Mission
+Zeta D.O.V.E. Foundation is a 501 (c)(3) nonprofit organization. The Foundation’s principle activities and purposes are three-fold; to promote the total development of children and youth who aspire to excel through seminars that enhance the mind, body and spirit; to award scholarships for higher education; and to conduct educational programs for expectant mothers to insure the health of their unborn babies.
+Learn More
+Subscribe Form
+Submit
+Thanks for submitting!
+©2022 by Zeta D.O.V.E. Foundation, Incorporated.
+bottom of page

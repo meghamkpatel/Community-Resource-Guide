@@ -1,0 +1,58 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Durham Regional Theatre'}
+{'property': 'og:title', 'content': 'Durham Regional Theatre'}
+{'property': 'og:url', 'content': 'http://www.durhamregionaltheatre.com'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Durham Regional Theatre is a multi-racial, multi-ethnic & intergenerational regional theatre, building community, character & careers in Durham, NC'}
+{'itemprop': 'name', 'content': 'Durham Regional Theatre'}
+{'itemprop': 'url', 'content': 'http://www.durhamregionaltheatre.com'}
+{'itemprop': 'description', 'content': 'Durham Regional Theatre is a multi-racial, multi-ethnic & intergenerational regional theatre, building community, character & careers in Durham, NC'}
+{'name': 'twitter:title', 'content': 'Durham Regional Theatre'}
+{'name': 'twitter:url', 'content': 'http://www.durhamregionaltheatre.com'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'Durham Regional Theatre is a multi-racial, multi-ethnic & intergenerational regional theatre, building community, character & careers in Durham, NC'}
+{'name': 'description', 'content': 'Durham Regional Theatre is a multi-racial, multi-ethnic & intergenerational \r\nregional theatre, building community, character & careers in Durham, NC'}
+{'name': 'google-translate-customization', 'content': '722b12468c5d5540-b6aff02779c33bc8-gd894518f646b6e8a-29'}
+
+Body Text:
+Durham Regional Theatre
+Home
+Contact
+About
+History & Vision
+Leadership
+DRT Staff
+Being Intentional
+Acting Classes
+Summer Theatre Camps
+GET INVOLVED
+Donate
+Volunteer
+Wall of Shows
+Blog
+Durham Regional Theatre
+Home
+Contact
+About
+History & Vision
+Leadership
+DRT Staff
+Being Intentional
+Acting Classes
+Summer Theatre Camps
+GET INVOLVED
+Donate
+Volunteer
+Wall of Shows
+Blog
+Home
+Durham Regional theatre is AN INTENTIONALLY MULTI-RACIAL, MULTI-ETHNIC & INTERGENERATIONAL THEATRE, CREATING & PRESENTING WORKS THAT TENACIOUSLY REFLECT THE RICH human DIVERSITY in DURHAM, NC
+DRT believes that theater is a powerful vehicle for intellectual, emotional and ethical human growth, and that by telling good stories together we can realize our highest visions.   DRT intends to provide a context for diverse communities to purposefully bridge cultural barriers through creative collaboration.
+Top
+Durham Regional Theatre, P.O. Box 61894, Durham, NC 27715
+(919) 937-9827, durhamregionaltheatre@gmail.com, durhamregionaltheatre.com

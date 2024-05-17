@@ -1,0 +1,107 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Beth El Preschool '}
+{'property': 'og:title', 'content': 'Beth El Preschool '}
+{'property': 'og:url', 'content': 'https://www.bethelpreschooldurham.org'}
+{'property': 'og:type', 'content': 'website'}
+{'itemprop': 'name', 'content': 'Beth El Preschool '}
+{'itemprop': 'url', 'content': 'https://www.bethelpreschooldurham.org'}
+{'name': 'twitter:title', 'content': 'Beth El Preschool '}
+{'name': 'twitter:url', 'content': 'https://www.bethelpreschooldurham.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Beth El Preschool
+Beth El Preschool
+About
+Programs
+Admissions
+Calendar
+Contact
+Support
+Back
+Philosophy
+Teachers
+Curriculum
+Family Involvement
+Back
+Classes
+Lunch Bunch
+Beth El's Summer Program
+Special Activities
+Back
+Applications
+About
+Philosophy
+Teachers
+Curriculum
+Family Involvement
+Programs
+Classes
+Lunch Bunch
+Beth El's Summer Program
+Special Activities
+Admissions
+Applications
+Beth El Preschool
+Calendar
+Contact
+Support
+Scroll
+Shalom and welcome
+to Beth El Preschool!
+About Us  →
+View fullsize
+Child centered preschool.
+Our Philosophy →
+Beth El Preschool is a child-centered preschool that encourages each child's sense of wonder, joyful individuality and personal achievement.
+Our low teacher-student ratios and small classes encourage close friendships, caring and sharing, and a warm sense of community. Our theme-based and age-appropriate curriculum fosters a life-long love of learning. We offer half-day programs designed for children 18 months through Pre-Kindergarten.
+We love visitors. To schedule a visit, please
+contact us
+. We look forward to meeting you and sharing all that Beth El Preschool has to offer.
+Our Teachers
+Meet our dedicated team of teachers.
+Read More →
+Our Curriculum
+Hands on learning for life!
+Read More →
+Today’s students.
+Tomorrow’s leaders.
+Our Programs →
+Admissions & Application
+Join us at Beth El
+It all starts with a visit. Please call and schedule a tour.
+Admissions →
+Apply
+Applications available January 23, 2023.
+Programs
+Details on our classes, camps & activities.
+Contact Us
+Come & visit!
+Home Top
+Home Vision + Campaigns
+Home Impact
+Home Annual Report
+Home Footer CTA
+Copyright © 2018 Beth El Preschool
+All rights reserved.
+Beth El Preschool, 800 Watts St., Durham, NC
+bethelonwatts@gmail.com
+About
+Philosophy
+Teachers
+Curriculum
+Family Involvement
+Contact
+Support
+Programs
+Classes
+Lunch Bunch
+Camp Beth El
+Special Activities
+Admissions
+Applications

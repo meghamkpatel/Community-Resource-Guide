@@ -1,0 +1,226 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'ie=edge'}
+{'name': 'msapplication-TileColor', 'content': '#004e7a'}
+{'name': 'msapplication-config', 'content': '/static/assets/browserconfig.48a8479c.xml'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'name': 'referrer', 'content': 'no-referrer-when-downgrade'}
+{'name': 'generator', 'content': 'SEOmatic'}
+{'name': 'description', 'content': "The commitment and participation of everyone affected by chordoma is fueling progress that's virtually unprecedented for a rare cancer. With your help,…"}
+{'name': 'referrer', 'content': 'no-referrer-when-downgrade'}
+{'name': 'robots', 'content': 'all'}
+{'content': 'chordomafoundation', 'property': 'fb:profile_id'}
+{'content': 'en_US', 'property': 'og:locale'}
+{'content': 'pt_BR', 'property': 'og:locale:alternate'}
+{'content': 'it', 'property': 'og:locale:alternate'}
+{'content': 'nl', 'property': 'og:locale:alternate'}
+{'content': 'de', 'property': 'og:locale:alternate'}
+{'content': 'fr', 'property': 'og:locale:alternate'}
+{'content': 'es', 'property': 'og:locale:alternate'}
+{'content': 'Chordoma Foundation', 'property': 'og:site_name'}
+{'content': 'website', 'property': 'og:type'}
+{'content': 'https://www.chordomafoundation.org/', 'property': 'og:url'}
+{'content': 'Home', 'property': 'og:title'}
+{'content': "The commitment and participation of everyone affected by chordoma is fueling progress that's virtually unprecedented for a rare cancer. With your help,…", 'property': 'og:description'}
+{'content': 'https://d13ejobncp4kjx.cloudfront.net/Alicia-and-fam.png', 'property': 'og:image'}
+{'content': '1200', 'property': 'og:image:width'}
+{'content': '630', 'property': 'og:image:height'}
+{'content': 'Chordoma Foundation logo', 'property': 'og:image:alt'}
+{'content': 'https://www.instagram.com/chordomafoundation/', 'property': 'og:see_also'}
+{'content': 'https://www.youtube.com/user/ChordomaFoundation', 'property': 'og:see_also'}
+{'content': 'https://www.linkedin.com/company/chordoma-foundation/', 'property': 'og:see_also'}
+{'content': 'https://www.facebook.com/chordomafoundation/', 'property': 'og:see_also'}
+{'content': 'https://twitter.com/ChordomaFDN', 'property': 'og:see_also'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@ChordomaFDN'}
+{'name': 'twitter:creator', 'content': '@ChordomaFDN'}
+{'name': 'twitter:title', 'content': 'Home'}
+{'name': 'twitter:description', 'content': "The commitment and participation of everyone affected by chordoma is fueling progress that's virtually unprecedented for a rare cancer. With your help,…"}
+{'name': 'twitter:image', 'content': 'https://d13ejobncp4kjx.cloudfront.net/Alicia-and-fam.png'}
+{'name': 'twitter:image:width', 'content': '1200'}
+{'name': 'twitter:image:height', 'content': '630'}
+{'name': 'twitter:image:alt', 'content': 'Chordoma Foundation logo'}
+
+Body Text:
+Chordoma Foundation | Home
+Skip to Main Content
+For researchers
+Models, biospecimens, clinical trial support, and more
+Open funding opportunities
+Ways researchers can contribute to our mission
+For healthcare professionals
+How we can support you
+Understanding chordoma
+Diagnosis
+More
+International
+Overview and map
+Brazil
+Canada
+France
+Germany
+Israel
+Italy
+Netherlands
+Spain
+United Kingdom
+English (US)
+🇺🇸
+Español
+🇪🇸
+Français
+🇫🇷
+Deutsch
+🇩🇪
+Nederlands
+🇳🇱
+Italiano
+🇮🇹
+Português
+🇧🇷
+Give Now
+Search
+Newsletter sign up
+Donate
+Learn
+Understanding chordoma
+Symptoms and diagnosis
+How to get the best care
+Children and young adults
+Treatment guidelines
+New diagnosis
+Local recurrence
+Advanced and metastatic disease
+Types of treatment
+Surgery
+Radiation
+Drug therapy
+Clinical trials
+Managing side effects
+Clival and upper cervical spine
+Mobile spine and sacral
+Pain management
+Cancer-related fatigue
+Emotional wellness
+...and more
+Educational resources
+Resources
+Talk with a Patient Navigator
+Find a chordoma doctor
+Search drug therapy options
+Questions to ask your doctors
+Glossary
+FAQs
+Connect
+Support
+Talk with a Patient Navigator
+Get matched with a Peer Guide
+Join our online community
+Find an international Ambassador
+Chordoma community map
+Patient stories
+Uncommon Stories
+Memorials
+Events
+Virtual support groups
+Improve the outlook
+The path to cures
+How to help
+Ways to give
+For friends and family
+About us
+Our story
+Our research lab
+Team
+Careers
+Newsletter
+Latest updates
+Annual reports and financials
+Donate
+Improving lives. Accelerating cures.
+One in a million, but not alone
+The commitment and participation of everyone affected by chordoma is fueling progress that's virtually unprecedented for a rare cancer. With your help, dramatically better treatments are possible — and they could be available soon.
+The path to cures
+How to help
+Honor Mac Sinise's legacy
+Moving Ahead for Cures (MAC)
+Mac Sinise, the son of Gary and Moira Sinise and brother to Sophia and Ella, fought bravely against metastatic chordoma for more than five years before succumbing to the disease. Determined to bring to fruition his hope for cures, in 2024 the Sinise Family established the Moving Ahead for Cures (MAC) Fund in his memory. Donors to this fund are enabling us to bring new, more effective treatments to chordoma patients as quickly as possible.
+We will forever be grateful for the generosity and commitment of the Sinise Family and everyone who stands with us in this quest. Because of you, those of us who continue to face chordoma have reason for hope.
+MAC Fund: Give today
+Start Here
+Newly Diagnosed? We Can Help.
+We offer expertise, resources, and support so you can get the best care and outcomes possible.
+If you're new to chordoma, it's normal to feel overwhelmed. Our Patient Navigation Service — a free, confidential resource — is an excellent place to start. Our Patient Navigators can answer your questions, provide information about treatment guidelines, help you find qualified doctors, and connect you with others in the chordoma community who have been through a similar journey.
+(And if chordoma has been part of your life for awhile, our Patient Navigators are here for you, too.)
+Request personalized support
+What to do next
+We're here to support you throughout your entire journey with chordoma, from diagnosis through survivorship. We provide a wealth of information to help you understand chordoma, make informed decisions, and get the best care possible.
+Read more in this step-by-step
+guide
+.
+Understand chordoma
+Learn about the disease including what it is, who is affected, risk factors, prognosis, and more.
+Learn more
+Plan your treatment
+Read about surgery, radiation, and other treatments for chordoma, and when those treatments should be considered.
+Learn more
+Find a specialist
+Search our Doctor Directory of nearly 150 chordoma specialists around the world to find an experienced care team.
+Learn more
+Improve side effects
+Address the quality of life issues that most frequently affect people during or after chordoma treatments.
+Learn more
+We believe cures are possible
+We envision a future in which everyone affected by chordoma is able to overcome it and maintain their quality of life. And because of the commitment of everyone in our community, we've made a lot of progress: We've turned what was once a neglected, lonely disease into one we can solve — together.
+Layered approach
+To achieve better treatments, outcomes, and care for chordoma patients, we invest in three mutually reinforcing programmatic areas encompassing research, patient services, and healthcare improvement.
+Learn more
+Strategic research
+We're advancing a comprehensive research roadmap that spans every stage of treatment development, and we run the only laboratory in the world 100% dedicated to accelerating cures for chordoma.
+Learn more
+Active participation
+The more people who contribute, the faster we'll be able to achieve our ambitious shared mission. Thankfully, there are numerous opportunities for everyone affected by this disease to help dramatically improve outcomes.
+Learn more
+The best community you never asked to be a part of
+Support from someone who knows what you're going through can make all the difference. Fortunately, the chordoma community is full of people eager to share their experiences, serve as a sounding board, and help you find your way.
+Peer Connect
+We can match you with a trained Peer Guide: a patient or caregiver who has been down a similar path.
+Sign up
+Online community
+You can join Chordoma Connections, our private online community, to exchange information, experiences, and encouragement.
+Join
+Events
+We offer virtual and in-person opportunities to learn from and connect with experts and other people affected by chordoma.
+Attend
+Serving the worldwide chordoma community
+Wherever you're located, we're here to support you throughout your entire journey with chordoma. Check out our world map to see our growing number of chordoma patient data, stories, and resources in your country.
+View and be counted on our map
+Support patient-driven chordoma research
+Every gift accelerates cures
+Together, we’ve already changed much of what it means to face chordoma. Yet the pressing need remains for better treatments. Today, our sights are set on treatments that don't just slow the disease down, but:
+Eliminate tumors,
+prevent recurrence,
+and preserve patients’ quality of life.
+With adequate investment, these new therapies are years, not decades away.
+Thank you for providing a real reason for hope for everyone facing chordoma.
+Ways to give
+Newsletter sign up
+Contact us
+Events
+Latest updates
+For researchers
+For healthcare professionals
+Invest in a better future
+Each and every contribution adds up to better options and outcomes for those facing chordoma.
+Give now
+© 2024 Chordoma Foundation. All Rights Reserved.
+Consent Preferences
+|
+Privacy policy
+|
+Terms of use
+The Chordoma Foundation is recognized by the IRS as a 501(c)(3) non-profit organization, and donations are tax-deductible to the full extent allowed by law. EIN 20-8423943.
+Site by
+Mostly Serious

@@ -1,0 +1,99 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '043dc90f-7367-43d2-8452-5e85eeeff34b'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'd186a93a-b58f-40e9-ab20-5c93f8224118'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1268'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Playing 4 Hope is a non-profit, charity orgainization that strives to inspire hope by connecting children who face the burden of illness or disability with colliegete athletes and their respective sporting events. '}
+{'property': 'og:title', 'content': 'Playing 4 Hope | Charity Organization | Columbia, MO'}
+{'property': 'og:description', 'content': 'Playing 4 Hope is a non-profit, charity orgainization that strives to inspire hope by connecting children who face the burden of illness or disability with colliegete athletes and their respective sporting events. '}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/15f8da_3fdfe44468674b079f4ba00ed28571c1~mv2_d_2401_1200_s_2.png/v1/fill/w_2401,h_1200,al_c/15f8da_3fdfe44468674b079f4ba00ed28571c1~mv2_d_2401_1200_s_2.png'}
+{'property': 'og:image:width', 'content': '2401'}
+{'property': 'og:image:height', 'content': '1200'}
+{'property': 'og:url', 'content': 'https://www.playing4hope.org'}
+{'property': 'og:site_name', 'content': 'playing-4-hope'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'keywords', 'content': 'sports, playing, hope, disability, illness, children, hospital, watchparty, wristband'}
+{'name': 'fb_admins_meta_tag', 'content': 'playingforhope'}
+{'name': 'google-site-verification', 'content': 'Nk9efku3ar6wqST88RF2wwZ_Qzt0GGzkZqk9lvPpaeQ'}
+{'property': 'fb:admins', 'content': 'playingforhope'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Playing 4 Hope | Charity Organization | Columbia, MO'}
+{'name': 'twitter:description', 'content': 'Playing 4 Hope is a non-profit, charity orgainization that strives to inspire hope by connecting children who face the burden of illness or disability with colliegete athletes and their respective sporting events. '}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/15f8da_3fdfe44468674b079f4ba00ed28571c1~mv2_d_2401_1200_s_2.png/v1/fill/w_2401,h_1200,al_c/15f8da_3fdfe44468674b079f4ba00ed28571c1~mv2_d_2401_1200_s_2.png'}
+
+Body Text:
+Playing 4 Hope | Charity Organization | Columbia, MO
+top of page
+Playing 4 Hope
+HOME
+ABOUT US
+MISSION STATEMENT
+OUR CAMPAIGNS
+OUR BOARD
+GET INVOLVED
+OUR SPONSORS
+CONTACT US
+FOR PATIENTS
+REFERRALS
+SUPPORT OUR CAUSE
+DONATE
+SPONSORSHIP
+GOLF TOURNAMENT
+THE DONNA JOSTE PAGE
+More
+Use tab to navigate through the menu items.
+Why "Hope"
+Hope is defined as a confident yet uncertain expectation of achieving a better future which, to that person, is realistically possible and personally significant. Hope is extremely important to a patients quality of life and sense of well-being. It helps them acknowledge their situation and cope with adversity. Our goal is to provide an
+outlet of hope
+to every patient.
+Support Our Cause
+Playing 4 Hope relies heavily on the help of our community. We ask that those individuals and businesses with values that align with our mission please consider supporting our organization. They can do so in various ways, including but not limited to: a sponsorship, a donation, volunteer work, or simply spreading our name and mission. We truly appreciate all of our donors and are continuing to find new ways to show our gratitude.
+​
+To learn more please visit the
+Get Involved
+,
+Sponsorship
+, a
+nd
+Don
+ate
+pages.
+The Wristband
+During every visit, both the child and the player are given a Playing 4 Hope
+wristband. The wristband is perhaps one of the most important parts of the visit as it symbolizes a special bond between the two. It is a constant reminder that the athlete has dedicated their game, and
+their fight
+, to the patient.
+The Tailgate
+Part of our mis
+sion is to provide children with the means to watch and experience sporting events in a fun and
+uplifting environment.
+Tailgates are how our organization brings such an environment to the patient. A portion of the proceeds we raise goes to providing food and games for every patient and family on the pediatric floor at the MU Women's and Children's Hospital.
+​
+To learn more please visit the
+Our Campaigns
+page.
+Players 4 Hope
+Thousands of children in Missouri do not have access to basic necessities such as adequate winter clothing and school supplies. We believe every child should have equal access to these needs and should know that they are not alone. This campaign provides such needs while fostering hope, encouragement, and inspiration in our communities’ underserved youth.
+​
+To learn more please visit the
+Our Campaigns
+page.
+#playing4hope
+© 2016 PLAYING FOR  HOPE, INC
+Proudly created with
+Wix.com
+CONTACT US
+Phone: 314-920-3213
+Email:
+info@playing4hope.org
+FIND US
+PO BOX 10156
+COLUMBIA, MO 65205
+bottom of page

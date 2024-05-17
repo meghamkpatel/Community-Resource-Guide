@@ -1,0 +1,209 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'At Schoolhouse of Wonder, children learn through our outdoor summer camps, field trips, school break and track out camps and leadership training.'}
+{'name': 'robots', 'content': 'follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Schoolhouse of Wonder | Outdoor Day Camps & Field Trips'}
+{'property': 'og:description', 'content': 'At Schoolhouse of Wonder, children learn through our outdoor summer camps, field trips, school break and track out camps and leadership training.'}
+{'property': 'og:url', 'content': 'https://schoolhouseofwonder.org/'}
+{'property': 'og:site_name', 'content': 'Schoolhouse of Wonder'}
+{'property': 'og:updated_time', 'content': '2024-05-02T12:14:04-05:00'}
+{'property': 'article:published_time', 'content': '2016-03-25T17:47:44-05:00'}
+{'property': 'article:modified_time', 'content': '2024-05-02T12:14:04-05:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Schoolhouse of Wonder | Outdoor Day Camps & Field Trips'}
+{'name': 'twitter:description', 'content': 'At Schoolhouse of Wonder, children learn through our outdoor summer camps, field trips, school break and track out camps and leadership training.'}
+{'name': 'twitter:creator', 'content': '@Admin'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Schoolhouse of Wonder'}
+{'name': 'twitter:label2', 'content': 'Time to read'}
+{'name': 'twitter:data2', 'content': 'Less than a minute'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'msapplication-config', 'content': '/wp-content/themes/sow/assets/favicon/browserconfig.xml'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'property': 'og:image', 'content': '/wp-content/themes/sow/assets/opengraph/og-image.jpg'}
+{'property': 'og:image:width', 'content': '279'}
+{'property': 'og:image:height', 'content': '279'}
+{'property': 'og:title', 'content': 'Schoolhouse of Wonder'}
+{'property': 'og:description', 'content': "Guided by Schoolhouse's core values, our team of professionals mentor children ages 3-17 to explore, learn, and grow through nature-based outdoor adventures."}
+{'property': 'og:url', 'content': 'https://SchoolhouseOfWonder.org'}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 6.7.9 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+
+Body Text:
+Schoolhouse of Wonder | Outdoor Day Camps & Field Trips
+Programs
+School Break & Track Out Camps
+Durham County
+Wake County
+Orange County
+Summer Camps
+Durham County
+Raleigh
+Chapel Hill
+Open Camps by Age
+Frequently Asked Questions
+Camps at a Glance
+Leadership Training
+Durham County
+Wake County
+Orange County
+Field Trips
+Durham County
+Why Schoolhouse?
+Mission & Values
+Our Difference
+Our Team
+Our Programs
+Our Partners
+Our Guarantee
+Recognition
+Parent Testimonials
+Teacher Testimonials
+Join Our Team
+Employment
+Internships
+Our Board
+Volunteering
+Learn About
+About Us
+Locations
+Program Policies
+Scholarships
+Discount Examples
+Blog
+Gift Certificates
+Donate
+Lend a Hand
+Camp Handbook
+COVID-19 Precautions & Policies
+Contact Us
+Donate
+|
+Register / My Account
+Programs
+School Break & Track Out Camps
+Durham County
+Wake County
+Orange County
+Frequently Asked Questions
+Camps at a Glance
+Summer Camps
+Durham County
+Wake County
+Orange County
+Open Camps by Age
+Leadership Training
+Durham County
+Wake County
+Orange County
+Field Trips
+Durham County
+Why Schoolhouse?
+Mission & Values
+Our Difference
+Our Team
+Our Programs
+Our Partners
+Our Guarantee
+Recognition
+Parent Testimonials
+Teacher Testimonials
+Join Our Team
+Employment
+Internships
+Our Board
+Volunteering
+Learn About
+About Us
+Locations
+Program Policies
+Scholarships
+COVID-19 Precautions & Policies
+Our Strategic Plan
+Blog
+Gift Certificates
+Donate
+Lend a Hand
+Camp Handbook
+Contact Us
+(919) 477-2116
+Register Here
+Register Today
+2024 SUMMER CAMPS
+Discover our
+Our Camps at a Glance
+A place where kids can
+BE THEMSELVES
+Our Passion:
+Creating kind, curious, confident kids
+REGISTRATION FOR
+2024 SUMMER CAMPS
+IS OPEN!
+Wake Camps
+Durham Camps
+Orange Camps
+Our Guarantee is Simple
+We will send your kids home
+dirty, tired, and happy.
+Every single day.
+Learn More
+Photo Galleries
+Schoolhouse Adventures
+View Gallery
+Field Trips Are Back!
+View Gallery
+View All Photo Galleries
+Our
+Blog
+2024 Camp and CIT Orientations
+Join us to learn more about what a camp day at Schoolhouse will be for your camper or CIT.
+Read More »
+All Blog Posts
+Upcoming
+Programs
+Summer Camps with Openings
+We know it isn't always easy to find which camps still have open spots, so we've made this cheat sheet to help! Registrations are open, so there is a chance a camp on this list may no longer have spots by the time you go to register. We'll work to keep this as updated as we can!
+Read More »
+See all Upcoming Programs
+Testimonials
+Linda, Orange Parent
+The camp was well run. The counselors were very friendly and showed openly that they enjoyed their time with the kids. The variety of activities was great, as well as the openness of unstructured time for just play. The best Vitamin "N"!
+View All Testimonials
+Mailing Address
+(not a physical office):
+3520 Kangaroo Drive #61777
+Durham, NC 27715
+Camp & Field Trip Locations
+(919) 477-2116
+schoolhouse@schoolhouseofwonder.org
+join our
+NEWSLETTER
+Join our email list and be the first to know about camp registration, new programs, coupons, expert advice, and fun tidbits.
+First Name
+(Required)
+Last Name
+(Required)
+Email
+(Required)
+CAPTCHA
+DONATE
+and change a
+CHILD’S LIFE!
+Let’s work together to make camp at Schoolhouse an equal opportunity life-changer for any child who wants to participate.
+Donations
+are 100%
+tax-deductible!
+Make a Donation
+Our Guarantee
+Terms of Use & Privacy Policy
+Sitemap
+Form 990
+Copyright &copy 2024 Schoolhouse of Wonder
+Schoolhouse of Wonder is an IRS designated 501(c)3 non-profit corporation. Our Federal Tax ID number is 56-1670472.
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.

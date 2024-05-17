@@ -1,0 +1,121 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1.0'}
+{'name': 'keywords'}
+{'name': 'description', 'content': 'ISA'}
+{'property': 'og:title', 'content': 'Automation Standards Compliance Institute (ASCI) Additional Information'}
+{'property': 'og:description', 'content': 'ISA'}
+{'property': 'og:type', 'content': 'BasicPage'}
+{'property': 'og:site_name', 'content': 'isa.org'}
+{'property': 'og:url', 'content': 'https://www.isa.org/standards-and-publications/isa-standards/isa-standards-committees/automation-standards-compliance-institute-addition'}
+
+Body Text:
+Automation Standards Compliance Institute (ASCI) Additional Information
+Join
+Renew
+Connect
+Blogs
+InTech
+ISAGCA
+Logo Merchandise
+Career Center
+Login
+Shop
+Close
+Standards
+Standards
+List of All ISA Standards by Topic
+Standards Committees
+Committee Tools and Guidelines
+Standards News
+View ISA Standards: A Member Benefit
+ISA/IEC 62443 Series of Standards
+Certification
+CAP
+CCST
+Certificate Programs
+Credential Directory
+Training
+Courses by Topic
+Course Formats
+Custom Training Solutions
+Training Partners
+Become an Instructor
+Access Online Training
+List of Training Events
+ISA Business Academy
+Membership
+Membership
+Geographic Sections
+Technical Divisions
+Young Professionals
+Students
+Recognition
+Member Source
+ISA Mentor
+Events
+Events & Conferences
+Sponsorship
+Automation Summit & Expo
+OT Cybersecurity Summit
+Publications
+Pub Hub
+Publications
+Books
+InTech
+Position Papers and White Papers
+Automation.com
+Directory of Automation
+Transactions
+Software
+News
+Press Room
+Media Resources
+Podomation Podcast
+About
+History of ISA
+Leadership
+Strategic Plan
+Technical Content Topics
+What is Automation
+Governing Documents
+Media Resources
+Get Involved
+Contact Us
+Cancel
+Search Site
+ISA Standards and Publications
+ISA Standards
+ISA Standards Committees
+Automation Standards Compliance Institute (ASCI) Additional Information
+Automation Standards Compliance Institute (ASCI) Additional Information
+The Automation Standards Compliance Institute (ASCI) was established by ISA in 2006 as a separately incorporated non-profit organizational entity to facilitate programs that assess automation-related standards compliance. The institute's charter includes a wide range of standards compliance assessments including software or hardware products, implementation methods, solutions, companies and individuals.
+ASCI provides a vital link between the standards ISA develops and the implementation of those standards. ASCI also offers the opportunity to partner with other organizations and assess conformity of their standards. A feasibility study, market study, and legal assessment performed in 2005 and 2006 indicated that a standards conformity program was needed to provide a useful link between automation standards and the products, services, processes and systems that use them. The studies revealed that automation users are increasingly recognizing the value of adopting true industry standards and that the next step in this evolution was to ensure that the solutions selected in fact adhere to these standards. ASCI is chartered to educate users and help suppliers transform standards into real interoperable products.
+ASCI is governed by a Board of Directors. Within ASCI, groups are formed to address specific interest areas for standards conformance. Each such Interest Area Group establishes its own membership and governance structure.
+Articles of Incorporation
+Bylaws
+International Society of Automation
+PO Box 12277
+Research Triangle Park,
+NC
+27709
+Email:
+info@isa.org
+Phone:
++1 919-549-8411
+Fax: +1 919-549-8288
+Contact Us
+About
+Privacy Policy
+Terms & Conditions
+Do Not Sell My Info - CA Residents Only
+Site Map
+© 2024 International Society of Automation, its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+Facebook
+TikTok
+Twitter
+YouTube
+LinkedIn
+Instagram
+Pinterest

@@ -1,0 +1,284 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'GHIAA'}
+{'property': 'og:description', 'content': 'The Global Health Innovation Alliance Accelerator'}
+{'property': 'og:url', 'content': 'https://ghiaa.org'}
+{'property': 'og:site_name', 'content': 'GHIAA'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'Elementor 3.21.3; features: e_optimized_assets_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://ghiaa.org/wp-content/uploads/2020/07/cropped-puzzle-3-270x270.png'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:site_name', 'content': 'GHIAA'}
+{'property': 'og:title', 'content': 'Home'}
+{'property': 'og:url', 'content': 'https://ghiaa.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'The Global Healthcare Innovation Alliance Accelerator (GHIAA)\t\t\n\t\t\tPolicy to Impact\t\t\n\t\t\tGHIAA creates resources, curates information, collaborates with stakeholders and provides consulting support related to policies and agreement provisions that aim to achieve equitable, global access to medical p'}
+{'property': 'og:image', 'content': 'https://ghiaa.org/wp-content/uploads/2020/08/Artboard-10.png'}
+{'property': 'og:image:url', 'content': 'https://ghiaa.org/wp-content/uploads/2020/08/Artboard-10.png'}
+{'property': 'og:image:secure_url', 'content': 'https://ghiaa.org/wp-content/uploads/2020/08/Artboard-10.png'}
+{'name': 'twitter:title', 'content': 'Home'}
+{'name': 'twitter:url', 'content': 'https://ghiaa.org'}
+{'name': 'twitter:description', 'content': 'The Global Healthcare Innovation Alliance Accelerator (GHIAA)\t\t\n\t\t\tPolicy to Impact\t\t\n\t\t\tGHIAA creates resources, curates information, collaborates with stakeholders and provides consulting support related to policies and agreement provisions that aim to achieve equitable, global access to medical p'}
+{'name': 'twitter:image', 'content': 'https://ghiaa.org/wp-content/uploads/2020/08/Artboard-10.png'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:site', 'content': '@GHIAAteam'}
+
+Body Text:
+GHIAA – The Global Health Innovation Alliance Accelerator
+Skip to content
+Envelope
+Linkedin-in
+Twitter
+Home
+Our Work
+Consulting
+MAPGuide
+Vaccine Manufacturing
+About
+About GHIAA
+Team
+News
+GHIAA News
+Newsletter
+Contact
+search
+Menu
+Home
+Our Work
+Consulting
+MAPGuide
+Vaccine Manufacturing
+About
+About GHIAA
+Team
+News
+GHIAA News
+Newsletter
+Contact
+search
+Search for:
+search
+The Global Healthcare Innovation Alliance Accelerator (GHIAA)
+Policy to Impact
+GHIAA creates resources, curates information, collaborates with stakeholders and provides consulting support related to policies and agreement provisions that aim to achieve equitable, global access to medical products.
+Our Work
+MAPGuide
+Ⓡ
+Platform
+Agreement Provisions, Analysis, Equitable Access Resources
+MAPGuide
+Ⓡ
+Platform
+The MAPGuide
+Ⓡ
+platform is a tool for exploring analysis of global health agreements, particularly those that seek to ensure equitable access to medical products. 
+
+Resources on the platform include our
+Provision Database
+,
+Equitable Access Toolkit
+, and
+Equitable Access Glossary
+.
+Access MAPGuide
+Ⓡ
+Platform
+Consulting Services
+Expert advice for access policies, provisions and plans
+Consulting Services
+Our team has substantial subject matter expertise in negotiating global health agreements, and has worked extensively with organizations seeking to increase access to medical products. We provide practical, pragmatic advice for organizations seeking to navigate the complexities of  access policies and agreement provisions.
+Find out more
+Strategic Insights
+For new vaccine manufacturing
+initiatives
+Vaccine Manufacturing
+GHIAA has developed and contributed to a number of publications and events on the topic of equitable access to COVID-19 vaccines. In particular, we have focused on the role of agreement terms in supporting increased and accelerated access for underserved populations, both for COVID-19 vaccines and for future vaccine needs.
+Read more
+MAPGuide
+Ⓡ
+Platform
+Agreement Provisions, Analysis, Equitable Access Resources
+MAPGuide
+Ⓡ
+Platform
+The MAPGuide
+Ⓡ
+platform is a tool for exploring analysis of global health agreements, particularly those that seek to ensure equitable access to medical products. 
+
+Resources on the platform include our
+Provision Database
+,
+Equitable Access Toolkit
+, and
+Equitable Access Glossary
+.
+Access MAPGuide
+Ⓡ
+Platform
+Strategic Insights
+For new vaccine manufacturing
+initiatives
+Vaccine Manufacturing
+GHIAA has developed and contributed to a number of publications and events on the topic of equitable access to COVID-19 vaccines. In particular, we have focused on the role of agreement terms in supporting increased and accelerated access for underserved populations, both for COVID-19 vaccines and for future vaccine needs.
+Read more
+Consulting Services
+Expert advice for access policies, provisions and plans
+Consulting Services
+Our team has substantial subject matter expertise in negotiating global health agreements, and has worked extensively with organizations seeking to increase access to medical products. We provide practical, pragmatic advice for organizations seeking to navigate the complexities of  access policies and agreement provisions.
+Find out more
+Sign up to our Newsletter
+Latest News
+April 10, 2024
+Jule to Speak at Conference on Resolving Vaccine Equity
+Julie is an invited speaker at the British Academy Conference on Resolving Vaccine Inequity. Hosted at the SOAS University of London from April 11-12, this year’s conference theme is Resolving Global Vaccine Inequality: Innovation, Capabilities and Governance. Julie will be speaking during the “Vaccine Nationalism, Vaccine Inequity, Production and IPR” session starting at 1:30pm BST on April 11 and will specifically address intellectual property rights, pharma product licensing, and global public health security.
+Register and learn more.
+March 27, 2024
+Ongoing Review of the Pandemic Accord
+GHIAA has published comprehensive comments and recommendations regarding the most recent negotiating texts for the Pandemic Agreement.
+Read Our Commentary Here
+March 6, 2024
+GHIAA to Participate in Salzburg Global Seminar
+Julie will be participating in the Salzburg Global Seminar’s event, “Better Preparedness for the Next Pandemic: Developing Vaccine Access Models with Low- and Middle- Income Countries” from March 11- 16. Targeted outcomes of the event include establishing key principles in the design of a new mechanism for global counter-measures, which could be brought forward to international decision takers, and
+providing a narrative record to capture practical insights that informed this design of next-generation multilateral procurement mechanisms for pandemics and outbreaks.
+Learn more about the program here.
+November 27, 2023
+GHIAA Releases the Equitable Access Glossary
+GHIAA is pleased to share The Equitable Access Glossary, a new tool designed to help a variety of stakeholders understand commonly used terms in the  development, negotiation, and implementation of policies and agreements that aim to support equitable access to medical products.
+Access the Glossary Here.
+The development of the MAPGuide
+Ⓡ
+platform and Equitable Access Toolkit was supported by the Wellcome Trust (grant numbers 219632/Z/19/Z, 221648/Z/20/Z and 225262/Z/22/Z).
+If you are interested in providing funding or an in-kind contribution to support GHIAA’s continuing equitable access advocacy work and resource development activities, please contact us using the form below.
+Global Healthcare Innovation Alliance Accelerator is a 501(c)(3)
+non-profit recognized by the IRS.
+Contact Us
+Send
+Get In Touch
+comms@ghiaa.org
+Tel: 919-419-0300
+919-906-4818
+Fax: 919-419-8833
+Attn: Executive Director
+GHIAA
+PO Box 14713
+Research Triangle Park, NC 27709, USA
+Browse
+Home
+MAPGuide
+About GHIAA
+Team
+News
+Contact Us
+Send
+Get In Touch
+comms@ghiaa.org
+Tel: 919-419-0300
+919-906-4818
+Fax: 919-419-8833
+Attn: Executive Director
+GHIAA
+PO Box 14713
+Research Triangle Park, NC 27709, USA
+Browse
+Home
+MAPGuide
+About GHIAA
+Team
+News
+Twitter
+Linkedin-in
+Envelope
+comms@ghiaa.org
+Privacy Policy
+Privacy Policy
+Menu
+Privacy Policy
+© 2024 Global Healthcare Innovation Alliance Accelerator. All Rights Reserved
+Sign Up to Our Newsletter
+Receive updates about GHIAA’s latest tools, resources and news.
+I consent to receiving email updates from GHIAA and have read and agree to the
+Privacy Policy
+and
+Terms of Service
+.
+.
+Submit
+Agreement Type
+Any Agreement Types
+Contract Manufacturing
+License
+Other
+R&D Collaboration
+R&D Funding
+Supply/Purchase
+Technology Transfer
+Select Partner Type
+Any Partner types
+Academic institution
+Funder
+Government
+Industry
+Multilateral organization
+Non-profit research organization
+Product development partnership
+Select Development Stage
+Any Develoment stages
+Discovery/Concept
+Preclinical
+Early clinical (through Phase 2)
+Late clinical (Phase 3)
+Commercialization
+Field Testing
+Select Technology
+Any Technologies
+Device
+Diagnostic
+Drug
+Vaccine
+Select Issue or Sub-issues
++
+Equitable Access
+All Equitable Access
+Donation
+Ensuring continuity
+Access plans & principles
+Preparedness & response
+Affordable pricing
+Territory access commitments
++
+Business model
+All Business model
+Benefit sharing
+Regulatory strategy
+Governance
+Payment Structures
+Product supply
++
+Protecting & sharing information
+All Protecting & sharing information
+Confidentiality
+Information sharing
+Publication of Results
+Technology transfer
++
+Intellectual Property
+All Intellectual Property
+License Grants
+Ownership of IP
+Protection of IP
++
+Liability
+All Liability
+Indemnification & liability
+Insurance
+Representations & Warranties
++
+Term & termination
+All Term & termination
+Effects of termination
+Term of agreement
+Termination & withdrawal

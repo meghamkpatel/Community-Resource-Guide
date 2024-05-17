@@ -1,0 +1,713 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'ResourceLoaderDynamicStyles', 'content': ''}
+{'name': 'generator', 'content': 'MediaWiki 1.43.0-wmf.5'}
+{'name': 'referrer', 'content': 'origin'}
+{'name': 'referrer', 'content': 'origin-when-cross-origin'}
+{'name': 'robots', 'content': 'max-image-preview:standard'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'property': 'og:image', 'content': 'https://upload.wikimedia.org/wikipedia/commons/1/13/Dura_Europos_fresco_Moses_from_river.jpg'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '747'}
+{'property': 'og:image', 'content': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dura_Europos_fresco_Moses_from_river.jpg/800px-Dura_Europos_fresco_Moses_from_river.jpg'}
+{'property': 'og:image:width', 'content': '800'}
+{'property': 'og:image:height', 'content': '498'}
+{'property': 'og:image', 'content': 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Dura_Europos_fresco_Moses_from_river.jpg/640px-Dura_Europos_fresco_Moses_from_river.jpg'}
+{'property': 'og:image:width', 'content': '640'}
+{'property': 'og:image:height', 'content': '398'}
+{'name': 'viewport', 'content': 'width=1000'}
+{'property': 'og:title', 'content': "Pharaoh's daughter (Exodus) - Wikipedia"}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'mw:PageProp/toc'}
+
+Body Text:
+Pharaoh's daughter (Exodus) - Wikipedia
+Jump to content
+Main menu
+Main menu
+move to sidebar
+hide
+Navigation
+Main page
+Contents
+Current events
+Random article
+About Wikipedia
+Contact us
+Donate
+Contribute
+Help
+Learn to edit
+Community portal
+Recent changes
+Upload file
+Search
+Search
+Create account
+Log in
+Personal tools
+Create account
+Log in
+Pages for logged out editors
+learn more
+Contributions
+Talk
+Contents
+move to sidebar
+hide
+(Top)
+1
+Her name
+2
+In Judaism
+3
+In Islam
+4
+Art and culture
+5
+Gallery
+6
+See also
+7
+References
+8
+Bibliography
+Toggle the table of contents
+Pharaoh's daughter (Exodus)
+18 languages
+العربية
+বাংলা
+Deutsch
+Español
+فارسی
+Français
+Հայերեն
+Ido
+Bahasa Indonesia
+Italiano
+עברית
+Nederlands
+Oʻzbekcha / ўзбекча
+Polski
+Русский
+ไทย
+Українська
+اردو
+Edit links
+Article
+Talk
+English
+Read
+Edit
+View history
+Tools
+Tools
+move to sidebar
+hide
+Actions
+Read
+Edit
+View history
+General
+What links here
+Related changes
+Upload file
+Special pages
+Permanent link
+Page information
+Cite this page
+Get shortened URL
+Download QR code
+Wikidata item
+Print/export
+Download as PDF
+Printable version
+In other projects
+Wikimedia Commons
+From Wikipedia, the free encyclopedia
+Adoptive mother of the prophet Moses
+For the wife of
+Solomon
+, also referred to as Pharaoh's daughter, see
+Pharaoh's daughter (wife of Solomon)
+.
+Fictional character
+Pharaoh's daughter
+Finding of Moses
+in the
+Dura-Europos synagogue
+, c. AD 244
+First appearance
+Book of Genesis
+In-universe information
+Alias
+Thermouthis (birth name, Judaism)
+Bithiah (adopted name, Judaism)
+Merris (Christianity)
+Merrhoe (Christianity)
+Spouse
+Mered
+Children
+Moses
+(adoptive)
+Religion
+Ancient Egyptian religion
+(formerly)
+Yahwism
+(convert)
+Nationality
+Egyptian
+The
+Pharaoh's daughter
+(
+Hebrew
+:
+בַּת־פַּרְעֹה
+,
+lit.
+'daughter of
+Pharaoh
+') in the story of the
+finding of Moses
+in the biblical
+Book of Exodus
+is an important, albeit minor, figure in
+Abrahamic religions
+. Though some variations of her story exist, the general consensus among
+Jews
+,
+Christians
+, and
+Muslims
+is that she is the adoptive mother of the prophet
+Moses
+.
+Muslims
+identify her with
+Asiya
+, the
+Great Royal Wife
+of the pharaoh. In either version, she saved Moses from certain death from both the
+Nile river
+and from the
+Pharaoh
+. As she ensured the well-being of Moses throughout his early life, she played an essential role in lifting the Hebrew slaves out of bondage in Egypt, their journey to the
+Promised Land
+, and the establishment of the
+Ten Commandments
+.
+Her name
+[
+edit
+]
+The
+Book of Exodus
+(Exodus 2:5) does not give a name to Pharaoh's daughter, or to her father; she is referred to in Hebrew as simply the
+Bat-Paroh
+[1]
+(
+Hebrew
+:
+בת־פרעה
+), a Hebrew phrase that literally translates to "daughter of Pharaoh." The
+Book of Jubilees
+(Jubilees 47:5) and
+Josephus
+both name her as
+Thermouthis
+(
+Greek
+:
+Θερμουθις
+), also transliterated as
+Tharmuth
+and
+Thermutis
+, the Greek name of
+Renenutet
+, the Egyptian snake deity.
+[2]
+[3]
+[4]
+[5]
+Meanwhile, some within Jewish tradition have tried to identify her with a "daughter of Pharaoh" in
+1 Chronicles
+4:17 named Bithiah.
+[6]
+An example of this is found in
+Leviticus Rabbah
+(Leviticus Rabbah 1:3), which refers to her as
+Bit-Yah
+(
+Hebrew
+:
+בתיה
+,
+lit.
+'daughter of
+Yahweh
+'), also transliterated as
+Batyah
+and
+Bithiah
+, and it is written that she is given the name for her adoption of Moses, that because she had made Moses her son, Yahweh would make her his daughter.
+[7]
+Also in the
+Books of Chronicles
+(1 Chronicles 4:18), she is called
+ha-yehudiyyah
+(
+Hebrew
+:
+הַיְהֻדִיָּ֗ה
+,
+lit.
+'the Jewess'), which some English translations of the Bible treat as a
+given name
+,
+Jehudijah
+(
+Hebrew
+:
+יהודיה
+,
+romanized
+:
+yehudiyyah
+,
+lit.
+'Jewess'), notably the
+King James Version
+, but the word is actually an
+appelative
+, there to indicate that Pharaoh's daughter was no longer a
+pagan
+.
+[8]
+[9]
+[10]
+However, some have criticized the idea that the "daughter of Pharaoh" in 1 Chronicles named Bithiah is the same as the one who adopted Moses since there is no textual indication that this is the case and the chronology may not be consistent with that conclusion.
+[6]
+In Judaism
+[
+edit
+]
+Now the daughter of Pharaoh came down to bathe at the river, and her maidens walked beside the river; she saw the basket among the reeds and sent her maid to fetch it. When she opened it she saw the child; and lo, the babe was crying. She took pity on him and said, "This is one of the Hebrews' children." Then
+his sister
+said to Pharaoh's daughter, "Shall I go and call you a nurse from the Hebrew women to nurse the child for you?" And Pharaoh's daughter said to her, "Go." So the girl went and called the
+child's mother
+. And Pharaoh's daughter said to her, "Take this child away, and nurse him for me, and I will give you your wages." So the woman took the child and nursed him. And the child grew, and she brought him to Pharaoh's daughter, and he became her son; and she named him Moses, for she said, "Because I drew him out of the water."
+—
+RSV, Exodus 2:5–10
+In the Jewish narrative, Pharaoh's daughter first appears in the Book of Exodus, in Exodus 2:5–10. The passage describes her discovery of the Hebrew child, Moses, in the
+rushes
+of the Nile River and her willful defiance of her father's orders that all male Hebrew children be drowned in the "Yeor" (
+Hebrew
+:
+יְאוֹר
+) (Nile), instead taking the child, whom she knows to be a Hebrew, and raising him as her own son. The
+Talmud
+and the
+Midrash Vayosha
+provide some additional backstory to the event, saying that she had visited the Nile that morning not to bathe for the purpose of hygiene but for
+ritual purification
+, treating the river as if it were a
+mikveh
+, as she had grown tired of people's
+idolatrous
+ways, and that she first sought to nurse Moses herself but he would not take her
+milk
+and so, she called for a Hebrew
+wet nurse
+, who so happened to be Moses' biological mother,
+Jochebed
+.
+[1]
+[2]
+[3]
+[4]
+Rabbinic literature
+tells a significantly different take on the events that day, portraying Pharaoh's daughter as having suffered from a skin disease
+[5]
+(possibly leprosy
+[11]
+), the pain of which only the cold waters of the Nile could relieve, and that these
+lesions
+healed when she found Moses. It also describes an encounter with the archangel
+Gabriel
+, who kills two of her handmaidens for trying to dissuade her from rescuing Moses.
+[5]
+After Moses is weaned, Pharaoh's daughter gives him his name,
+Moshé
+(
+Hebrew
+:
+מֹשֶה
+) purportedly taken from the word
+māšāh
+(
+Hebrew
+:
+מָשָׁה
+,
+lit.
+'to draw from water'), because she drew him from the water, but some modern scholars disagree with the Biblical etymology of the name, believing it to have been based on the Egyptian root m-s, meaning "son" or "born of," a popular element in Egyptian names (e. g.
+Ramesses
+.
+Thutmose
+) used in conjunction with a namesake deity.
+[12]
+[13]
+According to Jewish tradition, in her later years Pharaoh's daughter devotes herself to Moses, and to Yahweh; she celebrates the first
+Passover Seder
+with Moses in the slaves' quarters and for that, her firstborn is the only Egyptian to survive the final of the
+Ten Plagues of Egypt
+, and leaves Egypt with him for the
+Promised Land
+. Citing a passage in the Books of Chronicles (1 Chronicles 4:17-18), some have maintained that she is the one who is said to have married a member of the
+Tribe of Judah
+,
+Mered
+, and to have had children with him. Additionally, she is referred to there as a Jewess, indicating that she had accepted Yahweh as her own god.
+[1]
+[2]
+Furthermore, the Jewish rabbis claim that, in the
+Book of Proverbs
+(Proverbs 31:15), she is praised in
+Woman of Valor
+. Further, the Midrash teaches that because of her devotion to Yahweh and her adoption of Moses, she was one of those who
+entered heaven alive
+.
+[14]
+In Islam
+[
+edit
+]
+Asiya and her servants find baby Moses in the Nile. (From the Persian
+Jami' al-tawarikh
+).
+Main article:
+Asiya
+Pharaoh's daughter name is not mentioned in the Quran. But was mentioned in other sources such as the Hadith.
+In the Hadith traced by Ibn ‘Abbas, he said: The Messenger of Allah ( Mohammed), peace and blessings be upon him, said: “On the night I was taken on the Isra (Night Journey), a pleasant scent came to me. I said: ‘O Gabriel, what is this pleasant scent?’ He replied: ‘This is the scent of the hairdresser, the daughter of Pharaoh, and her children.’ He continued, ‘What is her story?’ He said: ‘While she was combing Pharaoh’s daughter’s hair one day, the comb fell from her hand, and she said: “In the name of Allah.” Pharaoh’s daughter said: “My father?” She replied: “No, but my Lord and your father’s Lord is Allah.” She said: “Shall I inform him of this?” She replied: “Yes.” So, she informed him, and he called her and said: “O so-and-so, do you have a lord other than me?” She said: “Yes, my Lord and your Lord is Allah.” He then ordered a cow made of brass to be heated up, and then commanded that she and her children be thrown into it. She said to him, ‘I have one request to you,’ he said, ‘What is your need?’ She said: ‘I would like you to gather my bones and the bones of my children in one cloth and bury us.’ He replied, ‘That is your right upon us.’ He ordered her children to be thrown in front of her one by one until it was the turn of a suckling child she had. It seemed she hesitated because of him, he said: ‘O mother, plunge in, for the punishment of this world is lesser than the punishment of the Hereafter.’ So, she plunged in.”
+This narration is found in Imam Ahmad’s “Musnad” (1/309), Al-Tabarani (12280).
+In the Quran, Pharaoh's wife does not draw Moses from river Nile, her servants do, and Pharaoh, having learned of the boy's existence, seeks to kill him but she intervenes and Pharaoh changes his mind, allowing the boy to live. Mirroring the Judeo-Christian story,
+Jochebed
+is called to Pharaoh's palace to act as a wet nurse for him. Another wife of another pharaoh of exodus named Asiya professes Moses' belief in God (Allah).
+[15]
+[
+page needed
+]
+[16]
+[
+better source needed
+]
+Art and culture
+[
+edit
+]
+Pharaoh's daughter is often included in Exodus-related art and fiction. Several artworks portray the
+finding of Moses
+.
+In
+George Gershwin
+'s 1935 opera
+Porgy and Bess
+, the song
+It Ain't Necessarily So
+mentions Pharaoh's daughter finding baby Moses.
+[17]
+The Moses Chronicles
+(2015-), a novel-trilogy by
+H. B. Moore
+, includes Pharaoh's daughter. Parts of the story are written from her perspective.
+[18]
+Drama-films depicting her include
+The Ten Commandments
+(1956),
+[19]
+the animated musical
+The Prince of Egypt
+(1998)
+[20]
+and
+Exodus: Gods and Kings
+(2014).
+[21]
+TV-dramas include
+Moses
+(1995).
+[22]
+Gallery
+[
+edit
+]
+Main article:
+Finding of Moses
+Pharaoh's daughter
+Place where the pharaoh's daughter saved
+Moses
+from the
+Nile
+river, 1698 sketch made by Dutch traveller
+Cornelis de Bruijn
+on his journey through Egypt. The local inhabitants pointed out this spot.
+12th century
+Moses Saved from the Waters
+(c. 1556),
+Bernaert de Rijckere
+Moses Saved from the Waters
+(1633),
+Orazio Gentileschi
+The Finding of Moses
+(17th century),
+Andrea Celesti
+The Finding of Moses
+(1740),
+Giovanni Battista Tiepolo
+The Finding of Moses
+(1862),
+Frederick Goodall
+Moses Saved from the Waters
+(1894), Jacques Clement Wagrez
+Pharaoh's Daughter Receives the Mother of Moses
+(c. 1900),
+James Tissot
+Edwin Long
+, 1886
+Bithiah finds the infant Moses in
+The Ten Commandments
+, 1956
+See also
+[
+edit
+]
+Entering heaven alive
+Moses in rabbinic literature
+List of names for the Biblical nameless
+References
+[
+edit
+]
+^
+a
+b
+c
+"The Story of Batyah (Bithiah) – A Transformed Identity"
+.
+www.chabad.org
+. Retrieved
+2019-09-04
+.
+^
+a
+b
+c
+Flusser, David; Amorai-Stark, Shua (1993). "The Goddess Thermuthis, Moses, and Artapanus".
+Jewish Studies Quarterly
+.
+1
+(3): 217–33.
+JSTOR
+40753100
+.
+^
+a
+b
+Josephus,
+Antiquities of the Jews 9,5
+^
+a
+b
+"Thermuthis – History's Women"
+. Retrieved
+2019-09-11
+.
+^
+a
+b
+c
+"Renenutet | Ancient Egypt Online"
+. Retrieved
+2019-09-11
+.
+^
+a
+b
+Scolnic, Benjamin Edidin
+. 2005.
+If the Egyptians Drowned in the Red Sea where are Pharaoh's Chariots?: Exploring the Historical Dimension of the Bible
+.
+University Press of America
+. p. 82.
+^
+"Daughter of Pharaoh: Midrash and Aggadah | Jewish Women's Archive"
+.
+jwa.org
+. Retrieved
+2019-09-04
+.
+^
+"BITHIAH"
+.
+Jewish Encyclopedia
+. Retrieved
+2019-09-05
+.
+^
+"Jehudijah Definition and Meaning – Bible Dictionary"
+.
+Bible Study Tools
+. Retrieved
+2019-09-11
+.
+^
+Kadari, Tamar. 
+ (1999)
+The Daughter of Pharaoh Is Bithiah
+. Jewish Women's Archive
+^
+Kadari, Tamar.
+"Daughter of Pharaoh: Midrash and Aggadah"
+. The Encyclopedia of Jewish Women
+. Retrieved
+2021-05-09
+.
+^
+"Was Moses' Name Egyptian?"
+.
+www.bibleodyssey.org
+. Retrieved
+2020-04-01
+.
+^
+"Strong's Hebrew: 4871. מָשָׁה (mashah) – to draw"
+.
+biblehub.com
+. Retrieved
+2019-09-11
+.
+^
+Segal, Rabbi Arthur (2010-08-11).
+"RABBI ARTHUR SEGAL: JEWISH RENEWAL: Jabez the Yahudahite"
+.
+Rabbi Arthur Segal
+. Retrieved
+2019-10-10
+.
+^
+Shahada Sharelle Abdul Haqq (2012).
+Noble Women of Faith: Asiya, Mary, Khadija, Fatima
+(illustrated ed.). Tughra Books.
+ISBN
+978-1597842686
+.
+^
+Commentary on Hexameron
+MPG 18.785
+^
+Seven Against Thebes
+. Oxford University Press. 1991. p. 111.
+ISBN
+9780195070071
+.
+^
+"Book review: 'Bondage' is an engaging first book in Moses Chronicles series"
+.
+Deseret News
+. Aug 1, 2015
+. Retrieved
+7 September
+2019
+.
+^
+Orrison, Katherine (30 March 1999).
+Written in Stone: Making Cecil B. DeMille's Epic The Ten Commandments
+. Vestal Press. p. 51.
+ISBN
+978-1-4617-3481-9
+.
+^
+Reinhartz, Adele (2013).
+Bible and Cinema: Fifty Key Films
+. Routledge. p. 207.
+ISBN
+978-0-415-67720-2
+.
+^
+Macnab, Geoffrey (1 December 2014).
+"Exodus: Gods And Kings - film review: Blood and big sets fail to make"
+.
+The Independent
+. Retrieved
+27 May
+2022
+.
+^
+Malena, Sarah; Miano, David (2007).
+Milk and Honey: Essays on Ancient Israel and the Bible in Appreciation of the Judaic Studies Program at the University of California, San Diego
+. Eisenbrauns. pp. 105–106.
+ISBN
+978-1-57506-127-6
+.
+Bibliography
+[
+edit
+]
+Encyclopaedia Judaica
+, 1972, Keter Publishing House, Jerusalem, Israel.
+Jewish Encyclopedia.com
+Bithiah. (n.d.). Hitchcock's Bible Names Dictionary. Retrieved January 28, 2008, from Dictionary.com website:
+[1]
+Authority control databases
+: National
+Israel
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Pharaoh%27s_daughter_(Exodus)&oldid=1224102720
+"
+Categories
+:
+Pharaoh's daughter (Exodus)
+Converts to Judaism from paganism
+Egypt in the Hebrew Bible
+Moses
+Book of Exodus people
+Women in the Hebrew Bible
+Entering heaven alive
+Nile
+Water and religion
+Unnamed people of the Bible
+Book of Jubilees
+Hidden categories:
+Articles with short description
+Short description matches Wikidata
+Short description is different from Wikidata
+Articles containing Hebrew-language text
+Articles containing Greek-language text
+Wikipedia articles needing page number citations from August 2023
+All articles lacking reliable references
+Articles lacking reliable references from August 2023
+Articles with J9U identifiers
+This page was last edited on 16 May 2024, at 07:52
+(UTC)
+.
+Text is available under the
+Creative Commons Attribution-ShareAlike License 4.0
+;
+additional terms may apply. By using this site, you agree to the
+Terms of Use
+and
+Privacy Policy
+. Wikipedia® is a registered trademark of the
+Wikimedia Foundation, Inc.
+, a non-profit organization.
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Code of Conduct
+Developers
+Statistics
+Cookie statement
+Mobile view
+Toggle limited content width

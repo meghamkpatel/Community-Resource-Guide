@@ -1,0 +1,64 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '459d6a14-4764-4aae-a3f7-da2f3db1d1e8'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'f0fb389a-f2b4-4acb-8f79-a06ed5caf5db'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '412'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Flourishing Inc is a boutique film/tV production distribution and sales agency.'}
+{'property': 'og:title', 'content': 'Flourishing Inc | Film TV Production'}
+{'property': 'og:description', 'content': 'Expanding Access to Black, Diverse, Female-Driven Content Originating from the U.S., the U.K., Africa, and Beyond'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/724e2d_ab8bf920fa714d8b9e58bce23d2b3718~mv2.png/v1/fill/w_2500,h_1305,al_c/724e2d_ab8bf920fa714d8b9e58bce23d2b3718~mv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1305'}
+{'property': 'og:url', 'content': 'https://www.flourishingfilms.com'}
+{'property': 'og:site_name', 'content': 'Flourishing Inc.'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'TbdjWoxj7A39t1nE9Ci1Pzutw-y7zeUDqB0LYCazZ6g'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Flourishing Inc | Film TV Production'}
+{'name': 'twitter:description', 'content': 'Expanding Access to Black, Diverse, Female-Driven Content Originating from the U.S., the U.K., Africa, and Beyond'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/724e2d_ab8bf920fa714d8b9e58bce23d2b3718~mv2.png/v1/fill/w_2500,h_1305,al_c/724e2d_ab8bf920fa714d8b9e58bce23d2b3718~mv2.png'}
+
+Body Text:
+Flourishing Inc | Film TV Production
+top of page
+FLOURISHING
+INC
+Films | Series & Trailers
+About Us
+Contact
+More
+Use tab to navigate through the menu items.
+Reflecting our lives in
+Black, Female, LGBTQIA+,
+and Diverse Voices
+FLOURISHING FILMS
+I
+S
+A
+LOS ANGELE
+S-BASED DISTRIBUTION, SALES AND PRODUCTION COMPANY
+We look to identify strong, well-written, and well-directed stories. Through distribution, we target and market to specific global audiences in their respective territories, offering all available rights to well-established and new outlets, who have creative and innovative exhibition structures.
+>> Read More
+"UNTIL THE LION TELLS
+HIS SIDE OF THE STORY,
+THE TALE OF THE HUNT WILL ALWAYS GLORIFY THE HUNTE
+R."
+-
+AFRICAN PRO
+VERB
+FESTIVALS
+& MARKETS
+FLOURISHING
+FILMS
+©
+Flourishing Inc.
+| All Rights Reserved | Website Designed by
+MR Cooper Design
+bottom of page

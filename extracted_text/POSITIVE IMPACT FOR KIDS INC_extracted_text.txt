@@ -1,0 +1,247 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:title', 'content': 'Careers'}
+{'property': 'og:description', 'content': 'Careers Join Our Team & Make a Difference So. Much. Potential. Find your passion by helping others succeed Join Us!  Apply  Meet colleagues who soon '}
+{'property': 'og:image', 'content': 'https://www.firststepsforkids.com/wp-content/uploads/2022/03/cropped-Favicon-Original.png'}
+{'property': 'og:image:width', 'content': '512'}
+{'property': 'og:image:height', 'content': '512'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:article:published_time', 'content': '2022-03-07 16:31:03'}
+{'property': 'og:article:modified_time', 'content': '2024-03-01 15:38:32'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Careers'}
+{'name': 'twitter:description', 'content': 'Careers Join Our Team & Make a Difference So. Much. Potential. Find your passion by helping others succeed Join Us!  Apply  Meet colleagues who soon '}
+{'name': 'twitter:image', 'content': 'https://www.firststepsforkids.com/wp-content/uploads/2022/03/cropped-Favicon-Original.png'}
+{'name': 'author', 'content': 'Jennifer Harris'}
+{'name': 'description', 'content': 'Discover rewarding career opportunities working with children diagnosed with Autism at our ABA therapy company. We offer paid training (+RBT cert), flexible hours, tuition discounts, benefits, upward mobility, and so much more! Apply today to make a difference in your community.'}
+{'property': 'og:url', 'content': 'https://www.firststepsforkids.com/careers/'}
+{'property': 'og:site_name', 'content': 'FirstSteps for Kids, Inc.'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/firststepsforkids'}
+{'property': 'article:modified_time', 'content': '2024-03-01T23:38:32+00:00'}
+{'property': 'og:image', 'content': 'https://www.firststepsforkids.com/wp-content/uploads/2022/03/cropped-Favicon-Original.png'}
+{'name': 'twitter:label1', 'content': 'Est. reading time'}
+{'name': 'twitter:data1', 'content': '9 minutes'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'generator', 'content': 'performance-lab 3.0.0; plugins: '}
+{'name': 'generator', 'content': 'Elementor 3.21.3; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.firststepsforkids.com/wp-content/uploads/2022/03/cropped-Favicon-Original-270x270.png'}
+{'content': 'https://www.firststepsforkids.com/?s={s}'}
+{'content': 'https://www.firststepsforkids.com/?s={s}'}
+
+Body Text:
+California Behavior Technician Jobs | Make a Positive Impact!
+take your first step – enroll today!
+Nav Social Icons
+Looking for something?
+Skip to primary navigation
+Skip to main content
+Skip to footer
+Take Your First Step – Enroll Today!
+Home
+About Us
+Our Program
+Services
+For Caregivers
+About Enrollment
+Careers
+Mobile Menu Widgets
+Stay Connected
+Search
+Looking for something?
+FirstSteps for Kids, Inc.
+Guiding Kids to Greater Goals
+About Us
+Our History
+Leadership
+Learning Villages
+Blog
+Our Program
+About ABA
+Learning Goals
+FirstSteps Curriculum
+Ensuring Success
+Uniquely FirstSteps
+Services
+Service model
+Benefits
+Targeted Treatment
+With Caretakers
+For Caregivers
+Get Ready!
+Your FirstSteps
+Our Intake Process
+FAQs
+Learn
+Enrollment
+Careers
+Find Your Office
+Your Benefits
+More About Us
+Frequent Questions & Answers
+Careers
+Join Our Team & Make a Difference
+So. Much. Potential.
+Find your passion by helping others succeed
+Join Us!
+Apply
+Meet colleagues who soon become your closest friends
+Join Us!
+Apply
+Start a job and find a life-long career you love
+Join Us!
+Apply
+Always be learning and growing both professionally & personally
+Join Us!
+Apply
+Positively impact kids and their families on a daily & forever basis
+Join Us!
+Apply
+Enter Full Job Search Portal
+View ALL Open Positions
+Our Offices
+As behavior scientists, we know how important the environment is for learning and thriving.
+Our beautiful offices are designed to inspire.
+They are spaces where our community gathers to learn, to teach, to grow. Where we work collaboratively together, always driven by our shared commitment of making the world a better place for the children and families we serve.
+Redondo Beach (HQ)
+119 W Torrance Blvd.
+Suite 100
+T:310.374.3300
+View Open Positions
+West Los Angeles
+3424 Motor Avenue.
+Suite 101
+T:424.672.6716
+View Open Positions
+Alhambra | East LA
+1000 S Fremont Avenue.
+Bldg. A-5, Suite 5100
+T:626.407.0740
+View Open Positions
+Calabasas | North LA
+5741 Las Virgenes Road.
+Suite A
+T:818.712.8250
+View Open Positions
+Walnut Creek
+877 Ygnacio Valley Road.
+Suite 100
+T:925.482.3330
+View Open Positions
+Enter Full Job Search Portal
+View ALL Open Positions
+FirstSteps Benefits
+We take care of our team!
+FirstSteps Benefits
+We take care of our team!
+JOIN US!
+JOIN US!
+Health
+Your health and wellness matter to us AND to our FirstSteps kids who rely on your support every day! Take comfort knowing that that we care about you during work hours and beyond and offer our full-time employees
+robust health coverage including medical, behavioral health, dental, and vision insurance.
+Join Us!
+Apply
+Training
+This is one of the many things that sets FirstSteps apart from others. We fully subscribe to the adage to “always be learning” and that translates to an “always be training and supporting our team” mindset. We ensure each and every instructor attains their credential as a Registered Behavior Technician and all of our Program Managers receive the additional supervision and learning opportunities required to attain their Behavior Analyst certification by the Behavior Analyst Certification Board.
+Join Us!
+Apply
+Wellness
+There are ample ways that FirstSteps supports employee wellness; from paid-time off, disability insurance, access to our Employee Assistance Program, and enrollment in 401K retirement plan, we are looking out for you today and in the future.
+Join Us!
+Apply
+Connection
+We refer to our offices as “Learning Villages” for our kids and families, but this idea also applies to our FirstSteps team. You can look forward to working with similarly minded people who truly care about their kids and their colleagues; who enjoy going out after work; who attend our many company get-togethers including picnics, beach days, workouts, conferences, philanthropic events, and more. Even during the most intense days of the pandemic, our team connected online in our Together Apart evenings, where we shared our non-clinical talents, learned new skills, and celebrated our clients ‘wins regularly. Get ready to meet your new closest friends!
+Join Us!
+Apply
+Education
+For those joining FirstSteps with their RBT credential, we are thrilled to offer you a signing bonus for the training and education you have already acquired. It is also quite common for our new Instructors to “get the ABA bug” and want to pursue graduate education in our field. Not only do we support and encourage our staff to do so, our Executive Director and Director of Research created and launched a master’s program in ABA at USC where many of our employees attend and have graduated. In addition to USC, FirstSteps is an approved practicum placement for most of our local universities who offer ABA coursework. Throughout your education, you can count on your FirstSteps mentors to be by your side, supporting your research, and helping you to connect classroom concepts to your applied work with our little ones. And – after graduation, our SoFi Student Loan refinance program is there for our employees to reduce loan burden.
+Join Us!
+Apply
+Learn More about Us
+Great Training
+"FirstSteps has provided me with exceptional training and supervision. I have no doubt that I will pass the BCBA exam and have a wonderful future here!"
+Francisco Benetiz, Jr., M.S., RBT
+Program Manager​
+Great Training
+"FirstSteps has provided me with exceptional training and supervision. I have no doubt that I will pass the BCBA exam and have a wonderful future here!"
+Francisco Benetiz, Jr., M.S., RBT
+Program Manager​
+See us in action
+See our team on Facebook!
+Click Here
+Families love us
+Make a real impact
+Twitter Click Here
+TEAM FIRSTSTEPS
+At FirstSteps, we employ people who are smart, excited to get involved, and can bring the fun!
+TEAM FIRSTSTEPS
+At FirstSteps, we employ people who are smart, excited to get involved, and can bring the fun!
+Great Training
+"I love to see those I train growing into true leaders at FirstSteps, and making a difference!”
+Lauren Taylor, BCaBA Regional Training Manager
+Great Training
+"I love to see those I train growing into true leaders at FirstSteps, and making a difference!”
+Lauren Taylor, BCaBA Regional Training Manager
+Your career is our focus
+Click Here
+Glassdoor January 2022
+“I love everything about this company from the PDs, to the scheduling team. Everyone works together to provide the best services possible to our kiddos.”
+Click Here
+Join Us!
+Join Us!
+See us in action
+Fun on Instagram!
+Click Here
+Join Our FirstSteps Community
+View ALL Open Positions
+Frequently Asked Employment Questions
+Q. Does your Instructor training program meet the BACB’s requirements for certification as a Registered Behavior Technician (RBT)?
+A. Indeed it does – and then some!
+Q. I am gaining my fieldwork experience toward my BCBA certification. Do you offer supervision?
+A. Yes! FirstSteps offers supervision as a benefit for our exemplary Instructors who have met the experience and performance requirements for promotion to Lead Instructor. If you have previous experience with delivering behavior intervention, we can evaluate whether you meet our criteria for obtaining supervised fieldwork and develop an experience plan for you.
+Q. Are there opportunities to grow with FirstSteps?
+A. Are there ever! The brilliant clinicians leading each of our centers today were our new Instructors of 10 years ago. Exemplary Instructors may be promoted to Lead Instructor, Lead Instructors gaining the necessary education and experience to become BCBAs may be promoted to Program Manager, and after certification, Program Managers may become members of our Program Director team – those who design our beautiful children’s programs and mentor the behavior analysts of the future. FirstSteps is a family, and we are passionate about mentoring compassionate and skilled clinicians who will grow alongside us.
+Q. If I need to relocate, am I able to transfer to another FirstSteps office?
+A. Absolutely! We hire with the long-game in mind and hope that you see the career opportunities offered at FirstSteps. We have five offices who will welcome you with open arms and plans to add more in the future.
+Q. How often are FirstSteps Instructors evaluated and eligible for pay increases?
+A. The more experience you gain working with our FirstSteps kids, the more clinical expertise you will develop! As such, we base the timing on our formal evaluations to the number of hours you complete working directly with our kids. You will receive a formal evaluation at least annually with the majority of our team being evaluated 3-4 times in a year.
+Q. What qualities and experience does FirstSteps look for when hiring?
+A. First and foremost, we want to hire lovely people! We are looking to add staff members who are excited to learn, have a spring in their step, appreciate the wonderful uniqueness of children, who are attuned to others, and are dedicated to contributing positively at work and beyond. If you have prior ABA experience that is a bonus but not necessary.
+Q. Please tell me that FirstSteps has an official DEI statement that it endorses, believes in, and lives by?
+A. This is the best question ever and the answer is DEFINITLEY YES!! To be our best we absolutely need, want, and love a diverse staff representing all backgrounds and bringing so much beautiful perspective and experience to our company.
+Here is our official statement to which every FirstSteps employee subscribes:
+FirstSteps for Kids, Inc. values diversity, equity, and inclusivity in all aspects of our work – in our service delivery with our clients, in collaboration with families and communities, and in our organizational culture and practices with our staff. We strive to serve a diverse population of children and their families and see a responsibility to address the issue of inequity in access to ABA services across different cultures.
+We value the importance of employing diverse staff, and firmly believe that representation of different backgrounds, gender identities, races, cultures, and sexual orientations are integral to providing an equitable work environment where everyone is treated with dignity and respect.
+As a service provider employing hundreds of staff to support our children and their families, we believe that we have a responsibility and an opportunity to contribute to social change and a kinder and more compassionate world by living our values of diversity and equity in all of our daily operations. When we provide a more diverse learning environment for our clients and their families, we provide a more meaningful experience for all and contribute toward a more equitable future for everyone.
+Q. Does FirstSteps provide CEU opportunities for BCBAs and BCaBAs?
+A. We are huge proponents of all forms of education, including continuing education. We provide opportunities for you to complete all your CEUs at no cost to you via webinars, journal clubs, and conference participation.
+Q. I am new to the area and hoping to make friends at work. What is the company culture like?
+A. We are a collaborative, fun, and supportive group of similarly minded people. We collectively want everyone to thrive, feel welcome, and enjoy working together. Friendships develop quickly at FirstSteps as a result of our shared values and dedication to helping our little ones by collaborating together. There are also many outside of work opportunities provided by the company or set up impromptu by staff whereat you can socialize and build meaningful work friendships.
+Menu
+Footer
+Connect
+1.800.819.FSFK (3735)
+Company
+About FirstSteps
+Clinical Leadership
+Early Intervention Program
+Our Learning Centers
+Careers with FirstSteps
+News and Updates
+Get Started
+Request Information
+Our Services
+Understanding ABA
+Resources
+Frequently Asked Questions
+Contact Us
+Locations
+Redondo Beach (HQ)
+West Los Angeles
+East Los Angeles
+North Los Angeles
+Walnut Creek
+take your first step – enroll today!
+FIRSTSTEPS FOR KIDS, INC. © 2024  · ALL RIGHTS RESERVED

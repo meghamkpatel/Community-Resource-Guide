@@ -1,0 +1,37 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'c793de39-de0b-45b3-9421-1c7a8fd3395f'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'bd9debfb-89fc-4137-8626-b466c5520948'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '123'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'JACH | jach'}
+{'property': 'og:url', 'content': 'https://www.justacleanhouse.com'}
+{'property': 'og:site_name', 'content': 'jach'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'JACH | jach'}
+
+Body Text:
+JACH | jach
+top of page
+JACH
+OUR HOME
+THE JACH FAMILY
+RESIDENT TESTIMONIALS
+PICTURES
+HELPFUL LINKS
+CONTACT
+More
+Use tab to navigate through the menu items.
+THE ULTIMATE LIVING CONDITION
+for the recovering addict and alcoholic
+LEARN MORE
+RESIDENCY
+FRIEND US ON
+bottom of page

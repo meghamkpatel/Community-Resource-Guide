@@ -1,0 +1,103 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'http-equiv': 'origin-trial', 'content': 'ApvK67ociHgr2egd6c2ZjrfPuRs8BHcvSggogIOPQNH7GJ3cVlyJ1NOq/COCdj0+zxskqHt9HgLLETc8qqD+vwsAAABteyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJQcml2YWN5U2FuZGJveEFkc0FQSXMiLCJleHBpcnkiOjE2OTUxNjc5OTksImlzU3ViZG9tYWluIjp0cnVlfQ=='}
+{'name': 'theme-color', 'content': 'rgba(255, 255, 255, 0.98)'}
+{'name': 'title', 'content': 'XG - PUPPET SHOW (Official Music Video)'}
+{'name': 'description', 'content': 'XG1st Mini Album ‘NEW DNA’ 2023.09.27 WedTracklist：1. HESONOO2. X-GENE3. GRL GVNG4. TGIF5. NEW DANCE6. PUPPET SHOWCD BOXhttps://XG.lnk.to/NEWDNA_CDBOXStreami...'}
+{'name': 'keywords', 'content': 'XG, XGALX, GRL GVNG, SHOOTING STAR, LEFT RIGHT, MASCARA, Tippy Toes, JURIN, JURIA, MAYA, COCONA, CHISA, HARVEY, HINATA, ALPHAZ, NEW DNA, HESONOO, X-GENE, TGIF, NEW DANCE, PUPPET SHOW'}
+{'property': 'og:site_name', 'content': 'YouTube'}
+{'property': 'og:url', 'content': 'https://www.youtube.com/watch?v=VFeRPM7Sm6c'}
+{'property': 'og:title', 'content': 'XG - PUPPET SHOW (Official Music Video)'}
+{'property': 'og:image', 'content': 'https://i.ytimg.com/vi/VFeRPM7Sm6c/maxresdefault.jpg'}
+{'property': 'og:image:width', 'content': '1280'}
+{'property': 'og:image:height', 'content': '720'}
+{'property': 'og:description', 'content': 'XG1st Mini Album ‘NEW DNA’ 2023.09.27 WedTracklist：1. HESONOO2. X-GENE3. GRL GVNG4. TGIF5. NEW DANCE6. PUPPET SHOWCD BOXhttps://XG.lnk.to/NEWDNA_CDBOXStreami...'}
+{'property': 'al:ios:app_store_id', 'content': '544007664'}
+{'property': 'al:ios:app_name', 'content': 'YouTube'}
+{'property': 'al:ios:url', 'content': 'vnd.youtube://www.youtube.com/watch?v=VFeRPM7Sm6c&feature=applinks'}
+{'property': 'al:android:url', 'content': 'vnd.youtube://www.youtube.com/watch?v=VFeRPM7Sm6c&feature=applinks'}
+{'property': 'al:web:url', 'content': 'http://www.youtube.com/watch?v=VFeRPM7Sm6c&feature=applinks'}
+{'property': 'og:type', 'content': 'video.other'}
+{'property': 'og:video:url', 'content': 'https://www.youtube.com/embed/VFeRPM7Sm6c'}
+{'property': 'og:video:secure_url', 'content': 'https://www.youtube.com/embed/VFeRPM7Sm6c'}
+{'property': 'og:video:type', 'content': 'text/html'}
+{'property': 'og:video:width', 'content': '1280'}
+{'property': 'og:video:height', 'content': '720'}
+{'property': 'al:android:app_name', 'content': 'YouTube'}
+{'property': 'al:android:package', 'content': 'com.google.android.youtube'}
+{'property': 'og:video:tag', 'content': 'XG'}
+{'property': 'og:video:tag', 'content': 'XGALX'}
+{'property': 'og:video:tag', 'content': 'GRL GVNG'}
+{'property': 'og:video:tag', 'content': 'SHOOTING STAR'}
+{'property': 'og:video:tag', 'content': 'LEFT RIGHT'}
+{'property': 'og:video:tag', 'content': 'MASCARA'}
+{'property': 'og:video:tag', 'content': 'Tippy Toes'}
+{'property': 'og:video:tag', 'content': 'JURIN'}
+{'property': 'og:video:tag', 'content': 'JURIA'}
+{'property': 'og:video:tag', 'content': 'MAYA'}
+{'property': 'og:video:tag', 'content': 'COCONA'}
+{'property': 'og:video:tag', 'content': 'CHISA'}
+{'property': 'og:video:tag', 'content': 'HARVEY'}
+{'property': 'og:video:tag', 'content': 'HINATA'}
+{'property': 'og:video:tag', 'content': 'ALPHAZ'}
+{'property': 'og:video:tag', 'content': 'NEW DNA'}
+{'property': 'og:video:tag', 'content': 'HESONOO'}
+{'property': 'og:video:tag', 'content': 'X-GENE'}
+{'property': 'og:video:tag', 'content': 'TGIF'}
+{'property': 'og:video:tag', 'content': 'NEW DANCE'}
+{'property': 'og:video:tag', 'content': 'PUPPET SHOW'}
+{'property': 'fb:app_id', 'content': '87741124305'}
+{'name': 'twitter:card', 'content': 'player'}
+{'name': 'twitter:site', 'content': '@youtube'}
+{'name': 'twitter:url', 'content': 'https://www.youtube.com/watch?v=VFeRPM7Sm6c'}
+{'name': 'twitter:title', 'content': 'XG - PUPPET SHOW (Official Music Video)'}
+{'name': 'twitter:description', 'content': 'XG1st Mini Album ‘NEW DNA’ 2023.09.27 WedTracklist：1. HESONOO2. X-GENE3. GRL GVNG4. TGIF5. NEW DANCE6. PUPPET SHOWCD BOXhttps://XG.lnk.to/NEWDNA_CDBOXStreami...'}
+{'name': 'twitter:image', 'content': 'https://i.ytimg.com/vi/VFeRPM7Sm6c/maxresdefault.jpg'}
+{'name': 'twitter:app:name:iphone', 'content': 'YouTube'}
+{'name': 'twitter:app:id:iphone', 'content': '544007664'}
+{'name': 'twitter:app:name:ipad', 'content': 'YouTube'}
+{'name': 'twitter:app:id:ipad', 'content': '544007664'}
+{'name': 'twitter:app:url:iphone', 'content': 'vnd.youtube://www.youtube.com/watch?v=VFeRPM7Sm6c&feature=applinks'}
+{'name': 'twitter:app:url:ipad', 'content': 'vnd.youtube://www.youtube.com/watch?v=VFeRPM7Sm6c&feature=applinks'}
+{'name': 'twitter:app:name:googleplay', 'content': 'YouTube'}
+{'name': 'twitter:app:id:googleplay', 'content': 'com.google.android.youtube'}
+{'name': 'twitter:app:url:googleplay', 'content': 'https://www.youtube.com/watch?v=VFeRPM7Sm6c'}
+{'name': 'twitter:player', 'content': 'https://www.youtube.com/embed/VFeRPM7Sm6c'}
+{'name': 'twitter:player:width', 'content': '1280'}
+{'name': 'twitter:player:height', 'content': '720'}
+{'itemprop': 'name', 'content': 'XG - PUPPET SHOW (Official Music Video)'}
+{'itemprop': 'description', 'content': 'XG1st Mini Album ‘NEW DNA’ 2023.09.27 WedTracklist：1. HESONOO2. X-GENE3. GRL GVNG4. TGIF5. NEW DANCE6. PUPPET SHOWCD BOXhttps://XG.lnk.to/NEWDNA_CDBOXStreami...'}
+{'itemprop': 'requiresSubscription', 'content': 'False'}
+{'itemprop': 'identifier', 'content': 'VFeRPM7Sm6c'}
+{'itemprop': 'duration', 'content': 'PT4M42S'}
+{'itemprop': 'width', 'content': '1280'}
+{'itemprop': 'height', 'content': '720'}
+{'itemprop': 'playerType', 'content': 'HTML5 Flash'}
+{'itemprop': 'width', 'content': '1280'}
+{'itemprop': 'height', 'content': '720'}
+{'itemprop': 'isFamilyFriendly', 'content': 'true'}
+{'itemprop': 'regionsAllowed', 'content': 'AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW'}
+{'itemprop': 'interactionCount', 'content': '20193186'}
+{'itemprop': 'datePublished', 'content': '2023-09-27T02:00:08-07:00'}
+{'itemprop': 'uploadDate', 'content': '2023-09-27T02:00:08-07:00'}
+{'itemprop': 'genre', 'content': 'Music'}
+{'itemprop': 'isLiveBroadcast', 'content': 'True'}
+{'itemprop': 'startDate', 'content': '2023-09-27T09:00:08+00:00'}
+{'itemprop': 'endDate', 'content': '2023-09-27T09:05:47+00:00'}
+
+Body Text:
+XG - PUPPET SHOW (Official Music Video) - YouTube
+About
+Press
+Copyright
+Contact us
+Creators
+Advertise
+Developers
+Terms
+Privacy
+Policy & Safety
+How YouTube works
+Test new features
+NFL Sunday Ticket
+© 2024 Google LLC

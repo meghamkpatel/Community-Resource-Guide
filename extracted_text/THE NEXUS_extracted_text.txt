@@ -1,0 +1,1187 @@
+Meta Information:
+{'property': 'og:site_name', 'content': 'Nexus Mods'}
+{'property': 'og:title', 'content': 'Nexus Mods :: Home'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'https://www.nexusmods.com/assets/images/og/default.png'}
+{'property': 'og:url', 'content': 'https://www.nexusmods.com/'}
+{'property': 'og:description', 'content': "We host 573,667 mods for 2,893 games from 134,330 authors serving 50,233,808 members with 11,228,089,600 downloads to date. We've donated $2,224,356 to our mod authors through Donation Points. If you can mod it, we'll host it."}
+{'name': 'twitter:title', 'content': 'Nexus Mods :: Home'}
+{'name': 'twitter:image', 'content': 'https://www.nexusmods.com/assets/images/og/default.png'}
+{'name': 'twitter:description', 'content': "We host 573,667 mods for 2,893 games from 134,330 authors serving 50,233,808 members with 11,228,089,600 downloads to date. We've donated $2,224,356 to our mod authors through Donation Points. If you can mod it, we'll host it."}
+{'charset': 'UTF-8'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'application-name', 'content': '\xa0'}
+{'name': 'msapplication-TileColor', 'content': '#FFFFFF'}
+{'name': 'msapplication-TileImage', 'content': 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-144x144.png'}
+{'name': 'msapplication-square70x70logo', 'content': 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-70x70.png'}
+{'name': 'msapplication-square150x150logo', 'content': 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-150x150.png'}
+{'name': 'msapplication-wide310x150logo', 'content': 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-310x150.png'}
+{'name': 'msapplication-square310x310logo', 'content': 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-310x310.png'}
+{'content': 'summary_large_image', 'name': 'twitter:card'}
+{'content': '@NexusSites', 'name': 'twitter:site'}
+
+Body Text:
+Nexus mods and community
+Skip to content
+Games
+Mods
+Collections
+Media
+Community
+Support
+Mods
+Mods
+Games
+Images
+Videos
+Users
+search
+Log in
+Register
+videogame_asset
+My games
+When logged in, you can choose up to 12 games that will be displayed as favourites in this menu.
+chevron_left
+chevron_right
+Recently added
+69
+View all
+2,899
+Log in
+to view your list of favourite games.
+View all games
+(2,899)
+Browse all
+chevron_right
+Browse all
+chevron_right
+New
+chevron_right
+Trending
+chevron_right
+Most endorsed
+chevron_right
+Mod categories
+chevron_right
+Mod updates
+Recent activity
+chevron_right
+.
+.
+.
+Modding tutorials
+Learn from the community with tutorials and guides
+Explore
+chevron_right
+Get Vortex
+The elegant, powerful, and open-source mod manager
+Download
+Browse all games
+chevron_right
+Browse all games
+chevron_right
+Recently added
+chevron_right
+Most collections
+chevron_right
+A-Z
+chevron_right
+Install hundreds of mods with the click of a button.
+Install the Vortex app
+Download and manage all your collections within Vortex
+Download
+live_help
+Collection support
+What are collections?
+Getting started with Vortex
+Downloading your first collection
+Images
+Latest
+chevron_right
+Trending
+chevron_right
+Most endorsed
+chevron_right
+add_photo_alternate
+Upload an image
+chevron_right
+Videos
+Latest
+chevron_right
+Trending
+chevron_right
+Most endorsed
+chevron_right
+video_call
+Add a video
+chevron_right
+Supporter images
+Upgrade your account to unlock all media content
+Upgrade
+chevron_right
+Community
+Forums
+chevron_right
+Support authors
+chevron_right
+.
+All news
+chevron_right
+Site news
+chevron_right
+Competitions
+chevron_right
+Interviews
+chevron_right
+.
+2 days ago
+Donation Points are changing
+2 weeks ago
+Morrowind May Modathon and Skywind
+Support
+Help
+chevron_right
+Contact us
+chevron_right
+Give feedback
+chevron_right
+FAQ
+chevron_right
+Wiki
+Game guides
+chevron_right
+Tutorials
+chevron_right
+Collections
+chevron_right
+Tools
+chevron_right
+Vortex
+Vortex help
+chevron_right
+API documentation
+chevron_right
+Install Vortex
+chevron_right
+.
+cloud_upload
+UPLOAD A
+MOD
+add_photo_alternate
+UPLOAD AN
+IMAGE
+video_call
+ADD A
+VIDEO
+Notifications
+Mark all as read (
+0
+)
+error_outline
+Oh dear! Something has gone wrong!
+Try reloading the notifications.
+refresh
+notifications_off
+No unread notifications right now
+You're up to date
+View All
+You're up to date
+guest
+Free plan |
+Upgrade
+account_circle
+My profile
+My mods
+My collections
+image
+My media
+account_balance_wallet
+My wallet
+Tracking centre
+history
+Download history
+Give Feedback
+settings
+Account settings
+tune
+Site preferences
+exit_to_app
+Sign out
+menu
+search
+person
+0
+home
+close
+Games
+videogame_asset
+My games
+When logged in, you can choose up to 12 games that will be displayed as favourites in this menu.
+chevron_left
+chevron_right
+Recently added
+69
+View all
+2,899
+Log in
+to view your list of favourite games.
+View all games
+(2,899)
+Mods
+Browse all
+chevron_right
+Browse all
+chevron_right
+New
+chevron_right
+Trending
+chevron_right
+Most endorsed
+chevron_right
+Mod categories
+chevron_right
+Mod updates
+Recent activity
+chevron_right
+.
+.
+.
+Modding tutorials
+Learn from the community with tutorials and guides
+Explore
+chevron_right
+Get Vortex
+The elegant, powerful, and open-source mod manager
+Download
+Collections
+Browse all games
+chevron_right
+Browse all games
+chevron_right
+Recently added
+chevron_right
+Most collections
+chevron_right
+A-Z
+chevron_right
+Install hundreds of mods with the click of a button.
+Install the Vortex app
+Download and manage all your collections within Vortex
+Download
+live_help
+Collection support
+What are collections?
+Getting started with Vortex
+Downloading your first collection
+Media
+Images
+Latest
+chevron_right
+Trending
+chevron_right
+Most endorsed
+chevron_right
+add_photo_alternate
+Upload an image
+chevron_right
+Videos
+Latest
+chevron_right
+Trending
+chevron_right
+Most endorsed
+chevron_right
+video_call
+Add a video
+chevron_right
+Supporter images
+Upgrade your account to unlock all media content
+Upgrade
+chevron_right
+Community
+Community
+Forums
+chevron_right
+Support authors
+chevron_right
+.
+All news
+chevron_right
+Site news
+chevron_right
+Competitions
+chevron_right
+Interviews
+chevron_right
+.
+2 days ago
+Donation Points are changing
+2 weeks ago
+Morrowind May Modathon and Skywind
+Support
+Support
+Help
+chevron_right
+Contact us
+chevron_right
+Give feedback
+chevron_right
+FAQ
+chevron_right
+Wiki
+Game guides
+chevron_right
+Tutorials
+chevron_right
+Collections
+chevron_right
+Tools
+chevron_right
+Vortex
+Vortex help
+chevron_right
+API documentation
+chevron_right
+Install Vortex
+chevron_right
+.
+Terms of Service
+|
+Privacy Policy
+Copyright © 2024 Robin Scott. All rights reserved.
+videogame_asset
+All games
+close
+search
+Mods
+Games
+Images
+Videos
+Users
+Search all games
+chevron_right
+Popular games
+Skyrim Special Edition
+Skyrim
+Fallout 4
+Fallout New Vegas
+Stardew Valley
+Cyberpunk 2077
+Oblivion
+Fallout 3
+Baldur's Gate 3
+The Witcher 3
+Mount & Blade II: Bannerlord
+close
+Please log in or register
+To enjoy the benefits of Nexus Mods, please log in or register a new account
+Log in
+Register
+Go Premium
+Upgrade your account to unlock all media content.
+Upgrade
+chevron_right
+Welcome to Nexus Mods
+We host
+573,667
+mods for
+2,893 games
+from
+134,330
+authors serving
+50,233,808
+members with
+11,228,089,600
+downloads to date. We've donated
+$2,224,356
+to our mod authors through Donation Points. If you can mod it, we'll host it.
+Browse all files
+Filter by name
+Sort by
+Mod count
+Name
+Date added
+Download count
+Order
+Asc
+Desc
+View all 2,893 games
+Download
+13,553 Collections
+for
+137 games
+chevron_right
+Join the largest
+modding community
+Register
+Already have an account?
+Log in here
+News & Updates
+All news
+Features
+Site news
+Competition news
+Game news
+Mod news
+Interviews
+Mod updates
+Current section
+Viewing:
+Site News
+Donation Points are changing
+14 May 2024
+Pickysaurus
+We're changing how we reward mod authors in our community through our Donation Points system. DP earned from April 2024 onwards will be calculated using a new algorithm intended to distribute the pool of points more fairly to mod authors who make great content for the community. While we get the details ironed out, you won't see the usual reports on your wallet page at the end of each month for a little while. Don't worry though, the system isn't going anywhere and we're still putting the same a...
+754 Comments
+Competition
+Morrowind May Modathon and Skywind
+01 May 2024
+Happybara
+The time of year is once again upon us and we have two different anniversaries to celebrate this time. Today marks 22 years since the release of The Elder Scrolls III: Morrowind as well as the 10th annual Morrowind May Modathon and, just like last year there will also be a development update for Skywind.
+Skywind Development Update
+Skywind, as many of you may know, is the ambitious modding project that aims to modernise Morrowind by recreating the game in the eng...
+28 Comments
+Site News
+Changes to Premium Billing
+30 Apr 2024
+MrMason
+The price of a premium subscription is increasing on 17 June 2024.
+We are required to start collecting taxes globally so you may have taxes added to your current subscription.
+We are moving to a different payment provider.
+We will offer billing in more local currencies.
+Existing Lifetime Premium memberships will be unaffected.
+Price increases
+We know that increasing prices is never an easy thing to talk about, and it’s something we try to ...
+1 Comments
+Site News
+User Profile and Direct Messaging Improvements
+23 Apr 2024
+JustThatKing
+Many of you have been waiting patiently for the return of features that were removed with the community forum update. We committed to bringing back the “About Me” section and “Direct Messaging”. I’m happy to say that these features are back.
+This article spells out exactly what you can expect with the return of these features. It covers our new and improved process for rolling out new features to you, ensuring plenty of opportunities to add your feedback so we get things ri...
+321 Comments
+Site News
+Recent Nexus Mods Site Issues
+22 Apr 2024
+Demorphic
+What’s been going on recently with the Nexus Mods site?
+We are aware that over the last 7-9 days our website performance has been heavily degraded, with file download speeds being particularly slow.
+We know this has been incredibly frustrating for you and it’s frustrating for us as well. We have spent two weekends battling to keep the site running as best we can and will continue to work at all hours to try and ensure as smooth an experience as possible.
+A...
+140 Comments
+Game News
+Fallout 4 Next-Gen Update is coming!
+18 Apr 2024
+Pickysaurus
+Hot on the heels of the Fallout TV show, a big update to Fallout 4 is scheduled to drop on 25 April. Here's a quick rundown of what's happening and what you need to know to bump up your intelligence stat leading up to the release.
+What's included in the Fallout 4 Next-Gen Update?
+Bethesda announced their intent to update Fallout 4 for "Next-Gen" (now "Current-Gen", I suppose) consoles and PCs back in 2022, so it's not completely unexpected but you'll be forgiven f...
+286 Comments
+Interviews
+Tending the crops - JennaJuffuffles﻿
+14 Mar 2024
+Pickysaurus
+In this community feature, we're joined by JennaJuffuffles - the curator of the Stardew Valley VERY Expanded and Aesthetic Valley collections for Stardew Valley. These mod lists have risen to the top of the most downloaded and highest-rated Collections available today. With the release of Stardew Valley 1.6 edging closer by the day, Jenna shares her top tips for making a successful collection.
+Thanks for joining us today, Jenna. To get started, could you tell us a little a...
+20 Comments
+Game News
+Get ready for Stardew Valley 1.6!
+12 Mar 2024
+Pickysaurus
+Grab your watering can and don your favourite straw hat, because Stardew Valley's long-anticipated 1.6 update is just around the corner! The massive update not only adds a bunch of new content to the game but also makes some fundamental changes behind the scenes that will impact your mods.
+What's new in Stardew Valley 1.6?
+There are a massive number of features, improvements and bug fixes in 1.6. The image below - posted by ConcernedApe on Twitter - mentions some o...
+40 Comments
+Site News
+Mod Author Premium Rewards are here
+06 Mar 2024
+Happybara
+In our last article on this project, we covered the milestones that Mod Authors would need to achieve with their Unique Downloads (UDL). Now we are finally following up with what the system will look like and a bit more on how it's going to work. First, a bit of a refresher.
+What are we doing?
+We can now afford to give mod authors Free Premium. Yay! Mod authors will now be given Free Premium time as direct rewards for their contributions to the site without needing ...
+199 Comments
+Site News
+Free Premium for Mod Authors
+13 Feb 2024
+Happybara
+We launched our Donation Points System in 2018 to give back to the mod authors on Nexus Mods who have given so much to all of us in our community. To date, we have paid out over $7 million USD to our mod authors via this system. The DP system allows authors to earn points which they could redeem for PayPal payouts, discounted games and, until recently, discounted Premium Memberships. These included Lifetime Premium Memberships, which is something we stopped selling back in 2021 for our nor...
+436 Comments
+Site News
+10 Billion Downloads
+08 Feb 2024
+Demorphic
+A beast of monstrous proportions is approaching. We spotted it a while back, lumbering over the horizon. It has since picked up such momentum that its arrival is now upon us.
+The site will hit 10 billion file downloads today.
+This is an epic milestone for Nexus Mods and the modding community. To put this number into perspective:
+If every download were a footstep, you could walk to the moon 11 times (1), or walk The Seven Thousand Steps (2) to High Hroth...
+162 Comments
+Site News
+An update on App development
+07 Feb 2024
+Pickysaurus
+For the last 6 months, the new App Team have been working hard on laying the foundations for our next-generation mod manager - the Nexus Mods App. There isn't anything fancy to show just yet, but we'd like to share an update with you all on the technical choices and design decisions we've made so far.
+This video was originally streamed as part of C3: Community Creation Con on 2 Feb 2024, but in case you missed it (or simply weren't interested in a conference around Bethesda games) we...
+123 Comments
+Site News
+Notifications System further updates
+01 Feb 2024
+Happybara
+This is a follow-up on yesterday's update to the Notifications System covered in our last news post. We want to address some of the pain points users will have experienced and what improvements we have made as a result of your feedback.
+The new system was sending notifications for new comments on tracked mods. This was an error and we switched this off but 300,000 notifications of this type were delivered. We cannot easily delete these and you will see these if you are logging in f...
+196 Comments
+Feature
+C3: Community Creations Con starts 2 Feb
+29 Jan 2024
+Pickysaurus
+Exciting News for our amazing community! Get ready for an immersive and creative experience at the upcoming C3: Community Creations Con, happening on the 2nd and 3rd of February. This event is a celebration of the incredible talent within our community, showcasing a diverse array of creations across the Fallout and Elder Scrolls games. But that's not all – by tuning in to the live streams on Twitch, you stand a chance to win fantastic prizes, including free games and the grand prize, a "noblec...
+30 Comments
+Game News
+Palworld and Pokémon
+24 Jan 2024
+Demorphic
+Palworld continues to break records on Steam, racking up 1,864,421 unique concurrent players in the past 24 hours. At least 4 of those uniques are in the Nexus Mods offices, where after-hours ‘research’ is being conducted.
+Whether you think this game has arrived out of the blue, or was an obvious hit, one thing is clear; It bears a lot of similarity to an existing game franchise you may have encountered, namely Pokémon. We won’t go into detail about potential similarities; suf...
+140 Comments
+Interviews
+Enhancing Night City - deceptious
+24 Jan 2024
+JustThatKing
+We have the privilege of speaking with deceptious, a Cyberpunk mod author who pushes the boundaries of the types of mods that can be made. They are the author of the Romance Enhanced Series, New Quests and many other immersive improvements to Night City.
+﻿Thanks for chatting to us. Would you mind telling us what got you into modding?
+I have a background/job in game dev, and have used mods before for games like Fallout: New Vegas, Fallout 4, and Skyrim, but hadn’t act...
+44 Comments
+Site News
+Notifications System Improvements
+17 Jan 2024
+Happybara
+This post is a follow-up on the ongoing system changes we have been making to further improve our site performance and user experience.
+Once you’ve read through it, please feel free to leave your feedback, thoughts or suggestions. Any off-topic posts may be removed or moderated; if you’d like to make an unrelated suggestion please use our feedback board.
+What are we doing?
+We’re updating our notifications system so that it better handles our curre...
+179 Comments
+Site News
+Introducing: The Porpoise and The King
+10 Jan 2024
+Happybara
+Today we're announcing some new additions to the Community Team. You may have seen their names here and there on the website already but I hope you will join me in giving a warm welcome to Amber (spamPorpoise) and Charlie (JustThatKing). Charlie is joining us as a Community Manager and Amber is taking on our newly created role of Customer Support Specialist. Here's a little Q&A we put together for the occasion.
+Welcome, Amber and Charlie. Why don’t you both tell us a bit about...
+31 Comments
+Mod News
+The Twelve Mods of Christmas
+19 Dec 2023
+Happybara
+﻿A joyous festive season to you all my gamers. As you may have noticed, in the spirit of the season, we have been busy posting themed mods on Facebook and X(Twitter) as well as the Forum once per day to mark the 12 days counting down to Saturalia.
+To get more eyes on these fun pieces of content, we’re releasing this news post roundup of all the mods we’ve posted so far with more to come. The news post will be updated daily until all 12 featured mods are added.
+For m...
+40 Comments
+Site News
+Moving your Site Preferences
+18 Dec 2023
+Iluviel
+Update 9 Jan 2023
+This change is now live for all users. You can view the new preferences section here﻿.
+As part of our ongoing work to update the Nexus Mods website and services, we will be making some changes to separate the “site preferences” and “content” pages that can be found under “My Nexus Account”. This is the first step in our efforts to consolidate the various places around the website where you can change different account preferenc...
+66 Comments
+View more news
+All of our mods
+Explore all mods
+New today
+371
+New this week
+2,721
+Popular (30 days)
+Popular (all time)
+Trending
+Random
+Updated
+Current section
+Viewing:
+View mod page
+View image gallery
+SaveNG
+Ghost of Tsushima Director's Cut
+»
+Miscellaneous
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Sin
+Uploader:
+johnwick00
+Save-file
+118KB
+0
+--
+SaveNG
+Miscellaneous
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+johnwick00
+Save-file
+View mod page
+View image gallery
+Florence Coat Of Arms
+Manor Lords
+»
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Webley
+Uploader:
+webleywing
+The Coat Of Arms Of Florence
+2.0MB
+0
+--
+Florence Coat Of Arms
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+webleywing
+The Coat Of Arms Of Florence
+View mod page
+View image gallery
+Sim Settlements 2 HQ Addon - Pesky's Cosy HQ Chinese translation
+Fallout 4
+»
+Sim Settlements 2
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+0931ABC
+Uploader:
+0931abc
+Sim Settlements 2 HQ Addon - Pesky's Cosy HQ Chinese translationSim Settlements 2 HQ Addon - Pesky's Cosy HQ:https://www.nexusmods.com/fallout4/mods/82780模拟定居点2 舒适总部酒店拓展包中文汉化模拟定居点2 舒适总部酒店拓展包：https://www.nexusmods.com/fallout4/mods/82780
+25KB
+0
+--
+Sim Settlements 2 HQ Addon - Pesky's Cosy HQ Chinese translation
+Sim Settlements 2
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+0931abc
+Sim Settlements 2 HQ Addon - Pesky's Cosy HQ Chinese translationSim Settlements 2 HQ Addon - Pesky's Cosy HQ:https://www.nexusmods.com/fallout4/mods/82780模拟定居点2 舒适总部酒店拓展包中文汉化模拟定居点2 舒适总部酒店拓展包：https://www.nexusmods.com/fallout4/mods/82780
+View mod page
+View image gallery
+St George Coat Of Arms
+Manor Lords
+»
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Webley
+Uploader:
+webleywing
+Coat of arms with the St.George Cross
+1.8MB
+0
+--
+St George Coat Of Arms
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+webleywing
+Coat of arms with the St.George Cross
+View mod page
+View image gallery
+Caliente's Beautiful Bodies Enhancer -CBBE- Traduction FR
+Fallout 4
+»
+Body, Face, and Hair
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Les Traducteurs des Terres Desoles
+Uploader:
+ThibaudLeVoyageur
+Traduction simple en français du fameux mod Caliente's Beautiful Bodies Enhancer -CBBE- de Caliente
+1KB
+0
+--
+Caliente's Beautiful Bodies Enhancer -CBBE- Traduction FR
+Body, Face, and Hair
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+ThibaudLeVoyageur
+Traduction simple en français du fameux mod Caliente's Beautiful Bodies Enhancer -CBBE- de Caliente
+View mod page
+View image gallery
+MegatonWorking for TTW
+Fallout New Vegas
+»
+Bug Fixes
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Puko
+Uploader:
+MrPuko
+makes Megatototototon work, appear on the map and not teleport you to an infinite radioactive sea.
+1KB
+0
+--
+MegatonWorking for TTW
+Bug Fixes
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+MrPuko
+makes Megatototototon work, appear on the map and not teleport you to an infinite radioactive sea.
+View mod page
+View image gallery
+Satanic Coat Of Arms
+Manor Lords
+»
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Webley
+Uploader:
+webleywing
+Coat of arms based on satanic symbolism.
+1.7MB
+0
+--
+Satanic Coat Of Arms
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+webleywing
+Coat of arms based on satanic symbolism.
+View mod page
+View image gallery
+Enclave Plasma - Fallout 76 Recreation - Spanish
+Fallout 4
+»
+Weapons
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+cerebii and Willock
+Uploader:
+VellokMillion
+Añade la venerable arma de plasma del enclave de Fallout 76, ¡completamente modificable y con partes brillantes! y... AHORA EN ESPAÑOL!
+13.4MB
+0
+--
+Enclave Plasma - Fallout 76 Recreation - Spanish
+Weapons
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+VellokMillion
+Añade la venerable arma de plasma del enclave de Fallout 76, ¡completamente modificable y con partes brillantes! y... AHORA EN ESPAÑOL!
+View mod page
+View image gallery
+Tiana - Redguard Preset
+Skyrim Special Edition
+»
+Body, Face, and Hair
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+SamRStory
+Uploader:
+SamRStory
+Reddguard Racemenu Preset
+1.7MB
+0
+--
+Tiana - Redguard Preset
+Body, Face, and Hair
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+SamRStory
+Reddguard Racemenu Preset
+View mod page
+View image gallery
+'98 Leon
+Resident Evil 4 (2023)
+»
+Characters
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Dodylectable
+Uploader:
+Dodylectable
+Leon warped back into the first PlayStation for the iconic retro look!
+3.0MB
+0
+--
+'98 Leon
+Characters
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Dodylectable
+Leon warped back into the first PlayStation for the iconic retro look!
+View mod page
+View image gallery
+Bombshell - Shelly Harrison
+Resident Evil 4 (2023)
+»
+Characters
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Dodylectable
+Uploader:
+Dodylectable
+"I spray, you pray."
+257.9MB
+0
+--
+Bombshell - Shelly Harrison
+Characters
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Dodylectable
+"I spray, you pray."
+View mod page
+View image gallery
+Nano Bye Bye Replacer Pack
+Jurassic World Evolution 2
+»
+Dinosaurs
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+NanoLancensis
+Uploader:
+NanoLancensis
+I'm done
+17.7MB
+0
+--
+Nano Bye Bye Replacer Pack
+Dinosaurs
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+NanoLancensis
+I'm done
+View mod page
+View image gallery
+USA Coat Of Arms
+Manor Lords
+»
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Webley
+Uploader:
+webleywing
+USA coat of arms
+2.0MB
+0
+--
+USA Coat Of Arms
+Coat of Arms
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+webleywing
+USA coat of arms
+View mod page
+View image gallery
+Character Reload Fix Traduction FR
+Mount & Blade II: Bannerlord
+»
+Gameplay
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Team Raidenci
+Uploader:
+Raidenci
+Fichiers de traduction en Francais pour Character Reload Fix for e(1.7.X - 1.9.0) v(1.0.X-1.2.9)
+5KB
+0
+--
+Character Reload Fix Traduction FR
+Gameplay
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Raidenci
+Fichiers de traduction en Francais pour Character Reload Fix for e(1.7.X - 1.9.0) v(1.0.X-1.2.9)
+View mod page
+View image gallery
+Detailed Character Creation Traduction FR
+Mount & Blade II: Bannerlord
+»
+Gameplay
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Team Raidenci
+Uploader:
+Raidenci
+Fichiers de traduction en Francais pour Detailed Character Creation
+5KB
+0
+--
+Detailed Character Creation Traduction FR
+Gameplay
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Raidenci
+Fichiers de traduction en Francais pour Detailed Character Creation
+View mod page
+View image gallery
+Europe Campaign Map Traduction FR
+Mount & Blade II: Bannerlord
+»
+Gameplay
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Team Raidenci
+Uploader:
+Raidenci
+Fichiers de traduction en Francais pour Europe Campaign Map
+7KB
+0
+--
+Europe Campaign Map Traduction FR
+Gameplay
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Raidenci
+Fichiers de traduction en Francais pour Europe Campaign Map
+View mod page
+View image gallery
+Egyptian Dagger (U12)
+Blade & Sorcery
+»
+Weapons
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+fardder
+Uploader:
+mamamiamiamiamia
+(My first ever mod)A dagger fit for the Pharaoh. only issue for now i think is just looking weird on your side holster but other than that its pretty nice
+12.3MB
+0
+--
+Egyptian Dagger (U12)
+Weapons
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+mamamiamiamiamia
+(My first ever mod)A dagger fit for the Pharaoh. only issue for now i think is just looking weird on your side holster but other than that its pretty nice
+View mod page
+View image gallery
+Flight Suit
+Fallout 4
+»
+Clothing
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+JusKidd
+Uploader:
+JusKidd
+Whether you're soaring through the skies or unwinding in the wreckage of Skylanes Flight 1981, you can elevate your experience by looking the part. Tailored for both male and female wastelanders, you can now take your Vertibird experience to a whole new level.
+289KB
+0
+--
+Flight Suit
+Clothing
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+JusKidd
+Whether you're soaring through the skies or unwinding in the wreckage of Skylanes Flight 1981, you can elevate your experience by looking the part. Tailored for both male and female wastelanders, you can now take your Vertibird experience to a whole new level.
+View mod page
+View image gallery
+Handsome Jack
+Assassin's Creed Unity
+»
+Outfits
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Kuza
+Uploader:
+NotKuzanaqi
+Replace´s Ezio Outfit with Handsome Jack.
+11.2MB
+0
+--
+Handsome Jack
+Outfits
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+NotKuzanaqi
+Replace´s Ezio Outfit with Handsome Jack.
+View mod page
+View image gallery
+Inveterate Imperium - Complex Parallax Imperial Forts 8K 4K 2K
+Skyrim Special Edition
+»
+Models and Textures
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Nyym
+Uploader:
+Nyymm
+Complex Parallax enabled Meshes and Textures for the Imperial Forts Tile set, both interiors and exteriors (regular and snowy/Icy). Hand crafted with an emphasis on attention to detail and aesthetics.
+7.1MB
+4
+--
+Inveterate Imperium - Complex Parallax Imperial Forts 8K 4K 2K
+Models and Textures
+Uploaded:
+17 May 2024
+Last Update:
+17 May 2024
+Author:
+Nyymm
+Complex Parallax enabled Meshes and Textures for the Imperial Forts Tile set, both interiors and exteriors (regular and snowy/Icy). Hand crafted with an emphasis on attention to detail and aesthetics.
+View More - New today
+VORTEX
+The powerful open-source mod manager from Nexus Mods.
+Learn more
+Nexus Mods
+News
+Statistics
+Careers
+About us
+Premium features
+Discover
+All games
+All mods
+New mods
+Popular mods
+Trending mods
+All collections
+All images
+Support
+Help
+Wiki
+API reference
+Give feedback
+Report a bug
+Unban requests
+DMCA
+Manage cookie settings
+Community
+Forums
+Discord
+Support authors
+Contact us
+Support Nexus Mods
+Go premium
+Network Stats
+Members
+50,233,808
+Mods
+573,667
+Kudos given
+2,562,787
+Page served in
+0.061s [nexusmods-6fc4796586-z9qlv]
+Copyright © 2024 Black Tree Gaming Ltd. All rights reserved.
+Terms of Service
+|
+Privacy Policy

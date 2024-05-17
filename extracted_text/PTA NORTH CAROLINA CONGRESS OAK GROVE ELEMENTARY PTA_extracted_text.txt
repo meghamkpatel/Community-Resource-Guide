@@ -1,0 +1,422 @@
+Meta Information:
+{'property': 'og:type', 'content': 'website'}
+{'property': 'fb:app_id', 'content': '411584262324304'}
+{'property': 'og:url', 'content': 'http%3A%2F%2Fwww.wcpss.net%2Fsite%2Fdefault.aspx%3FDomainID%3D12924'}
+{'property': 'og:title', 'content': 'PTA / Welcome!'}
+{'name': 'twitter:card', 'value': 'summary'}
+{'name': 'twitter:title', 'content': 'PTA / Welcome!'}
+{'itemprop': 'name', 'content': 'PTA / Welcome!'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, maximum-scale=1.0'}
+
+Body Text:
+PTA / Welcome!
+Skip to Main Content
+District Home
+Select a School...
+Select a School
+Abbotts Creek Elementary School
+Adams Elementary School
+Alston Ridge Elementary School
+Alston Ridge Middle School
+Apex Elementary School
+Apex Friendship Elementary School
+Apex Friendship High School
+Apex Friendship Middle School
+Apex High School
+Apex Middle School
+Athens Drive Magnet High School
+Aversboro Elementary School
+Back to School 2020-21
+Baileywick Road Elementary School
+Ballentine Elementary School
+Banks Road Elementary School
+Barton Pond Elementary School
+Barwell Road Elementary School
+Baucom Elementary School
+Beaverdam Elementary School
+Brassfield Elementary School
+Brentwood Magnet Elementary School
+Briarcliff Elementary School
+Bridges Program
+Brier Creek Elementary School
+Brooks Magnet Elementary School
+Broughton Magnet High School
+Bryan Road Elementary School
+Buckhorn Creek Elementary School
+Bugg Magnet Elementary School
+Carnage Magnet Middle School
+Carpenter Elementary School
+Carroll Magnet Middle School
+Carver Elementary School
+Cary Elementary School
+Cary High School
+Cedar Fork Elementary School
+Centennial Campus Magnet Middle School
+Combs Magnet Elementary School
+Conn Magnet Elementary School
+Connections Academy Middle School
+Creech Road Elementary School
+Crossroads FLEX High School
+Davis Drive Elementary School
+Davis Drive Middle School
+Dillard Drive Magnet Elementary School
+Dillard Drive Magnet Middle School
+Douglas Magnet Elementary School
+Durant Road Elementary School
+Durant Road Middle School
+East Cary Magnet Middle School
+East Garner Elementary School
+East Garner Magnet Middle School
+East Millbrook Magnet Middle School
+East Wake High School
+Enloe Magnet High School
+Farmington Woods Magnet Elementary School
+Forest Pines Drive Elementary School
+Forestville Road Elementary School
+Fox Road Magnet Elementary School
+Fuller Magnet Elementary School
+Fuquay-Varina Elementary School
+Fuquay-Varina High School
+Fuquay-Varina Middle School
+Garner Magnet High School
+Graduation 2021
+Green Hope Elementary School
+Green Hope High School
+Green Level High School
+Green Magnet Elementary School
+Guides to Technology
+Harris Creek Elementary School
+Herbert Akins Road Elementary School
+Herbert Akins Middle School
+Heritage Elementary School
+Heritage High School
+Heritage Middle School
+Highcroft Drive Elementary School
+Hilburn Academy
+Hodge Road Magnet Elementary School
+Holly Grove Elementary School
+Holly Grove Middle School
+Holly Ridge Elementary School
+Holly Ridge Middle School
+Holly Springs Elementary School
+Holly Springs High School
+Hortons Creek Elementary School
+Hunter Magnet Elementary School
+Jeffreys Grove Magnet Elementary School
+Jones Dairy Elementary School
+Joyner Magnet Elementary School
+Kingswood Magnet Elementary School
+Knightdale Elementary School
+Knightdale High School
+Lacy Elementary School
+Lake Myra Elementary School
+Laurel Park Elementary School
+Lead Mine Elementary School
+Leesville Road Elementary School
+Leesville Road High School
+Leesville Road Middle School
+Ligon Magnet Middle School
+Lincoln Heights Magnet Elementary School
+Lockhart Elementary School
+Longview School
+Lufkin Road Middle School
+Lynn Road Elementary School
+Martin Magnet Middle School
+Middle Creek Elementary School
+Middle Creek High School
+Millbrook Magnet Elementary School
+Millbrook Magnet High School
+Mills Park Elementary School
+Mills Park Middle School
+Moore Square Magnet Middle School
+Morrisville Elementary School
+Mount Vernon Middle School
+Neuse River Middle School
+New Subsite 236
+Early Learning Center at Memory Road
+North Forest Pines Elementary School
+North Garner Middle School
+North Ridge Elementary School
+North Wake College & Career Academy
+Northwoods Elementary School
+Oak Grove Elementary School
+Oakview Elementary School
+Oberlin Magnet Middle School
+Olds Elementary School
+Olive Chapel Elementary School
+Panther Creek High School
+Parkside Elementary School
+Partnership Elementary School
+Penny Road Elementary School
+Phillips High School
+Pine Hollow Middle School
+Pleasant Grove Elementary School
+Pleasant Union Elementary School
+Poe Magnet Elementary School
+Powell Magnet Elementary School
+Project Enlightenment
+Rand Road Elementary School
+Reedy Creek Elementary School
+Reedy Creek Magnet Middle School Center for the Digital Sciences
+Richland Creek Elementary School
+River Bend Elementary School
+River Bend Middle School
+River Oaks Middle School
+Rogers Lane Elementary School
+Rolesville Elementary School
+Rolesville High School
+Rolesville Middle School
+Root Elementary School
+Salem Elementary School
+Salem Middle School
+Sanderson High School
+Sanford Creek Elementary School
+SCORE Academy
+Scotts Ridge Elementary School
+Smith Magnet Elementary School
+South Garner High School
+South Lakes Elementary School
+Southeast Raleigh Elementary School
+Southeast Raleigh Magnet High School
+Stough Magnet Elementary School
+Swift Creek Elementary School
+Sycamore Creek Elementary School
+Timber Drive Elementary School
+Turner Creek Elementary School
+Underwood Magnet Elementary School
+Vance Elementary School
+Vandora Springs Elementary School
+Vernon Malone College & Career Academy
+Virtual Academy Orientation
+Wake Early College of Health and Sciences
+Wake Early College of Information and Biotechnologies
+Wake Forest High School
+Wake Forest iSTEM Magnet Elementary School
+Wake Forest Middle School
+Wake STEM Early College High School
+Wake Young Men's Leadership Academy
+Wake Young Women's Leadership Academy
+Wakefield Elementary School
+Wakefield High School
+Wakefield Middle School
+Wakelon Elementary School
+Walnut Creek Elementary School
+Washington Magnet Elementary School
+Weatherstone Elementary School
+Wendell Elementary School
+Wendell Middle School
+West Cary Middle School
+West Lake Elementary School
+West Lake Middle School
+West Millbrook Middle School
+White Oak Elementary School
+Wilburn Elementary School
+Wildwood Forest Elementary School
+Wiley Magnet Elementary School
+Willow Spring High School
+Willow Springs Elementary School
+Woods Creek Elementary School
+Yates Mill Elementary School
+York Elementary School
+Zebulon Magnet Elementary School
+Zebulon Magnet Middle School
+Sign In
+Search Our Site
+View Our Schools
+wcpss home
+international families:
+español
+中文
+français
+Việt Nam
+한국어
+العربية
+हिंदी
+international families:
+español
+中文
+français
+Việt Nam
+한국어
+العربية
+हिंदी
+Elementary
+ES
+Middle
+MS
+High
+HS
+Special/Optional
+Special
+A - G
+H - N
+O - Z
+Home
+Our School
+"
+Brand Identity
+Careers
+Contact Us
+Enrollment
+Mission and Vision
+Principal's Message
+School Calendar
+School Improvement
+School Profile
+School Report Card
+Faculty + Staff Directory
+Academics and Programs
+"
+Cafeteria Staff
+Multi-tiered System of Supports (MTSS)
+Administration
+Office Staff
+Pre-K
+Kindergarten
+Grade 1
+Grade 2
+Grade 3
+Grade 4
+Grade 5
+Instructional Support Staff
+Student Support Services
+Special Education
+Enhancements
+Instructional Assistants
+Custodial Staff
+More
+Students
+"
+Digital Resources
+Media Center
+Families
+"
+Attendance Policy
+Before & After School Care
+Carpool Procedures
+Homework Resources
+Inclement Weather
+Online Payments
+Personal Technology Use
+PTA
+Read to Achieve
+School Meals
+School Supply Lists
+SchoolMessenger
+Student-Parent Handbook
+Transportation
+Understanding Your Child's Report Card
+Volunteer Information
+Helpful Resources for Families
+Learning in Grade Levels
+Annual Asbestos Notification
+Activities
+"
+News
+"
+PTA
+Page Navigation
+Welcome!
+Board Members
+Bylaws
+Calendar
+Committees
+Contact Us
+Agendas and Minutes
+Spirit Wear
+Reflections
+Fuquay-Varina Elementary School
+Welcome to FVES!
+Use the tabs on the left to navigate through our page.
+Looking for new ways to connect with other parents? Join the Parents of Fuquay-Varina Elementary Facebook page. Note that this page is not an official WCPSS site, and is intended solely for the purpose of increasing community in our school. Link here:
+https://www.facebook.com/groups/1567956116818217
+Membership -- Join PTA --
+fves.memberhub.com
+Want to buy a FVES T-shirt-
+fves.memberhub.com
+No Frills Fundraising -- Link Harris Teeter VIC Card to #2257
+Amazon.com/Smile (choose North Carolina Congress Fuquay Varina Elementary School PTA)
+Home
+Our School
+"
+Brand Identity
+Careers
+Contact Us
+Enrollment
+Mission and Vision
+Principal's Message
+School Calendar
+School Improvement
+School Profile
+School Report Card
+Faculty + Staff Directory
+Academics and Programs
+"
+Cafeteria Staff
+Multi-tiered System of Supports (MTSS)
+Administration
+Office Staff
+Pre-K
+Kindergarten
+Grade 1
+Grade 2
+Grade 3
+Grade 4
+Grade 5
+Instructional Support Staff
+Student Support Services
+Special Education
+Enhancements
+Instructional Assistants
+Custodial Staff
+More
+Students
+"
+Digital Resources
+Media Center
+Families
+"
+Attendance Policy
+Before & After School Care
+Carpool Procedures
+Homework Resources
+Inclement Weather
+Online Payments
+Personal Technology Use
+PTA
+Read to Achieve
+School Meals
+School Supply Lists
+SchoolMessenger
+Student-Parent Handbook
+Transportation
+Understanding Your Child's Report Card
+Volunteer Information
+Helpful Resources for Families
+Learning in Grade Levels
+Annual Asbestos Notification
+Activities
+"
+News
+"
+VISIT US
+Fuquay-Varina Elementary School
+6600 Johnson Pond Road, Fuquay-Varina NC 27526
+CONTACT US
+Other Questions
+STAY CONNECTED
+SCROLL TO TOP
+Copyright ©
+Wake County Public School System
+Non-Discrimination Policy
+Privacy Policy
+Website Feedback and Accessibility Issues
+Terms of Use
+Questions or Feedback?
+|
+Web Community Manager Privacy Policy (Updated)
+|
+Copyright © 2024 Finalsite - all rights reserved.
+CLOSE
+CLOSE

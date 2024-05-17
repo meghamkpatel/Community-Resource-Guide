@@ -1,0 +1,110 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '24ab5836-b5af-4488-9505-bd2fef676eb1'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '68f40c48-dbb0-45de-bcbf-3502e71f511d'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '2102'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Taking Church Outside the Wall one Movement at a time - Light the Way Ministry'}
+{'property': 'og:title', 'content': 'Light The Way | Missouri, USA'}
+{'property': 'og:description', 'content': 'Taking Church Outside the Wall one Movement at a time - Light the Way Ministry'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/e1e2e7_954d98b69fc84295bf23141ad8eb03ad%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e1e2e7_954d98b69fc84295bf23141ad8eb03ad%7Emv2.png'}
+{'property': 'og:image:width', 'content': '2500'}
+{'property': 'og:image:height', 'content': '1330'}
+{'property': 'og:url', 'content': 'https://www.lightthewayministry.com'}
+{'property': 'og:site_name', 'content': 'Light the Way'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'google-site-verification', 'content': 'X0OBXVXvBtQ1yaPKvVhchQ8k3Z1KhCDXNGfekBLZhSk'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Light The Way | Missouri, USA'}
+{'name': 'twitter:description', 'content': 'Taking Church Outside the Wall one Movement at a time - Light the Way Ministry'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/e1e2e7_954d98b69fc84295bf23141ad8eb03ad%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e1e2e7_954d98b69fc84295bf23141ad8eb03ad%7Emv2.png'}
+
+Body Text:
+Light The Way | Missouri, USA
+top of page
+More
+Prayer Pledge
+Partnering Churches
+Merch
+Partnership
+Volunteering
+About
+Contact Us
+Donate
+Movements
+Revival Tour
+Light The Way Olive Branch
+More...
+Use tab to navigate through the menu items.
+NOW HIRING
+CURRENT OPEN POSITIONS
+CREATIVE MARKETING ASSOCIATE
+365d
+24h
+60m
+60s
+OZARK, MO
+3 DAY REVIVAL
+Learn More
+OTHER UPCOMING EVENTS
+We Are Messengers & Ben Fuller
+June 9th - Aetos Center of the Performing Arts
+Night of Worship
+Friday, June 28 - Victory Church - Nixa, Mo
+Light The Way Music Festival Olive Branch
+July 5th - 6th 2024 - Olive Branch City Park
+Light the Way Revival
+Sept. 26th - 28th 2024 - Ozark Revival
+A CHANGE OF HEART LED TO THE CREATION OF
+LIGHT THE WAY
+After struggling with drug and alcohol addictions, founder and CEO John Wilson found salvation in Missouri in 2017.
+Over the last 18 years, John has worked in the music industry, but only for the previous 7 years in Christian music. The impact that Christian music has on people's lives was made apparent to John while he promoted a small Christian concert as a joke. Upon receiving Christ as his Lord and Savior, he was immediately delivered from his addictions.
+After seven years of producing some of the biggest Christian Music Festivals, John now feels the call to be more focused on the hearts of the hurting and the broken through a Revival ministry.
+We are introducing the Light the Way Ministry Revival Tour, a series of gatherings throughout the country. We hope to come to a location near you! We expect God to move through many lives with Healings, Deliverances, On-the-Spot Baptisms, Salvations, and Breakthroughs.
+WANT TO SEE
+REVIVAL IN YOUR TOWN?
+One person cannot do this by themselves, but together we can reap a remarkable harvest! In order to reach innumerable numbers of lives through Christ, we are seeking
+churches, ministries, and groups of believers to join us. We need YOU!
+We will provide the entire setup for each revival. Our basic setup includes a baptism tank, possibly a tent (unless a spacious enough auditorium is provided), a stage/platform, production, collective teams of worship leaders, and special guest speakers.
+If you are interested, please contact us at:
+417-319-1338
+INFO@LIGHTTHEWAYMINISTRY.COM
+OR
+INQUIRIES
+SEE
+FOR YOURSELF
+Check out our promo video for all the upcoming revivals that God has put on our hearts!
+GET THE WORD OUT
+Revival can start with you by sharing our vision with those around you.
+DOWNLOAD OUR INFO SHEET
+DONATE
+More
+Prayer Pledge
+Partnering Churches
+Merch
+Partnership
+Volunteering
+About
+Contact Us
+Donate
+Movements
+Revival Tour
+Light The Way Olive Branch
+More...
+Use tab to navigate through the menu items.
+CONTACT US:
+info@lightthewayministry.com
+417-319-1338
+SUBSCRIBE
+OFFICE LOCATION
+5002 North 22nd Street Ozark, MO 65721
+See Terms and Conditions
+Privacy Policy
+© 2022
+bottom of page

@@ -1,0 +1,217 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1, user-scalable=no'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home'}
+{'property': 'og:description', 'content': 'There’s Something For Everyone The Understudy is a theatre bookstore and coffee shop for people looking to get lost in a good book, enjoy a passionate conversation, or cozy up […]'}
+{'property': 'og:url', 'content': 'https://www.theunderstudy.com/'}
+{'property': 'og:site_name', 'content': 'The Understudy'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/TheUnderstudyChi/'}
+{'property': 'article:modified_time', 'content': '2024-03-20T16:20:45+00:00'}
+{'property': 'og:image', 'content': 'https://www.theunderstudy.com/wp-content/uploads/2023/04/The-Understudy-Photo-credit-Heather-Talbert-Photography-4-scaled.jpg'}
+{'property': 'og:image:width', 'content': '2560'}
+{'property': 'og:image:height', 'content': '1707'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://www.theunderstudy.com'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.theunderstudy.com/wp-content/uploads/2023/03/cropped-TheUnderstudy_Favicon-270x270-1.png'}
+
+Body Text:
+Home - The Understudy
+Our Story
+Café
+Bookstore
+Events
+News
+Press
+Contact
+FAQ
+Our Story
+Café
+Bookstore
+Events
+News
+Press
+Contact
+FAQ
+5531 N Clark
+Chicago, IL
+872-806-0670
+hello@theunderstudy.com
+There’s Something For Everyone
+The Understudy is a theatre bookstore and coffee shop for people looking to get lost in a good book, enjoy a passionate conversation, or cozy up with a delicious cup of coffee.
+Learn More About Us
+Events
+News
+View All Events
+ISLAND OF LOVE by Felicia Oduh
+May 20 @ 7:30 pm
+–
+9:00 pm
+A batch of romantic hopefuls compete for a chance to win love and a large cash prize on the UK’s hottest summer reality dating series. Though everyone has come on […]
+RSVP NOW
+ISLAND OF LOVE by Felicia Oduh
+May 20 @ 7:30 pm
+–
+9:00 pm
+I Can’t, I Have Trivia
+May 22 @ 7:30 pm
+–
+9:00 pm
+Theatre nerds, your time has come! Join us for another round of trivia at 7:30 on May 22nd. We recommend playing with a team of four. Hosted by our friend […]
+RSVP NOW
+I Can’t, I Have Trivia
+May 22 @ 7:30 pm
+–
+9:00 pm
+THE DRAG by Mae West presented by Gerber Hart Library
+May 25 @ 7:30 pm
+–
+9:30 pm
+Join us for a community reading of “The Drag” presented by the Gerber/Hart Library and Archives. Written by the iconic Mae West, this 1927 drama about a closeted socialite and […]
+RSVP NOW
+THE DRAG by Mae West presented by Gerber Hart Library
+May 25 @ 7:30 pm
+–
+9:30 pm
+Next Draft Series: How to Kill a Rodent
+June 1 @ 7:30 pm
+–
+9:00 pm
+How to Kill a Rodent By Eleanor McCaughey Canadians Guy and Carrie take a road trip to Punxsutawney, Pennsylvania only days before Groundhog Day, in an effort to assassinate Punxsutawney […]
+RSVP NOW
+Next Draft Series: How to Kill a Rodent
+June 1 @ 7:30 pm
+–
+9:00 pm
+TGNC Theatre Maker’s Meetup
+June 2 @ 7:00 pm
+–
+10:00 pm
+🏳️‍⚧️MEETUP🏳️‍⚧️ Trans and gender non-conforming theatre makers, Join us June 2nd for an evening of community and connection. We’re hanging out 7pm to 10pm and keeping the cafe open for […]
+RSVP NOW
+TGNC Theatre Maker’s Meetup
+June 2 @ 7:00 pm
+–
+10:00 pm
+Next Draft Series: How to Kill a Rodent
+June 3 @ 7:30 pm
+–
+9:00 pm
+How to Kill a Rodent By Eleanor McCaughey Canadians Guy and Carrie take a road trip to Punxsutawney, Pennsylvania only days before Groundhog Day, in an effort to assassinate Punxsutawney […]
+RSVP NOW
+Next Draft Series: How to Kill a Rodent
+June 3 @ 7:30 pm
+–
+9:00 pm
+Next Draft Series: Infinity Burns
+June 8 @ 7:30 pm
+–
+9:00 pm
+Infinity Burns By Felix Abidor Giordano Bruno, a 16th-century monk, is sentenced to death for his radical beliefs in an infinite universe. Cast: Peter Ferneding Stephanie Fongheiser Madison Kiernan Playwright: […]
+RSVP NOW
+Next Draft Series: Infinity Burns
+June 8 @ 7:30 pm
+–
+9:00 pm
+Next Draft Series: Infinity Burns
+June 10 @ 7:30 pm
+–
+9:00 pm
+Infinity Burns By Felix Abidor Giordano Bruno, a 16th-century monk, is sentenced to death for his radical beliefs in an infinite universe. Cast: Peter Ferneding Stephanie Fongheiser Madison Kiernan Playwright: […]
+RSVP NOW
+Next Draft Series: Infinity Burns
+June 10 @ 7:30 pm
+–
+9:00 pm
+G. L. O. W. : A Queer Sober Open Mic Night
+June 14 @ 7:30 pm
+–
+10:00 pm
+The Understudy presents G.L.O.W.: a Queer Sober Open Mic Night ABOUT THE EVENT Join The Understudy for G.L.O.W., a queer sober open mic night hosted by K.J Whitehead and Sharon […]
+RSVP NOW
+G. L. O. W. : A Queer Sober Open Mic Night
+June 14 @ 7:30 pm
+–
+10:00 pm
+View All Events
+View All News
+Grown in Chicago: Creating Your Community
+05 / 14 / 2024
+Read more
+Where Should I Go While I’m In Chicago For SCA Expo 2024?
+04 / 08 / 2024
+Read more
+Chicago Reader Best Coffee Shop 2023
+02 / 22 / 2024
+Read more
+STORE EXPLORER: Where Magician Dennis Watkins Shops
+02 / 08 / 2024
+Read more
+Here’s To Never Growing Up: A Review of “The Best Damn Thing” at The Understudy
+02 / 01 / 2024
+Read more
+Best Damn Book Shop: The Understudy’s New Frontier
+01 / 30 / 2024
+Read more
+Avril Lavigne-Inspired Musical ‘The Best Damn Thing’ Helps Viewers Connect With Their Inner Teen
+01 / 29 / 2024
+Read more
+The Best Damn Thing explores teenage power and pain
+01 / 24 / 2024
+Read more
+‘Cuppa Joe’ at The Understudy Coffee and Books
+01 / 03 / 2024
+Read more
+Chicago’s Essential Coffee Shops
+11 / 14 / 2023
+Read more
+View All News
+Theatre Bookstore, Coffee Shop, Creative Hub
+Triple Threat
+Theatre Bookstore, Coffee Shop, Creative Hub
+Triple Threat
+Theatre Bookstore, Coffee Shop, Creative Hub
+Triple Threat
+Theatre Bookstore, Coffee Shop, Creative Hub
+Triple Threat
+Sign Up For Updates
+Join The Newsletter
+Please provide a valid email address.
+Sign Up Now
+Get in Touch
+5531 N Clark
+Chicago, IL
+872-806-0670
+hello@theunderstudy.com
+Hours
+Monday
+7am–6pm
+Tuesday
+7am–6pm
+Wednesday
+7am–6pm
+Thursday
+7am–6pm
+Friday
+7am-6pm
+Saturday
+8am–6pm
+Sunday
+8am–6pm
+Navigation
+Our Story
+Café
+Bookstore
+Events
+News
+Press
+Contact
+FAQ
+© 2024 The Understudy
+Site by
+Grip

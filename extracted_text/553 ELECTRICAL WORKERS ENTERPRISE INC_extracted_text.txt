@@ -1,0 +1,549 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=10'}
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, minimum-scale=1.0'}
+{'http-equiv': 'Expires', 'content': '0'}
+{'name': 'GENERATOR', 'content': 'Microsoft SharePoint'}
+{'http-equiv': 'Content-Type', 'content': 'text/html; charset=utf-8'}
+{'http-equiv': 'Expires', 'content': '0'}
+{'name': 'HandheldFriendly', 'content': 'True'}
+{'name': 'MobileOptimized', 'content': '320'}
+{'name': 'format-detection', 'content': 'telephone=yes'}
+{'name': 'robots', 'content': 'index, follow'}
+{'name': 'viewport', 'content': 'width = device-width, initial-scale=1.0'}
+{'name': 'msapplication-TileColor', 'content': '#ffffff'}
+{'name': 'msapplication-TileImage', 'content': '/_layouts/15/images/SharePointMetroAppTile.png'}
+{'name': 'msapplication-TileColor', 'content': '#0072C6'}
+{'name': 'msvalidate.01', 'content': '8961571E0251F88698D0529429DFD8E9'}
+{'name': 'google-site-verification', 'content': '9zR-kvcPYbXCTtCjykCrB0s5SmN_Ng0M2XfxMlDsg1o'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Bidding Information'}
+{'property': 'og:image', 'content': 'https://www.dgs.pa.gov/PublishingImages/logo.png'}
+{'property': 'og:site_name', 'content': 'Department of General Services'}
+
+Body Text:
+Bidding Information | Department of General Services | Commonwealth of Pennsylvania
+You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.
+An Official
+Pennsylvania
+Government Website
+Translate
+DGS
+Department of General Services
+Businesses
+Businesses
+Automotive Service Providers
+Design & Construction
+Enterprise Wireless
+Home State Verification
+Materials & Services Procur...
+Pennsylvania Standards Lab
+Real Estate Sales & Leasing
+Small Diverse Business
+Surplus Supplies & Equipment
+Local Government & Schools
+Local Government & Schools
+COSTARS - Cooperative Purch...
+Disaster & Emergency Procure..
+Pennsylvania Standards Lab
+Fed./State Surplus & Supplies
+State Government
+State Government
+Design & Construction Info
+Facilities & Space Management
+GreenGov Council
+PA Capitol Police
+Print, Design, & Mail
+Procurement Resources
+Supply & Surplus Operations
+Vehicle Management
+Video, Photo, & Marketing
+Search
+Search
+Menu
+Department of General Services
+Menu
+Businesses
+Businesses
+Automotive Service Providers
+Design & Construction
+Enterprise Wireless
+Home State Verification
+Materials & Services Procur...
+Pennsylvania Standards Lab
+Real Estate Sales & Leasing
+Small Diverse Business
+Surplus Supplies & Equipment
+Local Government & Schools
+Local Government & Schools
+COSTARS - Cooperative Purch...
+Disaster & Emergency Procure..
+Pennsylvania Standards Lab
+Fed./State Surplus & Supplies
+State Government
+State Government
+Design & Construction Info
+Facilities & Space Management
+GreenGov Council
+PA Capitol Police
+Print, Design, & Mail
+Procurement Resources
+Supply & Surplus Operations
+Vehicle Management
+Video, Photo, & Marketing
+PA Supplier Portal
+eMarketplace
+COSTARS
+Commonwealth Phone Directory
+Small Diverse Business Program
+View/Schedule Capitol Events
+Department of General Services
+>
+Design & Construction
+>
+Bidding
+Begin Main Content Area
+Page Content
+​​​​​​​​​​​Bidding
+Construction contractors interested in performing construction contracts with the department must first complete the
+Vendor Registration
+process.  Upon successful completion of the process, contractors are encouraged to view bidding opportunities posted by the department on
+eMarketplace.
+Bidding Opportunities
+Notice of Forthcoming Construction Procurements - 5-3-2024.pdf
+Click
+here
+for construction projects currently out to bid.
+Click
+here
+for Request for Proposal projects currently out for proposals.
+Due to technical limitations, public bid openings must be viewed using a Windows PC. At this time,​ mobile devices are not supported. Interested parties may also watch the live bid opening in the Public Works Plaza, 1st Floor, 1800 Herr Street, Harrisburg, PA 17103.  Each contract point will stay viewable for no less than 2 minutes.
+To view the live bid opening please select the link below:
+Please utilize the below "Microsoft Teams Meeting" link:
+Microsoft Teams meeting
+Join on your computer or mobile app
+Click here to join the meeting
+Or call in (audio only)
++1 267-332-8737,,85751041#
+United States, Philadelphia
+Phone Conference ID: 857 510 41#
+Allows viewing of collaboration content (shared screen) via browser.
+C
+URRENT PROJECTS BIDDING:
+DGS 948-94 P1 - East Wing & Main Capitol - Upgrade/Repalce Emergency Generators
+DGS 1101-55 P1 - Lincoln University - Renovations and Additions to Manuel Rivero Gymnasium
+1101-0055 P1 240513 Pre-Bid Walk Sign-in.pdf
+DGS A199-92 P1 - Fairview State Fish Hatchery - Fisheries Management Area 9 Office
+A-0199-0092-001 Pre-bid Sign-in Sheet.jpg
+​DGS 417-46 P1 - Thaddeus Stevens College, Community Learning Center
+DGS 251-102 P1, Dauphin County Fleet Mgt Facility - Replace Roofing
+DGS 377-08 P1 - SCI Forest - Upgrade/Replace PLC & Microlite System & BAS Upgrade
+DGS 403-85 P2 - Cheyney University - Deferred Maintenance Repairs
+403-85 Pre-Bid Sign In Sheet.pdf
+DGS 376-08 P2 - SCI Laurel Highlands - Camera Upgrade (REVISED REBID)
+C-0376-8 Ph2 - SCI Laurel Highlands REBID Prebid Conf Sign In Sheet
+DGS 948-98 P1 - Capitol Complex - Automation System Upgrades
+C-0948-0098-001- Pre-Bid Conf SIGN-In Sheet_2024-04-01.pdf
+​
+DGS 251-61 P1 - PennDOT - Development of New Stockpile, Dauphin County (REVISED REBID)
+DGS 304-15 P2 - Elizabethtown Training Academy - Renovate Boiler Plant and Domestic/Fire Protection, Piping
+DGS 515-33 P1 - Wernersville State Hospital - Upgrade Elevators
+​​
+Current Project Bidding Potential Bidder List
+Every Monday the Potential Bidder list is updated.
+Bid Results
+Bid Tab 515-33 Ph.1
+Bid Tab 376-08 Ph. 2 Revised Rebid
+Bid Tab 251-61 Ph.1 Revised Rebid
+Bid Tab 304-15 P2 Rebid
+Bid Tab 953-0001 Ph.1
+Bid Tab 1578-11 Ph.1
+Bid Tab 588-16 Ph.1
+Bid Tab 940-09 Ph.1
+​
+Bid Tab 417-52 Ph.1 Rebid
+Bid Tab 553-40 Ph.1
+Bid Tab A200-0057 Ph.1
+Bid Tab 417-52 Ph.1
+Bid Tab 417-51 Ph.1 Rebid
+Bid Tab 251-51 Ph.1
+Bid Tab 948-101 Ph.1
+Bid Tab 946-12 Ph.4
+Bid Tab A200-0057 Ph.1
+Bid Tab 199-53 Ph.1
+Bid Tab 573-31 Ph.1
+Bid Tab 376-8 Ph.2
+Bid Tab 700-47 Ph.5
+Bid Tab 128-51 Ph.1
+Bid Tab 515-34 Ph.1
+Bid Tab 1576-10 P1
+Bid Tab 251-61 Ph.1
+Bid Tab 251-37 Ph.3
+Bid Tab 373-9 Ph.1  GC only
+Bid Tab 251-96 Ph.1
+Bid Tab 573-31 Ph.3 Revised Rebid
+Bid Tab 557-23 Ph.1
+Bid Tab 572-27 P1
+Bid Tab
+403-83 P1 Rebid
+Bid Tab
+514-30 Ph1
+Bid Tab
+588-15 Ph.1
+Bid Tab 403-86 Ph.2
+Bid Tab 372-5.1 Ph.1
+Bid Tab
+411-67 Ph. 1
+Bid Tab
+377-7 Ph.1 Revised Rebid
+Bid Tab 211-5 Ph 6 Rebid
+Bid Tab
+403-83 P1
+Bid Tab
+251-97 Ph 1
+Bid Tab 407-76 Ph.1
+Bid Tab
+218-3 Ph.1
+Bid Tab
+1578-8 Ph.1
+Bid Tab
+407-75 Ph.1
+Bid Tab 1576-9 Ph.1 Re-Bid
+Bid Tab 417-51 Ph.1 Rebid
+Bid Tab
+961-19 P6
+Bid Tab
+377-07 P1
+Bid Tab
+372-04 P2 Rebid
+Bid Tab
+251-98 P1
+Bid Tab 304-15 P1&2
+Bid Tab 1576-09 Ph.1
+Bid Tab
+251-97 Ph.1
+Bid Tab
+408-67 P1
+Bid Tab
+960-86 P2
+Bid Tab
+583-22 P1
+Bid Tab
+963-60 Ph 1
+Bid Tab
+408-67 Ph 1
+Bid Tab
+251-87 Ph 1
+Bid Tab
+573-31 P3
+Revised
+Bid Tab
+406-60 Ph 1
+Bid Tab
+409-64 Ph 1
+Bid Tab
+948-95 Ph1
+Bid Tab
+969-16 P2
+Bid Tab
+372-04 P2
+Bid Tab
+414-73 P1
+Bid Tab
+700-47 P4
+Bid Tab.
+961-36 Ph 1
+Bid Tab
+571-39 Ph 1
+Bid Tab
+114-06 Ph 1
+Bid Tab
+948-97 Ph 1
+Bid Tab
+100-29
+Ph1
+Bid Tab
+1580-04 Ph 1
+Bid Tab
+377-06 Ph 1
+Bid Tab
+506-26 Ph 1
+Bid Tab
+969-17 P1
+Bid Tab
+251-37 P3
+Bid Tab
+960-87 Ph 1
+Bid Tab
+1579-11 Ph 1
+Bid Tab
+401-62 Ph1
+Awarded Bids
+May 2, 2024, DGS 553-40.4 P1, Decar Electric, Inc., $3,792,000.00
+April 30, 2024, DGS 417-51.1 P1, Detwiler Roofing, LLC, $977,000.00
+April 23, 2024, DGS A200-57.1 P1, JC Orr and Son, Inc., $9,421,372.00
+April 23, 2024, DGS A200-57.2 P1, MidState Mechanical & Electrical, LLC, $1,934,000.00
+April 23, 2024, DGS A200-57.3 P1, Stouffer Mechanical Contractor, LLC, $569,344.00
+April 23, 2024, DGS A200-57.4 P1, MidState Mechanical & Electrical, LLC, $1,744,067.00
+April 23, 2024, DGS 948-101.1 P1, East Coast Contracting, Inc., $3,907,700.00
+April 23, 2024, DGS 948-101.2 P1, GR Sponaugle and Sons, Inc., $350,800.00
+April 23, 2024, DGS 948-101.3 P1, GR Sponaugle and Sons, Inc., $105,900.00
+April 23, 2024, DGS 948-101.4 P1​, Wassertech Engineering Limited, $233,783.00
+April 15, 2024, DGS 1576-10.1 P1, DIS Associates, LLC, $748,844.22
+April 15, 2024, DGS 1576-10.2 P1, Master Mechanical Corporation, $341,975.00
+April 15, 2024, DGS 1576-10.4 P1, Bob Biter Electrical Enterprises, Inc., $10,672,800.00
+March 13, 2024, DGS 953-01.1 P1, DK Construction Services, LLC, $75,000.00
+March 13, 2024, DGS 953-01.2 P1, Scranton Electric Heating and Cooling Services, Inc., $292,286.00
+March 13, 2024, DGS 953-01.4 P1. GR Noto Electrical Construction, Inc., $23,150.00
+April 10, 2024. DGS 946-12.1 P4, RLS Construction Group, LLC, $4,686,780.00
+April 10, 2024. DGS 946-12.2 P4, Jones Masonry Corporation, $544,000.00
+April 10, 2024. DGS 946-12.3 P4, RLS Construction Group, LLC, $336,838.00
+April 10, 2024. DGS 946-12.4 P4, Cyprium Solutions, Inc., $4,149,000.00
+April 10, 2024. DGS 199-38.1 P1, KC Construction Company, $5,934,000.00
+February 21, 2024, DGS 128-51.1 P1, VendRick Construction, Inc., $2,494,800.00
+February 21, 2024, DGS 128-51.2 P1, First American Industries, Inc., $282,000.00
+February 21, 2024, DGS 128-51.3 P1, First American Industried, Inc., $127,000.00
+February 21, 2024, DGS 128-51.4 P1, Alderson Crawford Electric, LLC, $168,980.25
+February 21, 2024, DGS 373-09.1 P1. D&M Construction Unlimited, Inc., $1,100,000.00
+February 21, 2024, DGS 373-09.2 P1, Master Mechanical Corporation, $659,660.00
+February 21, 2024, DGS 373-09.3 P1, Master Mechanical Corporation, $149,604.00
+February 21, 2024, DGS 373-09.4 P1, Bob Biter Electrical Enterprises, Inc., $9,000,000.00
+February 20, 2024, DGS 251-37.1 P3, DiMarco Construction Company, Inc., $6,021,000.00
+February 20, 2024, DGS 251-37.2 P3, First American Industries, Inc., $443,900.00
+February 20, 2024, DGS 251-37.3 P3, Wheels Mechanical Contracting and Supplier, $196,600.00
+February 20, 2024, DGS 251-37.4 P3, A&MP Electric, $291,134.00
+January 23, 2024, DGS 557-23.1 P1, Houck Services, Inc., $688,945.00
+January 23, 2024, DGS 557-23.3 P1, Rodney B Smith Plumbing, Heating & Cooling, Inc., $179,000.00
+January 29, 2024, DGS 251-96.1 P1, Penn State Construction J&D, LLC, $6,082,000.00
+January 29, 2024, DGS 251-96.2 P1, Air Systems Mechanical Contracting, Inc., $45,979.00
+​
+January 29, 2024, DGS 251-96.3 P1, Independence Excavating, Inc., $118,500.00
+​
+January 29, 2024, DGS 251-96.4 P1, Westmoreland Electric Services, LLC., $837,000.00
+January 31, 2024, DGS 700-47.1 P5, C&D Waterproofing Corporation, $7,487,065.00
+January 31, 2024, DGS 700-47.3 P5, WC Eshanaur and Son, Inc., $131,602.00
+January 31, 2024, DGS 700-47.4 P5, BJH Electrical, Inc., $243,000.00
+December 27, 2023, DGS 573-31.2 P3, Master Mechanical Corporation, $1,721,975.00
+December 27,2023, DGS 573-31.4 P3, Wassertech Engineering Limited, $123,888.00
+January 3, 2024, DGS 572-27.2 P1, Burke & Company, LLC, $1,735,000.00
+January 10, 2024, DGS 514-30.1 P1, Fred L Burns, Inc., $2,425,200.00
+January 10, 2024, DGS 514-30.2 P1, Renick Brothers Constrution Company, $4,900,000.00
+January 10, 2024, DGS 514-30.3 P1, Fred L Burns, Inc. $284,000.00
+January 10, 2024, DGS 514-30.4 P1, LP Electric, LLC, $901,844.00​
+December 18, 2023, DGS 403-83.1 P1. Donald E Reisinger, Inc., $3,998,375.00
+December 18, 2023, DGS 403-83.2 P1, Allstates Mechanical, Ltd., $1,492,524.00
+December 18, 2023, DGS 403-83.3 P1, Myco Mechanical, Inc., $400,000.00
+December 18, 2023, DGS 403-83.4 P1, Hobbs and Co., $355,000.00​
+December 4, 2023, DGS 588-15.1 P1, East Coast Contracting, Inc., $3,017,700.00
+December 4, 2023, DGS 588-15.2 P1, Silvertip, Inc., $1,357,400.00
+December 4, 2023, DGS 588-15.3 P1, Silvertip, Inc., $662,500.00
+December 4, 2023, DGS 588-15.4 P1, MidState Mechanical and Electrical, LLC, $1,410,000.00
+November 28, 2023, DGS 211-05.1 P6, Wohlsen Construction Company, $69,414,943.00
+November 28, 2023, DGS 211-05.2 P6, JBM Mechanical Inc., $3,833,000.00
+November 28, 2023, DGS 211-05.3 P6, Jay R Reynolds, Inc., $3,737,000.00
+November 28, 2023, DGS 211-05.4 P6, US Solutions, Inc., $5,535,000.00
+November 16, 2023, DGS 372-05.1 P1, Jones Masonry Restoration Corp., $465,000.00
+September 13, 2023, DGS 218-03.1 P1, Perry Construction Group, Inc., $24,429,000.00
+September 13, 2023, DGS 218-03.2 P1, Renick Brothers Construction Company, $3,233,000.00
+September 13,
+2023, DGS 218-03.3 P1, Scobell Company, Inc., $1,680,400.00
+September 13,
+2023, DGS 218-03.4 P1, Church & Murdock Electric, Inc., $4,281,835.00
+August 16, 2023, DGS 100-29.1 P1, Schuylkill River Project, KC Construction, $1,260,000.00
+August 7, 2023, DGS 251-98.1 P1, PennDOT Mercer Welcome Center, Thomas Construction, $1,615,063.00
+August 7, 2023, DGS 251-98.2 P1, PennDOT Mercer Welcome Center, D&G Mechanical, Inc.,, $254,100.00
+August 7, 2023, DGS 251-9
+8.3 P1, PennDOT Mercer Welcome Center, Newman Plumbing, Inc., $172,322.00
+August 7, 2023, DGS 251-9
+8.4 P1, PennDOT Mercer Welcome Center, Penn Ohio Electrical Company, $279,000.00
+August 7, 2023, DGS 961-19.1 P6, Wilkes-Barre Readiness Center, D&M Construction Unlimited, Inc., $5,273,500.00
+August 7, 2023, DGS 961-19.2 P6, Wilkes-Barre Readiness Center, Myco Mechanical, Inc., $3,278,000.00
+August 7, 2023, DGS 961-19.3 P6, Wilkes-Barre Readiness Center, Myco Mechanical, Inc., $724,000.00
+August 7, 2023, DGS 961-19.4 P6, Wilkes-Barre Readiness Center, Urban Electrical Contractors, $1,722,600.00
+July 28, 2023, DGS 1576-09.1 P1, SCI Frackville, JM Young & Sons, Inc., $1,427,350.00
+July 12, 2023, DGS 963-60.1 P1, Friedens Readiness Center, JC Orr & Son, Inc., $6,313,216.00
+July 12, 2023, DGS 963-60.2 P1, Friedens Readiness Center, Lugaila Mechanical, Inc., $1,900,000.00
+July 12, 2023, DGS 963-60.3 P1, Friedens Readiness Center, Newman Plumbing Inc., $568,322.00
+July 12, 2023, DGS 963-60.4 P1, Friedens Readiness Center, Westmoreland Electric Services, LLC, $1,067,000.00
+July 10, 2023, DGS 408-67.1, Kutztown University, Uhrig Construction, $5,255,322.00
+July 10, 2023, DGS 408-67.2, Kutztown University, JBM Mechanical, Inc., $1,069,000.00
+July 10, 2023, DGS 408-67.3, Kutztown University, Vision Mechanical, Inc., $448,980.00
+July 10, 2023, DGS 408-67.4, Kutztown University, Hirneisen Electric, Inc., $1,011,350.00
+June 22, 2023, DGS 251-87.1 P1, District 9-0 Blair County, Leonard S Fiore, Inc., $3,318,000.00
+June 22, 2023, DGS 251-87.2 P1, District 9-0 Blair County, Jones Masonry Restoration Corp, $2,180,000.00
+June 22, 2023, DGS 251-87.3 P1, District 9-0 Blair County, K&K Plumbing Company, $62,918.00
+June 22, 2023, DGS 251-87.4 P1, District 9-0 Blair County, Bettwy Electrical, Inc., $644,263.00
+May 19, 2023, DGS 409-64.1 P1, Lock Haven University, Earthmovers Unlimited, Inc., $2,039,455.00
+May 19, 2023, DGS 409-64.2 P1, Lock Haven University, Jones Masonry Restoration Corp, $424,000.00
+May 19, 2023, DGS 409-64.4 P1, Lock Haven University, Joyce Electrical, Inc., $287,060.00
+May 17, 2023, DGS 571-39.1 P1, SCI Benner, JC Orr & Son, Inc., $2,817,186.00
+May 17, 2023, DGS 571-39.2 P1, SCI Benner, GM McCrossin, Inc., $874,512.00
+May 17, 2023, DGS 571-39.3 P1, SCI Benner, GM McCrossin, Inc., $652,775.00
+May 17, 2023, DGS 571-39.4 P1, SCI Benner, PCBA Allen Mechanical & Electrical. $418,600.00
+June 15, 2023, DGS 960-86.1 P2, Marquette Lake, Redrock Construction, Inc., $847,770.00
+June 12, 2023, DGS 583-22 .1 P1, Ebensburg Center, Mid-State Construction, Inc., $396,919.00
+June 12, 2023, DGS 583-22 .2 P1, Ebensburg Center, K&K Plumbing Company, $80,897.00
+June 12, 2023, DGS 583-22 .3 P1, Ebensburg Center, K&K Plumbing Company, $129,183.00
+June 12, 2023, DGS 583-22 .4 P1, Ebensburg Center, Bob Biter Enterprises, Inc., $3,330,000.00
+March 1, 2023, DGS 401.62.1 P1, Bloomsburg University, eciConstruction, LLC, $10,987,234.00
+March 1, 2023, DGS 401.62.2 P1, Bloomsburg University, Silvertip, Inc., $5,979,700.00
+March 1, 2023, DGS 401.62.3 P1, Bloomsburg University, Silvertip, Inc., $1,460,700.00
+March 1, 2023, DGS 401.62.4 P1, Bloomsburg University, Hayden Power Group, $4,124,000.00
+March 10, 2023, DGS 502-34.1 P1. Clarks Summit State Hospital, D & M Construction Unlimited, Inc., $1,469,200.00
+March 10, 2023, DGS 502-34.4 P1. Clarks Summit State Hospital, Mark Whitehead Electrical Contractor, Inc., $275,700.00
+March 10, 2023, DGS 502-34.5 P1. Clarks Summit State Hospital, Beach Lake Sprinkler, $1,499,500.00
+May 3, 2023, DGS 406-60.1 P1, Edinboro University, Safeco Services, $2,939,189.26
+March 20, 2023, DGS 700-47.1 P4, Farm Show Complex, C&D Waterproofing Corporation, $2,257,380.00
+March 24, 2023, DGS 114-06.1 P1, Hickory Run State Park, RLS Construction Group, $3,546,324.00
+March 24, 2023, DGS 114-06.2 P1, Hickory Run State Park, LTS Plumbing & Heating, Inc., $358,780.00
+March 24, 2023, DGS 114-06.3 P1, Hickory Run State Park, O&M Multi-Trade, Inc., $1,199,176.00
+March 24, 2023, DGS 114-06.4 P1, Hickory Run State Park, Mark Whitehead Electrical Contractor, Inc., $305,264.73
+March 20, 2023, DGS 969-17.1 P1, Hollidaysburg Veterans Home, JC Orr & Son, Inc, $45,618,514.00
+March 20, 2023, DGS 969-17.2 P1, Hollidaysburg Veterans Home, Hranec Sheet Metal, Inc, $5,999,000.00
+March 20, 2023, DGS 969-17.3 P1, Hollidaysburg Veterans Home, RLS Construction Group, $7,438,000.00
+March 20, 2023, DGS 969-17.4 P1, Hollidaysburg Veterans Home, Westmoreland Electric Services, LLC, $18,995,000.00
+March 29, 2023, DGS 969-16.1 P2, Hollidaysburg Veterans Home, Mid-State Construction, Inc., $5,837,781.00
+March 29, 2023, DGS 969-16.2 P2, Hollidaysburg Veterans Home, Hranec Sheet Metal, Inc., $850,000.00
+M
+arch 29, 2023, DGS 969-16.3 P2, Hollidaysburg Veterans Home, K&K Plumbing Company, $944,412.00
+March 29, 2023, DGS 969-16.4 P2, Hollidaysburg Veterans Home, Bob Biter Electrical Enterprises, Inc., $273,700.00
+March 24, 2023, DGS 961-36.1 P1, Plymouth Meeting - Hosham Readiness Center, Uhrig Construction, Inc., $6,078,748.00
+March 24, 2023, DGS 961-36.2 P1, Plymouth Meeting - Hosham Readiness Center, Five Star, Inc., $2,558,000.00
+March 24, 2023, DGS 961-36.3 P1, P
+lymouth Meeting - Hosham Readiness Center, Five Star, Inc., $1,682,000.00
+March 24, 2023, DGS 961-36.4 P1, Plymouth Meeting - Hosham Readiness Center, US Solutions, Inc., $1,586,300.00
+March 1, 2023, DGS 1580-04.1 P1, Quehanna Motivational Boot Camp, Leonard S Fiore, Inc., $3,186,000.00
+March 1, 2023, DGS 1580-04.2 P1, Quehanna Motivational Boot Camp, Hranec Sheet Metal, Inc., $548,000.00
+March 1, 2023, DGS 1580-04.3 P1, Quehanna Motivational Boot Camp, WC Eshenaur and Son, Inc., $335,618.00
+March 1, 2023, DGS 1580-04.4 P1, Quehanna Motivational Boot Camp, Bob Biter Electrical Enterprises, Inc., $617,000.00
+April 6, 2023, DGS 948-95.1 P1, Scranton State Office Building, Detwiler Roofing, LLC, $1,260,680.00
+April 6, 2023, D
+GS 948-95.3 P1, Scranton State Office Building, Jones Masonry Restoration Corp, $188,000.00
+April 6, 2023, DGS 948-95.4 P1, Scranton State Office Building, Urban Electrical, $56,200.00
+March 10, 2023, DGS 414-73.1 P1, West Chester University, FR Beinke Wrecking, $470,000.00
+Bidding Documents
+Administrative Procedures 2020 Edition
+Administrative Procedures 2022 Edition
+Administrative Procedures for Design Build Contracts 2020 Edition
+Standard Construction Contract and Contract Bond 2020Editi
+on
+Standard Construction Contract and Contract Bond 2022 Edition
+General Conditions to the Construction Contract 2020 Edition
+General Conditions to the Construction Contract 2022 Edition
+General Conditions for Design Build Contracts 2020 Edition
+Instructions to Bidders 2020 Edition, 09-04-2020
+Instructions to Bidders 2022 Edition
+Request for Proposal Process Guidelines 2023 Edition
+Public Works Employment Vertification
+Public Works Worker Protection and Investment
+Learn more about the
+Small Business Contracting Program
+.
+Learn More about the
+Small Diverse Business Program for Construction
+.
+​
+Design
+Bidding
+Construction
+Job Order Contracting
+Steel Products Procurement Act
+Construction Program Resources
+Construction Project Showcase
+Design & Construction Info
+Public Works Employment Verification
+Josh Shapiro, Governor
+Reggie McNeil, Secretary
+Contact Us
+About
+About DGS
+Executive Team
+Employees & Employment
+COVID-19 Info
+News & Media
+Press Releases
+DGS Appropriations Budgetary Submissions
+Contact Us
+Pennsylvania Right-To-Know Law
+Commonwealth Phone Directory
+Report Misuse of a State Vehicle
+File An Insurance Claim
+Security Access Badge
+DGS Directory
+Visit the Capitol
+Visiting Hours & Guidelines
+Capitol Complex Map
+The Capitol Restaurant
+Parking Around the Capitol
+View Capitol Complex Events
+Schedule Capitol Complex Event
+Visit the PA Capitol
+Facebook
+Twitter
+LinkedIn
+Josh Shapiro, Governor
+Reggie McNeil, Secretary
+Contact Us
+About
+About DGS
+Executive Team
+Employees & Employment
+COVID-19 Info
+News & Media
+Press Releases
+DGS Appropriations Budgetary Submissions
+Contact Us
+Pennsylvania Right-To-Know Law
+Commonwealth Phone Directory
+Report Misuse of a State Vehicle
+File An Insurance Claim
+Security Access Badge
+DGS Directory
+Visit the Capitol
+Visiting Hours & Guidelines
+Capitol Complex Map
+The Capitol Restaurant
+Parking Around the Capitol
+View Capitol Complex Events
+Schedule Capitol Complex Event
+Visit the PA Capitol
+Social Media
+Facebook
+Twitter
+LinkedIn
+COMMONWEALTH OF PENNSYLVANIA
+Keystone State. Proudly founded in 1681 as a place of tolerance and freedom.
+TOP SERVICES
+Register to Vote
+Find a DMV
+Get a Birth Certificate
+Join the Veterans Registry
+Visit Pennsylvania
+PennWatch
+Right-to-Know Law
+GOVERNMENT
+Governor Josh Shapiro
+Directory
+State House
+State Senate
+Courts
+Lt. Governor Austin Davis
+Attorney General
+Auditor General
+Treasurer
+PA.GOV
+Who We Are
+Pennsylvania Facebook
+Pennsylvania Twitter
+State Symbols
+News
+Social Media
+Apps
+Careers & Internships
+ACCESSIBILITY
+PRIVACY & DISCLAIMERS
+TRANSLATION DISCLAIMER
+SECURITY
+Copyright ©
+2024
+Commonwealth of Pennsylvania. All rights reserved.

@@ -1,0 +1,95 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'description', 'content': ''}
+{'name': 'keywords', 'content': ''}
+{'property': 'og:title', 'content': 'Home'}
+{'property': 'og:url', 'content': 'https://www.match2marry.com/'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': ''}
+{'property': 'og:image', 'content': 'https://www.match2marry.com/'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'Home'}
+{'name': 'twitter:description', 'content': 'US based authentic muslim matchmaking services.'}
+{'name': 'twitter:url', 'content': 'https://www.match2marry.com/'}
+{'name': 'twitter:image', 'content': 'https://www.match2marry.com/'}
+{'name': 'apple-mobile-web-app-status-bar', 'content': '#aa7700'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'default'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'theme-color', 'content': 'black'}
+{'name': 'apple-mobile-web-app-title', 'content': 'Appscope'}
+
+Body Text:
+Home - Match2Marry.com - US Based Authentic Muslim Matchmaking Site.
+Why us
+About us
+Mission & Vision
+Executive members
+Guidance Council
+Guardian Council
+Services
+Marriage Counseling
+Event Facilitating
+Muslim Marriage Registration
+Resources
+Islamic Guidelines
+Happy Stories
+Marriage Resources
+Events
+Seminars
+Educational Programs
+Others
+My Account
+Registration
+Login
+Contact Us
+Donation
+And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought.
+- Surah Ar-Rum (The Romans), Verse-21
+Announcement
+Welcome to Match2Marry.com - US Based Authentic Muslim Matchmaking Site.
+Free Registration
+Verify Candidates
+Communication Privacy
+Data Security
+How We Assist You
+1
+Data Submission & Verification
+Candidate's data are verified by our Executive Councilor (EC).
+2
+Search for best match
+Based on the selection criteria a coordinated search is conducted by GC and the candidate.
+3
+Short listing matches
+At least three candidates will be short listed through consent of the candidate and GC.
+4
+Secured Communication
+A secured communication channel will be established between candidates with the help of GC.
+5
+Happy Ending
+Successful communication can lead to a prosperous marriage and
+our GC’s and facilitator can assist with the event planning.
+Few of Happy Stories
+I am grateful to all these individuals who cared about us to help finding our life partners. Their relentless effort and careful approach in helping us deserve our full support for them.
+Nabila & Sajib
+Sharing Experiences
+Responsibilities of Husbands & Responsibilities of Wives
+Nouman Ali Khan
+Open the Doors to Marriage
+Nouman Ali Khan
+Making marriage work - Responsibilities of a Muslim couple
+Yasir Qadhi
+How to get married in Islam including Proposal, Nikah & Mahr
+Mufti Ismail Menk
+Things You MUST Know Before Getting Married
+Mufti Ismail Menk
++1 (512) 767-5670
+[email protected]
+FAQ
+Contact us
+Login
+Registration
+Privacy Policy
+Terms & Conditions
+© 2022 match2marry.com. All rights reserved.

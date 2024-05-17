@@ -1,0 +1,82 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Please join us for worship. We meet from 5:00-6:15 pm on Sunday evenings in the sanctuary of Church of Reconciliation, Chapel Hill, NC.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Chapel Hill Mennonite Fellowship - Through the power of the Holy Spirit, we hope to follow in the way of Jesus, who gives us the grace to love one another as God loves the world.'}
+{'property': 'og:description', 'content': 'Please join us for worship. We meet from 5:00-6:15 pm on Sunday evenings in the sanctuary of Church of Reconciliation, Chapel Hill, NC.'}
+{'property': 'og:url', 'content': 'https://chapelhillmennonite.org/'}
+{'property': 'og:site_name', 'content': 'Chapel Hill Mennonite Fellowship'}
+{'property': 'article:modified_time', 'content': '2024-04-03T11:56:14+00:00'}
+{'property': 'og:image', 'content': 'https://chapelhillmennonite.org/wp-content/uploads/2019/10/2019-10-27-17.15.19-1024x768.jpeg'}
+{'property': 'og:image:width', 'content': '1024'}
+{'property': 'og:image:height', 'content': '768'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'google-site-verification', 'content': '8PTSX_KFgiF_LRPiQ9gfY3bda3D7EnNqt_kF4Buf2wc'}
+{'name': 'msapplication-TileImage', 'content': 'https://chapelhillmennonite.org/wp-content/uploads/2019/10/cropped-updated-favicon-bold-300x300.png'}
+{'content': 'https://chapelhillmennonite.org/?s={s}'}
+
+Body Text:
+Chapel Hill Mennonite Fellowship - Through the power of the Holy Spirit, we hope to follow in the way of Jesus, who gives us the grace to love one another as God loves the world.
+Skip to main content
+Skip to footer
+Chapel Hill Mennonite Fellowship
+Through the power of the Holy Spirit, we hope to follow in the way of Jesus, who gives us the grace to love one another as God loves the world.
+Welcome
+About
+People
+Worship
+Connections
+Calendar
+Resources & Policies
+Docs
+Sermons
+Contact
+Welcome
+Grace and Peace to you!
+Please join us for worship. We meet from 5:00-6:15 pm on Sunday evenings in the sanctuary of
+Church of Reconciliation
+: 110 N. Elliott Road, Chapel Hill, NC 27514.
+We’re a small congregation who sustain our lives through the love of Christ offered in our relationships with one another. Our church is a place of fellowship with God and neighbors, where we learn how to serve our friends, strangers, and enemies just as Jesus laid down his life for the world.
+We are members of
+Central District Conference
+of
+Mennonite Church USA
+,
+NC Council of Churches
+, a statewide ecumenical organization promoting Christian unity and working towards a more just society, and
+Supportive Communities Network
+, a network of Mennonite and Church of the Brethren communities that welcome and affirm the full participation and leadership of
+LGBTQIA+
+people.
+We’re so excited to welcome Ben Rudeen Kreider as our new pastor! Find out a little bit more about Ben
+here
+.
+About
+Worship
+Contact
+Footer
+Worship – Sundays @ 5pm
+Church of Reconciliation ·
+Map
+110 N. Elliott Road
+Chapel Hill, NC 27514
+Contact
+Upcoming
+Sun, May 12 –  4pm Sunday School, 5pm worship
+Sat, May 18 – youth group canoeing at Fall’s Lake
+Sun, May 19 – 4pm Sunday school (with ice cream!), 5pm Pentecost worship
+Copyright © 2024
+Chapel Hill Mennonite Fellowship
+· All Rights Reserved · Website by
+Tomatillo Design
+Search Chapel Hill Mennonite Fellowship
+×
+Enter your search terms...
+Sign Up for Our Email List
+×
+[gravityform id=1 title=false description=true ajax=true tabindex=49]

@@ -1,0 +1,276 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'Read the latest news, culture, music, and progressive commentary in Raleigh, Durham, Chapel Hill and across the Triangle and North Carolina.'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'INDY Week: Raleigh/Durham/Chapel Hill News, Culture, Music'}
+{'property': 'og:description', 'content': 'Read the latest news, culture, music, and progressive commentary in Raleigh, Durham, Chapel Hill and across the Triangle and North Carolina.'}
+{'property': 'og:url', 'content': 'http://indyweek.com/'}
+{'property': 'og:site_name', 'content': 'INDY Week'}
+{'property': 'article:publisher', 'content': 'https://facebook.com/INDYWeekNC'}
+{'property': 'article:modified_time', 'content': '2024-05-16T22:44:41+00:00'}
+{'property': 'og:image', 'content': 'https://indyweek.com/wp-content/uploads/2022/11/cropped-IndyLogo.png'}
+{'property': 'og:image:width', 'content': '512'}
+{'property': 'og:image:height', 'content': '512'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@indyweek'}
+{'name': 'generator', 'content': 'Site Kit by Google 1.126.0'}
+{'name': 'theme-color', 'content': '#fff'}
+{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'name': 'apple-mobile-web-app-title', 'content': 'The INDY'}
+{'name': 'application-name', 'content': 'The INDY'}
+{'name': 'msapplication-TileImage', 'content': 'https://i0.wp.com/indyweek.com/wp-content/uploads/2022/11/cropped-IndyLogo.png?fit=270%2C270&ssl=1'}
+
+Body Text:
+INDY Week: Raleigh/Durham/Chapel Hill News, Culture, Music
+Choose what you receive.
+Whether you want daily updates or a weekly round-up, we've got what you need.
+The Daily
+Weekdays: Our writers break down headlines from around the Triangle to get you ready for your day.
+Insider
+Wednesdays: A guide to our latest stories you shouldn't miss.
+Field Guide
+Fridays: Our rundown of cultural news and events around the Triangle.
+Events
+Thursdays: Your guide to the weekend’s events.
+Best of the Triangle
+Keep up-to-date on "Best of the Triangle" news, including nomination and voting dates.
+Partner Promotions
+Promotions from our partners, including giveaways, deals and more.
+Close
+SUPPORT US
+Search for:
+Search
+BEST OF ▲
+News
+Open dropdown menu
+Elections
+Durham County
+Wake County
+Orange County
+North Carolina
+15 Minutes
+Quickbait
+Ninth Street Journal
+Culture
+Open dropdown menu
+Art
+Screen
+Stage
+Page
+Etc.
+Commentary
+Open dropdown menu
+Voices
+Op-Ed
+Letters to the Editor / Backtalk
+Music
+Food & Drink
+Calendar
+Newsletters
+Facebook Page
+Twitter Username
+Instagram
+Close
+Skip to content
+INDY Week
+BEST OF ▲
+News
+Open dropdown menu
+Elections
+Durham County
+Wake County
+Orange County
+North Carolina
+15 Minutes
+Quickbait
+Ninth Street Journal
+Culture
+Open dropdown menu
+Art
+Screen
+Stage
+Page
+Etc.
+Commentary
+Open dropdown menu
+Voices
+Op-Ed
+Letters to the Editor / Backtalk
+Music
+Food & Drink
+Calendar
+Newsletters
+SUPPORT US
+Open Search
+Search for:
+Search
+SUPPORT US
+Menu
+Home
+Durham County
+Durham County Budget Proposal Falls  Short of School System Request
+The budget includes $201 million for Durham Public Schools, but the proposal is still about $14 million short of the school board’s request.
+by
+Jianna Choi
+Durham County
+Tenants of Derelict Properties in East Durham Are Mired in a Legal Dispute with the Son of the Patriarch of a Prominent Local Family
+Voices
+Voices: How a Powwow in Raleigh Honors My Roots in Hollister, NC
+Food & Drink
+Local Restaurant Owners Feel the Strain of Inflation
+Durham County
+Durham Leaders Hope 2024 Will Be Different for Local Workforce Housing Legislation
+Durham County
+Durham School Leaders Discuss Plans to Tackle Building Repairs
+DURHAM COUNTY
+Democratic Gubernatorial Candidate Josh Stein Kicks Off Teacher Appreciation Week With Stop in Durham
+by
+Justin Laidlaw
+Leaking Roofs, Broken HVACs: Parents Decry Conditions at Durham Elementary Schools
+Local Workers Rally at May Day March in Downtown Durham
+WAKE COUNTY
+Raleigh City Council Approves $5 Million for New Pilot Program to Address Homelessness
+by
+Greg Childress
+Development Pressures, Higher Taxes Threaten to Displace Black Homeowners in Southeast Raleigh
+Raleigh Voters Could Opt to Add Three More District Seats to the City Council; Some Say the Proposal Needs More Study
+ORANGE COUNTY
+Bonnie Hauser Reelected to Orange County Schools Board of Education
+by
+Chase Pellegrini de Paur
+Trustees Strike DEI Funding from UNC Budget, Funds Go to Public Safety
+Despite an Unusual Series of Events Leading Up to Orange County Schools Runoff, the Board Seems Poised to Continue on a Trajectory of Finding Consensus
+NORTH CAROLINA
+UNC Committee Votes to Repeal Diversity Goals and Jobs at 17 Campuses Across NC
+by
+Hannah Vinueza McClellan, EdNC.org
+The INDY’s Earth Day 2024 Special Edition
+Examining the Impact of Legalized Sports Betting on College Athletes, Gamblers, and North Carolina
+ARTS & CULTURE
+“This Will Take Her Home”: Talking With Colm Tóibín About His ‘Brooklyn’ Sequel
+by
+Sarah Edwards
+Best of the Triangle
+Nominations for “Best of Durham County 2024” Open May 8th
+Arts & Culture
+Murals and Mosaics Multiply Through Durham’s Public Art Initiatives
+MUSIC
+On “All Infinite,” Kooley High Leans Into Cosmic Themes and Reaches New Heights
+by
+Ryan Cocca
+Music
+Matt Southern’s “Tender is the Knife” Is Driven By Pleasant Utility
+Music
+Emma Geiger’s Second Release Has a Winning, Ethereal Naturalness
+FOOD & DRINK
+The INDY’s Best of the Triangle: Wake County Winners
+by
+INDY staff
+Food & Drink
+Durham Bar Owners Say That Ongoing Downtown Construction Is Hurting Business
+Food & Drink
+At a New North Durham Farmers’ Market, a Diverse, Close-Knit Community Is Key
+Sign up for INDY newsletters
+The best of INDY Week’s fiercely independent journalism about the Triangle delivered straight to your inbox.
+The Daily
+Weekdays: Our writers break down headlines from around the Triangle to get you ready for your day.
+Field Guide
+Fridays: Our rundown of cultural news and events around the Triangle.
+Insider
+Wednesdays: A guide to our latest stories you shouldn't miss.
+Events
+Thursdays: Your guide to the weekend’s events.
+Letters to the Editor
+Backtalk: “Our lives are in your hands”
+And other things our readers told us.
+Orange County
+Protests, Passion, and Pride Mark Graduation Weekend at UNC-Chapel Hill
+Hours before the graduation ceremony, anti-war protesters defaced the South Building with palm prints covered in red paint, and leaving a sign that read “UNC has blood on its hands.”
+Orange County
+Hundreds of Faculty and Staff Members Call on UNC to Dismiss Charges Against Student Protesters
+As of Monday evening, more than 800 people had signed onto the petition advocating for students’ right to free speech and protest.
+STAGE
+‘The Commons: Southern Futures’ Festival Draws Community Members Into Conversation
+by
+Byron Woods
+In “Could Be Worse,” Choreographer Anna Barker Counts the Cost of Trying To Make a Living in Dance
+by
+Byron Woods
+A Tale of Two “Misery” Productions
+by
+Byron Woods
+2023 Fall Arts Preview: What Triangle Theater to See
+by
+Byron Woods
+ART
+In María Magdalena Campos-Pons’ “Behold,” Shared Identity Is a Source of Communal Power
+Now on display at the Nasher Museum of Art, the artist’s career-spanning survey includes paintings, photography, and an immersive installation.
+by
+Tasso Hartzog
+Scene on Radio’s Sixth Season is a Tale of Two White Supremacist Coups
+New season “Echoes of a Coup” hones in on the 1898 Wilmington massacre and its reverberations today.
+by
+Chase Pellegrini de Paur
+Talking With Iron & Wine’s Sam Beam About His First Visual Arts Exhibition
+On view now at Peel Gallery in Carrboro, the exhibit is the latest expression of Beam’s seemingly inexhaustible creative drive.
+by
+Tasso Hartzog
+PAGE
+Talking With DéLana R. A. Dameron About Her Debut Novel, “Redwood Court”
+Dameron, a graduate of UNC-Chapel Hill, has a reading at Flyleaf Bookstore on February 6.
+by
+Katie Mgongolwa
+Jill McCorkle Loves the Threat of Fairy Tales
+Talking with the Hillsborough writer on the heels of her new short story collection, “Old Crimes: And Other Stories.”
+by
+Shelbi Polk
+Triangle-Based Illustrator Dare Coulter Wins Coretta Scott King Award
+Coulter, who won for her mixed-media illustrations in the children’s book ‘An American Story,’ is one of the youngest people ever to win the award.
+by
+Lena Geller
+SCREEN
+Incoming! Imaginary Worlds, Japanese Ecology, and Nasty Mail
+Arthouse horror-thriller “I Saw the TV Glow,” British comedy “Wicked Little Letters,” and other movies coming soon to local theaters.
+by
+Glenn McDonald
+‘Civil War’ Review: A Dystopian War Picture as Shrieking Alarm
+Considered in the context of American politics circa 2024, the effect of director Alex Garland’s worldbuilding is an accretion of creeping dread.
+by
+Glenn McDonald
+Your Guide to This Year’s Full Frame Documentary Film Festival
+The 26th annual Full Frame Documentary Film Festival, unspooling April 4–7 in downtown Durham, will screen more than 50 films from 22 countries. Think of it as an abundance of great filmmaking, right in our yard.
+by
+Glenn McDonald
+Sign up for the INDY's Daily Newsletter.
+Our writers break down headlines from around the Triangle, every weekday.
+Home
+News
+Culture
+Commentary
+Music
+Food & Drink
+Calendar
+Newsletters
+Sponsored Content
+Support the INDY
+Manage Your Membership
+Advertise
+Contact Us
+Submit
+Find A Paper
+Code of Ethics
+Privacy Policy
+Print Editions
+Puzzles Page
+INDY WEEK
+• P.O. Box 1772, Durham, NC 27702 • 919-666-7229
+© 2024 INDY Week
+Powered by Newspack
+Facebook Page
+Twitter Username
+Instagram

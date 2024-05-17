@@ -1,0 +1,162 @@
+Meta Information:
+{'name': 'google-site-verification', 'content': 'RoMq-5DkkOuWjX02KncrKx14nJYJ7DE0iFPRoKs-uXM'}
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'description', 'content': 'The HEDGE was established in 2013 and began as a fine art printshop. We continue to create fine art prints, provide letterpress services, workshops, engraving, calligraphy, and much more.'}
+{'property': 'og:site_name', 'content': 'the HEDGE'}
+{'property': 'og:url', 'content': 'https://thehedgestudios.com/'}
+{'property': 'og:title', 'content': 'the HEDGE'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'The HEDGE was established in 2013 and began as a fine art printshop. We continue to create fine art prints, provide letterpress services, workshops, engraving, calligraphy, and much more.'}
+{'property': 'og:image', 'content': 'http://thehedgestudios.com/cdn/shop/files/letterpress_1200x1200.jpg?v=1614301564'}
+{'property': 'og:image:secure_url', 'content': 'https://thehedgestudios.com/cdn/shop/files/letterpress_1200x1200.jpg?v=1614301564'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'the HEDGE'}
+{'name': 'twitter:description', 'content': 'The HEDGE was established in 2013 and began as a fine art printshop. We continue to create fine art prints, provide letterpress services, workshops, engraving, calligraphy, and much more.'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1'}
+{'name': 'theme-color', 'content': '#afc265'}
+{'id': 'shopify-digital-wallet', 'name': 'shopify-digital-wallet', 'content': '/8303269/digital_wallets/dialog'}
+{'name': 'shopify-checkout-api-token', 'content': '18d58305d45ba4260bc638b72a9582fc'}
+{'id': 'in-context-paypal-metadata', 'data-shop-id': '8303269', 'data-venmo-supported': 'true', 'data-environment': 'production', 'data-locale': 'en_US', 'data-paypal-v4': 'true', 'data-currency': 'USD'}
+
+Body Text:
+the HEDGE
+2024 Workshops are now LIVE!
+Log in
+or
+Create account
+Cart
+0
+Search
+2024 Workshops are now LIVE!
+Menu
+Cart
+0
+home
+shop
++
+-
+All
+shop
+candles
+trophies
+statement furnishings
+artwork
+jewelry
++
+-
+butterfly wing jewelry
+acrylic jewelry
+leather & brass jewelry
+activist wear
+printed goods
+workshops
+wholesale
+custom
++
+-
+murals
+weddings
+interiors
+private workshops
+bird's nest rental
+about
++
+-
+contact
+blog
+help & support
+Log in
+Create account
+Search
+home
+shop
+candles
+trophies
+statement furnishings
+artwork
+jewelry
+butterfly wing jewelry
+acrylic jewelry
+leather & brass jewelry
+activist wear
+printed goods
+workshops
+wholesale
+custom
+murals
+weddings
+interiors
+private workshops
+bird's nest rental
+about
+contact
+blog
+help & support
+handmade
+one-of-a-kind
+personal
+handmade
+one-of-a-kind
+personal
+Julie Wall
+is the artist and maker behind the HEDGE. With a background in printmaking and metals, she designs, creates, and assembles uniquely personal pieces. From statement jewelry to stationary, Julie crafts meaningful designs for everyday life. She is continually inspired by insects, the environment, pattern, texture, and women.
+Her work has been featured in
+Architectural Digest
+,
+Forbes
+,
+Wedding Day Magazine
+, and
+Travel Awaits
+, just to name a few.
+Learn More
+Workshops
+butterfly wings
+Candles
+Trophies
+weddings
+custom
+murals
+weddings
+custom
+murals
+Contact
+1016 Broadway
+Fort Wayne, IN 46802
+thehedgestudios@gmail.com
+Hours
+Saturday 11:00am-2:00pm
+Schedule an appointment
+About
+Home
+About
+Contact
+Help & Support
+Blog
+Offerings
+Shop
+Wholesale
+Custom
+Wedding
+Murals
+Interiors
+Workshops
+Fine Art
+Bird's Nest Rental
+Creative Consulting
+Follow Us
+Facebook
+Pinterest
+Instagram
+Newsletter
+Be the first to know about new offerings.
+Subscribe
+Copyright © 2024,
+the HEDGE
+.
+Powered by Shopify
+Use left/right arrows to navigate the slideshow or swipe left/right if using a mobile device
+choosing a selection results in a full page refresh
+Opens in a new window.
+Opens external website in a new window.

@@ -1,0 +1,147 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Homepage - Brooklyn Navy Yard'}
+{'property': 'og:url', 'content': 'https://www.brooklynnavyyard.org/'}
+{'property': 'og:site_name', 'content': 'Brooklyn Navy Yard'}
+{'property': 'article:modified_time', 'content': '2024-05-06T17:45:29+00:00'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'WordPress 6.4.1'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.brooklynnavyyard.org/wp-content/uploads/2023/08/Emoticon-Image.jpg'}
+
+Body Text:
+Homepage - Brooklyn Navy Yard
+Skip to content
+About
+Who We Are
+Meet our Executives
+Board of Directors
+Corporate Documents
+Visit
+Directions + Maps
+Exhibitions + Installations
+Programs + Tours
+School + Teacher
+Private Events + Film Shoots
+Public Spaces
+Leasing
+Why Lease at the Yard?
+Leasing Opportunites
+Incentives
+Current Developments + Master Plan
+Yard Businesses
+Meet our Businesses
+Shop our Businesses
+Hiring Support
+Yard Labs
+Jobs
+Jobs w/Yard Businesses
+Jobs w/BNYDC
+Internship Opportunities
+Contract Opportunities
+Training Opportunities
+Media
+Media Center
+Archives
+History of the Yard
+A place to build your future
+About us
+The Brooklyn Navy Yard is the center of urban manufacturing and innovation. A one-of-a-kind ecosystem housing 500+ businesses over 300 acres. With a legacy dating back to the early 1800s, the Brooklyn Navy Yard has played a pivotal role in shaping American history, from its origins as a naval shipyard to its transformation into a dynamic industrial park.
+Who We Are
+Development Opportunities
+The Brooklyn Navy Yard Development Corporation is currently welcoming creative proposals to develop a unique, 2.75-acre waterfront site for clean energy use or the production of technology to address climate change.
+Learn More
+Join the yard
+Leasing at the Brooklyn Navy Yard presents an exceptional opportunity for businesses seeking a thriving and supportive environment. The Yard offers an array of compelling economic development incentives, making it an attractive choice for companies looking to establish or expand their operations.
+Why Lease at the Yard?
+Visit us
+The Yard has more opportunities for public access than ever. Building 77 and Building 92 offer tours, Brooklyn-made food, and a view of modern manufacturing in action.
+Plan your visit
+Upcoming events
+May 18
+Design Day at the Brooklyn Navy Yard
+Home to thousands of designers and innovators, the Brooklyn Navy Yard’s 300-acre campus welcomes design enthusiasts from all over the world. For the 2024 NYCxDESIGN Festival, the Brooklyn Navy Yard Development Corporation and its partners present a series of events celebrating design.
+Learn More
+Stay up-to-date with the Yard
+Get Updates
+Sign up here to stay up-to-date with our public programs and events happening on the Yard.
+If you work at the Yard and are interested in receiving our tenant newsletter, please email
+businessservices@bnydc.org
+Email
+Name
+First
+Last
+CAPTCHA
+Directions & Map
+Internships
+Development of the Yard
+Tenant Directory
+Corporate Documents
+Jobs at BNYDC
+Available Spaces
+Privacy Policy
+About
+BNYDC’s mission is to fuel New York City’s economic vitality by creating and preserving quality jobs, growing the City’s modern industrial sector and its businesses, and connecting the local community with the economic opportunity and resources of the Yard.
+Contact
+Building 77
+141 Flushing Avenue, Suite 801
+Brooklyn, NY 11205
+info@bnydc.org
+718-907-5900 (phone)
+718-643-9296 (fax)
+Connect
+@bklynnavyyard
+@bklynnavyyard
+/brooklynnavyyard
+Brooklyn Navy Yard
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies. However you may visit Cookie Settings to provide a controlled consent.
+Cookie settings
+ACCEPT
+Manage consent
+Close
+Privacy Overview
+This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.
+Necessary
+Necessary
+Always Enabled
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Cookie
+Duration
+Description
+cookielawinfo-checkbox-analytics
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".
+cookielawinfo-checkbox-functional
+11 months
+The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".
+cookielawinfo-checkbox-necessary
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".
+cookielawinfo-checkbox-others
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.
+cookielawinfo-checkbox-performance
+11 months
+This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".
+viewed_cookie_policy
+11 months
+The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Functional
+functional
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Performance
+performance
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Analytics
+analytics
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+Advertisement
+advertisement
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+Others
+others
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+Save & Accept

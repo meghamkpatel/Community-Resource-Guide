@@ -1,0 +1,102 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': 'f49c8986-2bfa-425e-9417-e1893e3a268f'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': '2c23143e-600d-4392-802b-5cec9b80f854'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '3683'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'name': 'description', 'content': 'Mt. Gilead is a Christian camp and conference center\xa0in northern California. Rent our facilities, Register for summer camp and learn who we are.'}
+{'property': 'og:title', 'content': 'Summer Camp | Mt. Gilead Bible Camp | Conference Center | Sebastopol'}
+{'property': 'og:description', 'content': 'Mt. Gilead is a Christian camp and conference center\xa0in northern California. Rent our facilities, Register for summer camp and learn who we are.'}
+{'property': 'og:url', 'content': 'https://www.mtgilead.org'}
+{'property': 'og:site_name', 'content': 'MT. GILEAD'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Summer Camp | Mt. Gilead Bible Camp | Conference Center | Sebastopol'}
+{'name': 'twitter:description', 'content': 'Mt. Gilead is a Christian camp and conference center\xa0in northern California. Rent our facilities, Register for summer camp and learn who we are.'}
+
+Body Text:
+Summer Camp | Mt. Gilead Bible Camp | Conference Center | Sebastopol
+top of page
+ABOUT US
+Meet Our Team
+Contact Us
+Employment
+Blog
+Statement of Faith & Mission
+PROGRAMS
+Summer Camp
+Timothy Teams
+Man Camp
+Women's Retreat
+GUEST RETREATS
+Lodging
+Meeting Rooms
+Food Service
+Recreation
+Sound Equipment
+Guest Retreat Brochure
+Gift Store
+Fresh Air Meeting Spaces
+EVENTS
+Gilead Day
+Harvest Festival
+Grandparents Day
+Easter Sunrise Service
+REGISTER
+DONATE
+CONTACT US
+More
+Use tab to navigate through the menu items.
+2024 Events
+Summer Missions
+Video Tour
+Summer Jobs Video
+WELCOME TO CAMP
+Mt. Gilead is a Christian camp and conference center in northern California. We rent our facilities to churches and other Christian organizations, as well as host our own summer camps for children from 1st-12th grade.  Throughout the year we host quality Christian programs for adults.
+PROGRAMS
+We offer innovative programs bringing together multiple generations, as well as hands on leadership development training for high schoolers.
+READ MORE >>
+EVENTS
+We offer many events throughout the year including: Grandparent's Day, Gilead Day and Easter Sunrise Service!
+READ MORE >>
+GUEST RETREATS
+Learn more about our facilities and the different
+amenities
+we offer. We'd love to host your next church, school, or ministry retreat.
+READ MORE >>
+SUMMER CAMP
+Each of our programs are a week long and are intentionally designed to help our campers experience God and have fun at the same time!
+READ MORE >>
+NEXT EVENTS
+Women's Retreat
+MAY 17-19
+MORE INFO>>
+Gilead Day
+JUNE 11
+MORE INFO>>
+Grandparents Day
+SEPTEMBER 8
+MORE INFO>>
+GET INVOLVED
+Would you consider partnering with us financially?
+Learn more about the different areas to give.
+DONATE NOW >>
+ABOUT US
+Mt. Gilead is a Christian camp and conference center in northern California that was founded by InFaith Missionary Dwight Jungkeit in 1963. Since its founding, Mt. Gilead has continued with its core mission to support the local Christian church and share the hope found in Jesus Christ with our campers that attend our programs.  In addition, we rent our facilities to churches and other Christian organizations and host summer camps for children from 1st-12th grades. Throughout the year, we offer adult programming which includes men’s and women’s retreats as well as special day events such as Easter Sunrise Service, Gilead Day and Grandparent’s Day.
+WEATHER
+Outdoor Ed
+CONTACT
+707-823-4508
+13485 Green Valley Rd, Sebastopol, CA 95472
+info@mtgilead.org
+Christian Camp & Conference Association
+InFaith: An American Mission
+Flood Routes
+© 2017 Mt. Glead Bible Camp
+bottom of page

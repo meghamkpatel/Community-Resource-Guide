@@ -1,0 +1,205 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'article'}
+{'property': 'og:title', 'content': 'Afghan Air Force To Expand Fleet Of MD 530F Cayuse Warrior Helicopters - Light Helicopter Manufacturer | MD Helicopters'}
+{'property': 'og:description', 'content': 'The award is the fourth Delivery Order issued against MDHI’s $1.4B IDIQ MD Helicopters, Inc. (MDHI) is proud to announce receipt of the fourth Delivery Order issued against its 5-year, […]'}
+{'property': 'og:url', 'content': 'https://www.mdhelicopters.com/afghan-air-force-to-expand-fleet-of-md-530f-cayuse-warrior-helicopters/'}
+{'property': 'og:site_name', 'content': 'Light Helicopter Manufacturer | MD Helicopters'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/MDHelicoptersLLC'}
+{'property': 'article:published_time', 'content': '2019-11-25T07:00:00+00:00'}
+{'property': 'article:modified_time', 'content': '2023-03-10T05:40:37+00:00'}
+{'property': 'og:image', 'content': 'https://www.mdhelicopters.com/wp-content/uploads/2023/03/AAF2-10pic.png'}
+{'property': 'og:image:width', 'content': '667'}
+{'property': 'og:image:height', 'content': '421'}
+{'property': 'og:image:type', 'content': 'image/png'}
+{'name': 'author', 'content': 'Skyhook Interactive'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:label1', 'content': 'Written by'}
+{'name': 'twitter:data1', 'content': 'Skyhook Interactive'}
+{'name': 'twitter:label2', 'content': 'Est. reading time'}
+{'name': 'twitter:data2', 'content': '2 minutes'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'tec-api-version', 'content': 'v1'}
+{'name': 'tec-api-origin', 'content': 'https://www.mdhelicopters.com'}
+{'name': 'generator', 'content': 'Elementor 3.21.3; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-internal, google_font-enabled, font_display-auto'}
+{'name': 'msapplication-TileImage', 'content': 'https://www.mdhelicopters.com/wp-content/uploads/2022/04/favi-03.svg'}
+
+Body Text:
+Afghan Air Force To Expand Fleet Of MD 530F Cayuse Warrior Helicopters - Light Helicopter Manufacturer | MD Helicopters
+Skip to content
+MD Merch
+Careers
+MYMD.AERO
+Supplier Portal
+Translate
+Models
+MD 500E
+MD 530F
+TH/AH530
+Support
+Parts, Maintenance & Support
+Fielded Fleet Upgrades
+Tech Pubs & Notices
+Training
+Pilot
+Military
+Maintenance
+About
+History
+Leadership
+Gallery
+Careers
+News & Events
+News
+Events
+Media Center
+Contact
+MD Merch
+Careers
+MYMD.AERO
+Supplier Portal
+Translate
+Afghan Air Force To Expand Fleet Of MD 530F Cayuse Warrior Helicopters
+November 25, 2019
+Partnerships & Sponsorships
+Download Press Release
+Media Inquiries
+Ashley Sanchez
+480.346.6454
+Afghan Air Force To Expand Fleet Of MD 530F Cayuse Warrior Helicopters
+November 25, 2019
+Partnerships & Sponsorships
+Download Press Release
+Media Inquiries
+Ashley Sanchez
+480.346.6454
+The award is the fourth Delivery Order issued against MDHI’s $1.4B IDIQ
+MD Helicopters, Inc.
+(MDHI) is proud to announce receipt of the fourth Delivery Order issued against its 5-year, $1.4 billion light scout attack helicopter IDIQ contract. The Firm Fixed-Price award is for up to 12 armed MD 530F Cayuse Warrior helicopters for the Afghan Air Force (AAF), currently the largest MD 530F Cayuse Warrior operator globally.
+Awarded through U.S. Army Contracting Command, Redstone Arsenal, Alabama, on behalf of the Multi-national Aviation Special Project Office (MASPO), this award follows the successful delivery of all aircraft ordered via
+Delivery Order 1
+.
+”The MD 530F Cayuse Warrior has played a critical role in creating an effective and sustainable air force in Afghanistan,” said Lynn Tilton, Chief Executive Officer for MD Helicopters, Inc. “We are honored to be the light scout attack helicopter of choice for the Afghan Air Force and a growing number of partner nation aviation forces.”
+The IDIQ Contract vehicle ensures an estimated quantity of up to 150 armed MD 530F Cayuse Warrior and/or MD 530G attack helicopters are available to U.S. and Partner Nation Military Forces. To date, 54 of 150 helicopters are currently under contract with multiple operators.
+Powered by the Rolls-Royce 250-C30 650shp turbine engine, all Afghan Air Force MD 530F Cayuse Warrior light scout attack helicopters feature:
+An advanced, all glass cockpit
+Ballistically tolerant crashworthy fuel system (main and auxiliary)
+DillonAero Fixed-Forward Sighting System
+DillonAero Mission Configurable Armament System (MCAS)
+Ballistic armor protection
+FN Herstal HMP 400 .50 caliber Machine Gun Pods
+M260 7-shot rocket pods
+“The MD 530F Cayuse Warrior is a preferred and proven platform for light scout attack combat operations,” Tilton concludes. “The ongoing receipt of orders for this best-in-class aircraft is more than gratifying; it is validation that this iconic, American Made helicopter will remain an essential resource for military and para-military operators in the global fight for freedom.”
+Media Inquiries
+Ashley Sanchez
+123-456-7890
+Related News
+Editorial
+,
+Military
+| 04/30/2024
+Aviation Week – MD Helicopters Adds Hellfire To AH530 Variant
+Editorial
+| 04/30/2024
+Air Beat Magazine – MD Helicopters: Rising Above
+Military
+,
+Press Releases
+,
+Shows & Events
+| 04/17/2024
+MD Helicopters Features Industry Disrupting Configurable Avionics and Weapons Systems at the Army Aviation Mission Solutions Summit
+Follow Our Journey
+Sign up for our newsletter and see how we’re staying laser-focused on helping our customers, partners, team, and community.
+Facebook-f
+Linkedin-in
+Instagram
+Youtube
+"
+*
+" indicates required fields
+First Name
+Last Name
+Email
+*
+Company Name
+By clicking submit, you consent to allow mdhelicopters.com to store and process the personal information submitted above to provide you the content requested.
+Submit
+Name
+This field is for validation purposes and should be left unchanged.
+4555 E McDowell Rd.
+Mesa, AZ 85215
+(480) 346-6300
+Facebook-f
+Linkedin-in
+Instagram
+Youtube
+Quick Links
+Models
+Support
+Training
+About
+Careers
+Contact
+MD Merch
+Models
+Support
+Training
+About
+Careers
+Contact
+MD Merch
+Resources
+News
+Events
+Gallery
+Media Center
+MyMDAero
+Supplier Portal
+News
+Events
+Gallery
+Media Center
+MyMDAero
+Supplier Portal
+COPYRIGHT © 2024 MD HELICOPTERS LLC. ALL RIGHTS RESERVED.
+Privacy Policy + Terms & Conditions
+Opt-out preferences
+Privacy Policy + Terms & Conditions
+Opt-out preferences
+Privacy Policy + Terms & Conditions
+Opt-out preferences
+Privacy Policy + Terms & Conditions
+Opt-out preferences
+Manage Cookie Consent
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+Functional
+Functional
+Always active
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+Preferences
+Preferences
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+Statistics
+Statistics
+The technical storage or access that is used exclusively for statistical purposes.
+The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+Marketing
+Marketing
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+Manage options
+Manage services
+Manage {vendor_count} vendors
+Read more about these purposes
+Accept
+Deny
+View preferences
+Save preferences
+View preferences
+{title}
+{title}
+{title}
+Manage consent

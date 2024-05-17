@@ -1,0 +1,79 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'itemprop': 'author', 'content': ''}
+{'itemprop': 'datePublished', 'content': 'July 12, 2015'}
+{'itemprop': 'dateModified', 'content': 'August 30, 2023'}
+{'itemprop': 'publisher', 'content': 'American Academy of Forensic Psychology'}
+{'name': 'generator', 'content': 'Powered by WPBakery Page Builder - drag and drop page builder for WordPress.'}
+{'name': 'generator', 'content': 'Jupiter 6.8.0'}
+
+Body Text:
+American Academy of Forensic Psychology
+About Us
+About AAFP
+Who we are
+AAFP Bylaws
+Position-Education Papers
+Specialist Directory
+Workshops
+Awards
+Grants
+Mentorship
+Links
+About Us
+About AAFP
+Who we are
+AAFP Bylaws
+Position-Education Papers
+Specialist Directory
+Workshops
+Awards
+Grants
+Mentorship
+Links
+Welcome to the American Academy of Forensic Psychology
+Forensic Specialist Directory
+View Directory
+Our Workshops
+View Workshops and Registration
+Awards & Recognition
+Various award categories and award winners
+Find out More
+Grants
+Early career scholarship program
+The American Academy of Forensic Psychology
+is a non-profit organization of board certified forensic psychologists.  Our mission is to contribute to the development and maintenance of forensic psychology as a specialized field of study, research and practice. The Academy does this by providing high quality continuing education workshops, providing a forum for the exchange of scientific information among its members, and conferring awards upon outstanding students and practitioners in the field of forensic psychology.
+What is Forensic Psychology?
+Forensic Psychology is the application of the science and profession of psychology to questions and issues relating to law and the legal system. The word “forensic” comes from the Latin word “forensis,” meaning “of the forum,” where the law courts of ancient Rome were held. Today forensic refers to the application of scientific principles and practices to the adversary process where scientists with specialized knowledge play a role.
+Specialist Directory
+Apply for ABFP/ABPP Forensic Board Certification
+The American Board of Forensic Psychology
+Specialty Guidelines for Forensic Psychology
+Continuing Education
+Practice Documents and Resources
+The American Academy of Forensic Psychology is a non-profit organization of board certified forensic psychologists. Our mission is to contribute to the development and maintenance of forensic psychology as a specialized field of study, research and practice.
+© 2021 American Academy of Forensic Psychology, Inc.
+Designed by
+MJ Designs
+Menu
+About Us
+About AAFP
+Who we are
+AAFP Bylaws
+Position-Education Papers
+Specialist Directory
+Workshops
+Awards
+Grants
+Mentorship
+Links
+Links
+Apply for ABFP/ABPP Forensic Board Certification
+The American Board of Forensic Psychology
+Specialty Guidelines for Forensic Psychology
+Continuing Education
+Follow Us on:

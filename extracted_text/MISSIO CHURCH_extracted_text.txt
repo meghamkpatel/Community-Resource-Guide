@@ -1,0 +1,111 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Missio Church'}
+{'property': 'og:title', 'content': 'Missio Church'}
+{'property': 'og:url', 'content': 'https://www.missiochurch.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:description', 'content': 'Missio Church     for the glory of God,    for the good of Central New York     Times &amp; Locations'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/5ace72fe1aef1d5a1761f466/t/5e84a3c9cb44b3644a9031af/1585750987343/MS001_m-black_041108+flavicon.jpeg?format=1500w'}
+{'property': 'og:image:width', 'content': '296'}
+{'property': 'og:image:height', 'content': '300'}
+{'itemprop': 'name', 'content': 'Missio Church'}
+{'itemprop': 'url', 'content': 'https://www.missiochurch.org'}
+{'itemprop': 'description', 'content': 'Missio Church     for the glory of God,    for the good of Central New York     Times &amp; Locations'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/5ace72fe1aef1d5a1761f466/t/5e84a3c9cb44b3644a9031af/1585750987343/MS001_m-black_041108+flavicon.jpeg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/5ace72fe1aef1d5a1761f466/t/5e84a3c9cb44b3644a9031af/1585750987343/MS001_m-black_041108+flavicon.jpeg?format=1500w'}
+{'name': 'twitter:title', 'content': 'Missio Church'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/5ace72fe1aef1d5a1761f466/t/5e84a3c9cb44b3644a9031af/1585750987343/MS001_m-black_041108+flavicon.jpeg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.missiochurch.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:description', 'content': 'Missio Church     for the glory of God,    for the good of Central New York     Times &amp; Locations'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Missio Church
+Home
+About
+I'm New
+Times & Locations
+Mission & Vision
+What We Believe
+Values & Outcomes
+Leadership & Staff
+Partners
+Contact
+Resources
+Bible Reading Plan
+Bible Study Resources
+Discipleship Outcomes
+Recommended Apps & Podcasts
+Recommended Books
+MC Leader Resources
+Connect
+Meet & Greet
+Exploring Membership
+Missional Communities
+Youth315
+MissioKids
+About
+At Home
+Recommended Books
+Resources
+Team Members
+Sermons
+Downtown Syracuse Sermons
+Cazenovia Sermons
+Valley Sermons
+Events
+Events
+Giving
+Home
+About
+I'm New
+Times & Locations
+Mission & Vision
+What We Believe
+Values & Outcomes
+Leadership & Staff
+Partners
+Contact
+Resources
+Bible Reading Plan
+Bible Study Resources
+Discipleship Outcomes
+Recommended Apps & Podcasts
+Recommended Books
+MC Leader Resources
+Connect
+Meet & Greet
+Exploring Membership
+Missional Communities
+Youth315
+MissioKids
+About
+At Home
+Recommended Books
+Resources
+Team Members
+Sermons
+Downtown Syracuse Sermons
+Cazenovia Sermons
+Valley Sermons
+Events
+Events
+Giving
+Missio Church
+for the glory of God,
+for the good of Central New York
+Times & Locations
+Our Mission
+Missio Church exists to glorify God by equipping Christ’s people to live faithful lives of worship as we give every man, woman, and child an opportunity to hear and respond to the gospel without coming or going anywhere.
+I'm New
+Sermons
+Giving
+Back to Top
+Missio Church, 620 West Genesee Street, Syracuse, NY 13204
+315-299-4101
+info@missiochurch.org
+For the Glory of God, for the Good of Central New York

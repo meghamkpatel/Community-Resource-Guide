@@ -1,0 +1,78 @@
+Meta Information:
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'Keywords', 'content': 'triupa, triuxpa, triuxpa book club, triangle ux, triangle usability, uxpa, raleigh ux, ux raleigh, ux durham, durham ux, chapel hill ux, ux chapel hill, nc ux, north carolina ux, ux nc, ux north carolina, user experience nc'}
+{'name': 'Description', 'content': 'The Triangle UXPA was founded in 2005 and is the North Carolina Raleigh/Durham/Chapel Hill chapter of the User Experience Professionals Association. We are focused on building and supporting the local community of practitioners who craft great user experiences — which include interaction designers, visual designers, information architects, content strategists, and user researchers.'}
+
+Body Text:
+Triangle UXPA | Triangle User Experience Professionals Association | Raleigh, Durham, Chapel Hill
+Log in
+Home
+Events
+Upcoming Events
+Call For Speakers
+Jobs
+Blog
+Join
+Membership
+Slack Channel
+About
+Code of Conduct
+Contact
+TriUXPA for Social Impact
+Triangle UXPA
+The Triangle User Experience Professionals Association was founded in 2006 and is the North Carolina Raleigh/Durham/Chapel Hill chapter of the User Experience Professionals Association. We are focused on building and supporting the local community of practitioners who craft great user experiences.
+Learn More
+Become a Member
+Save on events by joining the Triangle UXPA. Our annual rate for professionals is currently $35.00, and students are
+free
+.
+Join today!
+Upcoming events
+Spring BUI and Executive Council Meet and Greet
+16 May 2024 6:00 PM
+•
+Boxyard RTP
+UX Y'all Conference 2024
+19 Sep 2024 12:00 PM
+•
+Marbles Kids Museum | 201 E Hargett St, Raleigh, NC 27601
+All Events ›
+Highlights from the Fireside Chat on Design in the C-Suite with Andy Vitale
+We were able to spend some quality time with Andy as he unraveled the mysteries of what it looks like for design professionals in the C-Suite. Knowing that the number of designers that make it to that level is few and far between, he shed some light on how to be prepared when the opportunity to represent our profession at that level presents itself.
+Job listings
+Assessment and User Experience Researcher at Duke University Libraries
+02 May 2024 9:58 AM
+Anonymous
+Senior Product Designer at ShareFile
+26 Mar 2024 7:56 AM
+Anonymous
+Sr. UX Designer
+22 Mar 2024 2:48 PM
+Anonymous
+All Jobs ›
+Volunteer With Us!
+There are numerous ways to volunteer with TriUXPA! You can volunteer on our
+Board of Directors
+or sign up to be one of our
+Volunteers
+(Ad-hoc or Embedded in a Team). Volunteering with TriUXPA is a great way to support our UX community and network with some of its brightest and most active members. We’re always looking for eager volunteers to help our community thrive! No matter your years of UX experience, we would like to have you join us. Please check out our list of different volunteer roles to see how you can help, and/or feel free to reach out to
+contact@triuxpa.org
+for more information about volunteering.
+Blog posts
+Event Recap | Generative AI and FluidMemory Demo
+05 Feb 2024 3:44 PM
+Anonymous
+What UXers Do and Earn: Findings from the TriUXPA Salary Survey for 2021
+16 Jan 2022 2:52 PM
+Jacob Geib-Rosch
+Ask the Experts: UX Career Growth Models
+12 Jan 2022 4:18 PM
+Jacob Geib-Rosch
+All Articles ›
+Triangle UXPA Sponsors
+We want to thank all of the great companies that support the Triangle UXPA.
+Become a Sponsor
+Copyright © Triangle User Experience Professionals Association
+Powered by
+Wild Apricot
+Membership Software

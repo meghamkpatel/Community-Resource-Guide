@@ -1,0 +1,204 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width'}
+{'name': 'hotjar:id', 'content': '7vDmmsjdKwXjMQqtGP3uiQ'}
+{'property': 'og:title', 'content': 'Hotjar: Website Heatmaps & Behavior Analytics Tools'}
+{'name': 'description', 'content': 'The next best thing to sitting beside someone browsing your site. See where they click, ask what they think, and learn why they drop off. Get started for free.'}
+{'property': 'og:description', 'content': 'The next best thing to sitting beside someone browsing your site. See where they click, ask what they think, and learn why they drop off. Get started for free.'}
+{'property': 'og:image', 'content': 'https://images.ctfassets.net/lh3zuq09vnm2/zsJe5ujXWMeNJScarO5jX/92ee747a96ef4a5998f9a1b10b2bb737/hotjar_og_image_Jul22.png'}
+{'name': 'next-head-count', 'content': '10'}
+{'property': 'og:type', 'content': 'website'}
+
+Body Text:
+Hotjar: Website Heatmaps & Behavior Analytics Tools
+Hotjar Logo
+Products
+Solutions
+Pricing
+Case studies
+Resources
+Contact Sales
+Sign in
+Get started free
+English
+Language
+Get started free
+Toggle navigation menu
+Everything you ever
+wanted to know
+about your website...
+...but your analytics never told you.
+Hotjar shows you the numbers you need—and the real user behavior behind them.
+Get started
+Book a demo
+No credit card required. Upgrade any time.
+Play
+Everything you ever
+wanted to know
+about your website...
+...but your analytics never told you.
+Hotjar shows you the numbers you need—and the real user behavior behind them.
+Get started
+Book a demo
+No credit card required. Upgrade any time.
+Hotjar is trusted by 1,306,323 websites in 180+ countries
+All together. All connected.
+Why settle for one tool, when you can have it all? Give your team the tools they need to deliver experiences that convert, every time.
+Observe
+Heatmaps
+Improve any page of your site with confidence. See which parts of the page get ignored, and which elements drive sales and signups.
+Discover Heatmaps
+Recordings
+See exactly what your users see. Watch real user sessions to find and fix hidden friction and conversion blockers.
+Discover Recordings
+Ask
+New AI features
+Feedback
+Hear directly from your users as they experience your site. Find out what they love, and what’s driving them off your site. Make the changes that matter.
+Discover Feedback
+Surveys
+Bring your customer voice to your decision-making. Validate your plans, measure customer satisfaction, and learn from every churn.
+Discover Surveys
+Engage
+Interviews
+Connect 1 to 1 with users to test hypotheses, and prototypes, refine designs, and iterate on ideas faster.
+Discover Interviews
+Get started today
+Start learning about your users right away, with quick, easy set-up, and free access to all of Hotjar’s tools.
+Create my free account
+No credit card required
+Uncover opportunities for optimization
+Identify high-impact changes by seeing what real site visitors do—and which parts of the page they view.
+Get inspired
+Spot problems with your customer experience
+See what’s making people bounce before they complete critical actions like signing up or checking out.
+Discover issues
+Prioritize changes that matter
+No more guessing what people want. Hear from them directly, then make the changes they care about.
+Act with confidence
+Get buy-in for your next big idea
+Craft a compelling case backed up by recordings of real users and their direct feedback.
+Convince the team
+Integrations
+Connect to Google Analytics, Unbounce, Zapier and more.
+Explore integrations
+Case studies
+Hear directly from our customers
+Learn how Invision's digital product team uses Hotjar to improve the customer experience.
+See case studies
+Play
+"Hotjar is a critical tool for us to understand our users and identify any pain points where they might be getting stuck."
+Mike Fiorillo
+Growth Product Manager, Invision
+Case studies
+Hear directly from our customers
+Learn how HubSpot Academy used Hotjar Surveys to boost signups by 10%.
+See case studies
+Play
+"If you can't figure out why users are bouncing, Hotjar Surveys is a really direct way to ask them."
+Eric Peters
+Growth Marketer, Hubspot
+Case studies
+Hear directly from our customers
+Learn how the UK's no.1 job portal uses Hotjar to optimize the user experience.
+See case studies
+Play
+"We like to make people happy at Reed.co.uk and Hotjar's Feedback shows us how well we are doing."
+Brett Orr
+Lead Product Owner, Reed.co.uk
+Case studies
+Hear directly from our customers
+Learn how the landing page gurus use Hotjar to optimise their landing pages.
+See case studies
+Play
+"I used to have a bunch of different tools I had to pay for, with Hotjar you get everything in one bundle."
+Michael Aagaard
+Senior Conversion Optimizer, Unbounce
+Show previous testimonial
+Show testimonial 1
+Show testimonial 2
+Show testimonial 3
+Show testimonial 4
+Show next testimonial
+Your trust. Our priority.
+Unlocking valuable insights, while upholding your data's security.
+Sign up - it’s easy, and free!
+Sign up and get instant basic access to all our tools. Upgrade when ready, or enjoy our free plans indefinitely.
+Explore all plans
+Create my free account
+Included in Hotjar Free
+Heatmaps
+Recordings
+Surveys
+Feedback
+Interviews
+Looking for more wisdom?
+Sign up for Hotjar content straight to your inbox.
+Subscribe
+I have read and accept the conditions outlined in the
+privacy policy
+.
+Contact Sales
+Products
+Tour the product
+Heatmaps
+Recordings
+Feedback
+Surveys
+User interviews
+Integrations
+Hotjar API
+Funnels
+Dashboards
+Highlights
+Trends
+Survey templates
+Solutions
+For marketing teams
+For product teams
+For product managers
+For product designers
+For researchers
+Case studies
+Resources
+Guides
+Blog
+Product Forge
+Product updates
+Help center
+Website tracking
+GA glossary
+CRO
+Performance reporting
+Common website problems
+Usability testing
+Ecommerce
+Behavior analytics
+Website analysis
+Web analytics
+Web design
+UX design
+UX research
+NPS
+Customer journey map
+Product strategy
+Product research
+Product management 101
+Product management glossary
+SaaS startup tips
+Company
+About Us
+Careers
+Privacy
+Press
+Compliance
+Legal overview
+Compliance & security
+Terms of Service
+Privacy Policy
+Acceptable use policy
+Engage Tester Terms
+Copyright © 2014 - 2023 Hotjar Ltd. All rights reserved.
+Cookie Info
+Cookie Settings
+Do Not Track

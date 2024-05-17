@@ -1,0 +1,491 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'HandheldFriendly', 'content': 'True'}
+{'name': 'MobileOptimized', 'content': '320'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'ncbi_sg_optimize_id', 'content': ''}
+{'name': 'theme-color', 'content': '#20558a'}
+{'name': 'referrer', 'content': 'origin-when-cross-origin'}
+{'name': 'ncbi_pinger_gtm_track', 'content': 'true'}
+{'name': 'ncbi_app', 'content': 'pubmed'}
+{'name': 'ncbi_db', 'content': 'pubmed'}
+{'name': 'ncbi_phid', 'content': '6BA10001239CF7F500002A477FE7400A.1.m_6'}
+{'name': 'ncbi_pinger_stat_url', 'content': 'https://www.ncbi.nlm.nih.gov/stat'}
+{'name': 'log_category', 'content': 'literature'}
+{'name': 'ncbi_cost_center', 'content': 'pubmed'}
+{'name': 'ncbi_pdid', 'content': 'abstract'}
+{'name': 'log_op', 'content': 'retrieve'}
+{'name': 'uid', 'content': '34583253'}
+{'name': 'ncbi_uid', 'content': '34583253'}
+{'name': 'log_displayeduids', 'content': '34583253'}
+{'name': 'log_source_db', 'content': 'pubmed'}
+{'name': 'log_icons_present', 'content': 'true'}
+{'name': 'description', 'content': "High CM self-use amongst carers is associated with their decision to also use CM for their child's EoE, a concern given the absence of evidence for CM's safety and efficacy in this population. CM use in this population warrants further attention. Effective conventional medicines for EoE are limited …"}
+{'name': 'keywords', 'content': 'pmid:34583253, doi:10.1016/j.ctcp.2021.101448, Nicole Hannan, Amie Steel, Sara S McMillan, Australia, Child, Complementary Therapies*, Cross-Sectional Studies, Eosinophilic Esophagitis* / drug therapy, Humans, Surveys and Questionnaires, PubMed Abstract, NIH, NLM, NCBI, National Institutes of Health, National Center for Biotechnology Information, National Library of Medicine, MEDLINE'}
+{'name': 'robots', 'content': 'index,nofollow,noarchive'}
+{'property': 'og:title', 'content': 'What influences complementary medicine use for children with eosinophilic esophagitis? Findings from a cross-sectional survey - PubMed'}
+{'property': 'og:url', 'content': 'https://pubmed.ncbi.nlm.nih.gov/34583253/'}
+{'property': 'og:description', 'content': "High CM self-use amongst carers is associated with their decision to also use CM for their child's EoE, a concern given the absence of evidence for CM's safety and efficacy in this population. CM use in this population warrants further attention. Effective conventional medicines for EoE are limited …"}
+{'property': 'og:image', 'content': 'https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:site_name', 'content': 'PubMed'}
+{'name': 'twitter:domain', 'content': 'pubmed.ncbi.nlm.nih.gov'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'What influences complementary medicine use for children with eosinophilic esophagitis? Findings from a cross-sectional survey - PubMed'}
+{'name': 'twitter:url', 'content': 'https://pubmed.ncbi.nlm.nih.gov/34583253/'}
+{'name': 'twitter:description', 'content': "High CM self-use amongst carers is associated with their decision to also use CM for their child's EoE, a concern given the absence of evidence for CM's safety and efficacy in this population. CM use in this population warrants further attention. Effective conventional medicines for EoE are limited …"}
+{'name': 'twitter:image', 'content': 'https://cdn.ncbi.nlm.nih.gov/pubmed/persistent/pubmed-meta-image-v2.jpg'}
+{'name': 'citation_title', 'content': 'What influences complementary medicine use for children with eosinophilic esophagitis? Findings from a cross-sectional survey'}
+{'name': 'citation_authors', 'content': 'Hannan N;Steel A;Tiralongo E;McMillan SS;'}
+{'name': 'citation_date', 'content': '2021 Nov'}
+{'name': 'citation_publisher', 'content': 'Complement Ther Clin Pract'}
+{'name': 'citation_journal_title', 'content': 'Complementary therapies in clinical practice'}
+{'name': 'citation_pmid', 'content': '34583253'}
+{'name': 'citation_abstract_html_url', 'content': 'https://pubmed.ncbi.nlm.nih.gov/34583253/'}
+{'name': 'citation_volume', 'content': '45'}
+{'name': 'citation_doi', 'content': '10.1016/j.ctcp.2021.101448'}
+{'name': 'citation_issn', 'content': '1873-6947'}
+
+Body Text:
+What influences complementary medicine use for children with eosinophilic esophagitis? Findings from a cross-sectional survey - PubMed
+This site needs JavaScript to work properly. Please enable it to take advantage of the complete set of features!
+Clipboard, Search History, and several other advanced features are temporarily unavailable.
+Skip to main page content
+An official website of the United States government
+Here's how you know
+The .gov means it’s official.
+Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+The site is secure.
+The
+https://
+ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+Log in
+Show account info
+Close
+Account
+Logged in as:
+username
+Dashboard
+Publications
+Account settings
+Log out
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+Search:
+Search
+Advanced
+Clipboard
+User Guide
+Save
+Email
+Send to
+Clipboard
+My Bibliography
+Collections
+Citation manager
+Display options
+Display options
+Format
+Abstract
+PubMed
+PMID
+Save citation to file
+Format:
+Summary (text)
+PubMed
+PMID
+Abstract (text)
+CSV
+Create file
+Cancel
+Email citation
+Subject:
+1 selected item: 34583253 - PubMed
+To:
+From:
+Format:
+Summary
+Summary (text)
+Abstract
+Abstract (text)
+MeSH and other data
+Send email
+Cancel
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection:
+Name must be less than 100 characters
+Choose a collection:
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Add to My Bibliography
+My Bibliography
+Unable to load your delegates due to an error
+Please try again
+Add
+Cancel
+Your saved search
+Name of saved search:
+Search terms:
+Test search terms
+Would you like email updates of new search results?
+Saved Search Alert Radio Buttons
+Yes
+No
+Email:
+(
+change
+)
+Frequency:
+Monthly
+Weekly
+Daily
+Which day?
+The first Sunday
+The first Monday
+The first Tuesday
+The first Wednesday
+The first Thursday
+The first Friday
+The first Saturday
+The first day
+The first weekday
+Which day?
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Report format:
+Summary
+Summary (text)
+Abstract
+Abstract (text)
+PubMed
+Send at most:
+1 item
+5 items
+10 items
+20 items
+50 items
+100 items
+200 items
+Send even when there aren't any new results
+Optional text in email:
+Save
+Cancel
+Create a file for external citation management software
+Create file
+Cancel
+Your RSS Feed
+Name of RSS Feed:
+Number of items displayed:
+5
+10
+15
+20
+50
+100
+Create RSS
+Cancel
+RSS Link
+Copy
+Full text links
+Elsevier Science
+Full text links
+Actions
+Cite
+Collections
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection:
+Name must be less than 100 characters
+Choose a collection:
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Display options
+Display options
+Format
+Abstract
+PubMed
+PMID
+Share
+Permalink
+Copy
+Page navigation
+Title & authors
+Abstract
+Similar articles
+Cited by
+MeSH terms
+Related information
+LinkOut - more resources
+Title & authors
+Abstract
+Similar articles
+Cited by
+MeSH terms
+Related information
+LinkOut - more resources
+Complement Ther Clin Pract
+Actions
+Search in PubMed
+Search in NLM Catalog
+Add to Search
+.
+2021 Nov:45:101448.
+doi: 10.1016/j.ctcp.2021.101448.
+Epub 2021 Jul 23.
+What influences complementary medicine use for children with eosinophilic esophagitis? Findings from a cross-sectional survey
+Nicole Hannan
+1
+,
+Amie Steel
+2
+,
+Evelin Tiralongo
+3
+,
+Sara S McMillan
+3
+Affiliations
+Expand
+Affiliations
+1
+School of Pharmacy and Medical Sciences, Griffith University, Southport, QLD, 4215, Australia. Electronic address: nhannanresearch@gmail.com.
+2
+Australian Research Centre in Complementary and Integrative Medicine, Faculty of Health, University of Technology Sydney, Ultimo, NSW, 2007, Australia.
+3
+School of Pharmacy and Medical Sciences, Griffith University, Southport, QLD, 4215, Australia.
+PMID:
+34583253
+DOI:
+10.1016/j.ctcp.2021.101448
+Item in Clipboard
+What influences complementary medicine use for children with eosinophilic esophagitis? Findings from a cross-sectional survey
+Nicole Hannan
+et al.
+Complement Ther Clin Pract
+.
+2021 Nov
+.
+Show details
+Display options
+Display options
+Format
+Abstract
+PubMed
+PMID
+Complement Ther Clin Pract
+Actions
+Search in PubMed
+Search in NLM Catalog
+Add to Search
+.
+2021 Nov:45:101448.
+doi: 10.1016/j.ctcp.2021.101448.
+Epub 2021 Jul 23.
+Authors
+Nicole Hannan
+1
+,
+Amie Steel
+2
+,
+Evelin Tiralongo
+3
+,
+Sara S McMillan
+3
+Affiliations
+1
+School of Pharmacy and Medical Sciences, Griffith University, Southport, QLD, 4215, Australia. Electronic address: nhannanresearch@gmail.com.
+2
+Australian Research Centre in Complementary and Integrative Medicine, Faculty of Health, University of Technology Sydney, Ultimo, NSW, 2007, Australia.
+3
+School of Pharmacy and Medical Sciences, Griffith University, Southport, QLD, 4215, Australia.
+PMID:
+34583253
+DOI:
+10.1016/j.ctcp.2021.101448
+Item in Clipboard
+Full text links
+Cite
+Display options
+Display options
+Format
+Abstract
+PubMed
+PMID
+Abstract
+Background and purpose:
+Utilization of complementary medicines (CMs) amongst children with eosinophilic esophagitis (EoE) in Australia is high. Carers' beliefs, perceptions and use of CM can influence the decision to use CM in children in their care. This study explores the factors influencing the use of CM for a child's EoE when the carer also uses CM.
+Materials and methods:
+Carers of children aged 0-18 years with EoE participated in a national cross-sectional online survey, conducted in Australia between September 2018 and February 2019. Data analysis included bivariate analysis, Cramer's V, backwards stepwise logistic regression and binomial logistic regression.
+Results:
+Of the 181 total survey responses, 165 (91.2 %) respondents indicated they had utilized some form of CM for themselves. Children whose carer had used some form of CM for themselves were more likely to have used CM than children whose carer had not used CM (OR 4.6; p = 0.001). Of the CM self-using carers, 125 (75.8 %) had also chosen to utilize CM for their child's EoE. Use of CM in children was more likely amongst children who had used a pharmaceutical for their EoE (OR 7.51; p = 0.010), and those whose carer had consulted with "other health practitioners or health workers" for their child's EoE (OR 5.34; p < 0.001) or had consulted with a chiropractor for themselves (OR 2.70; p = 0.029).
+Conclusion:
+High CM self-use amongst carers is associated with their decision to also use CM for their child's EoE, a concern given the absence of evidence for CM's safety and efficacy in this population. CM use in this population warrants further attention. Effective conventional medicines for EoE are limited and utilization of CM amongst children with EoE in Australia is high. The recommendation of CM for children with EoE warrants further attention given the substantial concomitant pharmaceutical care, and the absence of evidence for CM's safety and efficacy in this population. Further research into the role of CM practitioners, products, and therapies in an integrative model between CM and conventional healthcare must be undertaken.
+Keywords:
+Carer; Complementary medicine; Eosinophilic esophagitis; Health service use; Pediatric.
+Copyright © 2021. Published by Elsevier Ltd.
+PubMed Disclaimer
+Similar articles
+Health Service Use and Treatment Choices for Pediatric Eosinophilic Esophagitis: Findings From a Cross-Sectional Survey of Australian Carers.
+Hannan N, Steel A, McMillan SS, Tiralongo E.
+Hannan N, et al.
+Front Pediatr. 2020 Apr 17;8:147. doi: 10.3389/fped.2020.00147. eCollection 2020.
+Front Pediatr. 2020.
+PMID:
+32363170
+Free PMC article.
+Treatment Burden for Pediatric Eosinophilic Esophagitis: A Cross-Sectional Survey of Carers.
+Hannan N, McMillan SS, Tiralongo E, Steel A.
+Hannan N, et al.
+J Pediatr Psychol. 2021 Jan 20;46(1):100-111. doi: 10.1093/jpepsy/jsaa095.
+J Pediatr Psychol. 2021.
+PMID:
+33216917
+Use of complementary medicine products: a nationally representative cross-sectional survey of 2019 Australian adults.
+Harnett JE, McIntyre E, Steel A, Foley H, Sibbritt D, Adams J.
+Harnett JE, et al.
+BMJ Open. 2019 Jul 16;9(7):e024198. doi: 10.1136/bmjopen-2018-024198.
+BMJ Open. 2019.
+PMID:
+31315853
+Free PMC article.
+Treatment of eosinophilic esophagitis in the pediatric patient: an evidence-based approach.
+Munoz-Persy M, Lucendo AJ.
+Munoz-Persy M, et al.
+Eur J Pediatr. 2018 May;177(5):649-663. doi: 10.1007/s00431-018-3129-7. Epub 2018 Mar 17.
+Eur J Pediatr. 2018.
+PMID:
+29549437
+Review.
+Eosinophilic Esophagitis in Children.
+Ruffner MA, Spergel JM.
+Ruffner MA, et al.
+Curr Allergy Asthma Rep. 2017 Aug;17(8):54. doi: 10.1007/s11882-017-0721-2.
+Curr Allergy Asthma Rep. 2017.
+PMID:
+28653125
+Review.
+See all similar articles
+Cited by
+Is the Pediatric Eosinophilic Esophagitis Symptom Score v2.0 reliable for telemedicine?
+Terece SP, Yapar D, Karagöl HİE, Köken G, Düztaş DT, Eğritaş Ö, Sari S, Dalgiç B, Bakirtaş A.
+Terece SP, et al.
+Turk J Med Sci. 2023 Aug;53(4):859-864. doi: 10.55730/1300-0144.5649. Epub 2023 Aug 18.
+Turk J Med Sci. 2023.
+PMID:
+38031952
+Free PMC article.
+MeSH terms
+Australia
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Child
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Complementary Therapies*
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Cross-Sectional Studies
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Eosinophilic Esophagitis* / drug therapy
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Humans
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Surveys and Questionnaires
+Actions
+Search in PubMed
+Search in MeSH
+Add to Search
+Related information
+MedGen
+LinkOut - more resources
+Full Text Sources
+Elsevier Science
+Medical
+MedlinePlus Health Information
+Full text links
+[x]
+Elsevier Science
+[x]
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+Send To
+Clipboard
+Email
+Save
+My Bibliography
+Collections
+Citation Manager
+[x]
+NCBI Literature Resources
+MeSH
+PMC
+Bookshelf
+Disclaimer
+The PubMed wordmark and PubMed logo are registered trademarks of the U.S. Department of Health and Human Services (HHS). Unauthorized use of these marks is strictly prohibited.
+Follow NCBI
+Twitter
+Facebook
+LinkedIn
+GitHub
+Connect with NLM
+Twitter
+SM-Facebook
+SM-Youtube
+National Library of Medicine
+8600 Rockville Pike
+Bethesda, MD 20894
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+Help
+Accessibility
+Careers
+NLM
+NIH
+HHS
+USA.gov

@@ -1,0 +1,270 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'dc.title', 'content': 'HOPE For All'}
+{'name': 'dc.description', 'content': 'Meeting the needs of our neighbors'}
+{'name': 'dc.relation', 'content': 'https://hopeforall.us/'}
+{'name': 'dc.source', 'content': 'https://hopeforall.us/'}
+{'name': 'dc.language', 'content': 'en_US'}
+{'name': 'description', 'content': 'Meeting the needs of our neighbors'}
+{'name': 'robots', 'content': 'index, follow'}
+{'name': 'googlebot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'name': 'bingbot', 'content': 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'}
+{'property': 'og:url', 'content': 'https://hopeforall.us/'}
+{'property': 'og:site_name', 'content': 'HOPE For All'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'HOPE For All'}
+{'property': 'og:description', 'content': 'Meeting the needs of our neighbors'}
+{'property': 'og:image', 'content': 'https://hopeforall.us/wp-content/uploads/2023/06/23_Capital-Gazette-Winner.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://hopeforall.us/wp-content/uploads/2023/06/23_Capital-Gazette-Winner.jpg'}
+{'property': 'og:image:width', 'content': '750'}
+{'property': 'og:image:height', 'content': '883'}
+{'property': 'fb:pages', 'content': ''}
+{'property': 'fb:admins', 'content': ''}
+{'property': 'fb:app_id', 'content': ''}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:site', 'content': '@hopeforallmd'}
+{'name': 'twitter:creator', 'content': '@hopeforallmd'}
+{'name': 'twitter:title', 'content': 'HOPE For All'}
+{'name': 'twitter:description', 'content': 'Meeting the needs of our neighbors'}
+{'name': 'twitter:image', 'content': 'https://hopeforall.us/wp-content/uploads/2023/06/23_Capital-Gazette-Winner.jpg'}
+{'name': 'generator', 'content': 'WordPress 6.5.3'}
+{'name': 'cdp-version', 'content': '1.4.6'}
+{'name': 'msapplication-TileImage', 'content': 'https://hopeforall.us/wp-content/uploads/2021/09/cropped-HFA_Lamb-in-O_favicon-270x270.png'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://15173', 'content': 'HOPE For All featured in What’s Up? Annapolis'}
+{'itemprop': 'datePublished', 'content': '2023-12-26'}
+{'itemprop': 'dateModified', 'content': '2024-01-28'}
+{'itemprop': 'name', 'content': 'HOPE For All'}
+{'itemprop': 'url', 'content': 'https://hopeforall.us/author/hopeforall/'}
+{'itemprop': 'name', 'content': 'hopeforall'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://12689', 'content': 'Bowling for HOPE 2023'}
+{'itemprop': 'datePublished', 'content': '2023-12-07'}
+{'itemprop': 'dateModified', 'content': '2024-01-28'}
+{'itemprop': 'name', 'content': 'HOPE For All'}
+{'itemprop': 'url', 'content': 'https://hopeforall.us/author/riseshinecreative/'}
+{'itemprop': 'name', 'content': 'riseshinecreative'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://9218', 'content': 'Thank you for supporting our Spring Fundraiser – HOPE @ The Hitch!'}
+{'itemprop': 'datePublished', 'content': '2023-06-03'}
+{'itemprop': 'dateModified', 'content': '2024-01-28'}
+{'itemprop': 'name', 'content': 'HOPE For All'}
+{'itemprop': 'url', 'content': 'https://hopeforall.us/author/hopeforall/'}
+{'itemprop': 'name', 'content': 'hopeforall'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://7857', 'content': '2022 Sharing Hope Campaign Results'}
+{'itemprop': 'datePublished', 'content': '2023-03-03'}
+{'itemprop': 'dateModified', 'content': '2024-01-28'}
+{'itemprop': 'name', 'content': 'HOPE For All'}
+{'itemprop': 'url', 'content': 'https://hopeforall.us/author/hopeforall/'}
+{'itemprop': 'name', 'content': 'hopeforall'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+{'itemscope': '', 'itemprop': 'mainEntityOfPage', 'itemtype': 'https://schema.org/WebPage', 'itemid': 'http://6427', 'content': 'Community Foundation Lifetime Achievement Award'}
+{'itemprop': 'datePublished', 'content': '2022-11-02'}
+{'itemprop': 'dateModified', 'content': '2024-01-28'}
+{'itemprop': 'name', 'content': 'HOPE For All'}
+{'itemprop': 'url', 'content': 'https://hopeforall.us/author/hopeforall/'}
+{'itemprop': 'name', 'content': 'hopeforall'}
+{'itemprop': 'interactionType', 'content': 'https://schema.org/CommentAction'}
+{'itemprop': 'userInteractionCount', 'content': '0'}
+
+Body Text:
+HOPE For All
+Skip to content
+Menu
+Home
+About Us
+Community Partners
+Recognitions
+Our Programs
+Get Involved
+Ways to Give
+Shop with HOPE
+Ebay Shop
+Yard Sale
+Corporate Giving
+News & Events
+Need Help?
+Contact Us
+Donate
+Menu
+Home
+About Us
+Community Partners
+Recognitions
+Our Programs
+Get Involved
+Ways to Give
+Shop with HOPE
+Ebay Shop
+Yard Sale
+Corporate Giving
+News & Events
+Need Help?
+Contact Us
+Donate
+Offering life's essentials today... to give HOPE for a self-sufficient tomorrow
+Donate
+Offering life's essentials today... to give HOPE for a self-sufficient tomorrow
+Menu
+Home
+About Us
+Community Partners
+Recognitions
+Our Programs
+Get Involved
+Ways to Give
+Shop with HOPE
+Ebay Shop
+Yard Sale
+Corporate Giving
+News & Events
+Need Help?
+Contact Us
+Meeting the Needs of our Neighbors
+Serving those in need in Anne Arundel County, MD with furniture, housewares, and clothing.
+Get Involved
+In Service to our Community
+HOPE For All is a Christian ministry whose mission is to provide furniture, household items, and clothing to people in our community who are without the financial means to meet their basic needs. We are a unique resource in our area for those transitioning from homelessness, or just in need of a helping hand.  We offer clients the essentials necessary to create a healthy home.
+Learn More About Us
+Need Help?
+Our Programs
+Get Involved
+Ways to Give
+Named the Outstanding Nonprofit of 2020 by the
+Community Foundation of Anne Arundel County
+Voted Best Charity/ Nonprofit of 2023
+Voted Best Charity/ Nonprofit of 2023
+See more of our Recognitions
+Meet Monica and her family
+More Stories of Hope
+Play Video
+Meet Monica and her family
+Play Video
+More Stories of Hope
+Monthly Yard Sales
+Shop our yard sales to find great buys and unique treasures. Your purchases help provide funds for HOPE For All to serve those most in need in our community with basic home necessities for daily living.  Come shop and enjoy our great bargains while making a difference in our community!
+More Information
+Donate Goods
+2024 Dates
+Saturdays
+8 - 11 am
+January 13
+February 10
+March 9
+April 13
+May 11
+June 8
+July 13
+August 10
+September 14
+October 12
+November 9
+December 14
+Thursdays
+5 - 7 pm
+January 25
+February 22
+March 28
+April 25
+May 23
+June 27
+July 25
+August 29
+September 26
+October 24
+November 21
+What's Happening
+HOPE For All featured in What’s Up? Annapolis
+December 26, 2023
+HOPE For All was featured in the latest issue of What’s Up? Annapolis Towne Social section for our HOPE@TheHitch fundraiser. What a great time we had sharing our mission to serve our…
+Read More
+about HOPE For All featured in What’s Up? Annapolis
+Bowling for HOPE 2023
+December 7, 2023
+We raised more than $30,000 this year, thanks to our generous sponsors, bowlers, and supporters! With a full house at Greenway Bowl in Odenton, along with our online auction, we had a night full of fun for a great cause. Thanks to…
+Read More
+about Bowling for HOPE 2023
+Thank you for supporting our Spring Fundraiser – HOPE @ The Hitch!
+June 3, 2023
+Thanks to all who helped us raise more than $18,000! HOPE@TheHitch sponsored by What’s Up? Media and Mercedes-Benz of…
+Read More
+about Thank you for supporting our Spring Fundraiser – HOPE @ The Hitch!
+2022 Sharing Hope Campaign Results
+March 3, 2023
+Our Sharing HOPE campaign was a great success, bringing in more than $62,000! We are so grateful to our donors for joining with HOPE For All to serve the people in our community who need help with meeting their basic needs. These donations will go a…
+Read More
+about 2022 Sharing Hope Campaign Results
+Community Foundation Lifetime Achievement Award
+November 2, 2022
+We are thrilled to announce that our selfless founder, Leo Zerhusen, will be awarded the Community Foundation of Anne Arundel County’s Lifetime Achievement Award on Nov. 3, at the Foundation’s Celebration of Philanthropy in Ann…
+Read More
+about Community Foundation Lifetime Achievement Award
+Sign Up for Our Newsletter
+See Newsletter Archives
+Thank you Corporate Sponsors!
+HOPE For All is grateful for all the support we receive from our community partners. Find out how your business can help!
+My business wants to support my community!
+Thank you Community Partners!
+In addition to our corporate sponsors, HOPE For All is grateful for all the support we receive from our community partners.
+Supporting Churches
+Partnering Agencies
+Never Miss an Update
+Sign up for our emails including our monthly newsletter!
+!
+!
+Subscribe
+We send out occasional updates, stories of HOPE, and information about our events.
+We protect your privacy and will never sell, trade, or give away your email address.
+Something went wrong. Please check your entries and try again.
+About Us
+HOPE For All is a Christian ministry whose mission is to provide furniture, household items, and clothing to people in our community who are without the financial means to meet their basic needs. We strive to offer stability to their daily lives and give them hope for their future.
+About Us
+FAQs
+Contact Us
+(410) 766-0372
+Our Location
+|
+122 Roesler Road,
+Glen Burnie, MD 21060
+Mailing Address
+| P.O. Box 1548
+Glen Burnie, MD 21060
+Donations Hours |
+Tuesday-Wednesday 9:30 a.m. to 3 p.m.
+Office Hours
+|
+Monday-Thursday 9:30 a.m. to 4 p.m.
+Donate
+About Us
+HOPE For All is a Christian ministry whose mission is to provide furniture, household items, and clothing to people in our community who are without the financial means to meet their basic needs. We strive to offer stability to their daily lives and give them hope for their future.
+About Us
+FAQs
+Contact Us
+(410) 766-0372
+Our Location
+|
+122 Roesler Road,
+Glen Burnie, MD 21060
+Mailing Address
+| P.O. Box 1548
+Glen Burnie, MD 21060
+Donations Hours |
+Tuesday-Wednesday 9:30 a.m. to 3 p.m.
+Office Hours
+|
+Monday-Thursday 9:30 a.m. to 4 p.m.
+Donate
+© 2023 HOPE For All. All Rights Reserved. |
+Privacy Policy
+| Built with love by
+Rise Shine Creative
+.
+Donation Pickup
+Scroll To Top

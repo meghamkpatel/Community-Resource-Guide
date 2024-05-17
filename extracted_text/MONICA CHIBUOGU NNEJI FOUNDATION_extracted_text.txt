@@ -1,0 +1,24 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'description', 'content': 'The Monica Chibuogu Nneji Foundation, Inc. is a 501(c)(3) nonprofit public charity on a mission to invest in the health, education, and upward mobility of communities in need.\n'}
+{'name': 'robots', 'content': 'index, follow'}
+
+Body Text:
+The Monica Chibuogu Nneji Foundation, Inc.
+Home
+Mission
+About
+Work
+Scholars
+Apply for Scholarship
+Donate
+Welcome to The Monica Chibuogu Nneji Foundation, Inc.
+The Monica Chibuogu Nneji Foundation, Inc. is a 501(c)(3) nonprofit public charity on a mission to invest in the health, education, and upward mobility of communities in need.
+Our Mission
+Donate
+Apply for Scholarship
+© The Monica Chibuogu Nneji Foundation, Inc.
+Design:
+HTML5 UP

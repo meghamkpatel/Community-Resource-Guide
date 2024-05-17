@@ -1,0 +1,61 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '87a837db-4b67-4b13-b6cf-a7a30de607a1'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'e30194be-7745-4d63-a21b-2bdbae69f167'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '92'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'HOME | RNS Sports'}
+{'property': 'og:image', 'content': 'https://static.wixstatic.com/media/fc7eff_4befedc393f445319040b6d6b40e0213~mv2.jpeg/v1/fill/w_1000,h_553,al_c/fc7eff_4befedc393f445319040b6d6b40e0213~mv2.jpeg'}
+{'property': 'og:image:width', 'content': '1000'}
+{'property': 'og:image:height', 'content': '553'}
+{'property': 'og:url', 'content': 'https://www.rnssportsnc.com'}
+{'property': 'og:site_name', 'content': '2021 Main'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'HOME | RNS Sports'}
+{'name': 'twitter:image', 'content': 'https://static.wixstatic.com/media/fc7eff_4befedc393f445319040b6d6b40e0213~mv2.jpeg/v1/fill/w_1000,h_553,al_c/fc7eff_4befedc393f445319040b6d6b40e0213~mv2.jpeg'}
+
+Body Text:
+HOME | RNS Sports
+top of page
+HOME
+HOLIDAY INVITATIONAL
+WHY WE'RE HERE
+OUR LEADER
+LEGACY
+FOCUSES
+EVENTS & OUTREACH
+UP NEXT NC
+CONTACT
+More
+Use tab to navigate through the menu items.
+COME GROW WITH US!
+Welcome to RNS Sports, Where Growth Resides!
+Welcome!
+We are incredibly grateful for the opportunity to serve the people of Durham, NC and beyond.  Since founding RNS Sports 5 years ago, we have seen lives changed in ways that we never could have imagined. That is our hope for every person who connects with our organization – whether in person or online – that your heart and life would be transformed by the love of God and His people, and that your life would be improved as you learn to apply the principles that we teach.
+We encourage you to take advantage of all that RNS Sports has to offer, from our dynamic events, to the opportunities to use your gifts and talents to serve people across the United States.
+We are always amazed by the endless testimonies of breakthroughs and restoration that we hear from people connected to this ministry. We pray that in your experiences with this organization, one day your story will become one of them.
+– Sherard A. Johnson
+Developing our youth through
+connection
+and
+community
+.
+BASKETBALL & TRAINING
+COMMUNITY SERVICE
+EVENTS
+Stay Connected With Us!
+Have additional questions? We would love to hear from you!
+Please submit all general questions or comments for
+Ron N Shoot (RNS) Sports in the form below.
+Submit
+Thanks for submitting!
+CONTACT
+© 2023 Design by The Vivid Co.
+bottom of page

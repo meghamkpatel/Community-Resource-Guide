@@ -1,0 +1,173 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'name': 'description', 'content': 'RTCA is a private, not-for-profit association founded in 1935 as the Radio Technical Commission for Aeronautics, now referred to simply as “RTCA”. %'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'RTCA | Safer Skies Through Collaboration'}
+{'property': 'og:description', 'content': 'RTCA is a private, not-for-profit association founded in 1935 as the Radio Technical Commission for Aeronautics, now referred to simply as “RTCA”. %'}
+{'property': 'og:url', 'content': 'https://www.rtca.org/'}
+{'property': 'og:site_name', 'content': 'RTCA'}
+{'property': 'article:modified_time', 'content': '2024-04-12T14:29:42+00:00'}
+{'property': 'og:image', 'content': 'https://www.rtca.org/wp-content/uploads/2020/08/shutterstock_614780621-e1597175547970.jpg'}
+{'property': 'og:image:width', 'content': '2449'}
+{'property': 'og:image:height', 'content': '1326'}
+{'property': 'og:image:type', 'content': 'image/jpeg'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@rtcainc'}
+{'name': 'google-site-verification', 'content': '_BVy-Rpb4QkN5-8lG3SRpdz8-bBMnTYb74Mj7iOYeEM'}
+{'name': 'yandex-verification', 'content': '0ee63f4ad27265e7'}
+{'name': 'generator', 'content': 'WordPress 6.4.2'}
+
+Body Text:
+RTCA | Safer Skies Through Collaboration
+About us
+About us
+Path to Certification
+Security
+Advanced Air Mobility
+Spectrum Compatibility
+Core Values
+Governance
+Awards
+Location
+Training
+Training
+Human Factors
+DO-160G, Environmental Testing
+DO-178C, Software Considerations
+Airworthiness Security Courses
+Safety Management Systems (SMS)
+DO-254, Design Assurance Guidance for Airborne Electronic Hardware
+Training Instructors
+Committees
+Committees
+Program Management Committee
+Special Committees
+Upcoming Committee Meetings
+Documents Under Review
+Archived Committees
+Events
+Events
+Summits
+Virtual Events
+Membership
+Membership
+Options & Fees
+Membership Benefits
+For Members
+Standards
+Standards
+Products
+Publications
+News
+Log in
+Log in
+Log in
+AerOpus
+May Plenaries
+Upcoming Meetings
+Schedule
+30
+Safer Skies Through Collaboration
+About Us
+Globally Harmonized Standards
+Products
+Innovation & Integration
+Committees
+Our Members
+RTCA is a membership organization encompassing companies and governments across the globe representing all facets of the air transportation industry.
+Join us
+Industry Membership
+The Industry Member applies to public or private domestic and international organization, corporation, company, partnership, or proprietorship.
+Government Membership
+U.S. and Non-U.S. Government entities are encouraged to apply.  Large government organizations depend upon RTCA Performance Standards.
+Association Membership
+An Association member is qualified as an organization that represents the collective interest of businesses or individual entities in the aviation industry.
+Academic Membership
+Among RTCA's members are universities across the globe.  Academic membership applies to educational institution that issues degrees.
+OUR MEMBERSHIP BENEFITS
+As an RTCA Member, your organization has access to many benefits including our library of more than 350 standards documents.  Participate on RTCA special committees and influence the future of aviation performance standards.
+View all benefits
+Training
+RTCA offers training courses on documents to facilitate the use of key documents by our stakeholders, and to enhance the understanding of developing and using global standards and guidance.
+Learn More
+Committees
+At the core of RTCA are the hundreds of dedicated individuals from the U.S. and around the world who come together to develop comprehensive, industry-vetted and endorsed recommendations.
+Learn More
+DISCOUNTS ON STANDARDS
+Free electronic downloads in the RTCA Standards Store of more than 350 documents and 60% discount on hard copies (certain restrictions may apply). View our Standards page for more details.
+Learn More
+Events
+RTCA kicks off our 2024 Events Series on May 15 with a 3-part webinar series, aviation standards leaders share updates and application of RTCA software, hardware and security standards.
+Read More
+RECOGNIZING EXCELLENCE
+RTCA’S CURRENT WINNERS
+Contributions from volunteers are what makes RTCA a success, and each year the organization recognizes those who provide extraordinary leadership.
+VIEW ALL
+AWARDEES
+WILLIAM E. JACKSON AWARD
+Dr. Timothy Needham
+The  William E. Jackson  Award is presented to an outstanding graduate student in the field of aviation electronics and telecommunications. The 2022 William E. Jackson Award will be presented to  Dr. Timothy Needham for his thesis entitled “Gravity Modeling in High-Integrity GNSS-Aided Inertial Navigation Systems.”
+Latest News
+Committee Updates
+May 10, 2024
+Insights from April Special Committee Meetings on Aviation Standards!
+Committee Updates
+May 1, 2024
+Upcoming RTCA Special Committee Plenaries May 2024
+Committee Updates
+April 17, 2024
+April Insights: Developments in Navigation Equipment, Aeronautical Databases, and More!
+SUBSCRIBE TO OUR NEWSLETTER
+Close
+Email (required)
+*
+First Name (required)
+*
+Last Name (required)
+*
+Company
+Constant Contact Use. Please leave this field blank.
+By submitting this form, you are consenting to receive marketing emails from: . You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.
+Emails are serviced by Constant Contact
+For more information please visit our
+Privacy Policy
+1150 18th NW, Suite 910 Washington, D.C. 20036
+Contact Us
+202.833.9339
+202.833.9434
+info@rtca.org
+SEND US A MESSAGE
+Please leave this field empty.
+Copyright 2024 RTCA, Inc. All Rights Reserved
+Copyright & Permissions
+Careers
+Privacy Policy
+We are using cookies to give you the best experience on our website.
+You can find out more about which cookies we are using or switch them off in
+settings
+.
+Accept
+Reject
+Close GDPR Cookie Settings
+Privacy Overview
+Strictly Necessary Cookies
+3rd Party Cookies
+Powered by
+GDPR Cookie Compliance
+Privacy Overview
+This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.
+Strictly Necessary Cookies
+Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.
+Enable or Disable Cookies
+If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.
+3rd Party Cookies
+This website uses Google Analytics to collect anonymous information such as the number of visitors to the site, and the most popular pages.
+Keeping this cookie enabled helps us to improve our website.
+Enable or Disable Cookies
+Please enable Strictly Necessary Cookies first so that we can save your preferences!
+Enable All
+Save Settings

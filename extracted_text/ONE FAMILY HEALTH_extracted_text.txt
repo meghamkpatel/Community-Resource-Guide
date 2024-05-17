@@ -1,0 +1,92 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+{'name': 'robots', 'content': 'max-image-preview:large'}
+{'name': 'keywords', 'content': 'healthcare,rwanda,kigali,entrepreneurship,ofh,one family health,nurses,'}
+{'name': 'generator', 'content': 'All in One SEO (AIOSEO) 4.6.2'}
+{'property': 'og:locale', 'content': 'en_GB'}
+{'property': 'og:site_name', 'content': 'One Family Health - Healthcare for 1.6 million people in Rwanda | Improving access to quality essential medicines and basic healthcare services in isolated communities.'}
+{'property': 'og:type', 'content': 'activity'}
+{'property': 'og:title', 'content': 'One Family Health - Healthcare for 1.6 million people in Rwanda'}
+{'property': 'og:url', 'content': 'https://onefamilyhealth.org/'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': 'One Family Health - Healthcare for 1.6 million people in Rwanda'}
+{'name': 'google', 'content': 'nositelinkssearchbox'}
+
+Body Text:
+One Family Health - Healthcare for 1.6 million people in Rwanda
+Home
+About Us
+What We Do
+Impact
+Our Team
+By The Numbers
+Our Partners
+Get Involved
+Donate
+Corporate Partnerships
+Internships & Fellowships
+Contact Us
+News
+Latest News
+Awards & Recognition
+Stories
+ONE FAMILY HEALTH
+We bring essential healthcare to 1.6 million people in rural Rwanda
+OFH’s mission is to improve access to quality essential medicines and basic healthcare services in isolated communities, using a sustainable business model to help underserved communities build health as an asset.
+Healthcare access
+In Rwanda, known as the land of a thousand hills, the majority of the population lives in rural areas and lack of transportation significantly impedes access to basic healthcare.
+Entrepreneurship
+One Family Health combines micro-enterprise and franchise business principles to support local qualified nurses to become business-owners.
+Education
+One Family Health’s nurses focus on health promotion and disease prevention, reducing illness, mortality rates and rising health care costs.
+In developing countries, poor access to healthcare remains a public health crisis, leading to unnecessary illness and even death. OneFamilyHealth offers a sustainable solution to this issue and helps underserved communities build health as an asset.
+OFH’s mission is aligned with the findings of WHO’s “African Regional Health Report”, which cites Africa’s major public health challenge as “building and reinforcing health systems capable of delivering essential health care to the population.
+Several key elements are required for health systems to function properly: adequate numbers of skilled health workers, basic infrastructure and equipment and essential medicines and supplies”.Using a franchised clinic model, OFH improves access to essential medicines and basic healthcare services in isolated communities. Owned and operated by skilled nurses and supported by services from the franchisor, OFH clinics deliver high-quality care to treat and prevent the most common causes of community illness such as respiratory infections and parasites. OFH’s partnership with the Ministry of Health and participation in the national health insurance program ensures the affordability of care for the poorest communities.
+Healthcare access
+In Rwanda, known as the land of a thousand hills, the majority of the population lives in rural areas and lack of transportation significantly impedes access to basic healthcare.
+Education
+One Family Health combines micro-enterprise and franchise business principles to support qualified nurses to become business-owners.
+Entrepreneurship
+One Family Health’s nurses focus on health promotion and disease prevention, reducing illness, mortality rates and rising health care costs.
+HEALTH POST COVERAGE
+Rwanda.
+The News
+See what we're up to.
+USAID award will support OFH expansion in Rwanda
+October 12, 2019
+We have a new website!
+December 8, 2018
+Follow us on Facebook!
+December 8, 2018
+Read More Stories
+IMPACT
+Our stats at a glance.
+Nurse run OFH clinics
+0
++
+Patients
+0
+.6 million +
+Lives saved
+0
++
+OFH Newsletter
+Join our mailing list for the latest news, and get to know all about One Family Health.
+Your Email (required)
+Δ
+Home
+Work
+Project 1
+An Illustrative Blurb
+Project 2
+A Descriptive Line
+About
+Learn More
+The End
+No More to See Here
+Project 3
+More Expressive Text
+Shop
+About
+Contact

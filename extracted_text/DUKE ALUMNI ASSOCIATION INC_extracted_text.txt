@@ -1,0 +1,246 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'description', 'content': 'As a Duke alum, you’re part of one of the most powerful networks in the world, a community of 160,000 that includes leaders and innovators in every field. This site is your gateway to that family – your family. You can use it to catch up with old friends, make new contacts and discover countless ways to stay connected with Duke and your fellow alumni.'}
+{'name': 'generator', 'content': 'Drupal 7 (https://www.drupal.org)'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:site_name', 'content': 'Duke'}
+{'property': 'og:url', 'content': 'https://alumni.duke.edu/'}
+{'property': 'og:title', 'content': 'Duke'}
+{'property': 'og:description', 'content': 'As a Duke alum, you’re part of one of the most powerful networks in the world, a community of 160,000 that includes leaders and innovators in every field. This site is your gateway to that family – your family. You can use it to catch up with old friends, make new contacts and discover countless ways to stay connected with Duke and your fellow alumni.'}
+{'property': 'og:image', 'content': 'https://alumni.duke.edu/hellokarsh/src/images/welcome.jpg'}
+{'property': 'og:image:secure_url', 'content': 'https://alumni.duke.edu/hellokarsh/src/images/welcome.jpg'}
+{'property': 'og:image:alt', 'content': 'Blue devil holding the door open to Karsh Alumni and Visitors Center.'}
+{'property': 'og:image:width', 'content': '500'}
+{'property': 'og:image:height', 'content': '333'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@dukealumni'}
+{'name': 'twitter:site:id', 'content': '24832201'}
+{'name': 'twitter:creator', 'content': '@dukealumni'}
+{'name': 'twitter:url', 'content': 'https://alumni.duke.edu/'}
+{'name': 'twitter:creator:id', 'content': '24832201'}
+{'name': 'twitter:title', 'content': 'Duke'}
+{'name': 'twitter:description', 'content': 'As a Duke alum, you’re part of one of the most powerful networks in the world, a community of 160,000 that includes leaders and innovators in every field. This site is your gateway to that family –'}
+{'name': 'twitter:image', 'content': 'https://alumni.duke.edu/hellokarsh/src/images/welcome.jpg'}
+{'name': 'twitter:image:width', 'content': '500'}
+{'name': 'twitter:image:height', 'content': '333'}
+{'name': 'twitter:image:alt', 'content': 'Blue devil holding the door open to Karsh Alumni and Visitors Center.'}
+{'name': 'apple-itunes-app', 'content': 'app-id=1221603715'}
+
+Body Text:
+Duke
+Skip to main content
+Expand main navigation
+To Duke Alumni homepage
+site search
+alumni directory
+register / sign in
+You need to be signed with your Duke OneLink account to search the alumni directory.
+Sign in now
+.
+If you don't have a Duke OneLink account,
+create one today
+.
+In order to access the alumni directory, class notes, your profile, and more,
+sign in now
+with OneLink.
+If you don't have a Duke OneLink account,
+create one today
+.
+Events
+All Events
+Regional Events
+Duke Alums Engage
+Women's Forum
+Game Watches
+Send-Off Parties
+Welcome to the City
+Homecoming
+DEMAN
+Women's Weekend
+Reunion
+Programs
+Lifelong Learning
+Online Courses and Resources
+Educational Excursions
+Connecting Faculty with Alumni
+Duke Reads
+Forever Learning Institute
+Forever Learning Summer Academy
+Duke Travels
+Upcoming Travels
+Sustainability
+Your Safety
+Women’s Programs
+Women’s Forum
+Women’s Weekend
+Career and Professional Development
+DEMAN
+The DEMAN Lounge
+Creative Industry Organizations
+Helpful Humans
+Job, Internship & Funding Essentials for Creative Industries
+Resources From the Pros
+Who is DEMAN?
+Student Programs and Resources
+Academic Departments and Alumni Engagement
+Alumni Connections
+Alumni Network Profile FAQs
+Karsh Conversations
+Groups
+Browse All Groups
+Affinity Groups
+Industry Groups
+Regional Groups
+Reunion Groups
+School Groups
+Benefits
+Alumni Benefits
+Alumni Card
+Alumni Email
+Alumni Admissions
+Career and Professional Development
+Library Resources
+Transcript Request
+News
+Alumni News
+Class Notes
+Duke Magazine
+Notable Alumni
+Engage
+Getting Started
+Volunteer
+Alumni Admissions Advisory Committee (AAAC)
+Duke Alumni Board of Directors
+Volunteer Resources
+Volunteer Leadership
+Learn
+Travel
+Visiting Campus
+Give
+Support Duke
+Support Alumni Programming
+Join an affinity group
+Communities tailored to your identity, interests or location
+Explore groups
+New to this site?
+Here’s how to get started.
+Sign in
+now to:
+UPDATE PROFILE
+FIND ALUMNI
+FIND CLASS NOTES
+GET/GIVE ADVICE
+VOLUNTEER
+FIND EVENTS
+FIND GROUPS
+GIVE
+Stay Engaged
+Feel like a student again
+The Forever Learning Institute brings new choose-your-own-adventure educational programs led by renowned Duke faculty each semester.
+Learn More
+Challenge Accepted
+By addressing challenges in computing, materials science, and body and brain resilience, Duke will usher in the future of research and reshape the way we educate tomorrow’s leaders in science and technology.
+Learn More
+A Commitment to Inclusion
+The Duke Alumni Board’s Committee for Diversity, Equity & Inclusion works to highlight programming and engagement opportunities so that all alumni feel welcome.
+Learn more
+Upcoming Events
+Career Conversation with Vipul Amin A.B.'98, Managing Director, The Carlyle Group
+May 16 2024, 5:00pm EDT
+Duke alumni, parents, students and guests are welcome to join us for a Career Conversation with
+Vipul Amin A.B.'98, Managing Director, The Carlyle Group
+.  As head of Carlyle Equity Opportunity Fund and a Managing Director with U.S. Buyout, Vipul focuses on buyouts, privatizations and strategic minority investments throughout the United States in the industrial and transportation sectors.
+Learn more and register >
+TRADITION AND TRANSFORMATION: The Duke Student Experience in Our Second Century
+May 16 2024, 6:30pm EDT
+Join us as we continue our Centennial year celebration with Duke’s Vice President and Vice Provost of Student Affairs
+Mary Pat McMahon
+, Vice Provost for Undergraduate Education
+Candis Watts Smith
+A.B.’06, A.M.’08, Ph.D.’11, and current Duke students from the Philadelphia area as they discuss how today’s undergraduates experience Duke and all it has to offer. We are delighted to welcome back to Philly as our moderator for the evening,
+Jim Rosenfield
+A.B.’81, P’16, former evening co-anchor at NBC10.
+Learn more and register >
+Triangle DBA: Food Bank of Central & Eastern North Carolina - Warehouse Project
+May 18 2024, 9:00am EDT
+Join Triangle DBA in making a meaningful impact on our community!
+The Warehouse Project
+food drive is on a mission to fight hunger and nourish lives. By contributing non-perishable food items, you become a vital part of ensuring that no one goes hungry. Help us create positive change and make a real difference in the lives of those facing food insecurity.
+Join the event and let's build a stronger, more caring community one meal at a time!
+Learn more and register >
+ACCELERATING INTELLECTUAL BREAKTHROUGHS: Innovation and Discovery in Duke's Second Century
+May 21 2024, 6:30pm EDT
+Join us for remarks by
+Gary Bennett A.M.'99, Ph.D.'02
+and  presentations and conversations featuring
+Susan Alberts
+, Dean of Natural Sciences and The Robert F. Durden Distinguished Professor of Biology and Evolutionary Anthropology, and
+Matthew L. Becker
+, Hugo L. Blomquist Distinguished Professor of Chemistry, Mechanical Engineering & Material Science, Biomedical Engineering and Orthopedic Surgery.
+Learn more and register >
+Connect with Duke
+Duke Magazine
+Read feature stories
+about campus, Duke’s direction and inspiring alumni in the latest issue.
+Be Social
+Follow @DukeAlumni on your favorite social networks to stay in-the-know.
+Join the Blue Crew
+to become a social media ambassador.
+Go Forward
+Read President Vincent E. Price’s
+messages
+to the Duke community.
+line break
+This website uses cookies as well as similar tools and technologies to understand visitors' experiences. By continuing to use this website, you consent to Duke University's usage of cookies and similar technologies, in accordance with the
+Duke Privacy Statement
+.
+I ACCEPT
+About DAA
+Committee for Diversity, Equity & Inclusion
+What We Do
+Where We Are
+Staff Directory
+Board of Directors
+Bylaws
+Support Alumni Programming
+Quick Links
+Update your address
+Share news
+Check email
+Login to AIMS
+Transcript Request
+Group Admin FAQ's >
+View all FAQ's >
+Duke Resources
+Duke University
+Duke News
+Duke Calendar
+Maps
+Athletics
+Undergraduate Admissions
+Duke in Durham
+Global Duke
+Contact
+Karsh Alumni and Visitors Center
+2080 Duke University Road
+Durham, NC 27708
+Mail and deliveries:
+615 Chapel Drive, Box 90572
+Durham, NC 27708
+P:
+(919) 684-5114
+F: (919) 684-6022
+help@daa.duke.edu
+Connect With Us
+Facebook
+Twitter
+LinkedIn
+Instagram
+YouTube
+Expand footer navigation
+© 2024 Duke Alumni
+Welcome
+Accessibility
+Privacy Policy
+Event Refund Policy
+Staff

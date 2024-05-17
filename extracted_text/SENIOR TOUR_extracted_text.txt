@@ -1,0 +1,66 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'title', 'property': 'og:title', 'content': 'PGA TOUR Champions: Official home of the Charles Schwab Cup'}
+{'name': 'type', 'property': 'og:type', 'content': 'website'}
+{'name': 'description', 'property': 'og:description', 'content': 'Official home: PGA TOUR Champions,  live scoring, news, stats, video, player profiles and tournament information. The best PGA TOUR golfers age 50 and above.'}
+{'name': 'viewport', 'content': 'width=device-width, height=device-height, initial-scale=1, maximum-scale=1'}
+{'name': 'parsely-title', 'content': 'PGA TOUR Champions: Official home of the Charles Schwab Cup'}
+{'name': 'parsely-author', 'content': 'PGA TOUR'}
+{'name': 'msapplication-TileColor', 'content': '#da532c'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'name': 'og:url', 'content': 'https://www.pgatour.com/pgatour-champions'}
+{'name': 'next-head-count', 'content': '18'}
+{'name': 'version', 'content': '1.54.5'}
+
+Body Text:
+PGA TOUR Champions: Official home of the Charles Schwab Cup
+Leaderboard
+Watch + Listen
+News
+Schwab Cup
+Schedule
+Players
+Stats
+Tickets
+Shop
+PGA TOUR
+PGA TOUR Champions
+Korn Ferry Tour
+PGA TOUR Americas
+LPGA TOUR
+DP World Tour
+PGA TOUR University
+THE TOUR
+About
+Careers
+TPC Network
+Contact
+Impact
+Partnerships
+Marketing Partners
+Affiliates
+Media
+Advertise
+Quick Links
+Birdies Fore Love
+ESPN+
+Payne Stewart Award
+Fan Council
+Newsletters
+What's New
+Social Responsibility
+Sustainability
+Shop
+Fan Shop
+Superstore
+Tickets
+Apps
+PGA TOUR
+Privacy Policy
+Terms of Use
+Accessibility Statement
+Do Not Sell or Share My Personal Information
+Cookie Choices
+Sitemap
+Copyright © 2024 PGA TOUR, Inc. All rights reserved.
+PGA TOUR, PGA TOUR Champions, and the Swinging Golfer design are registered trademarks. The Korn Ferry trademark is also a registered trademark, and is used in the Korn Ferry Tour logo with permission.

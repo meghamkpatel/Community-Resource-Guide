@@ -1,0 +1,29 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+
+Body Text:
+Crossing the Divide
+Donate
+Home
+Basic Neuroscience
+Crossing the Divide
+Crossing the Divide
+Visit Teach.Genetics
+Sign up for our email announcements
+Cite this page
+Disclaimer
+Permissions Policy
+Privacy Policy
+Copyright ©
+University of Utah
+GSLC
+APA format:
+Genetic Science Learning Center. (2015, June 30) Crossing the Divide.
+Retrieved May 14, 2024, from https://learn.genetics.utah.edu/content/neuroscience/crossingdivide/
+CSE format:
+Crossing the Divide [Internet]. Salt Lake City (UT): Genetic Science Learning Center; 2015
+[cited 2024 May 14] Available from https://learn.genetics.utah.edu/content/neuroscience/crossingdivide/
+Chicago format:
+Genetic Science Learning Center. "Crossing the Divide." Learn.Genetics.
+June 30, 2015. Accessed May 14, 2024. https://learn.genetics.utah.edu/content/neuroscience/crossingdivide/.

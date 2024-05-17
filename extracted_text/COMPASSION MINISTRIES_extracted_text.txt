@@ -1,0 +1,105 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'robots', 'content': 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': 'Home - Compassion Waco'}
+{'property': 'og:description', 'content': 'Empowering Families to Build Solid Foundations read more Apply For Help In Person only on Wednesdays (9:30am-11:30am) \xa0 Volunteer Donate Welcome to compassion waco A Transitional Housing Program for Homeless Families, located in Waco, Texas At Compassion Waco, we firmly believe in the inherent worth and dignity of every individual, regardless of their socioeconomic status. […]'}
+{'property': 'og:url', 'content': 'https://compassionwaco.com/'}
+{'property': 'og:site_name', 'content': 'Compassion Waco'}
+{'property': 'article:publisher', 'content': 'https://www.facebook.com/CompassionWaco'}
+{'property': 'article:modified_time', 'content': '2024-05-02T03:23:52+00:00'}
+{'property': 'og:image', 'content': 'https://compassionwaco.com/wp-content/uploads/elementor/thumbs/compassion-waco-qbrtwwdehefjqu2690tddqlr814p6jozfx4ahtkrn4.png'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'generator', 'content': 'Elementor 3.21.1; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap'}
+{'name': 'msapplication-TileImage', 'content': 'https://compassionwaco.com/wp-content/uploads/2023/04/favicon.png'}
+
+Body Text:
+Home - Compassion Waco
+Skip to content
+1421 Austin Avenue, Waco, TX, United States, 76701
++1 254-755-7640
+Home
+About us
+Our Philosophy
+History
+Our Team
+Board of Directors
+Services
+FAQ
+Get Involved
+Donate
+Volunteer
+Employment Opportunities
+Contact us
+Home
+Empowering Families to Build Solid Foundations
+read more
+Apply For Help
+In Person only on Wednesdays (9:30am-11:30am)
+Volunteer
+Donate
+Welcome to compassion waco
+A Transitional Housing Program for Homeless Families, located in Waco, Texas
+At Compassion Waco, we firmly believe in the inherent worth and dignity of every individual, regardless of their socioeconomic status. Guided by our faith principles, we are committed to providing a safe, compassionate, and nurturing environment that empowers homeless families to regain stability, dignity, and hope.
+Discover more
+Welcome to compassion waco
+Transitional Housing for Homeless 
+Families, located in Waco, Texas
+Overwhelmed by the daily needs of the homeless, several local pastors and leaders began meeting in Fall 1993 to discuss the realities, dilemmas, and needs of these members of our community.
+Out of those meetings came a conviction that creating an organization focusing specifically on the homeless and their needs was critical.
+Compassion Ministries was incorporated in May 1994, and a 20-member 
+board of directors was established.
+Discover more
+Our Services
+Our In-house Services
+Counseling
+Lorem ipsum dolor sit amet, consectetur adipiscing
+Job training
+/ Search
+Lorem ipsum dolor sit amet, consectetur adipiscing
+Drug / alcohol  treatment
+Lorem ipsum dolor sit amet, consectetur adipiscing
+Daycare
+Lorem ipsum dolor sit amet, consectetur adipiscing
+contact us
+1421 Austin Avenue
+Waco, Texas 76701
+(254) 755-7640
+Latest News
+& Articles
+May 2, 2023
+No Comments
+We are SO EXCITED for Gloria!
+May 2, 2023
+No Comments
+What a great Friday for our Compassion Waco team!
+May 2, 2023
+No Comments
+This is Daphny and one of her beautiful daughters.
+1421 Austin Avenue
+Waco, Texas 76701
+compassion@compassionwaco.com
+(254) 755-7640
+Mon - Thu: 9:00 am to 5:30 pm
+Fri: 9:00 am to 2:00 pm
+Saturday & Sunday: CLOSED
+Explore
+Meet the Team
+Our Services
+Latest News
+About Us
+Contact
+Latest Blogs
+Recent Posts
+We are SO EXCITED for Gloria!
+What a great Friday for our Compassion Waco team!
+This is Daphny and one of her beautiful daughters.
+Newsletter
+Subscribe our newsletter to get our latest update & news
+© Copyright 2024 by
+Compassion Waco
+Website Design by
+WSI Internet Partners

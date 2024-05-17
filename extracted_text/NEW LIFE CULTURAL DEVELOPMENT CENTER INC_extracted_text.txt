@@ -1,0 +1,1281 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'name': 'msapplication-TileColor', 'content': '#0e3468'}
+{'name': 'msapplication-TileImage', 'content': '/Frontend-Assembly/Telerik.Sitefinity.Frontend/assets/dist/mstile-144x144.png?package=Talon'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'property': 'og:title', 'content': 'School'}
+{'property': 'og:description', 'content': 'School'}
+{'property': 'og:url', 'content': ''}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:site_name', 'content': 'web'}
+{'name': 'Generator', 'content': 'Sitefinity 14.4.8131.0 DX'}
+{'name': 'description', 'content': 'School'}
+{'name': 'keywords', 'content': 'School'}
+
+Body Text:
+New Life Child Development Center 1
+Skip to Main Content
+Skip to Main Navigation
+&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSTMZHV" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;
+&lt;div class="alert" role="alert" aria-atomic="true" style="padding: 20px; background-color:yellow"&gt; &lt;strong&gt; Your browser does not appear to support JavaScript, but this page needs to use JavaScript to display correctly.&gt; &lt;/strong&gt; &lt;/div&gt;
+Hands Forming a Heart
+academics
+accessibility
+alert
+arts
+backpack
+calendar
+camera
+careers
+circle-check
+circle pointing down
+clock
+contact
+envelope
+Facebook
+fax
+file
+globe
+globe
+grades
+help
+information
+link off
+location
+lunch
+Connect
+Notify
+NYC Department of Education
+office worker
+office worker
+One Plus Three
+phone
+question
+rss
+school
+school-high
+search
+sports
+students
+Sun
+transportation
+Twitter
+Twitter
+user
+Vimeo
+world
+information
+Graduation Hat
+file-pdf
+file-word
+file-word
+file-excel
+file-excel
+ar
+bn
+zh
+ko
+ru
+ur
+en
+fr-FR
+fr-HT
+es
+Español
+The site navigation utilizes arrow, enter, escape, and space bar key commands. Left and right arrows move across top level links and expand / close menus in sub levels. Up and Down arrows will open main level menus and toggle through sub tier links. Enter and space open menus and escape closes them as well. Tab will move on to the next part of the site rather than go through menu items.
+Enrollment
+Enroll Grade by Grade
+Enrollment Help
+Enroll in Charter Schools
+Summer
+Other Ways to Graduate
+NYC Bright Starts
+Enroll Grade by Grade
+Learn About Enrollment
+Infant and Toddler
+Head Start
+3-K
+Pre-K
+Kindergarten
+Gifted and Talented
+Middle School
+High School
+Specialized High Schools
+How Students Get Offers to DOE Public Schools
+Waitlists
+Enrollment Help
+Family Welcome Centers
+Meeting Student Needs
+New Students
+Transfers
+Home Schooling
+Enrollment Forms
+Enroll in Charter Schools
+Learn About Charter Schools
+How to Enroll in Charter Schools
+Pre-K Charter Schools
+Summer
+Summer Rising
+Other Ways to Graduate
+Learn About Other Ways to Graduate
+Alternative Middle Schools
+Young Adult Borough Centers
+Transfer High Schools
+High School Equivalency (Ages 17-21)
+Adult Education (Ages 21 plus)
+Kindergarten
+Elementary Admissions Events
+High School
+High School Auditions
+Screened Admissions
+Assessments for Screened Schools
+Educational Option (Ed Opt) Admissions Method
+Types of High Schools
+Spotlight on Great High School Options
+Specialized High Schools
+Discovery Programs
+How Students Get Offers to DOE Public Schools
+Random Numbers in Admissions
+Meeting Student Needs
+Enrollment for LGBTQ and Gender Nonconforming Students
+Enrollment for Students with Disabilities
+Enrollment for Students with Accessibility Needs
+Enrollment for Students Learning English
+Diversity in Admissions
+Non-Resident Enrollment
+Summer Rising
+Find Your Summer School Program and Address—Lookup Table
+CBOs with Seat Availability—Lookup Table
+Transfer High Schools
+Transfer Schools Guide
+High School Equivalency (Ages 17-21)
+Enroll in High School Equivalency Classes (Ages 17-21)
+Find a School
+Learning
+Special Education
+Multilingual Learners
+Digital Learning
+Subjects
+Testing
+Student Journey
+Programs
+Special Education
+Family Resources
+The IEP Process
+Supports and Services
+School Settings
+Preschool to Age 21
+Help
+Building Accessibility
+Boldly Reimagining Special Education
+Multilingual Learners
+Annual Parent Teacher Meetings for English Language Learners
+Bill of Rights for Parents of English Language Learners
+College-Career Readiness for English Language Learners
+Community Organizations that Help Multilingual and Immigrant Families
+English Language Learners
+Helpful Links for Families of English Language Learners
+Multilingual and Immigrant Student Support Resource Site
+New York State Seal of Biliteracy
+Programs for English Language Learners
+Summer for Multilingual Learners
+Tests for English Language Learners
+Translated Support for Remote Learning
+Digital Learning
+Digital Learning Devices
+Applications and Platforms
+DOE Student Accounts
+Digital Citizenship
+Microsoft Software
+Chromebook Updates
+Subjects
+Arts
+Civics for All
+Computer Science
+English Language Arts
+Health Education
+Libraries
+Literacy
+Math
+Physical Education
+Science
+Social Studies
+STEM
+Testing
+Student Participation Guide
+NY State English Language Arts Test
+NY State Math Test
+NY State Science Test
+NY State Alternate Assessment
+NY State High School Regents Exams
+Tests for English Language Learners
+World Languages
+Specialized High School Admissions Test
+College Entrance Exams
+Advanced Placement Exams
+High School Equivalency Exam
+Periodic Assessments
+Testing Calendar
+Arts Commencement Assessments
+How to Prepare for the Specialized High Schools Admissions Test
+Student Journey
+Bridge Coach
+Career Connected Learning
+College and Career Planning
+Experiential Learning
+Grade by Grade
+Grading
+Graduation Requirements
+NYC Schools Account
+Promotion Policy
+Student Records and Transcripts
+Programs
+Wellness Wednesday NYC
+Community Schools
+NYC Great!
+NYC Urban Ambassadors
+DREAM Program
+Medically Necessary Instruction
+District 79 (Alternate Learning Center)
+RISE
+Single Shepherd
+PROSE
+Outdoor Learning Initiative
+NYC Mentoring Program
+Family Resources
+Special Education Supports
+Beyond Access Series
+The IEP Process
+Starting the Process
+Making a Referral
+Evaluation
+IEP Meeting
+The IEP
+Parent Members
+Supports and Services
+Assistive Technology
+Behavior Supports
+Related Services
+Specialized Transportation
+Other Special Education Services
+Testing Accommodations
+Extended School Year Services for July and August
+Building Accessibility
+School Settings
+District Schools
+Specialized Programs
+District 75
+Other Educational Settings
+Preschool to Age 21
+Special Education in NYC
+Preschool Students
+Kindergarten Students
+Students with Disabilities and Gifted and Talented
+Middle School Students
+High School Students
+Transition from High School
+Help
+Talking About Disability
+Your Rights
+Getting Support
+Impartial Hearings
+Contacts and Resources
+Special Education Glossary
+Committees on Special Education
+Resources for Staff and Providers
+N.G. by F.E. v. New York City Department of Education, et al.
+M.G. vs DOE Notice of Proposed Class Action Settlement
+Digital Learning Devices
+Your DOE-loaned iPad or Laptop
+iPad Fixes
+Lost or Stolen Devices
+Device Returns
+App Requests
+Technical Support for Families
+Free and Low-Cost Internet Options
+Applications and Platforms
+TeachHub
+One Account for All
+New York City Schools Account (NYCSA)
+MySchools
+SupportHub
+Google Classroom
+Microsoft Teams
+Parent U
+Zoom
+iLearnNYC
+WeLearnNYC
+WeTeachNYC
+Tools for Keeping Children Safe Online
+Arts
+How to Prepare for a Theater Audition
+How to Make a Visual Arts Portfolio
+How to Prepare for a Dance Audition
+How to Engage with NYC Arts and Cultural Institutions
+Celebrate DOE Arts
+4th Annual NYC Public School Film Festival
+Health Education
+Health Education Requirements
+Literacy
+Literacy Advisory Council
+NYC Reads
+Literacy Resources for Families
+Physical Education
+Physical Education Requirements
+Social Studies
+Current Events
+Black History Month
+Women's History Month
+Arab American Heritage Month
+Asian American and Pacific Islander Heritage Month
+Jewish American Heritage Month
+Juneteenth
+Pride Month
+Hispanic Heritage Month
+Native American Heritage Month
+Hidden Voices
+STEM
+Minecraft Education Challenge
+College Entrance Exams
+SAT School Day
+How to Prepare for the Specialized High Schools Admissions Test
+How to Prepare for the English Language Arts Section
+How to Prepare for the Math Section
+College and Career Planning
+Applying to College
+College Awareness Day
+Exploring Future Careers
+Paying for College
+NYC Kids RISE Save for College Program
+Free College and Career Advising
+College Information for Immigrant Students
+College and Career Glossary
+National Student Clearinghouse Notice and Opt Out Form
+Experiential Learning
+Genovesi Environmental Study Center
+NYC Center for Aerospace and Applied Mathematics
+Service in Schools
+Grade by Grade
+Early Childhood Learning
+Elementary School Learning
+Middle School Learning
+High School Learning
+NYC Schools Account
+NYCSA Account Set Up Guide for Parents
+NYCSA Mobile Application
+Student Records and Transcripts
+Requesting Student Records and Transcripts
+Report Cards
+Wellness Wednesday NYC
+Wellness Wednesday NYC Activity
+Special Education Supports
+Assistive Technology
+Occupational Therapy Supports
+Physical Therapy Supports
+Speech Therapy Supports
+Related Services
+Finding an Independent  Provider
+District 75
+District 75 Programs
+Your DOE-loaned iPad or Laptop
+iPad Data
+Sign in to Zscaler
+TeachHub
+TeachHub Mobile Application
+Celebrate DOE Arts
+Celebrate DOE Arts 2020
+Early Childhood Learning
+Early Childhood Resources
+Early Literacy Resources
+Family Child Care
+School Life
+Accessibility at the DOE
+Health and Wellness
+Food
+Transportation
+Know Your Rights
+School Environment
+Safe Schools
+Special Situations
+Space and Facilities
+Accessibility at the DOE
+Building Accessibility
+Accessibility Support on iPads and Other Devices
+Accessibility Statement
+Enrollment for Students with Accessibility Needs
+Local Law 12
+Health and Wellness
+Staying Healthy
+Health Services
+Health Requirements to Attend School
+Immunizations
+504 Accommodations
+Mental Health
+School-Based Health Centers
+Sports and Staying Active
+Condom Availability Program
+Food
+School Meals
+Menus
+Food Programs
+Menu Nutrition Information
+Charter and Non-Public Schools Food Service
+Summer Meals
+Transportation
+Transportation Overview
+Transportation Eligibility
+MetroCards
+Pre-K and Early Intervention Bus Companies
+Bus Companies for School Age Children
+Transportation Guide
+Safe Travel Tips
+Family Responsibilities and Expectations
+Transportation Rights
+Weather Emergency Procedures
+Contact Information
+Know Your Rights
+Chancellor's Regulations
+Discipline Code
+Parents' Bill of Rights
+Parents' Bill of Rights for Data Privacy and Security
+Other Policies
+School Environment
+NYC Public Schools Speak Your Language
+Respect for All: Preventing and Addressing Student-to-Student Discrimination, Sexual and Other Harassment, Intimidation, and Bullying
+Digital Citizenship
+After-School
+Attendance
+School Counselors
+LGBTQ Supports
+Get Help
+Get Help at Your Charter School
+Guidelines on Gender
+Dress Code Guidelines
+Project PIVOT
+Responding to Behavioral Crises
+Safe Schools
+Incident Reporting Pathways
+Bullying / Respect for All
+Emergency Readiness
+Gang Prevention and Intervention
+Resilient Kids, Safer Schools
+School Safety
+Suspensions
+Special Situations
+Child Abuse
+Court-Involved Youth
+Crisis or Traumatic Event
+Services for Student Parents
+Students in Foster Care
+Students in Temporary Housing
+Substance Abuse
+Space and Facilities
+Building Accessibility
+Local Law 12
+Campus Governance
+District Planning
+School Buildings
+Space and Facilities Reports
+Sustainability
+School Construction
+Staying Healthy
+Allergies
+Asthma
+Concussions
+Diabetes
+Head Lice
+Other Health Topics
+Dental
+Health Services
+School Vision Program
+Sports and Staying Active
+CHAMPS
+Public Schools Athletic League
+School Meals
+Food Service for Parents and Students
+Food Service for School Principal and Charter Schools
+Plant Powered Friday
+Food Education Roadmap
+Menus
+Breakfast Meals
+Lunch Meals
+After School Meals
+Food Benefits
+Transportation Overview
+Whats New
+Transportation Eligibility
+Exceptions to Transportation Eligibility
+Respect for All: Preventing and Addressing Student-to-Student Discrimination, Sexual and Other Harassment, Intimidation, and Bullying
+Respect for All Handouts
+Digital Citizenship
+Social Media Guidelines for Students 12 and Younger
+Parent Social Media Guide for Students 12 and  Under
+Social Media Guidelines for Students Over 13
+Parent Social Media Guide for Students Over 13
+Cybersecurity Awareness Month
+LGBTQ Supports
+Community-based LGBTQ Organizations
+Get Help
+Parent Complaints and Appeals
+Get Help at Your Charter School
+File a Formal Complaint at Your Charter School
+Guidelines on Gender
+Guidelines to Support Transgender and Gender Expansive Students
+Guidelines on Gender Inclusion
+School Safety
+Parent Guide to School Safety and Emergency Preparedness
+Students in Temporary Housing
+E.G. v. City of New York (WiFi Case): Notice of Proposed Class Action Settlement
+District Planning
+2023-2024 Data Summaries
+District Planning Document Library
+Space and Facilities Reports
+Building Ventilation Status
+Paint Inspections
+Water Safety
+Resources for Facilities Staff
+Sustainability
+Climate Action Days
+School Construction
+Public Art for Public Schools
+Public Schools Athletic League
+Moises Jimenez et at v New York City Department of Education  (Sports Equity Case): Notice of Proposed Class Action Settlement
+Whats New
+NYC Student Transportation Modernization Plan
+File a Formal Complaint at Your Charter School
+Charter School Authorizers
+Paint Inspections
+Bronx
+Brooklyn
+Manhattan
+Queens
+Staten Island
+Get Involved
+Students
+Families
+Students
+NYC Youth Speaks
+Student Opportunities
+Student Advisory Councils
+Student Bill of Rights
+Working Papers
+Demographic Survey
+Families
+New York City Schools Account
+Community and Citywide Education Councils
+Family and Community Engagement (FACE)
+Family and Community Wellness Collective
+Family Empowerment
+Guidance on Public Meetings and School Visits
+Panel for Educational Policy
+Parent and Parent Teacher Associations
+Parent-Teacher Conferences
+School Leadership Team
+School Wellness Councils
+Superintendent Candidate Town Hall
+Community and Citywide Education Councils
+Elections 2023 Community and Citywide Education Councils
+Community Education Councils
+Citywide Education Councils
+Current Members of Education Councils
+Currently Available Council Seats
+Monthly Planning Calendar
+Training Opportunities for Education Council Members
+Roles and Responsibilities of Education Councils
+Panel for Educational Policy
+PEP Members
+PEP Bylaws
+PEP Meetings Archive
+Contracts Meetings Archive
+Emergency Declarations
+Parent and Parent Teacher Associations
+Vaccine Fundraiser
+School Leadership Team
+Comprehensive Education Plans
+Elections 2023 Community and Citywide Education Councils
+Equity Council Elections
+Education Council Code of Conduct and Complaint Procedures
+Frequently Asked Questions on CCEC Elections 2023
+Voting FAQs
+Candidate Forum Recordings
+About Community and Citywide Education Councils
+Run for a Seat on a Council
+Community and Citywide Education Councils Meeting Calendar
+Campaigning Guidelines
+Borough President and Public Advocate Appointee Seats
+PEP Members
+Tazin Azad
+Gregory Faulkner, Chairperson
+Dr. Angela Green, Vice Chairperson
+Alan Ong, Engagement Committee Chair
+Thomas Sheppard
+Kaliris Salas-Ramirez
+Gladys Ward, Bylaws Committee Chair
+Marjorie Dienstag
+Aaron Bogad
+Maisha Sapp, Contracts Committee Chair
+Lily Chan
+Anita Garcia
+Anthony Giordano
+Naveed Hasan, Utilization Committee Chair
+Michelle Joseph
+Jessamyn Lee
+Phoebe Sade-Arnold
+Ephraim Zakry, Budget Committee Chair
+Shirley Aubin, Appeals Committee Chair
+Venus Sze-Tsang
+Amy Fair
+Alice Ho
+Calendar
+TeachHub
+Employees
+Enrollment
+Enroll Grade by Grade
+Enroll Grade by Grade
+Learn About Enrollment
+Infant and Toddler
+Head Start
+3-K
+Pre-K
+Kindergarten
+Kindergarten
+Elementary Admissions Events
+Gifted and Talented
+Middle School
+High School
+High School
+High School Auditions
+Screened Admissions
+Assessments for Screened Schools
+Educational Option (Ed Opt) Admissions Method
+Types of High Schools
+Spotlight on Great High School Options
+Specialized High Schools
+Specialized High Schools
+Discovery Programs
+How Students Get Offers to DOE Public Schools
+How Students Get Offers to DOE Public Schools
+Random Numbers in Admissions
+Waitlists
+Enrollment Help
+Enrollment Help
+Family Welcome Centers
+Meeting Student Needs
+Meeting Student Needs
+Enrollment for LGBTQ and Gender Nonconforming Students
+Enrollment for Students with Disabilities
+Enrollment for Students with Accessibility Needs
+Enrollment for Students Learning English
+Diversity in Admissions
+Non-Resident Enrollment
+New Students
+Transfers
+Home Schooling
+Enrollment Forms
+Enroll in Charter Schools
+Enroll in Charter Schools
+Learn About Charter Schools
+How to Enroll in Charter Schools
+Pre-K Charter Schools
+Summer
+Summer
+Summer Rising
+Summer Rising
+Find Your Summer School Program and Address—Lookup Table
+CBOs with Seat Availability—Lookup Table
+Other Ways to Graduate
+Other Ways to Graduate
+Learn About Other Ways to Graduate
+Alternative Middle Schools
+Young Adult Borough Centers
+Transfer High Schools
+Transfer High Schools
+Transfer Schools Guide
+High School Equivalency (Ages 17-21)
+High School Equivalency (Ages 17-21)
+Enroll in High School Equivalency Classes (Ages 17-21)
+Adult Education (Ages 21 plus)
+NYC Bright Starts
+Find a School
+Learning
+Special Education
+Special Education
+Family Resources
+Family Resources
+Special Education Supports
+Special Education Supports
+Assistive Technology
+Occupational Therapy Supports
+Physical Therapy Supports
+Speech Therapy Supports
+Beyond Access Series
+The IEP Process
+The IEP Process
+Starting the Process
+Making a Referral
+Evaluation
+IEP Meeting
+The IEP
+Parent Members
+Supports and Services
+Supports and Services
+Assistive Technology
+Behavior Supports
+Related Services
+Related Services
+Finding an Independent  Provider
+Specialized Transportation
+Other Special Education Services
+Testing Accommodations
+Extended School Year Services for July and August
+Building Accessibility
+School Settings
+School Settings
+District Schools
+Specialized Programs
+District 75
+District 75
+District 75 Programs
+Other Educational Settings
+Preschool to Age 21
+Preschool to Age 21
+Special Education in NYC
+Preschool Students
+Kindergarten Students
+Students with Disabilities and Gifted and Talented
+Middle School Students
+High School Students
+Transition from High School
+Help
+Help
+Talking About Disability
+Your Rights
+Getting Support
+Impartial Hearings
+Contacts and Resources
+Special Education Glossary
+Committees on Special Education
+Resources for Staff and Providers
+N.G. by F.E. v. New York City Department of Education, et al.
+M.G. vs DOE Notice of Proposed Class Action Settlement
+Building Accessibility
+Boldly Reimagining Special Education
+Multilingual Learners
+Multilingual Learners
+Annual Parent Teacher Meetings for English Language Learners
+Bill of Rights for Parents of English Language Learners
+College-Career Readiness for English Language Learners
+Community Organizations that Help Multilingual and Immigrant Families
+English Language Learners
+Helpful Links for Families of English Language Learners
+Multilingual and Immigrant Student Support Resource Site
+New York State Seal of Biliteracy
+Programs for English Language Learners
+Summer for Multilingual Learners
+Tests for English Language Learners
+Translated Support for Remote Learning
+Digital Learning
+Digital Learning
+Digital Learning Devices
+Digital Learning Devices
+Your DOE-loaned iPad or Laptop
+Your DOE-loaned iPad or Laptop
+iPad Data
+Sign in to Zscaler
+iPad Fixes
+Lost or Stolen Devices
+Device Returns
+App Requests
+Technical Support for Families
+Free and Low-Cost Internet Options
+Applications and Platforms
+Applications and Platforms
+TeachHub
+TeachHub
+TeachHub Mobile Application
+One Account for All
+New York City Schools Account (NYCSA)
+MySchools
+SupportHub
+Google Classroom
+Microsoft Teams
+Parent U
+Zoom
+iLearnNYC
+WeLearnNYC
+WeTeachNYC
+Tools for Keeping Children Safe Online
+DOE Student Accounts
+Digital Citizenship
+Microsoft Software
+Chromebook Updates
+Subjects
+Subjects
+Arts
+Arts
+How to Prepare for a Theater Audition
+How to Make a Visual Arts Portfolio
+How to Prepare for a Dance Audition
+How to Engage with NYC Arts and Cultural Institutions
+Celebrate DOE Arts
+Celebrate DOE Arts
+Celebrate DOE Arts 2020
+4th Annual NYC Public School Film Festival
+Civics for All
+Computer Science
+English Language Arts
+Health Education
+Health Education
+Health Education Requirements
+Libraries
+Literacy
+Literacy
+Literacy Advisory Council
+NYC Reads
+Literacy Resources for Families
+Math
+Physical Education
+Physical Education
+Physical Education Requirements
+Science
+Social Studies
+Social Studies
+Current Events
+Black History Month
+Women's History Month
+Arab American Heritage Month
+Asian American and Pacific Islander Heritage Month
+Jewish American Heritage Month
+Juneteenth
+Pride Month
+Hispanic Heritage Month
+Native American Heritage Month
+Hidden Voices
+STEM
+STEM
+Minecraft Education Challenge
+Testing
+Testing
+Student Participation Guide
+NY State English Language Arts Test
+NY State Math Test
+NY State Science Test
+NY State Alternate Assessment
+NY State High School Regents Exams
+Tests for English Language Learners
+World Languages
+Specialized High School Admissions Test
+College Entrance Exams
+College Entrance Exams
+SAT School Day
+Advanced Placement Exams
+High School Equivalency Exam
+Periodic Assessments
+Testing Calendar
+Arts Commencement Assessments
+How to Prepare for the Specialized High Schools Admissions Test
+How to Prepare for the Specialized High Schools Admissions Test
+How to Prepare for the English Language Arts Section
+How to Prepare for the Math Section
+Student Journey
+Student Journey
+Bridge Coach
+Career Connected Learning
+College and Career Planning
+College and Career Planning
+Applying to College
+College Awareness Day
+Exploring Future Careers
+Paying for College
+NYC Kids RISE Save for College Program
+Free College and Career Advising
+College Information for Immigrant Students
+College and Career Glossary
+National Student Clearinghouse Notice and Opt Out Form
+Experiential Learning
+Experiential Learning
+Genovesi Environmental Study Center
+NYC Center for Aerospace and Applied Mathematics
+Service in Schools
+Grade by Grade
+Grade by Grade
+Early Childhood Learning
+Early Childhood Learning
+Early Childhood Resources
+Early Literacy Resources
+Family Child Care
+Elementary School Learning
+Middle School Learning
+High School Learning
+Grading
+Graduation Requirements
+NYC Schools Account
+NYC Schools Account
+NYCSA Account Set Up Guide for Parents
+NYCSA Mobile Application
+Promotion Policy
+Student Records and Transcripts
+Student Records and Transcripts
+Requesting Student Records and Transcripts
+Report Cards
+Programs
+Programs
+Wellness Wednesday NYC
+Wellness Wednesday NYC
+Wellness Wednesday NYC Activity
+Community Schools
+NYC Great!
+NYC Urban Ambassadors
+DREAM Program
+Medically Necessary Instruction
+District 79 (Alternate Learning Center)
+RISE
+Single Shepherd
+PROSE
+Outdoor Learning Initiative
+NYC Mentoring Program
+School Life
+Accessibility at the DOE
+Accessibility at the DOE
+Building Accessibility
+Accessibility Support on iPads and Other Devices
+Accessibility Statement
+Enrollment for Students with Accessibility Needs
+Local Law 12
+Health and Wellness
+Health and Wellness
+Staying Healthy
+Staying Healthy
+Allergies
+Asthma
+Concussions
+Diabetes
+Head Lice
+Other Health Topics
+Dental
+Health Services
+Health Services
+School Vision Program
+Health Requirements to Attend School
+Immunizations
+504 Accommodations
+Mental Health
+School-Based Health Centers
+Sports and Staying Active
+Sports and Staying Active
+CHAMPS
+Public Schools Athletic League
+Public Schools Athletic League
+Moises Jimenez et at v New York City Department of Education  (Sports Equity Case): Notice of Proposed Class Action Settlement
+Condom Availability Program
+Food
+Food
+School Meals
+School Meals
+Food Service for Parents and Students
+Food Service for School Principal and Charter Schools
+Plant Powered Friday
+Food Education Roadmap
+Menus
+Menus
+Breakfast Meals
+Lunch Meals
+After School Meals
+Food Benefits
+Food Programs
+Menu Nutrition Information
+Charter and Non-Public Schools Food Service
+Summer Meals
+Transportation
+Transportation
+Transportation Overview
+Transportation Overview
+Whats New
+Whats New
+NYC Student Transportation Modernization Plan
+Transportation Eligibility
+Transportation Eligibility
+Exceptions to Transportation Eligibility
+MetroCards
+Pre-K and Early Intervention Bus Companies
+Bus Companies for School Age Children
+Transportation Guide
+Safe Travel Tips
+Family Responsibilities and Expectations
+Transportation Rights
+Weather Emergency Procedures
+Contact Information
+Know Your Rights
+Know Your Rights
+Chancellor's Regulations
+Discipline Code
+Parents' Bill of Rights
+Parents' Bill of Rights for Data Privacy and Security
+Other Policies
+School Environment
+School Environment
+NYC Public Schools Speak Your Language
+Respect for All: Preventing and Addressing Student-to-Student Discrimination, Sexual and Other Harassment, Intimidation, and Bullying
+Respect for All: Preventing and Addressing Student-to-Student Discrimination, Sexual and Other Harassment, Intimidation, and Bullying
+Respect for All Handouts
+Digital Citizenship
+Digital Citizenship
+Social Media Guidelines for Students 12 and Younger
+Parent Social Media Guide for Students 12 and  Under
+Social Media Guidelines for Students Over 13
+Parent Social Media Guide for Students Over 13
+Cybersecurity Awareness Month
+After-School
+Attendance
+School Counselors
+LGBTQ Supports
+LGBTQ Supports
+Community-based LGBTQ Organizations
+Get Help
+Get Help
+Parent Complaints and Appeals
+Get Help at Your Charter School
+Get Help at Your Charter School
+File a Formal Complaint at Your Charter School
+File a Formal Complaint at Your Charter School
+Charter School Authorizers
+Guidelines on Gender
+Guidelines on Gender
+Guidelines to Support Transgender and Gender Expansive Students
+Guidelines on Gender Inclusion
+Dress Code Guidelines
+Project PIVOT
+Responding to Behavioral Crises
+Safe Schools
+Safe Schools
+Incident Reporting Pathways
+Bullying / Respect for All
+Emergency Readiness
+Gang Prevention and Intervention
+Resilient Kids, Safer Schools
+School Safety
+School Safety
+Parent Guide to School Safety and Emergency Preparedness
+Suspensions
+Special Situations
+Special Situations
+Child Abuse
+Court-Involved Youth
+Crisis or Traumatic Event
+Services for Student Parents
+Students in Foster Care
+Students in Temporary Housing
+Students in Temporary Housing
+E.G. v. City of New York (WiFi Case): Notice of Proposed Class Action Settlement
+Substance Abuse
+Space and Facilities
+Space and Facilities
+Building Accessibility
+Local Law 12
+Campus Governance
+District Planning
+District Planning
+2023-2024 Data Summaries
+District Planning Document Library
+School Buildings
+Space and Facilities Reports
+Space and Facilities Reports
+Building Ventilation Status
+Paint Inspections
+Paint Inspections
+Bronx
+Brooklyn
+Manhattan
+Queens
+Staten Island
+Water Safety
+Resources for Facilities Staff
+Sustainability
+Sustainability
+Climate Action Days
+School Construction
+School Construction
+Public Art for Public Schools
+Get Involved
+Students
+Students
+NYC Youth Speaks
+Student Opportunities
+Student Advisory Councils
+Student Bill of Rights
+Working Papers
+Demographic Survey
+Families
+Families
+New York City Schools Account
+Community and Citywide Education Councils
+Community and Citywide Education Councils
+Elections 2023 Community and Citywide Education Councils
+Elections 2023 Community and Citywide Education Councils
+Equity Council Elections
+Education Council Code of Conduct and Complaint Procedures
+Frequently Asked Questions on CCEC Elections 2023
+Voting FAQs
+Candidate Forum Recordings
+About Community and Citywide Education Councils
+Run for a Seat on a Council
+Community and Citywide Education Councils Meeting Calendar
+Campaigning Guidelines
+Borough President and Public Advocate Appointee Seats
+Community Education Councils
+Citywide Education Councils
+Current Members of Education Councils
+Currently Available Council Seats
+Monthly Planning Calendar
+Training Opportunities for Education Council Members
+Roles and Responsibilities of Education Councils
+Family and Community Engagement (FACE)
+Family and Community Wellness Collective
+Family Empowerment
+Guidance on Public Meetings and School Visits
+Panel for Educational Policy
+Panel for Educational Policy
+PEP Members
+PEP Members
+Tazin Azad
+Gregory Faulkner, Chairperson
+Dr. Angela Green, Vice Chairperson
+Alan Ong, Engagement Committee Chair
+Thomas Sheppard
+Kaliris Salas-Ramirez
+Gladys Ward, Bylaws Committee Chair
+Marjorie Dienstag
+Aaron Bogad
+Maisha Sapp, Contracts Committee Chair
+Lily Chan
+Anita Garcia
+Anthony Giordano
+Naveed Hasan, Utilization Committee Chair
+Michelle Joseph
+Jessamyn Lee
+Phoebe Sade-Arnold
+Ephraim Zakry, Budget Committee Chair
+Shirley Aubin, Appeals Committee Chair
+Venus Sze-Tsang
+Amy Fair
+Alice Ho
+PEP Bylaws
+PEP Meetings Archive
+Contracts Meetings Archive
+Emergency Declarations
+Parent and Parent Teacher Associations
+Parent and Parent Teacher Associations
+Vaccine Fundraiser
+Parent-Teacher Conferences
+School Leadership Team
+School Leadership Team
+Comprehensive Education Plans
+School Wellness Councils
+Superintendent Candidate Town Hall
+Calendar
+TeachHub
+Employees
+Search
+Submit
+Home
+Find a School
+School
+New Life Child Development Center 1
+NYCEEC
+Location:
+295 Woodbine Street, Brooklyn, NY, 11237
+Phone:
+718-821-3432
+Overview
+School Quality
+Reports
+Overview
+School Number:
+KBGU
+Grades:
+PK, 3K
+Geographic District:
+32
+Borough:
+Brooklyn
+School Contacts and Information
+Day Length
+Full day
+District Borough Number
+32KBGU
+Mental Health and Wellness
+Ask your Parent Coordinator, School Social Worker, or School Counselor for more information about your school's mental health program.
+Building Ventilation Information
+KBGU - 295 Woodbine Street
+Admissions
+For School Specific Admission Information
+Browse NYC Schools on MySchools.nyc
+School Quality
+The DOE develops tools to help families and educators understand student achievement and school quality. The reports on this page provide information about school quality from multiple sources. These sources include feedback from students, teachers, and parents. Reports also include information from formal school visits and a variety of student achievement metrics.
+School Quality Snapshot NYCEEC
+School_Quality_Guide_PreK
+School Quality Guide NYCEEC
+Reports
+Technology for families
+Students
+Access all your DOE applications – TeachHub, Google, iLearnNYC, Microsoft Office, Zoom, and more–from one place.
+SupportHub
+Need technical support? Visit the SupportHub for answers to common questions and to open a support ticket.
+NYC Schools Account (NYCSA)
+View your child’s academic progress, update your contact information, and more.
+Parent University
+Parent University seeks to educate and empower families through free courses, resources, events, and activities.
+MySchools
+Apply to grades 3-K –12, explore and compare schools, and more.
+Expand Footer
+Collapse Footer
+New York City Department of Education
+Enrollment
+Enroll Grade by Grade
+Enrollment Help
+Enroll in Charter Schools
+Summer
+Other Ways to Graduate
+Learning
+Special Education
+Multilingual Learners
+Digital Learning
+Subjects
+Testing
+Student Journey
+Programs
+School Life
+Accessibility at the DOE
+Health and Wellness
+Food
+Transportation
+Know Your Rights
+School Environment
+Safe Schools
+Special Situations
+Space and Facilities
+Connect with NYC DOE
+Employees
+Careers
+About Us
+News
+Calendar
+Messages for Families
+InfoHub
+Copyright ©
+New York City Department of Education.
+Sitemap
+|
+Privacy Policy
+X icon
+YouTube
+Facebook
+Instagram
+Follow Us
+(Open external link)
+(Open external link)
+(Open external link)
+(Open external link)
+Top

@@ -1,0 +1,54 @@
+Meta Information:
+{'charset': 'UTF-8'}
+{'name': 'viewport', 'content': 'width=device-width,initial-scale=1,user-scalable=no'}
+{'property': 'og:locale', 'content': 'en_US'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:title', 'content': "Home - Peg's Presents"}
+{'property': 'og:url', 'content': 'https://pegspresents.org/'}
+{'property': 'og:site_name', 'content': "Peg's Presents"}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'twitter:title', 'content': "Home - Peg's Presents"}
+{'name': 'generator', 'content': 'Powered by Visual Composer - drag and drop page builder for WordPress.'}
+{'name': 'generator', 'content': 'Powered by Slider Revolution 5.4.5.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.'}
+
+Body Text:
+Home - Peg's Presents
+About Us
+Gallery
+Peg’s Press
+Blog
+Contact Us
+Donate
+About Us
+Gallery
+Peg’s Press
+Blog
+Contact Us
+Donate
+Bringing gifts
+& smiles to kids in need
+Helping Those In Need
+Peg’s Presents provides holiday gifts (and plenty of smiles) to children in need via Dignity Housing Philadelphia. Give a little, give a lot, and know that 100% of all donations go directly to help kids in need at Christmastime.
+PEG’S PRESENTS: is a 501(C)3 #45-4271155 170(b)(1)(a)(vi) Public Charity
+Learn More
+Give a little…Give a lot…
+100% of donations go to buying gifts for kids in need!
+Our Blog
+✨ Bringing Holiday Joy to Children in Need ✨
+It’s that time again! (and we can’t d...
+Christmas 2020 is NOT Canceled
+Lately, everything seems to be canceled.  Weddings...
+Holiday Cheer (and some really cute kids)
+Holiday Cheer and plenty of happy faces — he...
+Read More
+Only Possible with Your Help
+Donate Today
+Make a Gift Donation:
+Feel free to send new toys, gifts and donations to us at: (for children newborn - 16yrs)
+Peg's Presents
+2814 Elgin Street
+Durham, NC 27704
+© Peg's Presents 2021 |
+Website Design
+by
+The 215 Guys

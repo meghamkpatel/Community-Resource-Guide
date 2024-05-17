@@ -1,0 +1,35 @@
+Meta Information:
+{'name': 'bingbot', 'content': 'noarchive'}
+{'name': 'robots', 'content': 'noarchive, noimageindex'}
+{'charset': 'utf-8'}
+{'name': 'apple-mobile-web-app-status-bar-style', 'content': 'default'}
+{'name': 'mobile-web-app-capable', 'content': 'yes'}
+{'id': 'viewport', 'name': 'viewport', 'content': 'width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, viewport-fit=cover'}
+{'name': 'theme-color', 'content': '#ffffff'}
+{'property': 'og:type', 'content': 'article'}
+{'name': 'medium', 'content': 'image'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:site', 'content': '@instagram'}
+{'name': 'twitter:maxage', 'content': '86400'}
+{'name': 'twitter:image', 'content': 'https://scontent-bos5-1.cdninstagram.com/v/t51.2885-15/441231634_423201690422721_8832980648588674971_n.jpg?stp=c216.0.648.648a_dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=N5MqczVExNUQ7kNvgHWyytf&_nc_ht=scontent-bos5-1.cdninstagram.com&oh=00_AYBPHv8b19FoqrOqGHLNBcFRK2kOdgj9QU0Sd98R0PFJ5Q&oe=664C788B'}
+{'name': 'twitter:title', 'content': 'Hamlet Inc. (@hamlet_hobart) • Instagram photos and videos'}
+{'property': 'al:ios:app_name', 'content': 'Instagram'}
+{'property': 'al:ios:app_store_id', 'content': '389801252'}
+{'property': 'al:ios:url', 'content': 'instagram://media?id=3359332174266595449'}
+{'property': 'al:android:app_name', 'content': 'Instagram'}
+{'property': 'al:android:package', 'content': 'com.instagram.android'}
+{'property': 'al:android:url', 'content': 'https://www.instagram.com/hamlet_hobart/p/C6evtBhs3h5/'}
+{'property': 'fb:app_id', 'content': '124024574287414'}
+{'property': 'instapp:owner_user_id', 'content': '2324994313'}
+{'name': 'description', 'content': '34 likes, 0 comments - hamlet_hobart on May 2, 2024: "We love it when we recieve feedback from participants, their families and friends. It reminds us of why we do what we do. \u2060\n\u2060\n"You ha...". '}
+{'property': 'og:site_name', 'content': 'Instagram'}
+{'property': 'og:title', 'content': 'Hamlet Inc. on Instagram: "We love it when we recieve feedback from participants, their families and friends. It reminds us of why we do what we do. \u2060\n\u2060\n"You have really increased his confidence, I see such a change in him. Thank you and thank you to all the staff"\u2060\nWe recieved this feedback from Kellie (Lochie\'s mum) following an event where Lochie was able to try his hand at plating canapes. \u2060\n\u2060\n#CreatingOpportunities #EmpoweringTasmanians #InclusionMatters #InclusiveCatering #InclusiveEvents"'}
+{'property': 'og:image', 'content': 'https://scontent-bos5-1.cdninstagram.com/v/t51.2885-15/441231634_423201690422721_8832980648588674971_n.jpg?stp=c216.0.648.648a_dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=18de74&_nc_ohc=N5MqczVExNUQ7kNvgHWyytf&_nc_ht=scontent-bos5-1.cdninstagram.com&oh=00_AYBPHv8b19FoqrOqGHLNBcFRK2kOdgj9QU0Sd98R0PFJ5Q&oe=664C788B'}
+{'property': 'og:url', 'content': 'https://www.instagram.com/p/C6evtBhs3h5/'}
+{'property': 'og:description', 'content': '34 likes, 0 comments - hamlet_hobart on May 2, 2024: "We love it when we recieve feedback from participants, their families and friends. It reminds us of why we do what we do. \u2060\n\u2060\n"You ha...". '}
+{'name': 'color-scheme', 'content': 'light'}
+
+Body Text:
+Hamlet Inc. | We love it when we recieve feedback from participants, their families and friends. It reminds us of why we do what we do. ⁠
+⁠
+"You ha... | Instagram

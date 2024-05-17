@@ -1,0 +1,104 @@
+Meta Information:
+{'charset': 'utf-8'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1', 'id': 'wixDesktopViewport'}
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge'}
+{'name': 'generator', 'content': 'Wix.com Website Builder'}
+{'name': 'wix-dynamic-custom-elements', 'content': 'DropDownMenu'}
+{'name': 'format-detection', 'content': 'telephone=no'}
+{'name': 'skype_toolbar', 'content': 'skype_toolbar_parser_compatible'}
+{'http-equiv': 'X-Wix-Meta-Site-Id', 'content': '7b847004-2d56-47b6-a7ca-c065d87bb397'}
+{'http-equiv': 'X-Wix-Application-Instance-Id', 'content': 'a272f6cb-f55d-4784-a72b-d5a1fce57d87'}
+{'http-equiv': 'X-Wix-Published-Version', 'content': '1995'}
+{'http-equiv': 'etag', 'content': 'bug'}
+{'property': 'og:title', 'content': 'Home | Tapc'}
+{'property': 'og:url', 'content': 'https://www.trinityave.org'}
+{'property': 'og:site_name', 'content': 'Tapc'}
+{'property': 'og:type', 'content': 'website'}
+{'name': 'twitter:card', 'content': 'summary_large_image'}
+{'name': 'twitter:title', 'content': 'Home | Tapc'}
+
+Body Text:
+Home | Tapc
+top of page
+Home
+About Us
+Our Staff
+Who We Are
+Our History
+Worship
+In-Person Worship
+Online Worship
+Events
+Our Ministries
+Ministry Spotlights & News
+Children's Ministry
+Christian Ed & Fellowship
+Congregational Care
+Life Together Small Groups
+Music
+Outreach
+Y-TAP! Youth Ministry
+Giving
+Weekday School
+Member Login Breeze
+More
+Use tab to navigate through the menu items.
+Subscribe
+to our weekly email newsletter!
+Welcome!
+Worship Services
+in Person & Online
+IN PERSON
+Our Sunday service is at
+10am
+in our sanctuary!
+Services are approximately 1 hour
+Come as you are!
+For more details,
+click here
+!
+ONLINE
+For those not able to attend in person, early each Sunday morning, you can watch the service via a livestream on our
+"
+Worship
+"
+page.
+You can join in praise to God using this resource, knowing that friends across Durham and beyond are doing so as well.  You will also find on the "Worship" page:
+Videos of previous weeks' sermons
+Stay Up to Date with Us
+To stay up to date, check back here and/or subscribe to our online weekly email newsletter by
+clicking here
+.
+Our Church Family
+We are a family of faith in Durham, North Carolina, seeking to glorify and enjoy God together.
+Trinity Avenue Presbyterian Church is a community that welcomes all those who seek God and the message of love which Jesus Christ brings.
+The hope and faith which we encourage in one another are gifts of God and part of God’s wonderful promise to be Emmanuel, God with us. As God has accepted us in Christ, so we seek to accept one another: in certainty and doubt, in weakness and in strength, with sincerity and humor.
+Read more
+About
+Upcoming
+Events
+See All Events ​
+W
+e have a variety of fellowship groups, meetings, learning events, and worship services.
+To see what is coming up and how to participate, visit our
+"Events"
+page.
+​
+To stay up to date, check back here and/or
+subscribe to our online weekly email newsletter by
+clicking here
+.
+See Event on Calendar for Details ​
+Upcoming Events
+Subscribe to Our
+Weekly Email Newsletter
+Click here
+Trinity Avenue
+Presbyterian Church
+919-682-3865
+927 W. Trinity Ave, Durham, NC 27701-1715
+©2023 by Trinity Avenue Presbyterian Church (PCUSA)
+Contact Us
+Thanks for your Message!
+Submit
+bottom of page

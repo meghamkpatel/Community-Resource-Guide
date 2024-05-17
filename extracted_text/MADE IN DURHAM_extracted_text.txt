@@ -1,0 +1,102 @@
+Meta Information:
+{'http-equiv': 'X-UA-Compatible', 'content': 'IE=edge,chrome=1'}
+{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}
+{'charset': 'utf-8'}
+{'http-equiv': 'Accept-CH', 'content': 'Sec-CH-UA-Platform-Version, Sec-CH-UA-Model'}
+{'property': 'og:site_name', 'content': 'Made in Durham'}
+{'property': 'og:title', 'content': 'Made in Durham'}
+{'property': 'og:url', 'content': 'https://www.madeindurham.org'}
+{'property': 'og:type', 'content': 'website'}
+{'property': 'og:image', 'content': 'http://static1.squarespace.com/static/6234e702a606aa02305e7e4c/t/660c1862c4949b433031b986/1712068706138/MID24-Logo-Horizontal-Color-SEO.jpg?format=1500w'}
+{'property': 'og:image:width', 'content': '1200'}
+{'property': 'og:image:height', 'content': '800'}
+{'itemprop': 'name', 'content': 'Made in Durham'}
+{'itemprop': 'url', 'content': 'https://www.madeindurham.org'}
+{'itemprop': 'thumbnailUrl', 'content': 'http://static1.squarespace.com/static/6234e702a606aa02305e7e4c/t/660c1862c4949b433031b986/1712068706138/MID24-Logo-Horizontal-Color-SEO.jpg?format=1500w'}
+{'itemprop': 'image', 'content': 'http://static1.squarespace.com/static/6234e702a606aa02305e7e4c/t/660c1862c4949b433031b986/1712068706138/MID24-Logo-Horizontal-Color-SEO.jpg?format=1500w'}
+{'name': 'twitter:title', 'content': 'Made in Durham'}
+{'name': 'twitter:image', 'content': 'http://static1.squarespace.com/static/6234e702a606aa02305e7e4c/t/660c1862c4949b433031b986/1712068706138/MID24-Logo-Horizontal-Color-SEO.jpg?format=1500w'}
+{'name': 'twitter:url', 'content': 'https://www.madeindurham.org'}
+{'name': 'twitter:card', 'content': 'summary'}
+{'name': 'description', 'content': ''}
+
+Body Text:
+Made in Durham
+0
+Skip to Content
+About Us
+Welcome from the Chair
+Board of Directors
+Organization
+Team
+How We Work
+BULLS
+OPEN RFP!
+Contact Us
+Donate
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+About Us
+Welcome from the Chair
+Board of Directors
+Organization
+Team
+How We Work
+BULLS
+OPEN RFP!
+Contact Us
+Donate
+Folder:
+About Us
+Back
+Welcome from the Chair
+Board of Directors
+Organization
+Team
+How We Work
+BULLS
+OPEN RFP!
+Contact Us
+Donate
+Preparing all of Durham’s young people for careers. Building a pipeline of talent to help regional companies compete and grow.
+Investing in Youth, Elevating Prosperity.
+Partnerships build success.
+We are a community partnership of engaged educators, business, government, nonprofits, youth and young adults aligning their resources and initiatives to create an Education-to-Career system that better equips Durham’s youth for career and life success, building a stronger community and local workforce.
+Our vision is for a change.
+Our vision is the change we hope to see in our city:
+that all Durham youth will complete a postsecondary credential and begin a rewarding career by age 25.
+Together, we can make a positive impact.
+Our impact is the change we can be in our city:
+advocate and invest collaborative and design aptitude to inspire youth between 14-25 through awareness and access to attain postsecondary career credentials.
+An Education-to-Career system is built for all.
+Graduate from high school
+Engage in work that prepares them for a career
+Complete a postsecondary credential
+Secure living-wage work
+Made in Durham in action:
+The B.U.L.L.S. Initiative
+Made in Durham’s flagship program, this community partnership connects Durham residents to rewarding career pathways in rapidly expanding Life Sciences industries through wraparound financial assistance, coaching, certifications, and post-graduate support.
+Learn more
+Made in Durham
+Established in 2014, Made in Durham is a North Carolina non-profit aimed at aligning Durham's Education-to-Career system with opportunities for young people, ensuring their economic mobility and success.
+We are a community partnership of educators, business, government, youth-serving nonprofits and young people mobilized to achieve a shared vision of enhancing the system and improve outcomes for all of Durham's youth.
+201 W Main St.
+Ste 211 PMB B19
+Durham, NC 27701
+(919) 566-1111
+info@madeindurham.org
+Made in Durham’s 990 form is available upon request by contacting the Chief Operations Officer.
+Get our quarterly IMPACT newsletter. We respect your privacy.
+First Name
+Last Name
+Email Address
+Sign Up
+Thank you!
+Get the news!
+Site
+About Us
+How We Work
+BULLS
+Contact
