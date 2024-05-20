@@ -128,7 +128,7 @@ ENV/
 env.bak/
 venv.bak/
 client_secret.json
-
+secrets.toml
 # Spyder project settings
 .spyderproject
 .spyproject

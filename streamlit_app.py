@@ -1,141 +1,131 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# First
-import openai 
-=======
-import altair as alt
-import numpy as np
-import pandas as pd
->>>>>>> 8bd2197 (Make spirals more awesome)
 import streamlit as st
-
-with st.sidebar:
-    openai_api_key = st.text_input("OpenAI API Key", key="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 ", type="password")
-    "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
-    "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
-    "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
-
-<<<<<<< HEAD
-st.title("💬 Chatbot") 
-if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]
-
-for msg in st.session_state.messages:
-    st.chat_message(msg["role"]).write(msg["content"])
-=======
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:.
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
->>>>>>> 8bd2197 (Make spirals more awesome)
-
-if prompt := st.chat_input():
-    if not openai_api_key:
-        st.info("Please add your OpenAI API key to continue.")
-        st.stop()
-
-<<<<<<< HEAD
-    openai.api_key = openai_api_key
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    st.chat_message("user").write(prompt)
-    response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=st.session_state.messages)
-    msg = response.choices[0].message
-    st.session_state.messages.append(msg)
-    st.chat_message("assistant").write(msg.content)
-=======
-num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
-num_turns = st.slider("Number of turns in spiral", 1, 300, 31)
-
-indices = np.linspace(0, 1, num_points)
-theta = 2 * np.pi * num_turns * indices
-radius = indices
-
-x = radius * np.cos(theta)
-y = radius * np.sin(theta)
-
-df = pd.DataFrame({
-    "x": x,
-    "y": y,
-    "idx": indices,
-    "rand": np.random.randn(num_points),
-})
-
-st.altair_chart(alt.Chart(df, height=700, width=700)
-    .mark_point(filled=True)
-    .encode(
-        x=alt.X("x", axis=None),
-        y=alt.Y("y", axis=None),
-        color=alt.Color("idx", legend=None, scale=alt.Scale()),
-        size=alt.Size("rand", legend=None, scale=alt.Scale(range=[1, 150])),
-    ))
->>>>>>> 8bd2197 (Make spirals more awesome)
-=======
-<<<<<<< HEAD
-# First
-import openai 
-=======
-import altair as alt
+from openai import OpenAI
+from dotenv import load_dotenv
+from google.cloud import storage
+from PyPDF2 import PdfReader
 import numpy as np
-import pandas as pd
->>>>>>> 8bd2197 (Make spirals more awesome)
-import streamlit as st
+import json
+import os
 
-with st.sidebar:
-    openai_api_key = st.text_input("OpenAI API Key", key="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 ", type="password")
-    "[Get an OpenAI API key](https://platform.openai.com/account/api-keys)"
-    "[View the source code](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py)"
-    "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
+# Load environment variables
+load_dotenv()
 
-<<<<<<< HEAD
-st.title("💬 Chatbot") 
-if "messages" not in st.session_state:
-    st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]
+# Initialize OpenAI services
+client = OpenAI(api_key=st.secrets["openai_api_key"])
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = st.secrets["google_application_credentials"]
 
-for msg in st.session_state.messages:
-    st.chat_message(msg["role"]).write(msg["content"])
-=======
-Edit `/streamlit_app.py` to customize this app to your heart's desire :heart:.
-If you have any questions, checkout our [documentation](https://docs.streamlit.io) and [community
-forums](https://discuss.streamlit.io).
->>>>>>> 8bd2197 (Make spirals more awesome)
 
-if prompt := st.chat_input():
-    if not openai_api_key:
-        st.info("Please add your OpenAI API key to continue.")
-        st.stop()
+# Google Cloud Storage configuration
+bucket_name = "durham-bot"
 
-<<<<<<< HEAD
-    openai.api_key = openai_api_key
-    st.session_state.messages.append({"role": "user", "content": prompt})
-    st.chat_message("user").write(prompt)
-    response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=st.session_state.messages)
-    msg = response.choices[0].message
-    st.session_state.messages.append(msg)
-    st.chat_message("assistant").write(msg.content)
-=======
-num_points = st.slider("Number of points in spiral", 1, 10000, 1100)
-num_turns = st.slider("Number of turns in spiral", 1, 300, 31)
+# Initialize Google Cloud Storage client
+storage_client = storage.Client()
+bucket = storage_client.bucket(bucket_name)
 
-indices = np.linspace(0, 1, num_points)
-theta = 2 * np.pi * num_turns * indices
-radius = indices
+# Set Streamlit page configuration
+st.set_page_config(
+    page_title="Made In Durham",
+    page_icon=":rocket:",
+    layout="wide",
+)
 
-x = radius * np.cos(theta)
-y = radius * np.sin(theta)
+# Function to generate embeddings
+def generate_embeddings(text):
+    response = client.embeddings.create(
+        input=text,
+        model="text-embedding-3-small"
+    )
+    return response.data[0].embedding
 
-df = pd.DataFrame({
-    "x": x,
-    "y": y,
-    "idx": indices,
-    "rand": np.random.randn(num_points),
-})
+st.title("Made in Durham")
 
-st.altair_chart(alt.Chart(df, height=700, width=700)
-    .mark_point(filled=True)
-    .encode(
-        x=alt.X("x", axis=None),
-        y=alt.Y("y", axis=None),
-        color=alt.Color("idx", legend=None, scale=alt.Scale()),
-        size=alt.Size("rand", legend=None, scale=alt.Scale(range=[1, 150])),
-    ))
->>>>>>> 8bd2197 (Make spirals more awesome)
->>>>>>> c371ee9210c5111d439b1bd1b7c04dd3ec58b61b
+if 'user_input' not in st.session_state:
+    st.session_state.user_input = ''
+
+# Function to retrieve and parse text files from GCS
+def get_texts_from_gcs():
+    blobs = bucket.list_blobs(prefix="text_files/")
+    texts = []
+    for blob in blobs:
+        text = blob.download_as_text()
+        texts.append(text)
+    return texts
+
+def search_similar_documents(query, top_k=5):
+    """Searches for documents in GCS that are similar to the query."""
+    query_vector = generate_embeddings(query)
+    texts = get_texts_from_gcs()
+    
+    # Compute similarity scores
+    similarities = []
+    for text in texts:
+        text_vector = generate_embeddings(text)
+        similarity = np.dot(query_vector, text_vector) / (np.linalg.norm(query_vector) * np.linalg.norm(text_vector))
+        similarities.append((text, similarity))
+    
+    # Sort and return top_k similar documents
+    similarities.sort(key=lambda x: x[1], reverse=True)
+    return [text for text, _ in similarities[:top_k]]
+
+def generate_prompt(query):
+    """Generates a comprehensive prompt including contexts from similar documents."""
+    prompt_start = "Answer the question based on the context below.\n\nContext:\n"
+    prompt_end = f"\n\nQuestion: {query}\nAnswer:"
+    similar_docs = search_similar_documents(query)
+    
+    # Compile contexts into a single prompt, respecting character limits
+    prompt = prompt_start
+    for doc in similar_docs:
+        if len(prompt + doc + prompt_end) < 3750:
+            prompt += "\n\n---\n\n" + doc
+        else:
+            break
+    prompt += prompt_end
+    return prompt
+
+def generate_openai_response(prompt, temperature=0.7):
+    """Generates a response from OpenAI based on a structured prompt."""
+    try:
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "You are an assistant designed to support physical therapists..."},
+                {"role": "user", "content": prompt}
+            ] + [
+                {"role": "user" if msg['role'] == 'You' else "assistant", "content": msg['content']}
+                for msg in st.session_state.message_history
+            ]
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        return f"An error occurred: {str(e)}"
+
+# User input for chat
+user_input = st.chat_input("Ask me a question")
+
+# Initialize or load message history
+if 'message_history' not in st.session_state:
+    st.session_state.message_history = []
+
+def clear_text_input():
+    """Function to clear text input."""
+    st.session_state.text_input = ''
+
+if user_input:
+    # Add user's message to history
+    st.session_state.message_history.append({"role": "user", "content": user_input})
+
+    final_prompt = generate_prompt(user_input)
+    bot_response = generate_openai_response(final_prompt)
+    
+    # Add assistant's response to history
+    st.session_state.message_history.append({"role": "assistant", "content": bot_response})
+
+    # Clear text input
+    clear_text_input()
+
+    # Display chat messages from history on app rerun
+    for message in st.session_state.message_history:
+        role = "user" if message["role"] == "user" else "assistant"
+        with st.chat_message(role):
+            st.markdown(message["content"])
