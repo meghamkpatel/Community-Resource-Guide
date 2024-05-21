@@ -2,3 +2,7 @@ altair
 pandas
 streamlit
 openai
+python-dotenv
+google-cloud-storage
+PyPDF2
+numpy
