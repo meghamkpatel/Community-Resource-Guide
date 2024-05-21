@@ -69,7 +69,11 @@ def search_similar_documents(query, top_k=5):
 
 def generate_prompt(query):
     """Generates a comprehensive prompt including contexts from similar documents."""
-    prompt_start = "Answer the question based on the context below.\n\nContext:\n"
+    prompt_start = (
+        "Answer the question based on the context below. "
+        "Provide detailed and in-depth responses. Explain thoroughly and cover all relevant aspects. "
+        "Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples.\n\nContext:\n"
+    )
     prompt_end = f"\n\nQuestion: {query}\nAnswer:"
     similar_docs = search_similar_documents(query)
     
@@ -89,12 +93,18 @@ def generate_openai_response(prompt, temperature=0.7):
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": "You are an assistant designed to support physical therapists..."},
+                {"role": "system", "content": (
+                        "You are an assistant that is an expert on the Made in Durham organization. "
+                        "Provide in-depth answers to questions about the organization's programs, mission, impact, and other related topics. "
+                        "Offer thorough explanations, detailed insights, and cover all relevant aspects to provide comprehensive responses. "
+                        "Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples."
+                    )},
                 {"role": "user", "content": prompt}
             ] + [
                 {"role": "user" if msg['role'] == 'You' else "assistant", "content": msg['content']}
                 for msg in st.session_state.message_history
-            ]
+            ],
+            temperature=temperature
         )
         return response.choices[0].message.content
     except Exception as e:
