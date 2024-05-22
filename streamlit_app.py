@@ -11,7 +11,7 @@ import os
 # Set Streamlit page configuration
 st.set_page_config(
     page_title="Made In Durham",
-    page_icon=":handshake:",
+    page_icon="🤝",
     layout="wide",
 )
 
