@@ -34,13 +34,6 @@ conn = st.connection('gcs', type=FilesConnection)
 storage_client = storage.Client()
 bucket = storage_client.bucket(bucket_name)
 
-# Set Streamlit page configuration
-st.set_page_config(
-    page_title="Made In Durham",
-    page_icon=":rocket:",
-    layout="wide",
-)
-
 # Function to generate embeddings
 def generate_embeddings(text):
     response = client.embeddings.create(
