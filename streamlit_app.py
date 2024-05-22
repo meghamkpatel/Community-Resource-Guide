@@ -12,7 +12,7 @@ import os
 load_dotenv()
 
 # Initialize OpenAI services
-client = OpenAI(api_key=st.secrets["openai_api_key"])
+client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
 #os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = st.secrets["google_application_credentials"]
 
 
