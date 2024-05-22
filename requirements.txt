@@ -6,3 +6,5 @@ python-dotenv
 google-cloud-storage
 PyPDF2
 numpy
+gcsfs==2023.1.0
+st-files-connection

@@ -1,4 +1,5 @@
 import streamlit as st
+from st_files_connection import FilesConnection
 from openai import OpenAI
 from dotenv import load_dotenv
 from google.cloud import storage
@@ -17,6 +18,10 @@ os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = st.secrets["google_application_cr
 
 # Google Cloud Storage configuration
 bucket_name = "durham-bot"
+
+# Create connection object for Google Cloud Storage
+conn = st.connection('gcs', type=FilesConnection)
+
 
 # Initialize Google Cloud Storage client
 storage_client = storage.Client()
@@ -41,6 +46,15 @@ st.title("Made in Durham")
 
 if 'user_input' not in st.session_state:
     st.session_state.user_input = ''
+
+# Function to retrieve and parse text files from GCS
+def get_texts_from_gcs():
+    files = conn.list_files("text_files/")
+    texts = []
+    for file in files:
+        text = conn.read(file, input_format="txt")
+        texts.append(text)
+    return texts
 
 # Function to retrieve and parse text files from GCS
 def get_texts_from_gcs():
