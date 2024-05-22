@@ -11,7 +11,7 @@ import os
 # Set Streamlit page configuration
 st.set_page_config(
     page_title="Made In Durham",
-    page_icon=":rocket:",
+    page_icon=":handshake:",
     layout="wide",
 )
 
@@ -20,7 +20,6 @@ load_dotenv()
 
 # Initialize OpenAI services
 client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
-#os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = st.secrets["google_application_credentials"]
 
 
 # Google Cloud Storage configuration
