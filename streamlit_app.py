@@ -41,13 +41,19 @@ st.title("Made in Durham")
 if 'user_input' not in st.session_state:
     st.session_state.user_input = ''
 
-# Function to retrieve and parse text files from GCS
+# Function to retrieve and parse text and JSON files from GCS
 def get_texts_from_gcs():
     blobs = bucket.list_blobs(prefix="text_files/")
     texts = []
     for blob in blobs:
-        text = blob.download_as_text()
-        texts.append(text)
+        if blob.name.endswith(".txt"):
+            text = blob.download_as_text()
+            texts.append(text)
+        elif blob.name.endswith(".json"):
+            content = blob.download_as_text()
+            data = json.loads(content)
+            text = data.get("body_text", "")
+            texts.append(text)
     return texts
 
 def search_similar_documents(query, top_k=5):

@@ -3,11 +3,12 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from google.cloud import storage
 from google.oauth2 import service_account
+from PyPDF2 import PdfReader
+import io
 import json
 import hashlib
 import os
 import time
-
 
 class MadeInDurhamWebScanner:
     def __init__(self, base_url, bucket_name, credentials_path, max_urls_to_visit=300):
@@ -21,12 +22,12 @@ class MadeInDurhamWebScanner:
         self.storage_client = storage.Client(credentials=self.credentials)
         self.bucket = self.storage_client.bucket(bucket_name)
 
-    def fetch_web_page(self, url, retries=5):
+    def fetch_content(self, url, retries=5):
         for attempt in range(retries):
             try:
                 response = requests.get(url, timeout=10)
                 response.raise_for_status()
-                return response.text
+                return response.content
             except requests.RequestException as e:
                 if response.status_code == 429:
                     print(f"Error fetching URL: {e}. Retrying in {2 ** attempt} seconds.")
@@ -35,6 +36,13 @@ class MadeInDurhamWebScanner:
                     print(f"Error fetching URL: {e}")
                     return None
         return None
+
+    def parse_pdf(self, pdf_content):
+        pdf_reader = PdfReader(io.BytesIO(pdf_content))
+        text = ""
+        for page in pdf_reader.pages:
+            text += page.extract_text() + "\n"
+        return text
 
     def parse_web_page(self, html_content, url):
         if html_content and url not in self.visited_urls:
@@ -63,7 +71,7 @@ class MadeInDurhamWebScanner:
         }
         blob_name = self.get_blob_name(url)
         blob = self.bucket.blob(blob_name)
-
+        print(body_text)
         # Check if the blob already exists
         if blob.exists():
             print(f"Blob {blob_name} already exists. Overwriting.")
@@ -80,28 +88,34 @@ class MadeInDurhamWebScanner:
         urls_to_visit = [self.base_url]
         while urls_to_visit and len(self.visited_urls) < self.max_urls_to_visit:
             url = urls_to_visit.pop(0)
-            html_content = self.fetch_web_page(url)
-            if html_content:
-                meta_info, body_text = self.parse_web_page(html_content, url)
+            content = self.fetch_content(url)
+            if content:
+                parsed_url = urlparse(url)
+                if parsed_url.path.endswith(".pdf"):
+                    body_text = self.parse_pdf(content)
+                    meta_info = {'title': os.path.basename(parsed_url.path)}
+                else:
+                    meta_info, body_text = self.parse_web_page(content, url)
                 self.save_text_to_gcs(meta_info, body_text, url)
 
                 # Extract URLs from the current page and add them to the list of URLs to visit
-                soup = BeautifulSoup(html_content, 'html.parser')
-                urls = [urljoin(url, link.get('href')) for link in soup.find_all('a', href=True)]
-                for new_url in urls:
-                    if self.is_valid_url(new_url) and new_url not in self.visited_urls and new_url not in urls_to_visit:
-                        urls_to_visit.append(new_url)
+                if not parsed_url.path.endswith(".pdf"):  # Only process HTML pages for new URLs
+                    soup = BeautifulSoup(content, 'html.parser')
+                    urls = [urljoin(url, link.get('href')) for link in soup.find_all('a', href=True)]
+                    for new_url in urls:
+                        if self.is_valid_url(new_url) and new_url not in self.visited_urls and new_url not in urls_to_visit:
+                            urls_to_visit.append(new_url)
 
 def main():
     bucket_name = 'durham-bot'
     # base_url = 'https://www.madeindurham.org/'
-    # credentials_path = r'C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json'  # Path to your service account JSON file
+    credentials_path = r'C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json'  # Path to your service account JSON file
     # scanner = MadeInDurhamWebScanner(base_url, bucket_name, credentials_path)
     # scanner.start_scanning()
 
-    base_url = 'https://static1.squarespace.com/static/6234e702a606aa02305e7e4c/t/663906c6e6853e33536af6d1/1715013319412/BULLS23-C9-RECRUIT-Info-Flyer-0416.pdf'
-    credentials_path = r'C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json'  # Path to your service account JSON file
-    scanner = MadeInDurhamWebScanner(base_url, bucket_name, credentials_path)
+    # Additional URL to extract text from a PDF
+    pdf_url = 'https://static1.squarespace.com/static/6234e702a606aa02305e7e4c/t/663906c6e6853e33536af6d1/1715013319412/BULLS23-C9-RECRUIT-Info-Flyer-0416.pdf'
+    scanner = MadeInDurhamWebScanner(pdf_url, bucket_name, credentials_path)
     scanner.start_scanning()
 
 if __name__ == "__main__":
