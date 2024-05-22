@@ -8,6 +8,13 @@ import numpy as np
 import json
 import os
 
+# Set Streamlit page configuration
+st.set_page_config(
+    page_title="Made In Durham",
+    page_icon=":rocket:",
+    layout="wide",
+)
+
 # Load environment variables
 load_dotenv()
 
