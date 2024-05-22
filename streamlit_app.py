@@ -21,13 +21,8 @@ load_dotenv()
 # Initialize OpenAI services
 client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
 
-
 # Google Cloud Storage configuration
 bucket_name = "durham-bot"
-
-# Create connection object for Google Cloud Storage
-conn = st.connection('gcs', type=FilesConnection)
-
 
 # Initialize Google Cloud Storage client
 storage_client = storage.Client()
@@ -37,7 +32,7 @@ bucket = storage_client.bucket(bucket_name)
 def generate_embeddings(text):
     response = client.embeddings.create(
         input=text,
-        model="text-embedding-3-small"
+        model="text-embedding-ada-002"
     )
     return response.data[0].embedding
 
@@ -45,15 +40,6 @@ st.title("Made in Durham")
 
 if 'user_input' not in st.session_state:
     st.session_state.user_input = ''
-
-# Function to retrieve and parse text files from GCS
-def get_texts_from_gcs():
-    files = conn.list_files("text_files/")
-    texts = []
-    for file in files:
-        text = conn.read(file, input_format="txt")
-        texts.append(text)
-    return texts
 
 # Function to retrieve and parse text files from GCS
 def get_texts_from_gcs():

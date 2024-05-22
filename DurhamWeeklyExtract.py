@@ -94,10 +94,10 @@ class MadeInDurhamWebScanner:
 
 def main():
     bucket_name = 'durham-bot'
-    base_url = 'https://www.madeindurham.org/'
-    credentials_path = r'C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json'  # Path to your service account JSON file
-    scanner = MadeInDurhamWebScanner(base_url, bucket_name, credentials_path)
-    scanner.start_scanning()
+    # base_url = 'https://www.madeindurham.org/'
+    # credentials_path = r'C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json'  # Path to your service account JSON file
+    # scanner = MadeInDurhamWebScanner(base_url, bucket_name, credentials_path)
+    # scanner.start_scanning()
 
     base_url = 'https://static1.squarespace.com/static/6234e702a606aa02305e7e4c/t/663906c6e6853e33536af6d1/1715013319412/BULLS23-C9-RECRUIT-Info-Flyer-0416.pdf'
     credentials_path = r'C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json'  # Path to your service account JSON file
