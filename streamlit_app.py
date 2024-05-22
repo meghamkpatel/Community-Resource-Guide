@@ -68,6 +68,7 @@ def search_similar_documents(query, top_k=5):
         similarity = np.dot(query_vector, text_vector) / (np.linalg.norm(query_vector) * np.linalg.norm(text_vector))
         similarities.append((text, similarity))
     
+    print(similarities)
     # Sort and return top_k similar documents
     similarities.sort(key=lambda x: x[1], reverse=True)
     return [text for text, _ in similarities[:top_k]]
