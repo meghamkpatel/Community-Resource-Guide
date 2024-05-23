@@ -3,6 +3,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from google.cloud import storage
 import numpy as np
+from st_files_connection import FilesConnection
 import json
 import os
 import time
@@ -27,6 +28,9 @@ bucket_name = "durham-bot"
 # # Ensure GOOGLE_APPLICATION_CREDENTIALS is set
 # if "GOOGLE_APPLICATION_CREDENTIALS" not in os.environ:
 #     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"c:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"
+
+# Create connection object for Google Cloud Storage
+conn = st.connection('gcs', type=FilesConnection)
 
 # Initialize Google Cloud Storage client
 storage_client = storage.Client()
