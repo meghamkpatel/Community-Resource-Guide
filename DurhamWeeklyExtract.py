@@ -7,31 +7,37 @@ from PyPDF2 import PdfReader
 import io
 import json
 import hashlib
-import os
 import time
 import concurrent.futures
 import threading
+import openai
+import os
+import streamlit as st
+
 
 class MadeInDurhamWebScanner:
-    def __init__(self, base_url, bucket_name, credentials_path, max_urls_to_visit=300, chunk_size=2048, rate_limit=10, time_window=60):
+    def __init__(self, base_url, bucket_name, credentials_path, openai_api_key, max_urls_to_visit=300, chunk_size=2048, rate_limit=10, time_window=60):
         self.visited_urls = set()
         self.urls_to_visit = set([base_url])
         self.base_url = base_url
         self.max_urls_to_visit = max_urls_to_visit
         self.bucket_name = bucket_name
         self.chunk_size = chunk_size
-        
+
         # Rate limiting parameters
         self.rate_limit = rate_limit
         self.time_window = time_window
         self.requests_made = 0
         self.start_time = time.time()
         self.lock = threading.Lock()
-        
+
         # Load credentials from the JSON key file
         self.credentials = service_account.Credentials.from_service_account_file(credentials_path)
         self.storage_client = storage.Client(credentials=self.credentials)
         self.bucket = self.storage_client.bucket(bucket_name)
+
+        # Set OpenAI API key
+        openai.api_key = openai_api_key
 
     def fetch_content(self, url):
         with self.lock:
@@ -87,17 +93,21 @@ class MadeInDurhamWebScanner:
         # Generate a hash for the URL to use as a unique identifier
         return f"{hashlib.md5(url.encode()).hexdigest()}_{index}.json"
 
-    def save_text_to_gcs(self, meta_info, body_text, url):
+    def save_text_and_embeddings_to_gcs(self, meta_info, body_text, url):
         chunks = [body_text[i:i + self.chunk_size] for i in range(0, len(body_text), self.chunk_size)]
         for index, chunk in enumerate(chunks):
+            # Generate embeddings using OpenAI API
+            embeddings = self.get_embeddings(chunk)
+
             data = {
                 "url": url,
                 "meta_info": meta_info,
-                "body_text": chunk
+                "body_text": chunk,
+                "embeddings": embeddings
             }
             blob_name = self.get_blob_name(url, index)
             blob = self.bucket.blob(blob_name)
-            
+
             # Check if the blob already exists
             if blob.exists():
                 print(f"Blob {blob_name} already exists. Overwriting.")
@@ -105,6 +115,17 @@ class MadeInDurhamWebScanner:
                 print(f"Saving new blob {blob_name}.")
 
             blob.upload_from_string(data=json.dumps(data), content_type='application/json')
+
+    def get_embeddings(self, text):
+        try:
+            response = openai.embeddings.create(
+                input=text,
+                model="text-embedding-ada-002"
+            )
+            return response.data[0].embedding
+        except Exception as e:
+            print(f"Error generating embeddings: {e}")
+            return []
 
     def is_valid_url(self, url):
         parsed_url = urlparse(url)
@@ -117,11 +138,11 @@ class MadeInDurhamWebScanner:
             if parsed_url.path.endswith(".pdf"):
                 body_text = self.parse_pdf(content)
                 meta_info = [{'name': 'title', 'content': os.path.basename(parsed_url.path)}]
-                self.save_text_to_gcs(meta_info, body_text, url)
+                self.save_text_and_embeddings_to_gcs(meta_info, body_text, url)
             else:
                 meta_info, body_text, soup = self.parse_web_page(content, url)
                 if soup:
-                    self.save_text_to_gcs(meta_info, body_text, url)
+                    self.save_text_and_embeddings_to_gcs(meta_info, body_text, url)
                     # Extract URLs from the current page and add them to the list of URLs to visit
                     urls = [urljoin(url, link.get('href')) for link in soup.find_all('a', href=True)]
                     for new_url in urls:
@@ -140,8 +161,9 @@ class MadeInDurhamWebScanner:
 def main():
     bucket_name = 'durham-bot'
     base_url = 'https://www.madeindurham.org/'  # Example base URL
-    credentials_path = r'C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json'  # Path to your service account JSON file
-    scanner = MadeInDurhamWebScanner(base_url, bucket_name, credentials_path)
+    credentials_path = r"C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"  # Path to your service account JSON file
+    openai_api_key = st.secrets["general"]["openai_api_key"]  # Your OpenAI API key
+    scanner = MadeInDurhamWebScanner(base_url, bucket_name, credentials_path, openai_api_key)
     scanner.start_scanning()
 
 if __name__ == "__main__":

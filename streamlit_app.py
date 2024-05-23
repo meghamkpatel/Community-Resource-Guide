@@ -24,9 +24,9 @@ client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
 # Google Cloud Storage configuration
 bucket_name = "durham-bot"
 
-# Ensure GOOGLE_APPLICATION_CREDENTIALS is set
-if "GOOGLE_APPLICATION_CREDENTIALS" not in os.environ:
-    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"c:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"
+# # Ensure GOOGLE_APPLICATION_CREDENTIALS is set
+# if "GOOGLE_APPLICATION_CREDENTIALS" not in os.environ:
+#     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"c:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"
 
 # Initialize Google Cloud Storage client
 storage_client = storage.Client()
@@ -35,7 +35,6 @@ bucket = storage_client.bucket(bucket_name)
 # Function to generate embeddings
 def generate_embeddings(text):
     try:
-        print(f"Generating embeddings for text with length {len(text)}")
         response = client.embeddings.create(
             input=text,
             model="text-embedding-ada-002"
@@ -62,7 +61,6 @@ def get_blobs_from_gcs():
 
 def search_similar_documents(query, top_k=5):
     """Searches for documents in GCS that are similar to the query."""
-    print(query)
     query_vector = generate_embeddings(query)
     if query_vector is None:
         return []
@@ -75,16 +73,15 @@ def search_similar_documents(query, top_k=5):
         try:
             data = json.loads(content)
             text = data.get("body_text", "")
-            if not text.strip():
+            embeddings = data.get("embeddings", [])
+            if not text.strip() or not embeddings:
                 continue
-            text_vector = generate_embeddings(text)
-            if text_vector is None:
-                continue
-            similarity = np.dot(query_vector, text_vector) / (np.linalg.norm(query_vector) * np.linalg.norm(text_vector))
+            similarity = np.dot(query_vector, embeddings) / (np.linalg.norm(query_vector) * np.linalg.norm(embeddings))
             similarities.append((text, similarity))
         except json.JSONDecodeError:
             print(f"Skipping non-JSON blob: {blob.name}")
-        # Sort and return top_k similar documents
+    
+    # Sort and return top_k similar documents
     similarities.sort(key=lambda x: x[1], reverse=True)
     return [text for text, _ in similarities[:top_k]]
 
@@ -95,8 +92,6 @@ def generate_prompt(query):
     
     similar_docs = search_similar_documents(query)
 
-    print(similar_docs)
-    
     # Compile contexts into a single prompt, respecting character limits
     prompt = prompt_start
     for doc in similar_docs:
