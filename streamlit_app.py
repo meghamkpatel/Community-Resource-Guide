@@ -1,12 +1,12 @@
 import streamlit as st
-from st_files_connection import FilesConnection
 from openai import OpenAI
 from dotenv import load_dotenv
 from google.cloud import storage
-from PyPDF2 import PdfReader
 import numpy as np
 import json
 import os
+import time
+import concurrent.futures
 
 # Set Streamlit page configuration
 st.set_page_config(
@@ -24,64 +24,78 @@ client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
 # Google Cloud Storage configuration
 bucket_name = "durham-bot"
 
+# Ensure GOOGLE_APPLICATION_CREDENTIALS is set
+if "GOOGLE_APPLICATION_CREDENTIALS" not in os.environ:
+    os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"c:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"
+
 # Initialize Google Cloud Storage client
 storage_client = storage.Client()
 bucket = storage_client.bucket(bucket_name)
 
 # Function to generate embeddings
 def generate_embeddings(text):
-    response = client.embeddings.create(
-        input=text,
-        model="text-embedding-ada-002"
-    )
-    return response.data[0].embedding
+    try:
+        print(f"Generating embeddings for text with length {len(text)}")
+        response = client.embeddings.create(
+            input=text,
+            model="text-embedding-ada-002"
+        )
+        return response.data[0].embedding
+    except Exception as e:
+        print(f"Error generating embeddings: {str(e)}")
+        return None
+
+
+# Function to count tokens
+def count_tokens(text):
+    """Counts the tokens in the text."""
+    return len(text.split())
 
 st.title("Made in Durham")
 
 if 'user_input' not in st.session_state:
     st.session_state.user_input = ''
 
-# Function to retrieve and parse text and JSON files from GCS
-def get_texts_from_gcs():
-    blobs = bucket.list_blobs(prefix="text_files/")
-    texts = []
-    for blob in blobs:
-        if blob.name.endswith(".txt"):
-            text = blob.download_as_text()
-            texts.append(text)
-        elif blob.name.endswith(".json"):
-            content = blob.download_as_text()
-            data = json.loads(content)
-            text = data.get("body_text", "")
-            texts.append(text)
-    return texts
+# Function to retrieve blobs from GCS
+def get_blobs_from_gcs():
+    return list(bucket.list_blobs())
 
 def search_similar_documents(query, top_k=5):
     """Searches for documents in GCS that are similar to the query."""
+    print(query)
     query_vector = generate_embeddings(query)
-    texts = get_texts_from_gcs()
+    if query_vector is None:
+        return []
+    blobs = get_blobs_from_gcs()
     
     # Compute similarity scores
     similarities = []
-    for text in texts:
-        text_vector = generate_embeddings(text)
-        similarity = np.dot(query_vector, text_vector) / (np.linalg.norm(query_vector) * np.linalg.norm(text_vector))
-        similarities.append((text, similarity))
-    
-    print(similarities)
-    # Sort and return top_k similar documents
+    for blob in blobs:
+        content = blob.download_as_text()
+        try:
+            data = json.loads(content)
+            text = data.get("body_text", "")
+            if not text.strip():
+                continue
+            text_vector = generate_embeddings(text)
+            if text_vector is None:
+                continue
+            similarity = np.dot(query_vector, text_vector) / (np.linalg.norm(query_vector) * np.linalg.norm(text_vector))
+            similarities.append((text, similarity))
+        except json.JSONDecodeError:
+            print(f"Skipping non-JSON blob: {blob.name}")
+        # Sort and return top_k similar documents
     similarities.sort(key=lambda x: x[1], reverse=True)
     return [text for text, _ in similarities[:top_k]]
 
 def generate_prompt(query):
     """Generates a comprehensive prompt including contexts from similar documents."""
-    prompt_start = (
-        "Answer the question based on the context below. "
-        "Provide detailed and in-depth responses. Explain thoroughly and cover all relevant aspects. "
-        "Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples.\n\nContext:\n"
-    )
+    prompt_start = "Answer the question based on the context below. \n\nContext:\n"
     prompt_end = f"\n\nQuestion: {query}\nAnswer:"
+    
     similar_docs = search_similar_documents(query)
+
+    print(similar_docs)
     
     # Compile contexts into a single prompt, respecting character limits
     prompt = prompt_start
@@ -99,20 +113,12 @@ def generate_openai_response(prompt, temperature=0.7):
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": (
-                        "You are an assistant that is an expert on the Made in Durham organization. "
-                        "Provide in-depth answers to questions about the organization's programs, mission, impact, and other related topics. "
-                        "Offer thorough explanations, detailed insights, and cover all relevant aspects to provide comprehensive responses. "
-                        "Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples."
-                    )},
+                {"role": "system", "content":"You are an assistant that is an expert on the Made in Durham organization. Provide in-depth answers to questions about the organization's programs, mission, impact, and other related topics. Offer thorough explanations, detailed insights, and cover all relevant aspects to provide comprehensive responses. Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples."},
                 {"role": "user", "content": prompt}
-            ] + [
-                {"role": "user" if msg['role'] == 'You' else "assistant", "content": msg['content']}
-                for msg in st.session_state.message_history
             ],
             temperature=temperature
         )
-        return response.choices[0].message.content
+        return response.choices[0].message.content.strip()
     except Exception as e:
         return f"An error occurred: {str(e)}"
 
