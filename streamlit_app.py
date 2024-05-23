@@ -2,8 +2,8 @@ import streamlit as st
 from openai import OpenAI
 from dotenv import load_dotenv
 from google.cloud import storage
+from google.oauth2 import service_account
 import numpy as np
-from st_files_connection import FilesConnection
 import json
 import os
 import time
@@ -22,19 +22,25 @@ load_dotenv()
 # Initialize OpenAI services
 client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
 
-# Google Cloud Storage configuration
+# Extract GCS credentials from Streamlit secrets
+gcs_credentials = {
+    "type": "service_account",
+    "project_id": st.secrets["gcs"]["project_id"],
+    "private_key_id": st.secrets["gcs"]["private_key_id"],
+    "private_key": st.secrets["gcs"]["private_key"].replace('\\n', '\n'),
+    "client_email": st.secrets["gcs"]["client_email"],
+    "client_id": st.secrets["gcs"]["client_id"],
+    "auth_uri": st.secrets["gcs"]["auth_uri"],
+    "token_uri": st.secrets["gcs"]["token_uri"],
+    "auth_provider_x509_cert_url": st.secrets["gcs"]["auth_provider_x509_cert_url"],
+    "client_x509_cert_url": st.secrets["gcs"]["client_x509_cert_url"]
+}
+
+# Initialize Google Cloud Storage client with credentials
+credentials = service_account.Credentials.from_service_account_info(gcs_credentials)
+storage_client = storage.Client(credentials=credentials)
 bucket_name = "durham-bot"
-
-# # Ensure GOOGLE_APPLICATION_CREDENTIALS is set
-# if "GOOGLE_APPLICATION_CREDENTIALS" not in os.environ:
-#     os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"c:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"
-
-# Create connection object for Google Cloud Storage
-conn = st.connection('gcs', type=FilesConnection)
-
-# # Initialize Google Cloud Storage client
-# storage_client = storage.Client()
-# bucket = storage_client.bucket(bucket_name)
+bucket = storage_client.bucket(bucket_name)
 
 # Function to generate embeddings
 def generate_embeddings(text):
@@ -61,7 +67,7 @@ if 'user_input' not in st.session_state:
 
 # Function to retrieve blobs from GCS
 def get_blobs_from_gcs():
-    return list(conn.list_files('durham-bot'))
+    return list(bucket.list_blobs())
 
 def search_similar_documents(query, top_k=5):
     """Searches for documents in GCS that are similar to the query."""
@@ -73,7 +79,7 @@ def search_similar_documents(query, top_k=5):
     # Compute similarity scores
     similarities = []
     for blob in blobs:
-        content = conn.read(blob)
+        content = blob.download_as_text()
         try:
             data = json.loads(content)
             text = data.get("body_text", "")
