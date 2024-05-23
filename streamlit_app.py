@@ -32,9 +32,9 @@ bucket_name = "durham-bot"
 # Create connection object for Google Cloud Storage
 conn = st.connection('gcs', type=FilesConnection)
 
-# Initialize Google Cloud Storage client
-storage_client = storage.Client()
-bucket = storage_client.bucket(bucket_name)
+# # Initialize Google Cloud Storage client
+# storage_client = storage.Client()
+# bucket = storage_client.bucket(bucket_name)
 
 # Function to generate embeddings
 def generate_embeddings(text):
@@ -61,7 +61,7 @@ if 'user_input' not in st.session_state:
 
 # Function to retrieve blobs from GCS
 def get_blobs_from_gcs():
-    return list(bucket.list_blobs())
+    return list(conn.list_files('durham-bot'))
 
 def search_similar_documents(query, top_k=5):
     """Searches for documents in GCS that are similar to the query."""
@@ -73,7 +73,7 @@ def search_similar_documents(query, top_k=5):
     # Compute similarity scores
     similarities = []
     for blob in blobs:
-        content = blob.download_as_text()
+        content = conn.read(blob)
         try:
             data = json.loads(content)
             text = data.get("body_text", "")
