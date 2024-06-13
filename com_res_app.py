@@ -1,5 +1,4 @@
 import streamlit as st
-from openai import OpenAI
 from dotenv import load_dotenv
 from google.cloud import storage
 from google.oauth2 import service_account
@@ -7,12 +6,12 @@ import numpy as np
 import json
 import os
 import time
-import concurrent.futures
 import faiss
+from sentence_transformers import SentenceTransformer
 
 # Set Streamlit page configuration
 st.set_page_config(
-    page_title="Community Resource Guide",
+    page_title="Made In Durham",
     page_icon="🤝",
     layout="wide",
 )
@@ -20,8 +19,8 @@ st.set_page_config(
 # Load environment variables
 load_dotenv()
 
-# Initialize OpenAI services
-client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
+# Initialize the SentenceTransformer model
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Extract GCS credentials from Streamlit secrets
 gcs_credentials = {
@@ -40,19 +39,16 @@ gcs_credentials = {
 # Initialize Google Cloud Storage client with credentials
 credentials = service_account.Credentials.from_service_account_info(gcs_credentials)
 storage_client = storage.Client(credentials=credentials)
-bucket_name = "com_res_webscraped"
+bucket_name = "durham-bot"
 bucket = storage_client.bucket(bucket_name)
 
 # Function to generate embeddings
 def generate_embeddings(text):
     try:
-        response = client.embeddings.create(
-            input=text,
-            model="text-embedding-ada-002"
-        )
-        return response.data[0].embedding
+        embedding = model.encode(text)
+        return embedding
     except Exception as e:
-        print(f"Error generating embeddings: {str(e)}")
+        st.error(f"Error generating embeddings: {str(e)}")
         return None
 
 # Function to count tokens
@@ -60,15 +56,13 @@ def count_tokens(text):
     """Counts the tokens in the text."""
     return len(text.split())
 
-st.title("Community Resource Guide")
+st.title("Made in Durham")
 
 if 'user_input' not in st.session_state:
     st.session_state.user_input = ''
 
 def get_suggested_questions(query, top_k=5):
     """Fetches suggested questions based on the user's query."""
-    # Here you can use your own logic or model to generate suggested questions
-    # For demonstration purposes, I'm returning some hardcoded suggested questions
     return [
         "What is the organization about?",
         "What is the start date of the next cohort?",
@@ -96,7 +90,7 @@ def build_faiss_index(blobs):
             embeddings.append(embedding)
             texts.append(text)
         except json.JSONDecodeError:
-            print(f"Skipping non-JSON blob: {blob.name}")
+            st.warning(f"Skipping non-JSON blob: {blob.name}")
     
     # Convert to numpy array
     embeddings = np.array(embeddings).astype('float32')
@@ -142,7 +136,7 @@ def generate_openai_response_typing(prompt, temperature=0.7):
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
-                {"role": "system", "content": "You are an assistant that is an expert on resource organizations. Provide in-depth answers to questions about the organization's programs, mission, impact, and other related topics. Offer thorough explanations, detailed insights, and cover all relevant aspects to provide comprehensive responses. Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples."},
+                {"role": "system", "content": "You are an assistant that is an expert on the Made in Durham organization. Provide in-depth answers to questions about the organization's programs, mission, impact, and other related topics. Offer thorough explanations, detailed insights, and cover all relevant aspects to provide comprehensive responses. Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples."},
                 {"role": "user", "content": prompt}
             ],
             temperature=temperature
@@ -162,13 +156,16 @@ def display_typing_effect(text, container):
 # User input for chat
 user_input = st.chat_input("Ask me a question")
 
-# # Display suggested questions
-# suggested_questions = get_suggested_questions(user_input)
-# if suggested_questions:
-#     st.write("Suggested Questions:")
-#     for question in suggested_questions:
-#         if st.button(question):
-#             user_input = question
+def handle_suggested_question(question):
+    st.session_state.user_input = question
+
+# Display suggested questions
+suggested_questions = get_suggested_questions(user_input)
+if suggested_questions:
+    st.write("Suggested Questions:")
+    for question in suggested_questions:
+        if st.button(question, key=question):
+            handle_suggested_question(question)
 
 # Initialize or load message history
 if 'message_history' not in st.session_state:
