@@ -1,5 +1,0 @@
-Meta Information:
-{'http-equiv': 'refresh', 'content': '0;/.well-known/sgcaptcha/?r=%2Fdeeds-for-deeds%2F&y=ipc:75.68.93.148:1715903999.317'}
-
-Body Text:
-

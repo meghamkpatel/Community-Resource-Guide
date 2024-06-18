@@ -234,7 +234,7 @@ class ComResGuideWebScanner:
                     future.result()
 
 def main():
-    bucket_name = 'com_res_webscraped'
+    bucket_name = 'community_resource_nc'
     folder_path = r"C:\Users\Megha Patel\Documents\com docs"  # Path to the folder containing JSON files with websites
     credentials_path = r"C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"  # Path to your service account JSON file
 

@@ -8,6 +8,7 @@ import os
 import time
 import faiss
 from sentence_transformers import SentenceTransformer
+from openai import OpenAI
 
 # Set Streamlit page configuration
 st.set_page_config(
@@ -19,8 +20,11 @@ st.set_page_config(
 # Load environment variables
 load_dotenv()
 
-# Initialize the SentenceTransformer model
-model = SentenceTransformer('all-MiniLM-L6-v2')
+# Initialize the SentenceTransformer model for documents
+doc_model = SentenceTransformer('all-MiniLM-L6-v2')
+
+# Initialize OpenAI services for queries
+openai_client = OpenAI(api_key=st.secrets["general"]["openai_api_key"])
 
 # Extract GCS credentials from Streamlit secrets
 gcs_credentials = {
@@ -42,13 +46,25 @@ storage_client = storage.Client(credentials=credentials)
 bucket_name = "durham-bot"
 bucket = storage_client.bucket(bucket_name)
 
-# Function to generate embeddings
-def generate_embeddings(text):
+# Function to generate document embeddings
+def generate_doc_embeddings(text):
     try:
-        embedding = model.encode(text)
+        embedding = doc_model.encode(text)
         return embedding
     except Exception as e:
-        st.error(f"Error generating embeddings: {str(e)}")
+        st.error(f"Error generating document embeddings: {str(e)}")
+        return None
+
+# Function to generate query embeddings
+def generate_query_embeddings(text):
+    try:
+        response = openai_client.embeddings.create(
+            input=text,
+            model="text-embedding-ada-002"
+        )
+        return response.data[0].embedding
+    except Exception as e:
+        st.error(f"Error generating query embeddings: {str(e)}")
         return None
 
 # Function to count tokens
@@ -84,8 +100,8 @@ def build_faiss_index(blobs):
         try:
             data = json.loads(content)
             text = data.get("body_text", "")
-            embedding = data.get("embeddings", [])
-            if not text.strip() or not embedding:
+            embedding = generate_doc_embeddings(text)
+            if not text.strip() or embedding is None:
                 continue
             embeddings.append(embedding)
             texts.append(text)
@@ -103,7 +119,7 @@ def build_faiss_index(blobs):
 
 def search_similar_documents(query, index, texts, top_k=5):
     """Searches for documents in GCS that are similar to the query."""
-    query_vector = generate_embeddings(query)
+    query_vector = generate_query_embeddings(query)
     if query_vector is None:
         return []
     
@@ -133,7 +149,7 @@ def generate_prompt(query, index, texts):
 def generate_openai_response_typing(prompt, temperature=0.7):
     """Generates a response from OpenAI based on a structured prompt with typing effect."""
     try:
-        response = client.chat.completions.create(
+        response = openai_client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": "You are an assistant that is an expert on the Made in Durham organization. Provide in-depth answers to questions about the organization's programs, mission, impact, and other related topics. Offer thorough explanations, detailed insights, and cover all relevant aspects to provide comprehensive responses. Include links to relevant resources if available. Ask follow-up questions to engage the user and provide specific examples."},

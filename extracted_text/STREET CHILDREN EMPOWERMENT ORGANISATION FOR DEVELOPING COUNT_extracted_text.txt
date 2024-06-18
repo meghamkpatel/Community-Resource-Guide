@@ -1,7 +1,0 @@
-Meta Information:
-
-Body Text:
-Request Blocked
-The Web Application Firewall has blocked this request!
-If you believe legitimate traffic is being blocked, please provide the following information to the site administrator:
-Please contact the site administrator if you believe legitimate traffic is being blocked.

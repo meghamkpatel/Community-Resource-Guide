@@ -1,5 +1,0 @@
-Meta Information:
-{'http-equiv': 'refresh', 'content': '0;/.well-known/sgcaptcha/?r=%2F&y=ipr:75.68.93.148:1715908596.322'}
-
-Body Text:
-

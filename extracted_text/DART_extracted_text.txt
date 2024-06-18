@@ -1,8 +1,0 @@
-Meta Information:
-
-Body Text:
-403 Error
-403
-OOPS!
-Forbidden Gateway
-The resource you have attempted to reach has blocked your access
