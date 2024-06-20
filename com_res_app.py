@@ -8,6 +8,9 @@ import json
 import os
 from openai import OpenAI
 import concurrent.futures
+import csv
+from datetime import datetime
+from io import StringIO
 
 # Set Streamlit page configuration
 st.set_page_config(
@@ -40,6 +43,23 @@ credentials = service_account.Credentials.from_service_account_info(gcs_credenti
 storage_client = storage.Client(credentials=credentials)
 bucket_name = "community_resource_nc"
 bucket = storage_client.bucket(bucket_name)
+
+# Initialize feedback bucket
+feedback_bucket_name = "feedback_crg"
+feedback_bucket = storage_client.bucket(feedback_bucket_name)
+
+# Function to upload feedback to GCS
+def upload_feedback_to_gcs(feedback_data):
+    # Convert feedback data to CSV format
+    output = StringIO()
+    writer = csv.writer(output)
+    writer.writerow(["timestamp", "response_id", "feedback_type", "user_input", "bot_response", "issue", "additional_feedback"])
+    writer.writerows(feedback_data)
+    output.seek(0)
+
+    # Create a blob and upload the feedback CSV
+    blob = feedback_bucket.blob(f"feedback_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv")
+    blob.upload_from_string(output.getvalue(), content_type='text/csv')
 
 # Function to generate embeddings using SentenceTransformer
 def generate_embeddings(text):
@@ -155,6 +175,12 @@ user_input = st.chat_input("Ask me a question")
 # Initialize or load message history
 if 'message_history' not in st.session_state:
     st.session_state.message_history = []
+if 'response_ids' not in st.session_state:
+    st.session_state.response_ids = []
+if 'feedback' not in st.session_state:
+    st.session_state.feedback = {}
+if 'feedback_data' not in st.session_state:
+    st.session_state.feedback_data = []
 
 # Add an introduction message from the bot
 if 'bot_intro' not in st.session_state:
@@ -177,7 +203,9 @@ if st.session_state.user_input or user_input:
     bot_response = generate_openai_response(final_prompt)
     
     # Add assistant's response to history
-    st.session_state.message_history.append({"role": "assistant", "content": bot_response})
+    response_id = len(st.session_state.message_history)  # Unique ID for each response
+    st.session_state.message_history.append({"role": "assistant", "content": bot_response, "id": response_id, "user_input": st.session_state.user_input})
+    st.session_state.response_ids.append(response_id)
 
     # Clear text input
     clear_text_input()
@@ -190,3 +218,56 @@ for message in st.session_state.message_history:
     role = "user" if message["role"] == "user" else "assistant"
     with st.chat_message(role):
         st.markdown(message["content"])
+        if role == "assistant":
+            response_id = message.get("id")
+            user_input = message.get("user_input")
+            bot_response = message.get("content")
+            col1, col2, col3 = st.columns([10, 1, 1])
+            with col2:
+                if st.button("👍", key=f"thumbs_up_{response_id}"):
+                    st.session_state.feedback_data.append([
+                        datetime.now().strftime("%Y-%m-%d %H:%M:%S"), 
+                        response_id, 
+                        "up", 
+                        user_input, 
+                        bot_response, 
+                        "", 
+                        ""
+                    ])
+                    st.success("Thank you for your feedback!")
+            with col3:
+                if st.button("👎", key=f"thumbs_down_{response_id}"):
+                    st.session_state.feedback[response_id] = {
+                        "user_input": user_input, 
+                        "bot_response": bot_response, 
+                        "feedback": "",
+                        "additional_feedback": ""
+                    }
+                    st.session_state.show_feedback_form = response_id
+
+if 'show_feedback_form' in st.session_state:
+    response_id = st.session_state.show_feedback_form
+    feedback_entry = st.session_state.feedback.get(response_id, {})
+    if feedback_entry:
+        st.markdown(f"**Feedback for response to your question:** {feedback_entry['user_input']}")
+        issue = st.selectbox("What was the issue?", ["Select an issue", "Hallucinating", "Not complete answer", "Very wrong answer"], key=f"issue_{response_id}")
+        additional_feedback = st.text_area("Additional feedback (optional):", key=f"additional_feedback_{response_id}")
+
+        if st.button("Submit Feedback", key=f"submit_feedback_{response_id}"):
+            feedback_entry["feedback"] = issue
+            feedback_entry["additional_feedback"] = additional_feedback
+
+            st.session_state.feedback_data.append([
+                datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                response_id,
+                "down",
+                feedback_entry["user_input"],
+                feedback_entry["bot_response"],
+                feedback_entry["feedback"],
+                feedback_entry["additional_feedback"]
+            ])
+
+            upload_feedback_to_gcs(st.session_state.feedback_data)
+            st.session_state.feedback_data = []  # Clear the feedback data after upload
+            st.success("Thank you for your feedback!")
+            del st.session_state.show_feedback_form
