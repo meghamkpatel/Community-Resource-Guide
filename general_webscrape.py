@@ -181,8 +181,8 @@ class WebScanner:
                     future.result()
 
 def main():
-    bucket_name = 'bear_brown_co'
-    base_url = 'https://bearbrown.co/'  # Example base URL
+    bucket_name = 'community_resource_nc'
+    base_url = 'https://www.durhamhousingauthority.org/scholarships'  # Example base URL
     credentials_path = r"C:\Users\Megha Patel\Downloads\community-resource-guide-3002b8ea07bb.json"  # Path to your service account JSON file
     scanner = WebScanner(base_url, bucket_name, credentials_path)
     scanner.start_scanning()
