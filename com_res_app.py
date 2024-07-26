@@ -95,7 +95,7 @@ for question in suggested_questions:
         st.session_state.user_input = question
 
 # Function to retrieve blobs from GCS with manual pagination
-def get_blobs_from_gcs_paginated(max_blobs=100):
+def get_blobs_from_gcs_paginated(max_blobs=500):
     blobs = []
     blob_iterator = bucket.list_blobs()
     for blob in blob_iterator:
@@ -104,7 +104,7 @@ def get_blobs_from_gcs_paginated(max_blobs=100):
             break
     return blobs
 
-def search_similar_documents(query, top_k=5):
+def search_similar_documents(query, top_k=100):
     """Searches for documents in GCS that are similar to the query."""
     query_vector = generate_embeddings(query)
     if query_vector is None:
@@ -137,9 +137,9 @@ def search_similar_documents(query, top_k=5):
     similarities.sort(key=lambda x: x[1], reverse=True)
     return [text for text, _ in similarities[:top_k]]
 
-def generate_prompt(query):
-    """Generates a comprehensive prompt including contexts from similar documents."""
-    prompt_start = "Answer the question based on the context below. \n\nContext:\n"
+def generate_prompt(query, history):
+    """Generates a comprehensive prompt including contexts from similar documents and conversation history."""
+    prompt_start = "Answer the question based on the context below. Provide a comprehensive and exhaustive list of all potential organizations that can help. \n\nContext:\n"
     prompt_end = f"\n\nQuestion: {query}\nAnswer:"
     
     similar_docs = search_similar_documents(query)
@@ -151,18 +151,22 @@ def generate_prompt(query):
             prompt += "\n\n---\n\n" + doc
         else:
             break
+
+    # Include conversation history in the prompt
+    for message in history:
+        role = message["role"]
+        content = message["content"]
+        prompt += f"\n\n{role.capitalize()}: {content}"
+
     prompt += prompt_end
     return prompt
 
-def generate_openai_response(prompt, temperature=0.7):
+def generate_openai_response(messages, temperature=0.7):
     """Generates a response from OpenAI based on a structured prompt."""
     try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
-            messages=[
-                {"role": "system", "content":"You are an assistant that is an expert on community organizations in Durham, NC. Use only verified information from your database to provide answers that include the organization's contact information and a brief overview of what the organization does. Include links to relevant resources if available. Do not provide information unless it is verified and clearly stated in your sources. If you do not have specific information, indicate that and suggest checking with the organization directly for more details. Provide more detailed information about the organization's programs, mission, and impact only if specifically asked."},
-                {"role": "user", "content": prompt}
-            ],
+            messages=messages,
             temperature=temperature
         )
         return response.choices[0].message.content.strip()
@@ -199,8 +203,12 @@ if st.session_state.user_input or user_input:
     # Add user's message to history
     st.session_state.message_history.append({"role": "user", "content": st.session_state.user_input})
 
-    final_prompt = generate_prompt(st.session_state.user_input)
-    bot_response = generate_openai_response(final_prompt)
+    # Create the messages payload for OpenAI API
+    messages = [{"role": "system", "content": "You are an assistant that is an expert on community organizations in Durham, NC. For main queries related to specific needs such as homelessness, food shelters, education, and similar, provide a comprehensive and exhaustive list of all potential organizations that can help. Include each organization's verified contact information and a brief overview of what the organization does. Where available, include links to relevant resources. For other queries, provide information on the most relevant organization or organizations based on the user's needs. If specific information is not available, clearly indicate that and suggest checking with the organization directly for more details. Provide more detailed information about the organization's programs, mission, and impact only if specifically asked. Ensure your responses are thorough, clear, and concise, tailored to the user's query, and prioritize user safety and privacy. Aim to offer the most relevant and useful information to fully address the user's needs."}]
+    for message in st.session_state.message_history:
+        messages.append({"role": message["role"], "content": message["content"]})
+
+    bot_response = generate_openai_response(messages)
     
     # Add assistant's response to history
     response_id = len(st.session_state.message_history)  # Unique ID for each response
