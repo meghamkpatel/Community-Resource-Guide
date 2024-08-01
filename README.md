@@ -119,6 +119,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or inquiries, please contact us at:
-- Email: support@communityresource.com
 - Website: [Community Resource](https://community-resource-guide-wvjkyatv3qce7ebgtvm2rf.streamlit.app/)
 - Website: [BearBrown](https://bearbrown.co)
