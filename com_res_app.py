@@ -165,7 +165,7 @@ def generate_openai_response(messages, temperature=0.7):
     """Generates a response from OpenAI based on a structured prompt."""
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="ft:gpt-4o-mini-2024-07-18:skunks-ai::9un3mrZs",
             messages=messages,
             temperature=temperature
         )
