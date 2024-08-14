@@ -41,7 +41,7 @@ gcs_credentials = {
 # Initialize Google Cloud Storage client with credentials
 credentials = service_account.Credentials.from_service_account_info(gcs_credentials)
 storage_client = storage.Client(credentials=credentials)
-bucket_name = "community_resource_nc"
+bucket_name = "community_resource_db"
 bucket = storage_client.bucket(bucket_name)
 
 # Initialize feedback bucket
