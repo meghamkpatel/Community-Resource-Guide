@@ -45,7 +45,7 @@ bucket_name = "community_resource_db"
 bucket = storage_client.bucket(bucket_name)
 
 # Initialize feedback bucket
-feedback_bucket_name = "feedback_crg"
+feedback_bucket_name = "feedbackcrg"
 feedback_bucket = storage_client.bucket(feedback_bucket_name)
 
 # Function to upload feedback to GCS
@@ -242,6 +242,8 @@ for message in st.session_state.message_history:
                         "", 
                         ""
                     ])
+                    upload_feedback_to_gcs(st.session_state.feedback_data)  # Upload the positive feedback immediately
+                    st.session_state.feedback_data = []  # Clear the feedback data after upload
                     st.success("Thank you for your feedback!")
             with col3:
                 if st.button("👎", key=f"thumbs_down_{response_id}"):
