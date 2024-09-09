@@ -189,7 +189,7 @@ if 'feedback_data' not in st.session_state:
 # Add an introduction message from the bot
 if 'bot_intro' not in st.session_state:
     st.session_state.bot_intro = True
-    st.session_state.message_history.append({"role": "assistant", "content": "Hello! I'm your Community Resources Guide bot. I can help you find information about community organizations, volunteer opportunities, fundraisers, and more in Durham, NC. How can I assist you today?"})
+    st.session_state.message_history.append({"role": "assistant", "content": "Welcome to the Community Resource Guide! I'm here to help you navigate and connect with essential services in your community. Whether you're in need of housing support, food assistance, healthcare, job opportunities, legal aid, or more, My goal is to make it easy for you to find the help you need, when you need it. Simply tell me what you're looking for, and I'll assist you every step of the way!"})
 
 def clear_text_input():
     """Function to clear text input."""
