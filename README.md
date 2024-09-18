@@ -1,70 +1,106 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Community Resource Guide - Web App
 
-## Available Scripts
+This project is a dual-purpose web application that includes a React frontend and a Flask backend. It serves as a Community Resource Guide and chatbot interface to help users find local resources and information.
 
-In the project directory, you can run:
+## Project Structure
 
-### `npm start`
+- **Frontend (React)**: Located in the `/src` folder.
+- **Backend (Flask)**: Located in the `/server` folder.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Prerequisites
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Before running the app, make sure you have the following installed:
 
-### `npm test`
+- **Node.js** (v14 or higher)
+- **Python** (v3.8 or higher)
+- **Docker** (if you prefer to use Docker)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+### Clone the Repository
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/meghamkpatel/Community-Resource-Guide.git
+cd Community-Resource-Guide
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Switch to the Correct Branch
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git checkout comm-res-app-web
+```
 
-### `npm run eject`
+### Environment Variables
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+You need to have the following API keys and service account credentials set up for the backend to run properly:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- OpenAI API Key
+- Google Cloud Storage Credentials
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+These credentials should be stored in the `config.json` file inside the `server` folder.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Running the App
 
-## Learn More
+### 1. Running the React Frontend
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Navigate to the root of the project, and install the dependencies for the frontend:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+cd chat-bot-app
+npm install
+```
 
-### Code Splitting
+Start the React development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm start
+```
 
-### Analyzing the Bundle Size
+The React server will start at `http://localhost:3000`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 2. Running the Flask Backend
 
-### Making a Progressive Web App
+Open a new terminal window and navigate to the `server` directory:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+cd server
+```
 
-### Advanced Configuration
+Create a virtual environment and activate it (optional but recommended):
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
 
-### Deployment
+Install the backend dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+pip install -r requirements.txt
+```
 
-### `npm run build` fails to minify
+Run the Flask server using Gunicorn:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+gunicorn --config gunicorn_config.py app:app
+```
+
+The Flask server will start at `http://localhost:5000`.
+
+## Running with Docker
+
+If you prefer to run the entire application with Docker, you can use the `docker-compose.yml` file provided in the root of the project.
+
+1. Make sure Docker is running.
+2. Run the following command to build and start the services:
+
+```bash
+docker-compose up --build
+```
+
+The React frontend will be accessible at `http://localhost:3000`, and the Flask backend will run at `http://localhost:5000`.
+
+## Contributing
+
+If you'd like to contribute to this project, please fork the repository and submit a pull request with a clear description of your changes.
