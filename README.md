@@ -80,17 +80,5 @@ gunicorn --config gunicorn_config.py app:app
 
 The Flask server will start at `http://localhost:5000`.
 
-## Running with Docker
-
-If you prefer to run the entire application with Docker, you can use the `docker-compose.yml` file provided in the root of the project.
-
-1. Make sure Docker is running.
-2. Run the following command to build and start the services:
-
-```bash
-docker-compose up --build
-```
-
-The React frontend will be accessible at `http://localhost:3000`, and the Flask backend will run at `http://localhost:5000`.
 
 
