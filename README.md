@@ -31,14 +31,6 @@ cd Community-Resource-Guide
 git checkout comm-res-app-web
 ```
 
-### Environment Variables
-
-You need to have the following API keys and service account credentials set up for the backend to run properly:
-
-- OpenAI API Key
-- Google Cloud Storage Credentials
-
-These credentials should be stored in the `config.json` file inside the `server` folder.
 
 ## Running the App
 
@@ -71,7 +63,7 @@ Create a virtual environment and activate it (optional but recommended):
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate 
 ```
 
 Install the backend dependencies:
@@ -101,6 +93,4 @@ docker-compose up --build
 
 The React frontend will be accessible at `http://localhost:3000`, and the Flask backend will run at `http://localhost:5000`.
 
-## Contributing
 
-If you'd like to contribute to this project, please fork the repository and submit a pull request with a clear description of your changes.
