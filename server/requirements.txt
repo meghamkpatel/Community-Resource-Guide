@@ -1,0 +1,6 @@
+Flask
+sentence-transformers
+google-cloud-storage
+google-auth
+openai
+

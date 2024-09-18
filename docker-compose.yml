@@ -1,0 +1,7 @@
+version: '3'
+services:
+  react-app:
+    build:
+      context: .     # Use the current directory where the Dockerfile is located
+    ports:
+      - "80:80"      # Map port 80 of the container to port 80 on the host
