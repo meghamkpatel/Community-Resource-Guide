@@ -80,5 +80,11 @@ gunicorn --config gunicorn_config.py app:app
 
 The Flask server will start at `http://localhost:5000`.
 
+## Updating changes on resourceguide.io
+
+Once you make changes to a component, the container that has these changes and the frontend as a whole, has to be moved to the ec2 instance that hosts the container.
+1. Find the name of the container that runs on the ec2 instance. This can be done through sudo docker ps -a
+2. Stop that container. Go back to your local system, push your container to Dockerhub (an org account will be created shortly), with the name being "{container-name-from-previous-step:DDMMYY}"
+3. Pull the container from docker hub on the ec2 instance, and then deploy ON THE SAME PORT as before. These specific details will be updated very shortly.
 
 
