@@ -80,6 +80,8 @@ gunicorn --config gunicorn_config.py app:app
 The Flask server will start at \`http://localhost:5000\`.
 
 ## Updating Changes on \`resourceguide.io\`
+Docker Account Details: https://hub.docker.com/repositories/humanaidockerhub
+Ask for the credentials from the project manager!
 
 ### 1. Log in to the AWS Instance
 
