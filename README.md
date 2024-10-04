@@ -85,7 +85,7 @@ Ask for the credentials from the project manager!
 
 ### 1. Log in to the AWS Instance
 
-Use the credentials shared with you (usually the \`humanitarians.ai\` Gmail account) to log in to the AWS instance. This instance can be located using the public IP displayed on the AWS EC2 Dashboard. **Note:** When the instance is shut down, its IP changes. You need to rebuild the React image to point to the new IP.
+Use the credentials shared with you to log in to the AWS instance. This instance can be located using the public IP displayed on the AWS EC2 Dashboard. **Note:** When the instance is shut down, its IP changes. You need to rebuild the React image to point to the new IP.
 
 ### 2. Update the IP in the Local React App
 
