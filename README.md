@@ -97,7 +97,7 @@ nano app.js
 Change the IP to the current public IP of the instance.
 
 ### 3. Build the Docker Image
-Note: Follow this command instead: sudo docker build -t humanaidockerhubdockerhub/comm-res-frontend-oct3-ipchange .
+Note: Follow this command instead: sudo docker build -t humanaidockerhub/comm-res-frontend-oct3-ipchange .
 
 \`\`\`bash
 docker build -t humanaidockerhub/comm-res-frontend-DATE-IPCHANGE .
