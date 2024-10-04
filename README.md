@@ -97,9 +97,10 @@ nano app.js
 Change the IP to the current public IP of the instance.
 
 ### 3. Build the Docker Image
+Note: Follow this command instead: sudo docker build -t humanaidockerhubdockerhub/comm-res-frontend-oct3-ipchange .
 
 \`\`\`bash
-docker build -t humanai/comm-res-frontend-DATE-IPCHANGE .
+docker build -t humanaidockerhub/comm-res-frontend-DATE-IPCHANGE .
 \`\`\`
 
 Replace \`DATE\` with the date of the change and \`IPCHANGE\` with a brief reason for rebuilding the container.
@@ -107,13 +108,13 @@ Replace \`DATE\` with the date of the change and \`IPCHANGE\` with a brief reaso
 **Example:**
 
 \`\`\`bash
-docker build -t humanai/comm-res-frontend-122724-IPCHANGE .
+docker build -t humanaidockerhub/comm-res-frontend-122724-IPCHANGE .
 \`\`\`
 
 ### 4. Push the Updated Docker Image
 
 \`\`\`bash
-docker push humanai/comm-res-frontend-122724-IPCHANGE
+docker push humanaidockerhub/comm-res-frontend-122724-IPCHANGE
 \`\`\`
 
 ### 5. SSH into the AWS Instance and Pull the Updated Docker Image
@@ -132,13 +133,13 @@ Navigate to the AWS Console, click the "Connect" button, and copy the SSH comman
 2. **Pull the Docker Image:**
 
    \`\`\`bash
-   sudo docker pull humanai/comm-res-frontend-DATE-IPCHANGE
+   sudo docker pull humanaidockerhub/comm-res-frontend-DATE-IPCHANGE
    \`\`\`
 
 3. **Run the Docker Container:**
 
    \`\`\`bash
-   sudo docker run -d -p 80:80 --name frontend humanai/comm-res-frontend-DATE-IPCHANGE
+   sudo docker run -d -p 80:80 --name frontend humanaidockerhub/comm-res-frontend-DATE-IPCHANGE
    \`\`\`
 
 4. **Access the React App:** Visit \`http://<public_ip>\` to access the running React app.
