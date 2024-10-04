@@ -1,4 +1,3 @@
-# Creating a markdown file with the revised content
 
 # Community Resource Guide - Web App
 
