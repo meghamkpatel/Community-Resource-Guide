@@ -1,29 +1,21 @@
-# Community Resource and BearBrown Bot
+# Community Resource Guide
 
-This repository contains two main applications: the **Community Resource Guide** and the **BearBrown Bot**. Both applications share similar elements but are designed for different purposes.
+This repository contains the Community Resource Guide, a comprehensive tool to help users find community resources, volunteer opportunities, fundraisers, and related information.
 
 ## Overview
 
-### Community Resource Guide
-The **Community Resource Guide** is a comprehensive database of organizations in Durham, NC. It helps users find community resources, volunteer opportunities, fundraisers, and other related information quickly and easily.
-
-### BearBrown Bot
-The **BearBrown Bot** is designed to be embedded on the BearBrown.co website. Its purpose is to assist users in finding resources and information within the BearBrown website, providing an enhanced and interactive user experience.
+The Community Resource Guide is a database of organizations in Durham, NC, allowing users to locate community resources, volunteer opportunities, and more.
 
 ## Features
 
-### Community Resource Guide
 - Comprehensive database of community organizations in Durham, NC.
 - Search functionality to find specific organizations and resources.
-- Detailed information about each organization's programs, mission, impact, and more.
+- Detailed information about each organization's programs, mission, and impact.
 - Suggested questions to guide users in their search for information.
 - Interactive chatbot interface to answer user queries.
 
-### BearBrown Bot
-- Embedded chatbot for the BearBrown.co website.
-- Helps users find resources and information within the website.
-- Provides detailed and interactive responses to user queries.
-- Enhances user experience with guided suggestions and follow-up questions.
+## Video Overview
+[![Community Resource Guide Overview](https://img.youtube.com/vi/znj-yYIB2Gg/0.jpg)](https://youtu.be/znj-yYIB2Gg)
 
 ## Installation
 
@@ -36,88 +28,95 @@ The **BearBrown Bot** is designed to be embedded on the BearBrown.co website. It
 
 ### Setup
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Community-Resource-and-BearBrown-Bot.git
-   cd Community-Resource-and-BearBrown-Bot
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/yourusername/Community-Resource-Guide.git
+   cd Community-Resource-Guide
    ```
 
-2. Create and activate a virtual environment:
-   ```sh
+2. **Create and Activate a Virtual Environment**:
+   ```bash
    python -m venv venv
    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
    ```
 
-3. Install the required packages:
-   ```sh
+3. **Install the Required Packages**:
+   ```bash
    pip install -r requirements.txt
    ```
 
-4. Set up your environment variables:
-   - Create a `.env` file in the root directory.
-   - Add your OpenAI API key and Google Cloud Storage credentials to the `.env` file.
+4. **Configure Secrets**:
+   - Set up a `secrets.toml` file in the Streamlit configuration directory with your OpenAI API key and Google Cloud Storage credentials:
+     ```toml
+     [secrets]
+     OPENAI_API_KEY = "your_openai_api_key"
+     GOOGLE_CLOUD_CREDENTIALS = "path_to_google_cloud_credentials.json"
+     ```
 
-### Running the Applications
+## Running the Application
 
-#### Community Resource Guide
-1. Navigate to the `community_resource` directory:
-   ```sh
-   cd community_resource
-   ```
+Navigate to the `community_resource` directory:
 
-2. Run the Streamlit application:
-   ```sh
-   streamlit run app.py
-   ```
+```bash
+cd community_resource
+```
 
-#### BearBrown Bot
-1. Navigate to the `bearbrown_bot` directory:
-   ```sh
-   cd bearbrown_bot
-   ```
+Run the Streamlit application:
 
-2. Run the Streamlit application:
-   ```sh
-   streamlit run app.py
-   ```
+```bash
+streamlit run app.py
+```
 
 ## Usage
 
-### Community Resource Guide
 1. Open your web browser and navigate to the local address provided by Streamlit (usually `http://localhost:8501`).
 2. Interact with the chatbot to find information about community resources in Durham, NC.
-3. Use the suggested questions to quickly get answers to common queries.
+3. Use the suggested questions for quick access to common queries.
 
-### BearBrown Bot
-1. Embed the BearBrown Bot on the BearBrown.co website.
-2. Users visiting the website can interact with the bot to find resources and information.
-3. The bot will guide users through their queries and provide detailed responses and follow-up questions.
+## Data Structure
 
-## Contributing
+Data is stored in Google Cloud Storage in a JSON format. Each entry contains:
+- **URL**: Link to the organization's webpage or resource.
+- **Meta Info**: Metadata, such as charset, generator type, image properties, and open graph tags.
+- **Body Text**: Main text from the page.
+- **Embeddings**: Numerical embeddings for efficient querying and similarity matching.
+- **Is RFP**: Boolean indicating if the entry relates to an RFP.
 
-We welcome contributions to enhance the features and capabilities of both the Community Resource Guide and BearBrown Bot. Please follow these steps to contribute:
+Example JSON entry:
+```json
+{
+  "url": "https://en.wikipedia.org/wiki/Podyachy",
+  "meta_info": [{ "charset": "UTF-8" }, ...],
+  "body_text": "Text about the resource...",
+  "embeddings": [0.123, -0.456, ...],
+  "is_rfp": false
+}
+```
 
-1. Fork the repository.
-2. Create a new branch:
-   ```sh
-   git checkout -b feature/YourFeatureName
-   ```
-3. Make your changes and commit them:
-   ```sh
-   git commit -m "Add Your Feature"
-   ```
-4. Push to the branch:
-   ```sh
-   git push origin feature/YourFeatureName
-   ```
-5. Open a pull request describing your changes.
+## Future Goals
 
-## License
+- **Error Handling**: Improve error handling to ensure smooth and reliable operation.
+- **User Interface Enhancements**: Upgrade the user interface to be cleaner and more intuitive.
+- **Expansion**: Broaden the scope of organizations to reach a wider audience beyond Durham, NC.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## MIT License
 
-## Contact
+Copyright (c) 2024 meghamkpatel
 
-For any questions or inquiries, please contact us at:
-- Website: [Community Resource](https://community-resource-guide-wvjkyatv3qce7ebgtvm2rf.streamlit.app/)
-- Website: [BearBrown](https://bearbrown.co)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
