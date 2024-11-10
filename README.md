@@ -70,17 +70,22 @@ streamlit run app.py
 ## Usage
 
 1. Open your web browser and navigate to the local address provided by Streamlit (usually `http://localhost:8501`).
-2. Interact with the chatbot to find information about community resources in Durham, NC.
-3. Use the suggested questions for quick access to common queries.
+2. Or, use the hosted version here: [Community Resource Guide](https://community-resource-guide-wvjkyatv3qce7ebgtvm2rf.streamlit.app/)
+3. Interact with the chatbot to find information about community resources in Durham, NC.
+4. Use the suggested questions for quick access to common queries.
 
 ## Data Structure
 
-Data is stored in Google Cloud Storage in a JSON format. Each entry contains:
+Data is stored in Google Cloud Storage in a JSON format, which we use as a vector database. Each entry includes:
 - **URL**: Link to the organization's webpage or resource.
 - **Meta Info**: Metadata, such as charset, generator type, image properties, and open graph tags.
 - **Body Text**: Main text from the page.
 - **Embeddings**: Numerical embeddings for efficient querying and similarity matching.
-- **Is RFP**: Boolean indicating if the entry relates to an RFP.
+- **Is RFP**: Boolean indicating if the entry relates to a Request for Proposal (RFP), which helps categorize resources based on funding or proposal-related opportunities.
+
+### Why Google Cloud Storage
+
+We use Google Cloud Storage as a vector database because Google Cloud offers free storage credits each month, making it a cost-effective solution for our project. The embeddings allow us to perform semantic searches efficiently, enabling users to find relevant resources quickly.
 
 Example JSON entry:
 ```json
